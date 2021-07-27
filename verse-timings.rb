@@ -58,7 +58,6 @@ Kj::Bible.new.books.each do |book|
     # p JSON.parse(word_timings)
     word_timings = JSON.parse(word_timings)["words"]
 
-    p word_timings.map {|w| w["word"]}
     # Convert word timings to verse timings
     first_word_index = 0
     verse_timings = []
@@ -68,21 +67,21 @@ Kj::Bible.new.books.each do |book|
       # p first_word_index, verse.text, words.map {|w| w["word"]}
       
       verse_timing = {
+        "book": book.name,
+        "chapter": chapter.number,
         "verse": verse.number,
         "start": words[0]["start"],
         "startOffset": words[0]["start"], # Not sure what this does, JIC
         "end": words[-1]["end"],
         "endOffset": words[-1]["endOffset"] # Not sure what this does, JIC
       }
-
-      p verse_timing
       verse_timings.append(verse_timing)
       first_word_index += length
     end
 
 
     file = open(verse_timings_filepath, "w") do |f|
-      f.write(verse_timings.to_s)
+      f.write(JSON.pretty_generate(verse_timings))
     end
   end
 end
