@@ -1,0 +1,488 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 1,
+    "start": 2.22,
+    "startOffset": 2.22,
+    "end": 3.94,
+    "endOffset": 39
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 2,
+    "start": 4.4,
+    "startOffset": 4.4,
+    "end": 9.129999999999999,
+    "endOffset": 139
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 3,
+    "start": 10.16,
+    "startOffset": 10.16,
+    "end": 16.919999999999998,
+    "endOffset": 289
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 4,
+    "start": 17.549999,
+    "startOffset": 17.549999,
+    "end": 21.44,
+    "endOffset": 380
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 5,
+    "start": 22.39,
+    "startOffset": 22.39,
+    "end": 27.919999999999998,
+    "endOffset": 495
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 6,
+    "start": 28.57,
+    "startOffset": 28.57,
+    "end": 38.440000000000005,
+    "endOffset": 681
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 7,
+    "start": 39.18,
+    "startOffset": 39.18,
+    "end": 43.68,
+    "endOffset": 780
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 8,
+    "start": 44.269999999999996,
+    "startOffset": 44.269999999999996,
+    "end": 56.31999999999999,
+    "endOffset": 985
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 9,
+    "start": 57.51,
+    "startOffset": 57.51,
+    "end": 65.2,
+    "endOffset": 1158
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 10,
+    "start": 65.78999999999999,
+    "startOffset": 65.78999999999999,
+    "end": 70.069999,
+    "endOffset": 1252
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 11,
+    "start": 70.619999,
+    "startOffset": 70.619999,
+    "end": 73.82000000000001,
+    "endOffset": 1327
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 12,
+    "start": 74.08,
+    "startOffset": 74.08,
+    "end": 85.37,
+    "endOffset": 1548
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 13,
+    "start": 86.32,
+    "startOffset": 86.32,
+    "end": 91.39,
+    "endOffset": 1667
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 14,
+    "start": 92.09,
+    "startOffset": 92.09,
+    "end": 97.96000000000001,
+    "endOffset": 1809
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 15,
+    "start": 98.26,
+    "startOffset": 98.26,
+    "end": 101.41,
+    "endOffset": 1871
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 16,
+    "start": 102.05,
+    "startOffset": 102.05,
+    "end": 110.78999999999999,
+    "endOffset": 2066
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 17,
+    "start": 111.37,
+    "startOffset": 111.37,
+    "end": 117.03,
+    "endOffset": 2180
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 18,
+    "start": 117.78999999999999,
+    "startOffset": 117.78999999999999,
+    "end": 122.3,
+    "endOffset": 2281
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 19,
+    "start": 122.969999,
+    "startOffset": 122.969999,
+    "end": 133.27,
+    "endOffset": 2482
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 20,
+    "start": 133.87,
+    "startOffset": 133.87,
+    "end": 140.28,
+    "endOffset": 2601
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 21,
+    "start": 141.87,
+    "startOffset": 141.87,
+    "end": 147.95999999999998,
+    "endOffset": 2741
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 22,
+    "start": 148.55,
+    "startOffset": 148.55,
+    "end": 152.91,
+    "endOffset": 2817
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 23,
+    "start": 153.4,
+    "startOffset": 153.4,
+    "end": 166.20000000000002,
+    "endOffset": 3050
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 24,
+    "start": 167.17,
+    "startOffset": 167.17,
+    "end": 172.64000000000001,
+    "endOffset": 3168
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 25,
+    "start": 173.98000000000002,
+    "startOffset": 173.98000000000002,
+    "end": 175.559999,
+    "endOffset": 3208
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 26,
+    "start": 175.92,
+    "startOffset": 175.92,
+    "end": 182.45,
+    "endOffset": 3349
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 27,
+    "start": 183.03,
+    "startOffset": 183.03,
+    "end": 189.599999,
+    "endOffset": 3486
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 28,
+    "start": 190.309999,
+    "startOffset": 190.309999,
+    "end": 200.56,
+    "endOffset": 3666
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 29,
+    "start": 201.17,
+    "startOffset": 201.17,
+    "end": 205.84,
+    "endOffset": 3762
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 30,
+    "start": 206.76,
+    "startOffset": 206.76,
+    "end": 218.35000000000002,
+    "endOffset": 4013
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 31,
+    "start": 219.34,
+    "startOffset": 219.34,
+    "end": 222.63,
+    "endOffset": 4080
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 32,
+    "start": 223.69,
+    "startOffset": 223.69,
+    "end": 231.0,
+    "endOffset": 4227
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 33,
+    "start": 231.599999,
+    "startOffset": 231.599999,
+    "end": 233.78,
+    "endOffset": 4271
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 34,
+    "start": 234.049999,
+    "startOffset": 234.049999,
+    "end": 235.94,
+    "endOffset": 4311
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 35,
+    "start": 236.33,
+    "startOffset": 236.33,
+    "end": 240.86,
+    "endOffset": 4407
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 36,
+    "start": 241.72,
+    "startOffset": 241.72,
+    "end": 248.92999999999998,
+    "endOffset": 4565
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 37,
+    "start": 249.46,
+    "startOffset": 249.46,
+    "end": 253.26999999999998,
+    "endOffset": 4646
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 38,
+    "start": 253.28,
+    "startOffset": 253.28,
+    "end": 259.16,
+    "endOffset": 4747
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 39,
+    "start": 259.58,
+    "startOffset": 259.58,
+    "end": 264.82,
+    "endOffset": 4853
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 40,
+    "start": 265.32,
+    "startOffset": 265.32,
+    "end": 270.230001,
+    "endOffset": 4949
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 41,
+    "start": 271.08,
+    "startOffset": 271.08,
+    "end": 276.43,
+    "endOffset": 5069
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 42,
+    "start": 277.77,
+    "startOffset": 277.77,
+    "end": 281.189999,
+    "endOffset": 5154
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 43,
+    "start": 281.74,
+    "startOffset": 281.74,
+    "end": 287.34,
+    "endOffset": 5296
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 44,
+    "start": 287.779999,
+    "startOffset": 287.779999,
+    "end": 290.03,
+    "endOffset": 5333
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 45,
+    "start": 290.22,
+    "startOffset": 290.22,
+    "end": 292.12,
+    "endOffset": 5378
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 46,
+    "start": 292.43,
+    "startOffset": 292.43,
+    "end": 293.83000000000004,
+    "endOffset": 5409
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 47,
+    "start": 294.64,
+    "startOffset": 294.64,
+    "end": 304.789999,
+    "endOffset": 5623
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 48,
+    "start": 305.77,
+    "startOffset": 305.77,
+    "end": 311.16999999999996,
+    "endOffset": 5755
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 49,
+    "start": 311.17,
+    "startOffset": 311.17,
+    "end": 318.06,
+    "endOffset": 5897
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 50,
+    "start": 318.52,
+    "startOffset": 318.52,
+    "end": 329.57,
+    "endOffset": 6102
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 51,
+    "start": 330.4,
+    "startOffset": 330.4,
+    "end": 334.63999900000005,
+    "endOffset": 6184
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 52,
+    "start": 335.28,
+    "startOffset": 335.28,
+    "end": 343.43,
+    "endOffset": 6369
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 53,
+    "start": 344.04,
+    "startOffset": 344.04,
+    "end": 346.68,
+    "endOffset": 6430
+  },
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 54,
+    "start": 347.41,
+    "startOffset": 347.41,
+    "end": 356.97,
+    "endOffset": 6640
+  }
+]
