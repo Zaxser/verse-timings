@@ -1,0 +1,218 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 1,
+    "start": 2.2,
+    "startOffset": 2.2,
+    "end": 6.92,
+    "endOffset": 103
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 2,
+    "start": 7.35,
+    "startOffset": 7.35,
+    "end": 15.350000000000001,
+    "endOffset": 252
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 3,
+    "start": 16.119999,
+    "startOffset": 16.119999,
+    "end": 25.7,
+    "endOffset": 444
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 4,
+    "start": 26.619999999999997,
+    "startOffset": 26.619999999999997,
+    "end": 36.6,
+    "endOffset": 601
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 5,
+    "start": 37.79,
+    "startOffset": 37.79,
+    "end": 44.309999999999995,
+    "endOffset": 751
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 6,
+    "start": 44.74,
+    "startOffset": 44.74,
+    "end": 50.579999,
+    "endOffset": 879
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 7,
+    "start": 51.299999,
+    "startOffset": 51.299999,
+    "end": 63.769999,
+    "endOffset": 1126
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 8,
+    "start": 65.41,
+    "startOffset": 65.41,
+    "end": 69.69,
+    "endOffset": 1226
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 9,
+    "start": 70.25,
+    "startOffset": 70.25,
+    "end": 78.33,
+    "endOffset": 1409
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 10,
+    "start": 78.85,
+    "startOffset": 78.85,
+    "end": 85.58,
+    "endOffset": 1544
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 11,
+    "start": 86.03999999999999,
+    "startOffset": 86.03999999999999,
+    "end": 89.529999,
+    "endOffset": 1609
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 12,
+    "start": 90.309999,
+    "startOffset": 90.309999,
+    "end": 95.55,
+    "endOffset": 1736
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 13,
+    "start": 96.14,
+    "startOffset": 96.14,
+    "end": 101.45,
+    "endOffset": 1858
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 14,
+    "start": 102.03,
+    "startOffset": 102.03,
+    "end": 106.22,
+    "endOffset": 1954
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 15,
+    "start": 107.24,
+    "startOffset": 107.24,
+    "end": 115.2,
+    "endOffset": 2106
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 16,
+    "start": 115.89,
+    "startOffset": 115.89,
+    "end": 118.82000000000001,
+    "endOffset": 2182
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 17,
+    "start": 119.32,
+    "startOffset": 119.32,
+    "end": 125.0,
+    "endOffset": 2318
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 18,
+    "start": 125.92,
+    "startOffset": 125.92,
+    "end": 135.19000000000003,
+    "endOffset": 2512
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 19,
+    "start": 135.76,
+    "startOffset": 135.76,
+    "end": 141.789999,
+    "endOffset": 2650
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 20,
+    "start": 142.24,
+    "startOffset": 142.24,
+    "end": 145.68,
+    "endOffset": 2727
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 21,
+    "start": null,
+    "startOffset": null,
+    "end": 151.94,
+    "endOffset": 2836
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 22,
+    "start": 153.16,
+    "startOffset": 153.16,
+    "end": 160.979999,
+    "endOffset": 2997
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 23,
+    "start": 161.85,
+    "startOffset": 161.85,
+    "end": 170.31,
+    "endOffset": 3158
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 24,
+    "start": 171.04,
+    "startOffset": 171.04,
+    "end": 181.38,
+    "endOffset": 3337
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 1,
+    "start": 1.01,
+    "startOffset": 1.01,
+    "end": 9.31,
+    "endOffset": 114
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 2,
+    "start": 10.17,
+    "startOffset": 10.17,
+    "end": 17.059999,
+    "endOffset": 258
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 3,
+    "start": 17.379999,
+    "startOffset": 17.379999,
+    "end": 23.16,
+    "endOffset": 353
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 4,
+    "start": 23.77,
+    "startOffset": 23.77,
+    "end": 34.17,
+    "endOffset": 541
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 5,
+    "start": 34.739999999999995,
+    "startOffset": 34.739999999999995,
+    "end": 41.98,
+    "endOffset": 688
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 6,
+    "start": 43.04,
+    "startOffset": 43.04,
+    "end": 46.07,
+    "endOffset": 754
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 7,
+    "start": 46.82,
+    "startOffset": 46.82,
+    "end": 52.689999,
+    "endOffset": 861
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 8,
+    "start": 53.909999,
+    "startOffset": 53.909999,
+    "end": 56.43,
+    "endOffset": 916
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 9,
+    "start": 56.91,
+    "startOffset": 56.91,
+    "end": 67.92,
+    "endOffset": 1089
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 10,
+    "start": 69.28999999999999,
+    "startOffset": 69.28999999999999,
+    "end": 77.83,
+    "endOffset": 1269
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 11,
+    "start": 78.85,
+    "startOffset": 78.85,
+    "end": 86.74999899999999,
+    "endOffset": 1409
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 12,
+    "start": 87.0,
+    "startOffset": 87.0,
+    "end": 94.88,
+    "endOffset": 1515
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 13,
+    "start": 96.01,
+    "startOffset": 96.01,
+    "end": null,
+    "endOffset": 1604
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 14,
+    "start": 100.25,
+    "startOffset": 100.25,
+    "end": 106.62,
+    "endOffset": 1698
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 15,
+    "start": 107.49,
+    "startOffset": 107.49,
+    "end": 118.029999,
+    "endOffset": 1902
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 16,
+    "start": 118.53,
+    "startOffset": 118.53,
+    "end": 129.79,
+    "endOffset": 2098
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 17,
+    "start": 130.26,
+    "startOffset": 130.26,
+    "end": 142.969999,
+    "endOffset": 2294
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 18,
+    "start": 143.889999,
+    "startOffset": 143.889999,
+    "end": 152.13,
+    "endOffset": 2434
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 19,
+    "start": 152.64,
+    "startOffset": 152.64,
+    "end": 171.51,
+    "endOffset": 2785
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 20,
+    "start": 172.62,
+    "startOffset": 172.62,
+    "end": 184.06,
+    "endOffset": 3031
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 21,
+    "start": 184.58,
+    "startOffset": 184.58,
+    "end": 193.249999,
+    "endOffset": 3209
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 22,
+    "start": 194.07999900000002,
+    "startOffset": 194.07999900000002,
+    "end": 203.52,
+    "endOffset": 3359
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 23,
+    "start": 204.44,
+    "startOffset": 204.44,
+    "end": 209.39999899999998,
+    "endOffset": 3447
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 24,
+    "start": 209.79,
+    "startOffset": 209.79,
+    "end": 215.189999,
+    "endOffset": 3571
+  },
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 25,
+    "start": 216.379999,
+    "startOffset": 216.379999,
+    "end": 220.10999999999999,
+    "endOffset": 3646
+  }
+]

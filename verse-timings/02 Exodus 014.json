@@ -1,0 +1,281 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 1,
+    "start": 1.17,
+    "startOffset": 1.17,
+    "end": 4.04,
+    "endOffset": 39
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 2,
+    "start": 4.23,
+    "startOffset": 4.23,
+    "end": 15.57,
+    "endOffset": 211
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 3,
+    "start": 16.43,
+    "startOffset": 16.43,
+    "end": 21.87,
+    "endOffset": 326
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 4,
+    "start": 22.71,
+    "startOffset": 22.71,
+    "end": 33.97,
+    "endOffset": 519
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 5,
+    "start": 34.619999,
+    "startOffset": 34.619999,
+    "end": 43.18,
+    "endOffset": 734
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 6,
+    "start": 43.67,
+    "startOffset": 43.67,
+    "end": 45.879999,
+    "endOffset": 796
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 7,
+    "start": 46.11,
+    "startOffset": 46.11,
+    "end": 51.14,
+    "endOffset": 906
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 8,
+    "start": null,
+    "startOffset": null,
+    "end": 58.489999999999995,
+    "endOffset": 1065
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 9,
+    "start": 59.05,
+    "startOffset": 59.05,
+    "end": 69.22999899999999,
+    "endOffset": 1254
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 10,
+    "start": 70.08,
+    "startOffset": 70.08,
+    "end": 78.33,
+    "endOffset": 1454
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 11,
+    "start": 78.54,
+    "startOffset": 78.54,
+    "end": 86.779999,
+    "endOffset": 1642
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 12,
+    "start": 87.19,
+    "startOffset": 87.19,
+    "end": 96.55,
+    "endOffset": 1848
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 13,
+    "start": 97.46,
+    "startOffset": 97.46,
+    "end": 110.07,
+    "endOffset": 2062
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 14,
+    "start": 110.93,
+    "startOffset": 110.93,
+    "end": 114.64999999999999,
+    "endOffset": 2123
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 15,
+    "start": 115.9,
+    "startOffset": 115.9,
+    "end": 122.18,
+    "endOffset": 2242
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 16,
+    "start": 123.28,
+    "startOffset": 123.28,
+    "end": 132.47,
+    "endOffset": 2405
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 17,
+    "start": 133.26,
+    "startOffset": 133.26,
+    "end": 143.189999,
+    "endOffset": 2595
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 18,
+    "start": 143.76,
+    "startOffset": 143.76,
+    "end": 151.27,
+    "endOffset": 2729
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 19,
+    "start": 152.8,
+    "startOffset": 152.8,
+    "end": 160.91,
+    "endOffset": 2900
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 20,
+    "start": 161.09,
+    "startOffset": 161.09,
+    "end": 174.05,
+    "endOffset": 3104
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 21,
+    "start": 175.59,
+    "startOffset": 175.59,
+    "end": 186.44,
+    "endOffset": 3285
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 22,
+    "start": 186.98,
+    "startOffset": 186.98,
+    "end": 197.76999999999998,
+    "endOffset": 3442
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 23,
+    "start": 199.379999,
+    "startOffset": 199.379999,
+    "end": 205.53,
+    "endOffset": 3577
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 24,
+    "start": 206.11,
+    "startOffset": 206.11,
+    "end": 214.11,
+    "endOffset": 3757
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 25,
+    "start": 214.309999,
+    "startOffset": 214.309999,
+    "end": 223.29000000000002,
+    "endOffset": 3942
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 26,
+    "start": 223.83,
+    "startOffset": 223.83,
+    "end": 231.659999,
+    "endOffset": 4107
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 27,
+    "start": 231.9,
+    "startOffset": 231.9,
+    "end": 242.529999,
+    "endOffset": 4318
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 28,
+    "start": 242.53,
+    "startOffset": 242.53,
+    "end": 251.52999899999998,
+    "endOffset": 4494
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 29,
+    "start": 253.189999,
+    "startOffset": 253.189999,
+    "end": 261.45,
+    "endOffset": 4645
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 30,
+    "start": 263.57,
+    "startOffset": 263.57,
+    "end": 273.44,
+    "endOffset": 4770
+  },
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 31,
+    "start": 274.67,
+    "startOffset": 274.67,
+    "end": 284.46,
+    "endOffset": 4919
+  }
+]
