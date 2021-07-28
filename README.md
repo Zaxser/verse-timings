@@ -7,7 +7,10 @@ gently and requires that you have Docker installed.
 docker pull lowerquality/gentle
 docker run -P lowerquality/gentle
 gem install kj
+gem install mp3info
+gem install faraday
 ruby verse-timings.rb
+ruby verse-splitter.rb
 ```
 
 This script will of course take a very long time to run through the entire
