@@ -1,4 +1,3 @@
-# Splits up chapter text in the hopes that it can be digested by docker.
 # Splitting up the text wasn't even necessary. Just putting the text with the
 # sound into Gentle's GUI worked pretty well. Now we need to figure out how to
 # automate the REST calls.
@@ -9,18 +8,11 @@
 # Which works fantastically. All I have to do is adjust it into a faraday
 # request.
 
-# TODO: 
-# Handle nil starts and endings
-# Handle the book order, which is apparently different between these audio files
-# and the Kj library I'm using. If I ever make a database of these, I'll have to
-# standardize these somehow.
-
 require "Kj"
 require "faraday"
 require "json"
 require "fileutils"
 require "mp3info"
-require "./string"
 
 # Gentle's readme says the localhost is on 8765; it lied.
 url = "http://localhost:49154"
@@ -36,20 +28,23 @@ Dir.foreach("audio-chapters").each do |audio_chapter|
   book_name = audio_chapter.split(" ")[1...-1].join(" ")
   chapter = audio_chapter.split(" ")[-1].split(".")[0].to_i
 
-  book = Kj::Book.from_name_or_number(book_name.roman_to_int)
+  book = Kj::Book.from_name_or_number(
+    book_name.gsub("III", "3").gsub("II", "2").gsub("I", "1")
+  )
 
-  FileUtils.mkdir_p "text-chapters/#{book_name}"
-  FileUtils.mkdir_p "verse-timings/#{book_name}"
+  book_id = "#{book.id.to_s.rjust(2, "0")} #{book_name}"
+  FileUtils.mkdir_p "text-chapters/#{book_id}"
+  FileUtils.mkdir_p "verse-timings/#{book_id}"
     
   audio_filepath = "audio-chapters/#{audio_chapter}"
 
-  chapter = book.chapter(chapter)
-  path = "#{book_name}/#{chapter.title}"
+  path = "#{book_id}/#{book_name} #{chapter.to_s.rjust(3, "0")}"
   
   text_filepath = "text-chapters/#{path}.txt"
   verse_timings_filepath = "verse-timings/#{path}.json"
 
-  
+
+   chapter = book.chapter(chapter)
   # Write the chapter to a text file so it can be used by Gentle
   file = open(text_filepath, "w") do |f|
     text = chapter.verses.inject("") {|t, v| t + "\n" + v.text}
@@ -98,8 +93,6 @@ Dir.foreach("audio-chapters").each do |audio_chapter|
         p mp3.length, audio_chapter, verse.number
       end
     end
-
-    words[0]["start"] = 0 unless words[0]["start"] # just get the program working :( 
     
     verse_timing = {
       "book": book.name,

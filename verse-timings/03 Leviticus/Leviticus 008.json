@@ -1,0 +1,326 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 1,
+    "start": 2.65,
+    "startOffset": 2,
+    "end": 4.6,
+    "endOffset": 39
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 2,
+    "start": 5.14,
+    "startOffset": 42,
+    "end": 13.7,
+    "endOffset": 199
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 3,
+    "start": 14.34,
+    "startOffset": 202,
+    "end": 18.38,
+    "endOffset": 299
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 4,
+    "start": 19.2,
+    "startOffset": 302,
+    "end": 24.5,
+    "endOffset": 433
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 5,
+    "start": 25.23,
+    "startOffset": 436,
+    "end": 29.85,
+    "endOffset": 527
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 6,
+    "start": 30.67,
+    "startOffset": 530,
+    "end": 34.37,
+    "endOffset": 594
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 7,
+    "start": 35.059999000000005,
+    "startOffset": 597,
+    "end": 45.89000000000001,
+    "endOffset": 805
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 8,
+    "start": 46.690000000000005,
+    "startOffset": 808,
+    "end": 51.5,
+    "endOffset": 900
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 9,
+    "start": 52.440000000000005,
+    "startOffset": 903,
+    "end": 60.65,
+    "endOffset": 1057
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 10,
+    "start": 61.54,
+    "startOffset": 1060,
+    "end": 67.439999,
+    "endOffset": 1167
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 11,
+    "start": 68.059999,
+    "startOffset": 1170,
+    "end": 75.5,
+    "endOffset": 1312
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 12,
+    "start": 76.15,
+    "startOffset": 1315,
+    "end": 80.46,
+    "endOffset": 1402
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 13,
+    "start": 81.26,
+    "startOffset": 1405,
+    "end": 88.44,
+    "endOffset": 1546
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 14,
+    "start": 89.039999,
+    "startOffset": 1549,
+    "end": 95.28999999999999,
+    "endOffset": 1687
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 15,
+    "start": 96.15,
+    "startOffset": 1690,
+    "end": 108.86999999999999,
+    "endOffset": 1922
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 16,
+    "start": 109.69,
+    "startOffset": 1925,
+    "end": 117.28,
+    "endOffset": 2076
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 17,
+    "start": 118.08,
+    "startOffset": 2079,
+    "end": 124.809999,
+    "endOffset": 2199
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 18,
+    "start": 125.9,
+    "startOffset": 2202,
+    "end": 131.25,
+    "endOffset": 2313
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 19,
+    "start": 131.76,
+    "startOffset": 2316,
+    "end": 135.28,
+    "endOffset": 2390
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 20,
+    "start": 136.809999,
+    "startOffset": 2393,
+    "end": 141.37,
+    "endOffset": 2478
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 21,
+    "start": 141.91,
+    "startOffset": 2481,
+    "end": 153.45000000000002,
+    "endOffset": 2691
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 22,
+    "start": 154.32,
+    "startOffset": 2694,
+    "end": 160.449999,
+    "endOffset": 2813
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 23,
+    "start": 161.209999,
+    "startOffset": 2816,
+    "end": 169.8,
+    "endOffset": 2991
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 24,
+    "start": 170.4,
+    "startOffset": 2994,
+    "end": 181.52999999999997,
+    "endOffset": 3226
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 25,
+    "start": 182.26,
+    "startOffset": 3229,
+    "end": 189.98,
+    "endOffset": 3395
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 26,
+    "start": 190.59,
+    "startOffset": 3398,
+    "end": 200.82,
+    "endOffset": 3590
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 27,
+    "start": 201.51,
+    "startOffset": 3593,
+    "end": 208.299999,
+    "endOffset": 3704
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 28,
+    "start": 209.12,
+    "startOffset": 3707,
+    "end": 218.91000000000003,
+    "endOffset": 3889
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 29,
+    "start": 219.7,
+    "startOffset": 3892,
+    "end": 228.58999999999997,
+    "endOffset": 4047
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 30,
+    "start": 229.66,
+    "startOffset": 4050,
+    "end": 243.63000000000002,
+    "endOffset": 4324
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 31,
+    "start": 244.13,
+    "startOffset": 4327,
+    "end": 256.84999999999997,
+    "endOffset": 4563
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 32,
+    "start": 257.4,
+    "startOffset": 4566,
+    "end": 261.5,
+    "endOffset": 4644
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 33,
+    "start": 262.25,
+    "startOffset": 4647,
+    "end": 271.8,
+    "endOffset": 4824
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 34,
+    "start": 272.28,
+    "startOffset": 4827,
+    "end": 277.02,
+    "endOffset": 4915
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 35,
+    "start": 277.53,
+    "startOffset": 4918,
+    "end": 287.19,
+    "endOffset": 5090
+  },
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 36,
+    "start": 288.38,
+    "startOffset": 5093,
+    "end": 292.52,
+    "endOffset": 5175
+  }
+]
