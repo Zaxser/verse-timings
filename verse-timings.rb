@@ -9,15 +9,18 @@
 # Which works fantastically. All I have to do is adjust it into a faraday
 # request.
 
+# TODO: 
+# Handle nil starts and endings
+# Handle the book order, which is apparently different between these audio files
+# and the Kj library I'm using. If I ever make a database of these, I'll have to
+# standardize these somehow.
+
 require "Kj"
 require "faraday"
 require "json"
-
-
-
-# One of these days I've got to figure out how to set up paths so that it
-# doesn't matter where you open the script from: this will fail if you don't 
-# run this from the scripts/ folder.
+require "fileutils"
+require "mp3info"
+require "./string"
 
 # Gentle's readme says the localhost is on 8765; it lied.
 url = "http://localhost:49154"
@@ -27,61 +30,91 @@ conn = Faraday.new(url: url) do |faraday|
   faraday.adapter :net_http
 end
 
-Kj::Bible.new.books.each do |book|
-  id = book.id.to_s.rjust(2, "0")
-  book.chapters.each do |chapter|
-    number = chapter.number.to_s.rjust(3, "0")
-    text_filepath = "text-chapters/#{id} #{book.name} #{number}.txt"
-    audio_filepath = "audio-chapters/#{id} #{book.name} #{number}.mp3"
-    word_timings_filepath = "word-timings/#{id} #{book.name} #{number}.json"
-    verse_timings_filepath = "verse-timings/#{id} #{book.name} #{number}.json"
+Dir.foreach("audio-chapters").each do |audio_chapter|
+  next if audio_chapter == "." or audio_chapter == ".."
+  
+  book_name = audio_chapter.split(" ")[1...-1].join(" ")
+  chapter = audio_chapter.split(" ")[-1].split(".")[0].to_i
 
-    # Write the chapter to a text file so it can be used by Gentle
-    file = open(text_filepath, "w") do |f|
-      text = chapter.verses.inject("") {|t, v| t + "\n" + v.text}
-      f.write(text)
-    end
+  book = Kj::Book.from_name_or_number(book_name.roman_to_int)
+
+  FileUtils.mkdir_p "text-chapters/#{book_name}"
+  FileUtils.mkdir_p "verse-timings/#{book_name}"
     
-    # Set up the pay load for gentle
-    payload = {
-      audio: Faraday::UploadIO.new(audio_filepath, "audio/mp3"),
-      transcript: Faraday::UploadIO.new(text_filepath, "text/txt")
+  audio_filepath = "audio-chapters/#{audio_chapter}"
+
+  chapter = book.chapter(chapter)
+  path = "#{book_name}/#{chapter.title}"
+  
+  text_filepath = "text-chapters/#{path}.txt"
+  verse_timings_filepath = "verse-timings/#{path}.json"
+
+  
+  # Write the chapter to a text file so it can be used by Gentle
+  file = open(text_filepath, "w") do |f|
+    text = chapter.verses.inject("") {|t, v| t + "\n" + v.text}
+    f.write(text)
+  end
+  
+  # Set up the pay load for gentle
+  payload = {
+    audio: Faraday::UploadIO.new(audio_filepath, "audio/mp3"),
+    transcript: Faraday::UploadIO.new(text_filepath, "text/txt")
+  }
+
+  # Get the timings back
+  word_timings = conn.post('/transcriptions?async=false', payload).body
+  word_timings = JSON.parse(word_timings)["words"]
+
+  # Convert word timings to verse timings
+  first_word_index = 0
+  verse_timings = []
+  chapter.verses.each do |verse|
+    length = verse.text.split(" ").length
+    last_word_index = first_word_index + length - 1
+    words = word_timings[first_word_index..last_word_index]
+
+    offset = 1 # if gentle won't give us the time, get the next time
+    until words[0]["start"] or offset >= first_word_index
+      words[0]["start"] = word_timings[first_word_index - offset]["end"]
+      offset += 1
+    end
+
+    # if all else fails, send it to the start of the file
+    unless words[0]["start"] 
+      words[0]["start"] = 0 
+      p audio_chapter, verse.number
+    end
+
+    offset = 1 # if gentle won't give us the time, get the next time
+    until words[-1]["end"] or last_word_index + offset >= word_timings.length
+      words[-1]["end"] = word_timings[last_word_index + offset]["start"]
+      offset += 1
+    end
+
+    unless words[-1]["end"] # if all else fails, send it to the end of the file
+      Mp3Info.open(audio_filepath) do |mp3| 
+        words[-1]["end"] = mp3.length
+        p mp3.length, audio_chapter, verse.number
+      end
+    end
+
+    words[0]["start"] = 0 unless words[0]["start"] # just get the program working :( 
+    
+    verse_timing = {
+      "book": book.name,
+      "chapter": chapter.number,
+      "verse": verse.number,
+      "start": words[0]["start"],
+      "startOffset": words[0]["startOffset"], # Not sure what this does, JIC
+      "end": words[-1]["end"],
+      "endOffset": words[-1]["endOffset"] # Not sure what this does, JIC
     }
+    verse_timings.append(verse_timing)
+    first_word_index = last_word_index + 1
+  end
 
-    # Get the timings back
-    word_timings = conn.post('/transcriptions?async=false', payload).body
-
-    file = open(word_timings_filepath, "w") do |f|
-      f.write(word_timings)
-    end
-
-    # p JSON.parse(word_timings)
-    word_timings = JSON.parse(word_timings)["words"]
-
-    # Convert word timings to verse timings
-    first_word_index = 0
-    verse_timings = []
-    chapter.verses.each do |verse|
-      length = verse.text.split(" ").length
-      words = word_timings[first_word_index...first_word_index + length]
-      # p first_word_index, verse.text, words.map {|w| w["word"]}
-      
-      verse_timing = {
-        "book": book.name,
-        "chapter": chapter.number,
-        "verse": verse.number,
-        "start": words[0]["start"],
-        "startOffset": words[0]["start"], # Not sure what this does, JIC
-        "end": words[-1]["end"],
-        "endOffset": words[-1]["endOffset"] # Not sure what this does, JIC
-      }
-      verse_timings.append(verse_timing)
-      first_word_index += length
-    end
-
-
-    file = open(verse_timings_filepath, "w") do |f|
-      f.write(JSON.pretty_generate(verse_timings))
-    end
+  file = open(verse_timings_filepath, "w") do |f|
+    f.write(JSON.pretty_generate(verse_timings))
   end
 end

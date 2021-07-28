@@ -1,0 +1,218 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 1,
+    "start": 2.23,
+    "startOffset": 2,
+    "end": 9.51,
+    "endOffset": 132
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 2,
+    "start": 10.389999,
+    "startOffset": 135,
+    "end": 18.580000000000002,
+    "endOffset": 280
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 3,
+    "start": 19.47,
+    "startOffset": 283,
+    "end": 25.29,
+    "endOffset": 393
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 4,
+    "start": 26.11,
+    "startOffset": 396,
+    "end": 37.05,
+    "endOffset": 577
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 5,
+    "start": 38.2,
+    "startOffset": 580,
+    "end": 40.67999999999999,
+    "endOffset": 639
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 6,
+    "start": 41.47,
+    "startOffset": 642,
+    "end": 44.96,
+    "endOffset": 720
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 7,
+    "start": 46.0,
+    "startOffset": 723,
+    "end": 51.669999,
+    "endOffset": 847
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 8,
+    "start": 52.019999999999996,
+    "startOffset": 850,
+    "end": 57.44,
+    "endOffset": 962
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 9,
+    "start": 57.66,
+    "startOffset": 965,
+    "end": 63.11,
+    "endOffset": 1065
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 10,
+    "start": 64.49,
+    "startOffset": 1068,
+    "end": 69.17,
+    "endOffset": 1154
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 11,
+    "start": 70.19999899999999,
+    "startOffset": 1157,
+    "end": 80.81,
+    "endOffset": 1356
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 12,
+    "start": 81.19,
+    "startOffset": 1359,
+    "end": 84.24,
+    "endOffset": 1418
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 13,
+    "start": 85.48,
+    "startOffset": 1421,
+    "end": 93.27,
+    "endOffset": 1577
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 14,
+    "start": 93.44,
+    "startOffset": 1580,
+    "end": 103.23,
+    "endOffset": 1780
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 15,
+    "start": 103.66,
+    "startOffset": 1783,
+    "end": 108.36999999999999,
+    "endOffset": 1879
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 16,
+    "start": 109.08,
+    "startOffset": 1882,
+    "end": 115.3,
+    "endOffset": 1993
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 17,
+    "start": 115.78,
+    "startOffset": 1996,
+    "end": 125.29,
+    "endOffset": 2122
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 18,
+    "start": 125.73,
+    "startOffset": 2125,
+    "end": 131.98,
+    "endOffset": 2238
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 19,
+    "start": 132.61,
+    "startOffset": 2241,
+    "end": 138.169999,
+    "endOffset": 2364
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 20,
+    "start": 139.13,
+    "startOffset": 2367,
+    "end": 143.07000000000002,
+    "endOffset": 2443
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 21,
+    "start": 144.039999,
+    "startOffset": 2446,
+    "end": 153.95000000000002,
+    "endOffset": 2606
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 22,
+    "start": 154.73,
+    "startOffset": 2609,
+    "end": 159.47,
+    "endOffset": 2692
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 23,
+    "start": 160.57,
+    "startOffset": 2695,
+    "end": 177.17,
+    "endOffset": 2958
+  },
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 24,
+    "start": 178.53,
+    "startOffset": 2961,
+    "end": 182.97,
+    "endOffset": 3026
+  }
+]

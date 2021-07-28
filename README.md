@@ -28,3 +28,6 @@ individual chapters.
 * It'd be cool to get all the verse timings and audio well organized in a 
 database and wrapped into a gem, sort of like the Kj library itself, but with
 audio bibles, too.
+* It would also be nice to straight up make a script so that, given a certain
+book, chapter and verse, I could just spits out the audio for a verse. In fact,
+I'm planning on starting that right now so that I can add sound 
