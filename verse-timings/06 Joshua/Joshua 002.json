@@ -1,0 +1,170 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 1,
+    "start": 1.02,
+    "end": 12.780000000000001
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 2,
+    "start": 13.549999,
+    "end": 19.67
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 3,
+    "start": 20.35,
+    "end": 27.2
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 4,
+    "start": 27.929999000000002,
+    "end": 34.549999
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 5,
+    "start": 35.0,
+    "end": 42.73
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 6,
+    "start": 43.56,
+    "end": 49.629999
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 7,
+    "start": 50.36,
+    "end": 56.82
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 8,
+    "start": 57.76,
+    "end": 60.58
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 9,
+    "start": 60.58,
+    "end": 68.84
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 10,
+    "start": 69.469999,
+    "end": 79.89
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 11,
+    "start": 80.55,
+    "end": 90.33999999999999
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 12,
+    "start": 91.129999,
+    "end": 100.06
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 13,
+    "start": 100.86,
+    "end": 108.51
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 14,
+    "start": 109.62,
+    "end": 119.03
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 15,
+    "start": 120.13,
+    "end": 125.5
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 16,
+    "start": 126.119999,
+    "end": 135.6
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 17,
+    "start": 136.45,
+    "end": 140.92999999999998
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 18,
+    "start": 141.509999,
+    "end": 153.379999
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 19,
+    "start": 153.99,
+    "end": 165.57999999999998
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 20,
+    "start": 166.67,
+    "end": 172.23999899999998
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 21,
+    "start": 173.349999,
+    "end": 180.56
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 22,
+    "start": 180.83,
+    "end": 188.84
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 23,
+    "start": 189.58,
+    "end": 196.84
+  },
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 24,
+    "start": 197.279999,
+    "end": 205.54
+  }
+]

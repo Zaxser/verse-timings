@@ -1,0 +1,209 @@
+[
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 1,
+    "start": 2.25,
+    "startOffset": 2,
+    "end": 4.87,
+    "endOffset": 46
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 2,
+    "start": 5.45,
+    "startOffset": 49,
+    "end": 10.4,
+    "endOffset": 137
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 3,
+    "start": 11.059999,
+    "startOffset": 140,
+    "end": 14.219999999999999,
+    "endOffset": 213
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 4,
+    "start": 14.38,
+    "startOffset": 216,
+    "end": 17.89,
+    "endOffset": 278
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 5,
+    "start": 18.53,
+    "startOffset": 281,
+    "end": 23.65,
+    "endOffset": 370
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 6,
+    "start": 24.18,
+    "startOffset": 373,
+    "end": 30.240000000000002,
+    "endOffset": 475
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 7,
+    "start": 31.42,
+    "startOffset": 478,
+    "end": 34.98,
+    "endOffset": 562
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 8,
+    "start": 36.129999999999995,
+    "startOffset": 565,
+    "end": 40.4,
+    "endOffset": 656
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 9,
+    "start": 41.15,
+    "startOffset": 659,
+    "end": 44.13,
+    "endOffset": 709
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 10,
+    "start": 45.12,
+    "startOffset": 712,
+    "end": 49.17,
+    "endOffset": 781
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 11,
+    "start": 51.03,
+    "startOffset": 784,
+    "end": 56.64,
+    "endOffset": 871
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 12,
+    "start": 57.64,
+    "startOffset": 874,
+    "end": 62.28,
+    "endOffset": 950
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 13,
+    "start": 63.33,
+    "startOffset": 953,
+    "end": 68.67,
+    "endOffset": 1071
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 14,
+    "start": 70.049999,
+    "startOffset": 1074,
+    "end": 75.36,
+    "endOffset": 1177
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 15,
+    "start": 75.75,
+    "startOffset": 1180,
+    "end": 79.64999999999999,
+    "endOffset": 1260
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 16,
+    "start": 80.16,
+    "startOffset": 1263,
+    "end": 83.58,
+    "endOffset": 1332
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 17,
+    "start": 84.37,
+    "startOffset": 1335,
+    "end": 88.84,
+    "endOffset": 1424
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 18,
+    "start": 89.57,
+    "startOffset": 1427,
+    "end": 93.63999999999999,
+    "endOffset": 1497
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 19,
+    "start": 94.63,
+    "startOffset": 1500,
+    "end": 100.88000000000001,
+    "endOffset": 1593
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 20,
+    "start": 101.59,
+    "startOffset": 1596,
+    "end": 105.419999,
+    "endOffset": 1672
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 21,
+    "start": 105.62,
+    "startOffset": 1675,
+    "end": 110.97,
+    "endOffset": 1769
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 22,
+    "start": 112.13,
+    "startOffset": 1772,
+    "end": 116.82,
+    "endOffset": 1850
+  },
+  {
+    "book": "Job",
+    "chapter": 27,
+    "verse": 23,
+    "start": 117.53999999999999,
+    "startOffset": 1853,
+    "end": 121.74,
+    "endOffset": 1923
+  }
+]

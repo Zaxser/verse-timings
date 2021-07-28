@@ -4,206 +4,160 @@
     "chapter": 39,
     "verse": 1,
     "start": 3.01,
-    "startOffset": 2,
-    "end": 12.229999000000001,
-    "endOffset": 190
+    "end": 12.229999000000001
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 2,
     "start": 13.11,
-    "startOffset": 193,
-    "end": 18.14,
-    "endOffset": 302
+    "end": 18.14
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 3,
     "start": 18.699999,
-    "startOffset": 305,
-    "end": 23.35,
-    "endOffset": 413
+    "end": 23.35
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 4,
     "start": 24.09,
-    "startOffset": 416,
-    "end": 30.93,
-    "endOffset": 553
+    "end": 30.93
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 5,
     "start": 31.66,
-    "startOffset": 556,
-    "end": 42.51,
-    "endOffset": 806
+    "end": 42.51
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 6,
     "start": 43.019999999999996,
-    "startOffset": 809,
-    "end": 52.819999,
-    "endOffset": 966
+    "end": 52.819999
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 7,
     "start": 53.629999,
-    "startOffset": 969,
-    "end": 60.86,
-    "endOffset": 1084
+    "end": 60.86
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 8,
     "start": 61.58,
-    "startOffset": 1087,
-    "end": 68.8,
-    "endOffset": 1245
+    "end": 68.8
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 9,
     "start": 69.099999,
-    "startOffset": 1248,
-    "end": 78.53999999999999,
-    "endOffset": 1433
+    "end": 78.53999999999999
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 10,
     "start": 79.91,
-    "startOffset": 1436,
-    "end": 86.15,
-    "endOffset": 1556
+    "end": 86.15
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 11,
     "start": 87.309999,
-    "startOffset": 1559,
-    "end": 94.17999999999999,
-    "endOffset": 1703
+    "end": 94.17999999999999
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 12,
     "start": 94.75,
-    "startOffset": 1706,
-    "end": 100.459999,
-    "endOffset": 1824
+    "end": 100.459999
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 13,
     "start": 101.19,
-    "startOffset": 1827,
-    "end": 105.299999,
-    "endOffset": 1921
+    "end": 105.299999
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 14,
     "start": 105.5,
-    "startOffset": 1924,
-    "end": 114.59,
-    "endOffset": 2114
+    "end": 114.59
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 15,
     "start": 114.72,
-    "startOffset": 2117,
-    "end": 119.4,
-    "endOffset": 2248
+    "end": 119.4
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 16,
     "start": 120.33,
-    "startOffset": 2251,
-    "end": 123.25999999999999,
-    "endOffset": 2311
+    "end": 123.25999999999999
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 17,
     "start": 123.969999,
-    "startOffset": 2314,
-    "end": 130.06,
-    "endOffset": 2450
+    "end": 130.06
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 18,
     "start": 130.34,
-    "startOffset": 2453,
-    "end": 134.65,
-    "endOffset": 2555
+    "end": 134.65
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 19,
     "start": 135.76,
-    "startOffset": 2558,
-    "end": 143.17000000000002,
-    "endOffset": 2725
+    "end": 143.17000000000002
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 20,
     "start": 143.17000000000002,
-    "startOffset": 2728,
-    "end": 150.52,
-    "endOffset": 2864
+    "end": 150.52
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 21,
     "start": 151.81,
-    "startOffset": 2867,
-    "end": 157.12,
-    "endOffset": 2978
+    "end": 157.12
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 22,
     "start": 157.59,
-    "startOffset": 2981,
-    "end": 164.38,
-    "endOffset": 3132
+    "end": 164.38
   },
   {
     "book": "Genesis",
     "chapter": 39,
     "verse": 23,
     "start": 165.24,
-    "startOffset": 3135,
-    "end": 172.85000000000002,
-    "endOffset": 3290
+    "end": 172.85000000000002
   }
 ]

@@ -4,224 +4,174 @@
     "chapter": 2,
     "verse": 1,
     "start": 2.28,
-    "startOffset": 2,
-    "end": 6.42,
-    "endOffset": 80
+    "end": 6.42
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 2,
     "start": 7.08,
-    "startOffset": 83,
-    "end": 13.98,
-    "endOffset": 197
+    "end": 13.98
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 3,
     "start": 14.929999,
-    "startOffset": 200,
-    "end": 24.28,
-    "endOffset": 395
+    "end": 24.28
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 4,
     "start": 25.21,
-    "startOffset": 398,
-    "end": 29.25,
-    "endOffset": 461
+    "end": 29.25
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 5,
     "start": 29.26,
-    "startOffset": 464,
-    "end": 40.870000000000005,
-    "endOffset": 653
+    "end": 40.870000000000005
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 6,
     "start": 41.18,
-    "startOffset": 656,
-    "end": 50.260000000000005,
-    "endOffset": 808
+    "end": 50.260000000000005
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 7,
     "start": 51.769999999999996,
-    "startOffset": 811,
-    "end": 58.709999999999994,
-    "endOffset": 949
+    "end": 58.709999999999994
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 8,
     "start": 59.5,
-    "startOffset": 952,
-    "end": 65.30999999999999,
-    "endOffset": 1039
+    "end": 65.30999999999999
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 9,
     "start": 66.46000000000001,
-    "startOffset": 1042,
-    "end": 74.69,
-    "endOffset": 1198
+    "end": 74.69
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 10,
     "start": 74.69,
-    "startOffset": 1201,
-    "end": 87.529999,
-    "endOffset": 1369
+    "end": 87.529999
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 11,
     "start": 89.48,
-    "startOffset": 1372,
-    "end": 100.75,
-    "endOffset": 1557
+    "end": 100.75
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 12,
     "start": 101.75,
-    "startOffset": 1560,
-    "end": 107.429999,
-    "endOffset": 1681
+    "end": 107.429999
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 13,
     "start": 109.039999,
-    "startOffset": 1684,
-    "end": 116.58,
-    "endOffset": 1841
+    "end": 116.58
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 14,
     "start": 116.849999,
-    "startOffset": 1844,
-    "end": 127.87,
-    "endOffset": 2013
+    "end": 127.87
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 15,
     "start": 129.37,
-    "startOffset": 2016,
-    "end": 138.35,
-    "endOffset": 2175
+    "end": 138.35
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 16,
     "start": 139.809999,
-    "startOffset": 2178,
-    "end": 145.84,
-    "endOffset": 2306
+    "end": 145.84
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 17,
     "start": 146.45,
-    "startOffset": 2309,
-    "end": 152.42000000000002,
-    "endOffset": 2412
+    "end": 152.42000000000002
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 18,
     "start": 153.2,
-    "startOffset": 2415,
-    "end": 158.22,
-    "endOffset": 2507
+    "end": 158.22
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 19,
     "start": 158.509999,
-    "startOffset": 2510,
-    "end": 164.48,
-    "endOffset": 2640
+    "end": 164.48
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 20,
     "start": 165.29,
-    "startOffset": 2643,
-    "end": 171.33,
-    "endOffset": 2760
+    "end": 171.33
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 21,
     "start": 172.57,
-    "startOffset": 2763,
-    "end": 177.57,
-    "endOffset": 2847
+    "end": 177.57
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 22,
     "start": 178.109999,
-    "startOffset": 2850,
-    "end": 186.54,
-    "endOffset": 2959
+    "end": 186.54
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 23,
     "start": 188.29,
-    "startOffset": 2962,
-    "end": 200.99,
-    "endOffset": 3162
+    "end": 200.99
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 24,
     "start": 201.86,
-    "startOffset": 3165,
-    "end": 207.44,
-    "endOffset": 3267
+    "end": 207.44
   },
   {
     "book": "Exodus",
     "chapter": 2,
     "verse": 25,
     "start": 208.59,
-    "startOffset": 3270,
-    "end": 213.28,
-    "endOffset": 3343
+    "end": 213.28
   }
 ]

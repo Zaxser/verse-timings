@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 1,
+    "start": 2.22,
+    "startOffset": 2,
+    "end": 19.97,
+    "endOffset": 351
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 2,
+    "start": 20.59,
+    "startOffset": 354,
+    "end": 32.86,
+    "endOffset": 579
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 3,
+    "start": 33.549999,
+    "startOffset": 582,
+    "end": 42.14,
+    "endOffset": 718
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 4,
+    "start": 43.58,
+    "startOffset": 721,
+    "end": 52.74,
+    "endOffset": 920
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 5,
+    "start": 53.59,
+    "startOffset": 923,
+    "end": 63.67,
+    "endOffset": 1090
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 6,
+    "start": 63.67,
+    "startOffset": 1093,
+    "end": 75.86,
+    "endOffset": 1265
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 7,
+    "start": 76.7,
+    "startOffset": 1268,
+    "end": 93.66000000000001,
+    "endOffset": 1549
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 8,
+    "start": 95.06,
+    "startOffset": 1552,
+    "end": 111.15,
+    "endOffset": 1778
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 9,
+    "start": 111.76,
+    "startOffset": 1781,
+    "end": 128.04,
+    "endOffset": 2061
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 10,
+    "start": 129.82,
+    "startOffset": 2064,
+    "end": 137.38,
+    "endOffset": 2151
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 11,
+    "start": 137.889999,
+    "startOffset": 2154,
+    "end": 149.5,
+    "endOffset": 2419
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 12,
+    "start": 150.7,
+    "startOffset": 2422,
+    "end": 163.6,
+    "endOffset": 2679
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 13,
+    "start": 165.48,
+    "startOffset": 2682,
+    "end": 177.85,
+    "endOffset": 2883
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 14,
+    "start": 178.9,
+    "startOffset": 2886,
+    "end": 193.269999,
+    "endOffset": 3097
+  },
+  {
+    "book": "Ezra",
+    "chapter": 9,
+    "verse": 15,
+    "start": 195.139999,
+    "startOffset": 3100,
+    "end": 209.44,
+    "endOffset": 3281
+  }
+]

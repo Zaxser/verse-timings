@@ -1,0 +1,164 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 1,
+    "start": 1.75,
+    "startOffset": 2,
+    "end": 6.72,
+    "endOffset": 116
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 2,
+    "start": 7.15,
+    "startOffset": 119,
+    "end": 13.069999999999999,
+    "endOffset": 240
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 3,
+    "start": 13.67,
+    "startOffset": 243,
+    "end": 17.130001,
+    "endOffset": 300
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 4,
+    "start": 17.48,
+    "startOffset": 303,
+    "end": 21.46,
+    "endOffset": 392
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 5,
+    "start": 22.17,
+    "startOffset": 395,
+    "end": 28.099999999999998,
+    "endOffset": 498
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 6,
+    "start": 28.639999,
+    "startOffset": 501,
+    "end": 39.96,
+    "endOffset": 728
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 7,
+    "start": 40.88,
+    "startOffset": 731,
+    "end": 47.999998999999995,
+    "endOffset": 883
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 8,
+    "start": 48.21,
+    "startOffset": 886,
+    "end": 55.56,
+    "endOffset": 1040
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 9,
+    "start": 56.23,
+    "startOffset": 1043,
+    "end": 64.46000000000001,
+    "endOffset": 1210
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 10,
+    "start": 65.34,
+    "startOffset": 1213,
+    "end": 70.849999,
+    "endOffset": 1324
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 11,
+    "start": 72.19999899999999,
+    "startOffset": 1327,
+    "end": 83.97999899999999,
+    "endOffset": 1584
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 12,
+    "start": 85.309999,
+    "startOffset": 1587,
+    "end": 89.729999,
+    "endOffset": 1699
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 13,
+    "start": 89.94999899999999,
+    "startOffset": 1702,
+    "end": 103.459999,
+    "endOffset": 1974
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 14,
+    "start": 104.309999,
+    "startOffset": 1977,
+    "end": 119.749999,
+    "endOffset": 2286
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 15,
+    "start": 120.53999999999999,
+    "startOffset": 2289,
+    "end": 127.08,
+    "endOffset": 2423
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 16,
+    "start": 128.43,
+    "startOffset": 2426,
+    "end": 136.98000000000002,
+    "endOffset": 2589
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 17,
+    "start": 138.0,
+    "startOffset": 2592,
+    "end": 142.72,
+    "endOffset": 2674
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 18,
+    "start": 143.64,
+    "startOffset": 2677,
+    "end": 155.849999,
+    "endOffset": 2917
+  }
+]

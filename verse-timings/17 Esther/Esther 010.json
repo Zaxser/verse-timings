@@ -1,0 +1,29 @@
+[
+  {
+    "book": "Esther",
+    "chapter": 10,
+    "verse": 1,
+    "start": 1.02,
+    "startOffset": 2,
+    "end": 6.2700000000000005,
+    "endOffset": 84
+  },
+  {
+    "book": "Esther",
+    "chapter": 10,
+    "verse": 2,
+    "start": 6.88,
+    "startOffset": 87,
+    "end": 16.939999,
+    "endOffset": 301
+  },
+  {
+    "book": "Esther",
+    "chapter": 10,
+    "verse": 3,
+    "start": 17.84,
+    "startOffset": 304,
+    "end": 28.569999000000003,
+    "endOffset": 496
+  }
+]

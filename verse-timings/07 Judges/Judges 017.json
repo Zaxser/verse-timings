@@ -1,0 +1,119 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 1,
+    "start": 2.58,
+    "startOffset": 2,
+    "end": 5.03,
+    "endOffset": 60
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 2,
+    "start": 5.7,
+    "startOffset": 63,
+    "end": 19.53,
+    "endOffset": 315
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 3,
+    "start": 20.22,
+    "startOffset": 318,
+    "end": 32.549999,
+    "endOffset": 569
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 4,
+    "start": 33.5,
+    "startOffset": 572,
+    "end": 43.089999999999996,
+    "endOffset": 783
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 5,
+    "start": 43.97,
+    "startOffset": 786,
+    "end": 51.039998999999995,
+    "endOffset": 913
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 6,
+    "start": 51.679999,
+    "startOffset": 916,
+    "end": 55.92,
+    "endOffset": 1013
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 7,
+    "start": 57.03,
+    "startOffset": 1016,
+    "end": 61.980000000000004,
+    "endOffset": 1128
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 8,
+    "start": 62.75,
+    "startOffset": 1131,
+    "end": 70.629999,
+    "endOffset": 1295
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 9,
+    "start": 70.629999,
+    "startOffset": 1298,
+    "end": 78.45,
+    "endOffset": 1442
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 10,
+    "start": 79.03,
+    "startOffset": 1445,
+    "end": 90.05,
+    "endOffset": 1641
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 11,
+    "start": 90.799999,
+    "startOffset": 1644,
+    "end": 95.66,
+    "endOffset": 1743
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 12,
+    "start": 96.41,
+    "startOffset": 1746,
+    "end": 101.13,
+    "endOffset": 1846
+  },
+  {
+    "book": "Judges",
+    "chapter": 17,
+    "verse": 13,
+    "start": 101.94,
+    "startOffset": 1849,
+    "end": 107.84,
+    "endOffset": 1943
+  }
+]

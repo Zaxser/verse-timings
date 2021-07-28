@@ -1,0 +1,128 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 1,
+    "start": 12.4,
+    "end": 19.59
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 2,
+    "start": 19.91,
+    "end": 28.62
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 3,
+    "start": 29.25,
+    "end": 34.400000000000006
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 4,
+    "start": 34.980000000000004,
+    "end": 45.120000000000005
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 5,
+    "start": 45.719999,
+    "end": 54.819998999999996
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 6,
+    "start": 55.59,
+    "end": 62.349999999999994
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 7,
+    "start": 62.67,
+    "end": 74.35000000000001
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 8,
+    "start": 74.94,
+    "end": 88.32
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 9,
+    "start": 88.98,
+    "end": 98.07000000000001
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 10,
+    "start": 99.349999,
+    "end": 101.71000000000001
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 11,
+    "start": 102.0,
+    "end": 111.71000000000001
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 12,
+    "start": 112.86,
+    "end": 117.49000000000001
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 13,
+    "start": 117.9,
+    "end": 124.58
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 14,
+    "start": 125.039999,
+    "end": 135.17999999999998
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 15,
+    "start": 135.52,
+    "end": 148.95999999999998
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 16,
+    "start": 149.8,
+    "end": 155.66000000000003
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 17,
+    "start": 156.4,
+    "end": 164.12
+  },
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 18,
+    "start": 164.94,
+    "end": 173.74
+  }
+]

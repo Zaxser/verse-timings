@@ -1,0 +1,137 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 1,
+    "start": 2.42,
+    "startOffset": 2,
+    "end": 10.56,
+    "endOffset": 162
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 2,
+    "start": 11.23,
+    "startOffset": 165,
+    "end": 19.84,
+    "endOffset": 339
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 3,
+    "start": 21.02,
+    "startOffset": 342,
+    "end": 28.929999000000002,
+    "endOffset": 535
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 4,
+    "start": 30.2,
+    "startOffset": 538,
+    "end": 36.74999999999999,
+    "endOffset": 681
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 5,
+    "start": 37.86,
+    "startOffset": 684,
+    "end": 46.229999,
+    "endOffset": 844
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 6,
+    "start": 46.389998999999996,
+    "startOffset": 847,
+    "end": 52.46,
+    "endOffset": 946
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 7,
+    "start": 52.879999,
+    "startOffset": 949,
+    "end": 69.94,
+    "endOffset": 1259
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 8,
+    "start": 70.789999,
+    "startOffset": 1262,
+    "end": 76.6,
+    "endOffset": 1386
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 9,
+    "start": 77.43,
+    "startOffset": 1389,
+    "end": 87.88000000000001,
+    "endOffset": 1620
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 10,
+    "start": 88.559999,
+    "startOffset": 1623,
+    "end": 94.10000000000001,
+    "endOffset": 1748
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 11,
+    "start": 95.21,
+    "startOffset": 1751,
+    "end": 108.46000000000001,
+    "endOffset": 2042
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 12,
+    "start": 109.42,
+    "startOffset": 2045,
+    "end": 116.80999999999999,
+    "endOffset": 2169
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 13,
+    "start": 118.03999999999999,
+    "startOffset": 2172,
+    "end": 124.88999899999999,
+    "endOffset": 2287
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 14,
+    "start": 126.289999,
+    "startOffset": 2290,
+    "end": 130.81,
+    "endOffset": 2380
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 15,
+    "start": 131.62,
+    "startOffset": 2383,
+    "end": 144.92,
+    "endOffset": 2605
+  }
+]

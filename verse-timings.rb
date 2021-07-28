@@ -58,7 +58,14 @@ Dir.foreach("audio-chapters").each do |audio_chapter|
   }
 
   # Get the timings back
-  word_timings = conn.post('/transcriptions?async=false', payload).body
+  begin
+    word_timings = conn.post('/transcriptions?async=false', payload).body
+  rescue
+    # This seems to die on Psalm 119. :(
+    puts [audio_filepath, text_filepath]
+    next
+  end
+
   word_timings = JSON.parse(word_timings)["words"]
 
   # Convert word timings to verse timings
@@ -99,9 +106,7 @@ Dir.foreach("audio-chapters").each do |audio_chapter|
       "chapter": chapter.number,
       "verse": verse.number,
       "start": words[0]["start"],
-      "startOffset": words[0]["startOffset"], # Not sure what this does, JIC
-      "end": words[-1]["end"],
-      "endOffset": words[-1]["endOffset"] # Not sure what this does, JIC
+      "end": words[-1]["end"]
     }
     verse_timings.append(verse_timing)
     first_word_index = last_word_index + 1

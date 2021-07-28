@@ -4,197 +4,153 @@
     "chapter": 3,
     "verse": 1,
     "start": 2.55,
-    "startOffset": 2,
-    "end": 12.6,
-    "endOffset": 176
+    "end": 12.6
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 2,
     "start": 13.629999999999999,
-    "startOffset": 179,
-    "end": 25.89,
-    "endOffset": 354
+    "end": 25.89
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 3,
     "start": 27.259999999999998,
-    "startOffset": 357,
-    "end": 32.85,
-    "endOffset": 447
+    "end": 32.85
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 4,
     "start": 34.059999000000005,
-    "startOffset": 450,
-    "end": 44.639999,
-    "endOffset": 597
+    "end": 44.639999
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 5,
     "start": 45.76,
-    "startOffset": 600,
-    "end": 55.050000000000004,
-    "endOffset": 722
+    "end": 55.050000000000004
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 6,
     "start": 56.57,
-    "startOffset": 725,
-    "end": 68.789999,
-    "endOffset": 889
+    "end": 68.789999
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 7,
     "start": 70.289999,
-    "startOffset": 892,
-    "end": 79.72999999999999,
-    "endOffset": 1059
+    "end": 79.72999999999999
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 8,
     "start": 80.34,
-    "startOffset": 1062,
-    "end": 96.89999999999999,
-    "endOffset": 1364
+    "end": 96.89999999999999
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 9,
     "start": 98.059999,
-    "startOffset": 1367,
-    "end": 106.42,
-    "endOffset": 1513
+    "end": 106.42
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 10,
     "start": 107.24,
-    "startOffset": 1516,
-    "end": 115.94000000000001,
-    "endOffset": 1645
+    "end": 115.94000000000001
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 11,
     "start": 117.09,
-    "startOffset": 1648,
-    "end": 126.33999899999999,
-    "endOffset": 1779
+    "end": 126.33999899999999
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 12,
     "start": 127.49,
-    "startOffset": 1782,
-    "end": 140.81,
-    "endOffset": 1977
+    "end": 140.81
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 13,
     "start": 142.17000000000002,
-    "startOffset": 1980,
-    "end": 156.1,
-    "endOffset": 2196
+    "end": 156.1
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 14,
     "start": 157.25,
-    "startOffset": 2199,
-    "end": 169.44,
-    "endOffset": 2328
+    "end": 169.44
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 15,
     "start": 170.78,
-    "startOffset": 2331,
-    "end": 185.97,
-    "endOffset": 2597
+    "end": 185.97
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 16,
     "start": 187.01,
-    "startOffset": 2600,
-    "end": 201.88,
-    "endOffset": 2835
+    "end": 201.88
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 17,
     "start": 202.43,
-    "startOffset": 2838,
-    "end": 214.53,
-    "endOffset": 3070
+    "end": 214.53
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 18,
     "start": 216.16,
-    "startOffset": 3073,
-    "end": 236.21,
-    "endOffset": 3377
+    "end": 236.21
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 19,
     "start": 238.03,
-    "startOffset": 3380,
-    "end": 245.49,
-    "endOffset": 3462
+    "end": 245.49
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 20,
     "start": 247.0,
-    "startOffset": 3465,
-    "end": 258.06,
-    "endOffset": 3604
+    "end": 258.06
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 21,
     "start": 259.6,
-    "startOffset": 3607,
-    "end": 267.33999900000003,
-    "endOffset": 3738
+    "end": 267.33999900000003
   },
   {
     "book": "Exodus",
     "chapter": 3,
     "verse": 22,
     "start": 267.87,
-    "startOffset": 3741,
-    "end": 281.35999999999996,
-    "endOffset": 3974
+    "end": 281.35999999999996
   }
 ]

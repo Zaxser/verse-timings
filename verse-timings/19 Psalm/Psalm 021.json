@@ -1,0 +1,119 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 1,
+    "start": 2.37,
+    "startOffset": 2,
+    "end": 7.05,
+    "endOffset": 95
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 2,
+    "start": 7.61,
+    "startOffset": 98,
+    "end": 12.519999,
+    "endOffset": 192
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 3,
+    "start": 13.549999,
+    "startOffset": 195,
+    "end": 18.54,
+    "endOffset": 296
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 4,
+    "start": 19.12,
+    "startOffset": 299,
+    "end": 23.91,
+    "endOffset": 383
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 5,
+    "start": 24.56,
+    "startOffset": 386,
+    "end": 29.18,
+    "endOffset": 465
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 6,
+    "start": 29.18,
+    "startOffset": 468,
+    "end": 34.300000000000004,
+    "endOffset": 568
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 7,
+    "start": 35.029999000000004,
+    "startOffset": 571,
+    "end": 39.989999999999995,
+    "endOffset": 666
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 8,
+    "start": 40.93,
+    "startOffset": 669,
+    "end": 46.26,
+    "endOffset": 764
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 9,
+    "start": 46.849999,
+    "startOffset": 767,
+    "end": 54.61,
+    "endOffset": 907
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 10,
+    "start": 54.86,
+    "startOffset": 910,
+    "end": 59.24,
+    "endOffset": 1002
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 11,
+    "start": 60.2,
+    "startOffset": 1005,
+    "end": 65.99000000000001,
+    "endOffset": 1112
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 12,
+    "start": 66.809999,
+    "startOffset": 1115,
+    "end": 72.7,
+    "endOffset": 1244
+  },
+  {
+    "book": "Psalms",
+    "chapter": 21,
+    "verse": 13,
+    "start": 73.61,
+    "startOffset": 1247,
+    "end": 78.63000000000001,
+    "endOffset": 1329
+  }
+]

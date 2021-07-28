@@ -1,0 +1,290 @@
+[
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 1,
+    "start": 1.88,
+    "startOffset": 2,
+    "end": 16.819999000000003,
+    "endOffset": 323
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 2,
+    "start": 17.35,
+    "startOffset": 327,
+    "end": 27.609999,
+    "endOffset": 549
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 3,
+    "start": 28.189998999999997,
+    "startOffset": 552,
+    "end": 35.519999999999996,
+    "endOffset": 714
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 4,
+    "start": 35.97,
+    "startOffset": 717,
+    "end": 44.27,
+    "endOffset": 860
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 5,
+    "start": 45.88,
+    "startOffset": 863,
+    "end": 53.16,
+    "endOffset": 1013
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 6,
+    "start": 54.109999,
+    "startOffset": 1016,
+    "end": 57.45,
+    "endOffset": 1086
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 7,
+    "start": 58.12,
+    "startOffset": 1089,
+    "end": 63.88,
+    "endOffset": 1131
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 8,
+    "start": 64.24,
+    "startOffset": 1134,
+    "end": 66.87,
+    "endOffset": 1171
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 9,
+    "start": 66.87,
+    "startOffset": 1174,
+    "end": 67.94,
+    "endOffset": 1226
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 10,
+    "start": 68.219999,
+    "startOffset": 1229,
+    "end": 75.25,
+    "endOffset": 1349
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 11,
+    "start": 76.23,
+    "startOffset": 1352,
+    "end": 80.41999899999999,
+    "endOffset": 1449
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 12,
+    "start": 81.48,
+    "startOffset": 1452,
+    "end": 97.14999999999999,
+    "endOffset": 1759
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 13,
+    "start": 98.13,
+    "startOffset": 1762,
+    "end": 109.30000000000001,
+    "endOffset": 1960
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 14,
+    "start": 110.18,
+    "startOffset": 1963,
+    "end": 116.08,
+    "endOffset": 2073
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 15,
+    "start": 116.61,
+    "startOffset": 2076,
+    "end": 125.739999,
+    "endOffset": 2264
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 16,
+    "start": 126.67,
+    "startOffset": 2267,
+    "end": 136.73,
+    "endOffset": 2501
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 17,
+    "start": 136.96,
+    "startOffset": 2504,
+    "end": 144.059999,
+    "endOffset": 2638
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 18,
+    "start": 144.699999,
+    "startOffset": 2641,
+    "end": 154.48,
+    "endOffset": 2848
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 19,
+    "start": 155.24,
+    "startOffset": 2851,
+    "end": 165.21,
+    "endOffset": 3049
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 20,
+    "start": 166.17,
+    "startOffset": 3052,
+    "end": 173.11,
+    "endOffset": 3191
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 21,
+    "start": 173.37,
+    "startOffset": 3194,
+    "end": 180.35,
+    "endOffset": 3324
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 22,
+    "start": 180.67,
+    "startOffset": 3327,
+    "end": 194.32999999999998,
+    "endOffset": 3593
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 23,
+    "start": 195.25,
+    "startOffset": 3596,
+    "end": 198.85999999999999,
+    "endOffset": 3681
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 24,
+    "start": 199.32,
+    "startOffset": 3684,
+    "end": 209.899999,
+    "endOffset": 3879
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 25,
+    "start": 210.849999,
+    "startOffset": 3882,
+    "end": 220.44,
+    "endOffset": 4092
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 26,
+    "start": 222.25,
+    "startOffset": 4095,
+    "end": 233.499999,
+    "endOffset": 4285
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 27,
+    "start": 233.779999,
+    "startOffset": 4288,
+    "end": 246.04,
+    "endOffset": 4536
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 28,
+    "start": 246.54,
+    "startOffset": 4539,
+    "end": 259.07000000000005,
+    "endOffset": 4777
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 29,
+    "start": 260.08,
+    "startOffset": 4780,
+    "end": 266.47999999999996,
+    "endOffset": 4914
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 30,
+    "start": 267.12,
+    "startOffset": 4917,
+    "end": 273.69,
+    "endOffset": 5060
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 31,
+    "start": 273.94,
+    "startOffset": 5063,
+    "end": 285.66999999999996,
+    "endOffset": 5290
+  },
+  {
+    "book": "Esther",
+    "chapter": 9,
+    "verse": 32,
+    "start": 286.559999,
+    "startOffset": 5293,
+    "end": 291.04,
+    "endOffset": 5382
+  }
+]

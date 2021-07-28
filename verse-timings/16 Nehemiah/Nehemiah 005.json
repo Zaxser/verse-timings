@@ -1,0 +1,173 @@
+[
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 1,
+    "start": 1.98,
+    "startOffset": 2,
+    "end": 6.16,
+    "endOffset": 92
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 2,
+    "start": 6.65,
+    "startOffset": 95,
+    "end": 12.649999999999999,
+    "endOffset": 225
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 3,
+    "start": 13.27,
+    "startOffset": 228,
+    "end": 19.75,
+    "endOffset": 357
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 4,
+    "start": 20.39,
+    "startOffset": 360,
+    "end": 25.68,
+    "endOffset": 471
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 5,
+    "start": 26.179999000000002,
+    "startOffset": 474,
+    "end": 41.41,
+    "endOffset": 776
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 6,
+    "start": 42.8,
+    "startOffset": 779,
+    "end": 45.879999000000005,
+    "endOffset": 838
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 7,
+    "start": 46.7,
+    "startOffset": 841,
+    "end": 56.46,
+    "endOffset": 1014
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 8,
+    "start": 56.77,
+    "startOffset": 1017,
+    "end": 70.73,
+    "endOffset": 1254
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 9,
+    "start": 71.539999,
+    "startOffset": 1257,
+    "end": 78.96000000000001,
+    "endOffset": 1391
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 10,
+    "start": 79.91,
+    "startOffset": 1394,
+    "end": 86.6,
+    "endOffset": 1515
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 11,
+    "start": 86.77,
+    "startOffset": 1518,
+    "end": 97.49,
+    "endOffset": 1728
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 12,
+    "start": 98.57,
+    "startOffset": 1731,
+    "end": 109.82,
+    "endOffset": 1931
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 13,
+    "start": 110.64,
+    "startOffset": 1934,
+    "end": 127.17,
+    "endOffset": 2207
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 14,
+    "start": 128.27,
+    "startOffset": 2210,
+    "end": 140.29,
+    "endOffset": 2463
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 15,
+    "start": 141.04,
+    "startOffset": 2466,
+    "end": 154.82999999999998,
+    "endOffset": 2714
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 16,
+    "start": 155.58,
+    "startOffset": 2717,
+    "end": 162.64000000000001,
+    "endOffset": 2848
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 17,
+    "start": 163.46,
+    "startOffset": 2851,
+    "end": 170.75,
+    "endOffset": 2999
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 18,
+    "start": 171.65,
+    "startOffset": 3002,
+    "end": 187.62,
+    "endOffset": 3263
+  },
+  {
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verse": 19,
+    "start": 188.37,
+    "startOffset": 3266,
+    "end": 192.089999,
+    "endOffset": 3348
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 1,
+    "start": 2.08,
+    "startOffset": 2,
+    "end": 9.939999,
+    "endOffset": 170
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 2,
+    "start": 10.5,
+    "startOffset": 173,
+    "end": 18.150000000000002,
+    "endOffset": 334
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 3,
+    "start": 19.049999,
+    "startOffset": 337,
+    "end": 31.200000000000003,
+    "endOffset": 489
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 4,
+    "start": 31.200000000000003,
+    "startOffset": 492,
+    "end": 37.95,
+    "endOffset": 639
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 5,
+    "start": 39.19,
+    "startOffset": 642,
+    "end": 43.61,
+    "endOffset": 720
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 6,
+    "start": 43.79,
+    "startOffset": 723,
+    "end": 49.919999,
+    "endOffset": 796
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 7,
+    "start": 50.4,
+    "startOffset": 799,
+    "end": 53.68,
+    "endOffset": 853
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 8,
+    "start": 54.82,
+    "startOffset": 856,
+    "end": 67.709999,
+    "endOffset": 1122
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 9,
+    "start": 68.219999,
+    "startOffset": 1125,
+    "end": 71.7,
+    "endOffset": 1176
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 10,
+    "start": 71.92,
+    "startOffset": 1179,
+    "end": 73.86,
+    "endOffset": 1220
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 11,
+    "start": 74.13,
+    "startOffset": 1223,
+    "end": 76.42,
+    "endOffset": 1257
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 12,
+    "start": 76.42,
+    "startOffset": 1260,
+    "end": 78.82000000000001,
+    "endOffset": 1297
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 13,
+    "start": 78.89,
+    "startOffset": 1300,
+    "end": 81.30000000000001,
+    "endOffset": 1342
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 14,
+    "start": 82.05,
+    "startOffset": 1345,
+    "end": 87.67,
+    "endOffset": 1468
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 15,
+    "start": 88.73,
+    "startOffset": 1471,
+    "end": 96.22,
+    "endOffset": 1654
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 16,
+    "start": 97.03,
+    "startOffset": 1657,
+    "end": 100.44,
+    "endOffset": 1732
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 17,
+    "start": 101.08,
+    "startOffset": 1735,
+    "end": 115.51,
+    "endOffset": 2018
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 18,
+    "start": 116.559999,
+    "startOffset": 2021,
+    "end": 131.73999999999998,
+    "endOffset": 2300
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 19,
+    "start": 132.87,
+    "startOffset": 2303,
+    "end": 145.17999999999998,
+    "endOffset": 2561
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 20,
+    "start": 145.85,
+    "startOffset": 2564,
+    "end": 156.099999,
+    "endOffset": 2747
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 21,
+    "start": 156.71,
+    "startOffset": 2750,
+    "end": 161.91,
+    "endOffset": 2872
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 22,
+    "start": 162.32999999999998,
+    "startOffset": 2875,
+    "end": 167.68,
+    "endOffset": 2983
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 23,
+    "start": 169.1,
+    "startOffset": 2986,
+    "end": 176.56,
+    "endOffset": 3157
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 24,
+    "start": 177.28,
+    "startOffset": 3160,
+    "end": 182.86,
+    "endOffset": 3268
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 25,
+    "start": 183.28,
+    "startOffset": 3271,
+    "end": 187.43,
+    "endOffset": 3361
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 26,
+    "start": 187.66,
+    "startOffset": 3364,
+    "end": 190.16000000000003,
+    "endOffset": 3417
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 27,
+    "start": 191.36,
+    "startOffset": 3420,
+    "end": 194.969999,
+    "endOffset": 3516
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 28,
+    "start": 195.53,
+    "startOffset": 3519,
+    "end": 200.09,
+    "endOffset": 3608
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 29,
+    "start": 200.57,
+    "startOffset": 3611,
+    "end": 206.99,
+    "endOffset": 3758
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 30,
+    "start": 206.99,
+    "startOffset": 3761,
+    "end": 213.35,
+    "endOffset": 3892
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 31,
+    "start": 213.79,
+    "startOffset": 3895,
+    "end": 218.84,
+    "endOffset": 4005
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 32,
+    "start": 219.42,
+    "startOffset": 4008,
+    "end": 228.17000000000002,
+    "endOffset": 4210
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 33,
+    "start": 228.98,
+    "startOffset": 4213,
+    "end": 236.35999999999999,
+    "endOffset": 4367
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 34,
+    "start": 237.26,
+    "startOffset": 4370,
+    "end": 242.41,
+    "endOffset": 4468
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 35,
+    "start": 242.889999,
+    "startOffset": 4471,
+    "end": 246.59,
+    "endOffset": 4545
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 36,
+    "start": 247.0,
+    "startOffset": 4548,
+    "end": 250.46,
+    "endOffset": 4621
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 37,
+    "start": 251.309999,
+    "startOffset": 4624,
+    "end": 259.94,
+    "endOffset": 4812
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 38,
+    "start": 260.809999,
+    "startOffset": 4815,
+    "end": 269.879999,
+    "endOffset": 5000
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 39,
+    "start": 270.24,
+    "startOffset": 5003,
+    "end": 274.88,
+    "endOffset": 5107
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 40,
+    "start": 275.42,
+    "startOffset": 5110,
+    "end": 292.92,
+    "endOffset": 5389
+  }
+]

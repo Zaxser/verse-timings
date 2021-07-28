@@ -4,197 +4,153 @@
     "chapter": 8,
     "verse": 1,
     "start": 2.43,
-    "startOffset": 2,
-    "end": 11.64,
-    "endOffset": 167
+    "end": 11.64
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 2,
     "start": 12.52,
-    "startOffset": 170,
-    "end": 18.229999000000003,
-    "endOffset": 280
+    "end": 18.229999000000003
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 3,
     "start": 19.16,
-    "startOffset": 283,
-    "end": 26.26,
-    "endOffset": 409
+    "end": 26.26
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 4,
     "start": 26.259999999999998,
-    "startOffset": 412,
-    "end": 33.099999,
-    "endOffset": 518
+    "end": 33.099999
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 5,
     "start": 34.209998999999996,
-    "startOffset": 521,
-    "end": 41.75,
-    "endOffset": 667
+    "end": 41.75
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 6,
     "start": 43.17,
-    "startOffset": 670,
-    "end": 48.19,
-    "endOffset": 772
+    "end": 48.19
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 7,
     "start": 48.389999,
-    "startOffset": 775,
-    "end": 54.139999,
-    "endOffset": 880
+    "end": 54.139999
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 8,
     "start": 55.09,
-    "startOffset": 883,
-    "end": 59.76,
-    "endOffset": 983
+    "end": 59.76
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 9,
     "start": 59.97,
-    "startOffset": 986,
-    "end": 71.87,
-    "endOffset": 1212
+    "end": 71.87
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 10,
     "start": 72.889999,
-    "startOffset": 1215,
-    "end": 76.97999999999999,
-    "endOffset": 1298
+    "end": 76.97999999999999
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 11,
     "start": 77.41,
-    "startOffset": 1301,
-    "end": 87.229999,
-    "endOffset": 1457
+    "end": 87.229999
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 12,
     "start": 88.629999,
-    "startOffset": 1460,
-    "end": 94.76,
-    "endOffset": 1563
+    "end": 94.76
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 13,
     "start": 97.21,
-    "startOffset": 1566,
-    "end": 112.78,
-    "endOffset": 1813
+    "end": 112.78
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 14,
     "start": 114.2,
-    "startOffset": 1816,
-    "end": 117.93,
-    "endOffset": 1905
+    "end": 117.93
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 15,
     "start": 119.07,
-    "startOffset": 1908,
-    "end": 120.96000000000001,
-    "endOffset": 1939
+    "end": 120.96000000000001
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 16,
     "start": 121.53999999999999,
-    "startOffset": 1942,
-    "end": 126.74,
-    "endOffset": 2026
+    "end": 126.74
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 17,
     "start": 127.379999,
-    "startOffset": 2029,
-    "end": 139.039999,
-    "endOffset": 2279
+    "end": 139.039999
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 18,
     "start": 139.96,
-    "startOffset": 2282,
-    "end": 144.009999,
-    "endOffset": 2359
+    "end": 144.009999
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 19,
     "start": 144.73,
-    "startOffset": 2362,
-    "end": 152.51,
-    "endOffset": 2497
+    "end": 152.51
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 20,
     "start": 153.469999,
-    "startOffset": 2500,
-    "end": 161.7,
-    "endOffset": 2637
+    "end": 161.7
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 21,
     "start": 162.639999,
-    "startOffset": 2640,
-    "end": 180.89000000000001,
-    "endOffset": 2896
+    "end": 180.89000000000001
   },
   {
     "book": "Genesis",
     "chapter": 8,
     "verse": 22,
     "start": 182.11,
-    "startOffset": 2899,
-    "end": 194.019999,
-    "endOffset": 3023
+    "end": 194.019999
   }
 ]

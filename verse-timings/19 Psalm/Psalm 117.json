@@ -1,0 +1,20 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 117,
+    "verse": 1,
+    "start": 2.74,
+    "startOffset": 2,
+    "end": 7.32,
+    "endOffset": 62
+  },
+  {
+    "book": "Psalms",
+    "chapter": 117,
+    "verse": 2,
+    "start": 8.24,
+    "startOffset": 65,
+    "end": 15.010000000000002,
+    "endOffset": 174
+  }
+]

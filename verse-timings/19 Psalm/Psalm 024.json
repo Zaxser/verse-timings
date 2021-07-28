@@ -1,0 +1,92 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 1,
+    "start": 2.61,
+    "startOffset": 2,
+    "end": 7.529999999999999,
+    "endOffset": 90
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 2,
+    "start": 8.099999,
+    "startOffset": 93,
+    "end": 11.43,
+    "endOffset": 165
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 3,
+    "start": 11.99,
+    "startOffset": 168,
+    "end": 15.850000000000001,
+    "endOffset": 248
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 4,
+    "start": 16.59,
+    "startOffset": 251,
+    "end": 22.48,
+    "endOffset": 361
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 5,
+    "start": 23.19,
+    "startOffset": 364,
+    "end": 27.509999,
+    "endOffset": 456
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 6,
+    "start": 28.21,
+    "startOffset": 459,
+    "end": 33.800000000000004,
+    "endOffset": 539
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 7,
+    "start": 34.84,
+    "startOffset": 542,
+    "end": 41.559999999999995,
+    "endOffset": 650
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 8,
+    "start": 42.32,
+    "startOffset": 653,
+    "end": 48.279999000000004,
+    "endOffset": 733
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 9,
+    "start": 48.58,
+    "startOffset": 736,
+    "end": 54.96,
+    "endOffset": 844
+  },
+  {
+    "book": "Psalms",
+    "chapter": 24,
+    "verse": 10,
+    "start": 55.71,
+    "startOffset": 847,
+    "end": 62.449999999999996,
+    "endOffset": 923
+  }
+]

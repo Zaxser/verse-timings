@@ -4,314 +4,244 @@
     "chapter": 4,
     "verse": 1,
     "start": 1.07,
-    "startOffset": 2,
-    "end": 4.1,
-    "endOffset": 39
+    "end": 4.1
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 2,
     "start": 4.31,
-    "startOffset": 42,
-    "end": 14.81,
-    "endOffset": 245
+    "end": 14.81
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 3,
     "start": 15.44,
-    "startOffset": 248,
-    "end": 24.560000000000002,
-    "endOffset": 440
+    "end": 24.560000000000002
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 4,
     "start": 25.16,
-    "startOffset": 443,
-    "end": 32.989999999999995,
-    "endOffset": 627
+    "end": 32.989999999999995
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 5,
     "start": 33.61,
-    "startOffset": 630,
-    "end": 38.339999999999996,
-    "endOffset": 747
+    "end": 38.339999999999996
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 6,
     "start": 38.76,
-    "startOffset": 750,
-    "end": 45.689999,
-    "endOffset": 887
+    "end": 45.689999
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 7,
     "start": 46.4,
-    "startOffset": 890,
-    "end": 59.839999999999996,
-    "endOffset": 1195
+    "end": 59.839999999999996
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 8,
     "start": 60.1,
-    "startOffset": 1198,
-    "end": 67.129999,
-    "endOffset": 1352
+    "end": 67.129999
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 9,
     "start": 67.129999,
-    "startOffset": 1355,
-    "end": 74.19000000000001,
-    "endOffset": 1500
+    "end": 74.19000000000001
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 10,
     "start": 74.55,
-    "startOffset": 1503,
-    "end": 80.81,
-    "endOffset": 1644
+    "end": 80.81
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 11,
     "start": 81.53999999999999,
-    "startOffset": 1647,
-    "end": 87.75,
-    "endOffset": 1758
+    "end": 87.75
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 12,
     "start": 88.17,
-    "startOffset": 1761,
-    "end": 98.61000000000001,
-    "endOffset": 1958
+    "end": 98.61000000000001
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 13,
     "start": 100.38,
-    "startOffset": 1961,
-    "end": 111.77999999999999,
-    "endOffset": 2206
+    "end": 111.77999999999999
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 14,
     "start": 112.61,
-    "startOffset": 2209,
-    "end": 121.68,
-    "endOffset": 2386
+    "end": 121.68
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 15,
     "start": 122.08,
-    "startOffset": 2389,
-    "end": 128.31,
-    "endOffset": 2539
+    "end": 128.31
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 16,
     "start": 128.77,
-    "startOffset": 2542,
-    "end": 133.39000000000001,
-    "endOffset": 2646
+    "end": 133.39000000000001
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 17,
     "start": 133.67,
-    "startOffset": 2649,
-    "end": 139.51999899999998,
-    "endOffset": 2772
+    "end": 139.51999899999998
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 18,
     "start": 140.28,
-    "startOffset": 2775,
-    "end": 152.26,
-    "endOffset": 3052
+    "end": 152.26
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 19,
     "start": 152.88,
-    "startOffset": 3055,
-    "end": 156.45000000000002,
-    "endOffset": 3121
+    "end": 156.45000000000002
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 20,
     "start": 157.559999,
-    "startOffset": 3124,
-    "end": 166.9,
-    "endOffset": 3308
+    "end": 166.9
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 21,
     "start": 167.8,
-    "startOffset": 3311,
-    "end": 173.92000000000002,
-    "endOffset": 3452
+    "end": 173.92000000000002
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 22,
     "start": 175.66,
-    "startOffset": 3455,
-    "end": 184.31,
-    "endOffset": 3626
+    "end": 184.31
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 23,
     "start": 184.87,
-    "startOffset": 3629,
-    "end": 192.439999,
-    "endOffset": 3762
+    "end": 192.439999
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 24,
     "start": 193.11,
-    "startOffset": 3765,
-    "end": 199.06,
-    "endOffset": 3915
+    "end": 199.06
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 25,
     "start": 199.59,
-    "startOffset": 3918,
-    "end": 207.82999999999998,
-    "endOffset": 4125
+    "end": 207.82999999999998
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 26,
     "start": 208.45,
-    "startOffset": 4128,
-    "end": 218.48,
-    "endOffset": 4320
+    "end": 218.48
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 27,
     "start": 219.87,
-    "startOffset": 4323,
-    "end": 228.939999,
-    "endOffset": 4509
+    "end": 228.939999
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 28,
     "start": 229.46,
-    "startOffset": 4512,
-    "end": 238.72,
-    "endOffset": 4684
+    "end": 238.72
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 29,
     "start": 239.09,
-    "startOffset": 4687,
-    "end": 243.81,
-    "endOffset": 4808
+    "end": 243.81
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 30,
     "start": 243.81,
-    "startOffset": 4811,
-    "end": 252.74,
-    "endOffset": 5000
+    "end": 252.74
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 31,
     "start": 253.41,
-    "startOffset": 5003,
-    "end": 265.87,
-    "endOffset": 5268
+    "end": 265.87
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 32,
     "start": 266.87,
-    "startOffset": 5271,
-    "end": 271.14999900000004,
-    "endOffset": 5356
+    "end": 271.14999900000004
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 33,
     "start": 271.14999900000004,
-    "startOffset": 5359,
-    "end": 277.21999999999997,
-    "endOffset": 5498
+    "end": 277.21999999999997
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 34,
     "start": 277.96,
-    "startOffset": 5501,
-    "end": 286.82,
-    "endOffset": 5702
+    "end": 286.82
   },
   {
     "book": "Leviticus",
     "chapter": 4,
     "verse": 35,
     "start": 287.359999,
-    "startOffset": 5705,
-    "end": 302.629999,
-    "endOffset": 6034
+    "end": 302.629999
   }
 ]

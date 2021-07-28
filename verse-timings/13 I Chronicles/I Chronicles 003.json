@@ -1,0 +1,218 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 1,
+    "start": 2.28,
+    "startOffset": 2,
+    "end": 11.01,
+    "endOffset": 167
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 2,
+    "start": 11.32,
+    "startOffset": 170,
+    "end": 17.29,
+    "endOffset": 286
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 3,
+    "start": 17.719999,
+    "startOffset": 289,
+    "end": 22.349999999999998,
+    "endOffset": 358
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 4,
+    "start": 22.95,
+    "startOffset": 361,
+    "end": 29.83,
+    "endOffset": 500
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 5,
+    "start": 30.130000000000003,
+    "startOffset": 503,
+    "end": 37.44,
+    "endOffset": 631
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 6,
+    "start": 38.05,
+    "startOffset": 634,
+    "end": 44.05,
+    "endOffset": 673
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 7,
+    "start": 44.269999999999996,
+    "startOffset": 676,
+    "end": 45.429999,
+    "endOffset": 709
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 8,
+    "start": 45.429999,
+    "startOffset": 712,
+    "end": 46.519999999999996,
+    "endOffset": 757
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 9,
+    "start": 47.32,
+    "startOffset": 760,
+    "end": 52.28,
+    "endOffset": 851
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 10,
+    "start": 53.43,
+    "startOffset": 854,
+    "end": 60.9,
+    "endOffset": 932
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 11,
+    "start": 60.9,
+    "startOffset": 935,
+    "end": 61.07,
+    "endOffset": 980
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 12,
+    "start": 61.07,
+    "startOffset": 983,
+    "end": 61.07,
+    "endOffset": 1031
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 13,
+    "start": 61.07,
+    "startOffset": 1034,
+    "end": 61.07,
+    "endOffset": 1082
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 14,
+    "start": 61.07,
+    "startOffset": 1085,
+    "end": 62.790000000000006,
+    "endOffset": 1113
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 15,
+    "start": 62.93,
+    "startOffset": 1116,
+    "end": 80.74,
+    "endOffset": 1228
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 16,
+    "start": 81.49,
+    "startOffset": 1231,
+    "end": 85.36999999999999,
+    "endOffset": 1292
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 17,
+    "start": 85.96,
+    "startOffset": 1295,
+    "end": 89.06,
+    "endOffset": 1345
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 18,
+    "start": 89.459999,
+    "startOffset": 1348,
+    "end": 94.89,
+    "endOffset": 1422
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 19,
+    "start": 95.68,
+    "startOffset": 1425,
+    "end": 103.66,
+    "endOffset": 1558
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 20,
+    "start": 104.45,
+    "startOffset": 1561,
+    "end": 109.55,
+    "endOffset": 1631
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 21,
+    "start": 110.38,
+    "startOffset": 1634,
+    "end": 117.73,
+    "endOffset": 1767
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 22,
+    "start": 118.15,
+    "startOffset": 1770,
+    "end": 126.019999,
+    "endOffset": 1895
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 23,
+    "start": 126.44999899999999,
+    "startOffset": 1898,
+    "end": 130.57,
+    "endOffset": 1965
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verse": 24,
+    "start": 131.05,
+    "startOffset": 1968,
+    "end": 138.89000000000001,
+    "endOffset": 2088
+  }
+]

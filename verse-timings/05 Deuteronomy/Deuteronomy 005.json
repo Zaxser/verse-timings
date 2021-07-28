@@ -1,0 +1,233 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 1,
+    "start": 2.4,
+    "end": 11.329998999999999
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 2,
+    "start": 12.58,
+    "end": 14.93
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 3,
+    "start": 15.719999,
+    "end": 21.669999999999998
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 4,
+    "start": 22.62,
+    "end": 26.2
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 5,
+    "start": 27.05,
+    "end": 35.05
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 6,
+    "start": 35.730000000000004,
+    "end": 40.09
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 7,
+    "start": 40.71,
+    "end": 42.55
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 8,
+    "start": 43.71,
+    "end": 51.660000000000004
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 9,
+    "start": 52.369999,
+    "end": 63.39
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 10,
+    "start": 64.16,
+    "end": 68.32
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 11,
+    "start": 69.71000000000001,
+    "end": 75.83999999999999
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 12,
+    "start": 77.27,
+    "end": 80.75
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 13,
+    "start": 81.559999,
+    "end": 83.87
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 14,
+    "start": 84.17,
+    "end": 102.29
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 15,
+    "start": 103.25,
+    "end": 115.47
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 16,
+    "start": 117.01,
+    "end": 125.73999900000001
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 17,
+    "start": 127.13,
+    "end": 128.23999999999998
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 18,
+    "start": 129.44,
+    "end": 130.93000000000004
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 19,
+    "start": 132.02,
+    "end": 133.22
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 20,
+    "start": 134.15,
+    "end": 136.41
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 21,
+    "start": 137.49,
+    "end": 147.78
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 22,
+    "start": 149.58,
+    "end": 164.46
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 23,
+    "start": 165.71,
+    "end": 174.76
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 24,
+    "start": 174.92,
+    "end": 185.0
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 25,
+    "start": 185.97,
+    "end": 193.57
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 26,
+    "start": 194.02,
+    "end": 200.1
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 27,
+    "start": 200.78,
+    "end": 209.93
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 28,
+    "start": 211.219999,
+    "end": 220.89
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 29,
+    "start": 221.54,
+    "end": 229.62
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 30,
+    "start": 230.38,
+    "end": 232.969999
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 31,
+    "start": 233.6,
+    "end": 244.749999
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 32,
+    "start": 246.4,
+    "end": 252.9
+  },
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 33,
+    "start": 253.35,
+    "end": 263.29999999999995
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 1,
+    "start": 12.349999,
+    "startOffset": 2,
+    "end": 22.65,
+    "endOffset": 204
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 2,
+    "start": 23.15,
+    "startOffset": 207,
+    "end": 34.409999,
+    "endOffset": 417
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 3,
+    "start": 35.5,
+    "startOffset": 420,
+    "end": 39.78,
+    "endOffset": 490
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 4,
+    "start": 40.41,
+    "startOffset": 493,
+    "end": 48.400000000000006,
+    "endOffset": 641
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 5,
+    "start": 49.389999,
+    "startOffset": 644,
+    "end": 54.78,
+    "endOffset": 745
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 6,
+    "start": 55.82,
+    "startOffset": 748,
+    "end": 64.43,
+    "endOffset": 940
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 7,
+    "start": 64.92,
+    "startOffset": 943,
+    "end": 71.46000000000001,
+    "endOffset": 1096
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 8,
+    "start": 72.73,
+    "startOffset": 1099,
+    "end": 82.37,
+    "endOffset": 1258
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 9,
+    "start": 83.17,
+    "startOffset": 1261,
+    "end": 91.069999,
+    "endOffset": 1406
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 10,
+    "start": 92.0,
+    "startOffset": 1409,
+    "end": 95.47,
+    "endOffset": 1480
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 11,
+    "start": 96.27,
+    "startOffset": 1483,
+    "end": 103.63,
+    "endOffset": 1619
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 12,
+    "start": 104.44,
+    "startOffset": 1622,
+    "end": 114.43,
+    "endOffset": 1796
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 13,
+    "start": 114.6,
+    "startOffset": 1799,
+    "end": 125.149999,
+    "endOffset": 1996
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 14,
+    "start": 126.07,
+    "startOffset": 1999,
+    "end": 131.92,
+    "endOffset": 2106
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 15,
+    "start": 132.8,
+    "startOffset": 2109,
+    "end": 138.86,
+    "endOffset": 2233
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 16,
+    "start": 139.57,
+    "startOffset": 2236,
+    "end": 151.04000000000002,
+    "endOffset": 2443
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 17,
+    "start": 152.139999,
+    "startOffset": 2446,
+    "end": 161.979999,
+    "endOffset": 2576
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 18,
+    "start": 163.61,
+    "startOffset": 2579,
+    "end": 168.10999999999999,
+    "endOffset": 2670
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 19,
+    "start": 168.91,
+    "startOffset": 2673,
+    "end": 177.69,
+    "endOffset": 2843
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 20,
+    "start": 178.25,
+    "startOffset": 2846,
+    "end": 187.06,
+    "endOffset": 2952
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 21,
+    "start": 187.82,
+    "startOffset": 2955,
+    "end": 197.26999999999998,
+    "endOffset": 3122
+  },
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 22,
+    "start": 199.14,
+    "startOffset": 3125,
+    "end": 208.709999,
+    "endOffset": 3303
+  }
+]

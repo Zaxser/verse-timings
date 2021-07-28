@@ -1,0 +1,282 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 1,
+    "start": 2.23,
+    "end": 9.999998999999999
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 2,
+    "start": 10.71,
+    "end": 17.219999
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 3,
+    "start": 17.49,
+    "end": 23.209999999999997
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 4,
+    "start": 23.43,
+    "end": 25.93
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 5,
+    "start": 26.389999,
+    "end": 29.669999999999998
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 6,
+    "start": 30.130000000000003,
+    "end": 41.18
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 7,
+    "start": 42.38,
+    "end": 50.93
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 8,
+    "start": 51.559999,
+    "end": 59.239999999999995
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 9,
+    "start": 59.97,
+    "end": 65.67999999999999
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 10,
+    "start": 65.92,
+    "end": 68.7
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 11,
+    "start": 69.03999999999999,
+    "end": 77.1
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 12,
+    "start": 79.66,
+    "end": 88.24
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 13,
+    "start": 88.779999,
+    "end": 99.38000000000001
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 14,
+    "start": 99.71000000000001,
+    "end": 107.48
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 15,
+    "start": 107.73,
+    "end": 110.46000000000001
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 16,
+    "start": 110.85,
+    "end": 116.58
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 17,
+    "start": 117.639999,
+    "end": 123.27000000000001
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 18,
+    "start": 123.66,
+    "end": 129.79
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 19,
+    "start": 130.35,
+    "end": 136.66
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 20,
+    "start": 137.42,
+    "end": 142.569999
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 21,
+    "start": 142.979999,
+    "end": 148.7
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 22,
+    "start": 149.29,
+    "end": 154.28
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 23,
+    "start": 155.059999,
+    "end": 160.2
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 24,
+    "start": 160.690001,
+    "end": 165.76000000000002
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 25,
+    "start": 166.26,
+    "end": 171.35000000000002
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 26,
+    "start": 172.07,
+    "end": 176.70000000000002
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 27,
+    "start": 177.38,
+    "end": 183.07000000000002
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 28,
+    "start": 183.78,
+    "end": 189.09
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 29,
+    "start": 189.849999,
+    "end": 195.04999899999999
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 30,
+    "start": 195.74999899999997,
+    "end": 200.78
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 31,
+    "start": 201.2,
+    "end": 205.82999999999998
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 32,
+    "start": 206.59,
+    "end": 211.75
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 33,
+    "start": 212.18,
+    "end": 217.67
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 34,
+    "start": 218.17,
+    "end": 222.9
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 35,
+    "start": 223.96,
+    "end": 229.14000000000001
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 36,
+    "start": 229.9,
+    "end": 238.82999999999998
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 37,
+    "start": 239.22,
+    "end": 244.41
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 38,
+    "start": 244.95,
+    "end": 250.08
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 39,
+    "start": 250.789999,
+    "end": 261.34
+  },
+  {
+    "book": "Numbers",
+    "chapter": 29,
+    "verse": 40,
+    "start": 262.429999,
+    "end": 266.62
+  }
+]

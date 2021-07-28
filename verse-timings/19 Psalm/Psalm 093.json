@@ -1,0 +1,47 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 93,
+    "verse": 1,
+    "start": 2.59,
+    "startOffset": 2,
+    "end": 12.3,
+    "endOffset": 171
+  },
+  {
+    "book": "Psalms",
+    "chapter": 93,
+    "verse": 2,
+    "start": 13.17,
+    "startOffset": 174,
+    "end": 16.05,
+    "endOffset": 233
+  },
+  {
+    "book": "Psalms",
+    "chapter": 93,
+    "verse": 3,
+    "start": 16.74,
+    "startOffset": 236,
+    "end": 22.259999999999998,
+    "endOffset": 340
+  },
+  {
+    "book": "Psalms",
+    "chapter": 93,
+    "verse": 4,
+    "start": 22.990000000000002,
+    "startOffset": 343,
+    "end": 29.24,
+    "endOffset": 440
+  },
+  {
+    "book": "Psalms",
+    "chapter": 93,
+    "verse": 5,
+    "start": 30.34,
+    "startOffset": 443,
+    "end": 35.699999999999996,
+    "endOffset": 521
+  }
+]
