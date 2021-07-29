@@ -4,107 +4,83 @@
     "chapter": 36,
     "verse": 1,
     "start": 0.84,
-    "startOffset": 2,
-    "end": 7.2,
-    "endOffset": 101
+    "end": 7.2
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 2,
     "start": 7.91,
-    "startOffset": 104,
-    "end": 11.94,
-    "endOffset": 188
+    "end": 11.94
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 3,
     "start": 12.69,
-    "startOffset": 191,
-    "end": 17.279999999999998,
-    "endOffset": 282
+    "end": 17.279999999999998
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 4,
     "start": 17.83,
-    "startOffset": 285,
-    "end": 23.49,
-    "endOffset": 387
+    "end": 23.49
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 5,
     "start": 24.509999999999998,
-    "startOffset": 390,
-    "end": 29.150000000000002,
-    "endOffset": 473
+    "end": 29.150000000000002
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 6,
     "start": 29.77,
-    "startOffset": 476,
-    "end": 37.65,
-    "endOffset": 592
+    "end": 37.65
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 7,
     "start": 38.39,
-    "startOffset": 595,
-    "end": 45.19,
-    "endOffset": 714
+    "end": 45.19
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 8,
     "start": 45.849999,
-    "startOffset": 717,
-    "end": 51.57,
-    "endOffset": 843
+    "end": 51.57
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 9,
     "start": 52.309999000000005,
-    "startOffset": 846,
-    "end": 56.66,
-    "endOffset": 916
+    "end": 56.66
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 10,
     "start": 57.68,
-    "startOffset": 919,
-    "end": 63.53,
-    "endOffset": 1020
+    "end": 63.53
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 11,
     "start": 64.28999999999999,
-    "startOffset": 1023,
-    "end": 68.63,
-    "endOffset": 1110
+    "end": 68.63
   },
   {
     "book": "Psalms",
     "chapter": 36,
     "verse": 12,
     "start": 69.52,
-    "startOffset": 1113,
-    "end": 74.99000000000001,
-    "endOffset": 1204
+    "end": 74.99000000000001
   }
 ]

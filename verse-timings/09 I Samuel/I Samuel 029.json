@@ -4,98 +4,76 @@
     "chapter": 29,
     "verse": 1,
     "start": 2.53,
-    "startOffset": 2,
-    "end": 8.07,
-    "endOffset": 127
+    "end": 8.07
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 2,
     "start": 8.67,
-    "startOffset": 130,
-    "end": 15.29,
-    "endOffset": 263
+    "end": 15.29
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 3,
     "start": 16.219999,
-    "startOffset": 266,
-    "end": 31.8,
-    "endOffset": 568
+    "end": 31.8
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 4,
     "start": 32.69,
-    "startOffset": 571,
-    "end": 49.449999999999996,
-    "endOffset": 958
+    "end": 49.449999999999996
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 5,
     "start": 50.230000000000004,
-    "startOffset": 961,
-    "end": 57.39,
-    "endOffset": 1084
+    "end": 57.39
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 6,
     "start": 58.59,
-    "startOffset": 1087,
-    "end": 73.79,
-    "endOffset": 1383
+    "end": 73.79
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 7,
     "start": 73.8,
-    "startOffset": 1386,
-    "end": 79.32000000000001,
-    "endOffset": 1477
+    "end": 79.32000000000001
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 8,
     "start": 80.67,
-    "startOffset": 1480,
-    "end": 89.96,
-    "endOffset": 1681
+    "end": 89.96
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 9,
     "start": 90.68,
-    "startOffset": 1684,
-    "end": 100.469999,
-    "endOffset": 1880
+    "end": 100.469999
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 10,
     "start": 101.02,
-    "startOffset": 1883,
-    "end": 107.99999899999999,
-    "endOffset": 2046
+    "end": 107.99999899999999
   },
   {
     "book": "1 Samuel",
     "chapter": 29,
     "verse": 11,
     "start": 109.459999,
-    "startOffset": 2049,
-    "end": 116.609999,
-    "endOffset": 2192
+    "end": 116.609999
   }
 ]

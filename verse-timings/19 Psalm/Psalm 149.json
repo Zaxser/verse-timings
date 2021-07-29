@@ -1,0 +1,65 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "verse": 1,
+    "start": 2.99,
+    "end": 8.23
+  },
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "verse": 2,
+    "start": 8.73,
+    "end": 14.11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "verse": 3,
+    "start": 14.309999,
+    "end": 19.94
+  },
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "verse": 4,
+    "start": 20.57,
+    "end": 25.14
+  },
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "verse": 5,
+    "start": 25.84,
+    "end": 29.619999999999997
+  },
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "verse": 6,
+    "start": 29.77,
+    "end": 33.78
+  },
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "verse": 7,
+    "start": 33.78,
+    "end": 38.46
+  },
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "verse": 8,
+    "start": 38.46,
+    "end": 44.53
+  },
+  {
+    "book": "Psalms",
+    "chapter": 149,
+    "verse": 9,
+    "start": 44.53,
+    "end": 52.45
+  }
+]

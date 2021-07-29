@@ -4,53 +4,41 @@
     "chapter": 25,
     "verse": 1,
     "start": 2.15,
-    "startOffset": 2,
-    "end": 3.96,
-    "endOffset": 44
+    "end": 3.96
   },
   {
     "book": "Job",
     "chapter": 25,
     "verse": 2,
     "start": 4.36,
-    "startOffset": 47,
-    "end": 7.54,
-    "endOffset": 113
+    "end": 7.54
   },
   {
     "book": "Job",
     "chapter": 25,
     "verse": 3,
     "start": 7.78,
-    "startOffset": 116,
-    "end": 11.34,
-    "endOffset": 189
+    "end": 11.34
   },
   {
     "book": "Job",
     "chapter": 25,
     "verse": 4,
     "start": 11.92,
-    "startOffset": 192,
-    "end": 16.599999,
-    "endOffset": 278
+    "end": 16.599999
   },
   {
     "book": "Job",
     "chapter": 25,
     "verse": 5,
     "start": 17.09,
-    "startOffset": 281,
-    "end": 21.86,
-    "endOffset": 366
+    "end": 21.86
   },
   {
     "book": "Job",
     "chapter": 25,
     "verse": 6,
     "start": 22.4,
-    "startOffset": 369,
-    "end": 27.48,
-    "endOffset": 439
+    "end": 27.48
   }
 ]

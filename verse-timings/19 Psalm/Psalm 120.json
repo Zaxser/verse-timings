@@ -1,0 +1,51 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 120,
+    "verse": 1,
+    "start": 3.06,
+    "end": 5.59
+  },
+  {
+    "book": "Psalms",
+    "chapter": 120,
+    "verse": 2,
+    "start": 6.15,
+    "end": 10.18
+  },
+  {
+    "book": "Psalms",
+    "chapter": 120,
+    "verse": 3,
+    "start": 11.0,
+    "end": 14.769999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 120,
+    "verse": 4,
+    "start": 15.23,
+    "end": 18.3
+  },
+  {
+    "book": "Psalms",
+    "chapter": 120,
+    "verse": 5,
+    "start": 19.32,
+    "end": 23.73
+  },
+  {
+    "book": "Psalms",
+    "chapter": 120,
+    "verse": 6,
+    "start": 24.65,
+    "end": 27.319999999999997
+  },
+  {
+    "book": "Psalms",
+    "chapter": 120,
+    "verse": 7,
+    "start": 27.67,
+    "end": 31.68
+  }
+]

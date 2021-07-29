@@ -1,0 +1,65 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "verse": 1,
+    "start": 3.05,
+    "end": 6.45
+  },
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "verse": 2,
+    "start": 7.07,
+    "end": 10.24
+  },
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "verse": 3,
+    "start": 11.059999,
+    "end": 13.85
+  },
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "verse": 4,
+    "start": 14.059999,
+    "end": 19.62
+  },
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "verse": 5,
+    "start": 20.36,
+    "end": 24.299999999999997
+  },
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "verse": 6,
+    "start": 25.11,
+    "end": 29.29
+  },
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "verse": 7,
+    "start": 29.82,
+    "end": 33.76
+  },
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "verse": 8,
+    "start": 34.4,
+    "end": 38.580000000000005
+  },
+  {
+    "book": "Psalms",
+    "chapter": 122,
+    "verse": 9,
+    "start": 39.3,
+    "end": 42.81
+  }
+]

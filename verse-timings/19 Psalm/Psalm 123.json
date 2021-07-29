@@ -1,0 +1,30 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 123,
+    "verse": 1,
+    "start": 3.23,
+    "end": 7.06
+  },
+  {
+    "book": "Psalms",
+    "chapter": 123,
+    "verse": 2,
+    "start": 7.78,
+    "end": 19.46
+  },
+  {
+    "book": "Psalms",
+    "chapter": 123,
+    "verse": 3,
+    "start": 20.37,
+    "end": 26.9
+  },
+  {
+    "book": "Psalms",
+    "chapter": 123,
+    "verse": 4,
+    "start": 27.54,
+    "end": 34.31
+  }
+]

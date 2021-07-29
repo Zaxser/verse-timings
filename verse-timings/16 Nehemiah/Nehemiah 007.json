@@ -4,656 +4,510 @@
     "chapter": 7,
     "verse": 1,
     "start": 2.24,
-    "startOffset": 2,
-    "end": 7.67,
-    "endOffset": 138
+    "end": 7.67
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 2,
     "start": 8.05,
-    "startOffset": 141,
-    "end": 15.739999999999998,
-    "endOffset": 285
+    "end": 15.739999999999998
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 3,
     "start": 16.449999,
-    "startOffset": 288,
-    "end": 29.749999,
-    "endOffset": 556
+    "end": 29.749999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 4,
     "start": 30.2,
-    "startOffset": 559,
-    "end": 34.379999,
-    "endOffset": 657
+    "end": 34.379999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 5,
     "start": 35.760000000000005,
-    "startOffset": 660,
-    "end": 48.239999000000005,
-    "endOffset": 897
+    "end": 48.239999000000005
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 6,
     "start": 48.67,
-    "startOffset": 900,
-    "end": 61.18,
-    "endOffset": 1135
+    "end": 61.18
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 7,
     "start": 61.980000000000004,
-    "startOffset": 1138,
-    "end": 75.23,
-    "endOffset": 1325
+    "end": 75.23
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 8,
     "start": 75.62,
-    "startOffset": 1328,
-    "end": 79.62,
-    "endOffset": 1391
+    "end": 79.62
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 9,
     "start": 80.13,
-    "startOffset": 1394,
-    "end": 82.67999999999999,
-    "endOffset": 1451
+    "end": 82.67999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 10,
     "start": 83.15,
-    "startOffset": 1454,
-    "end": 85.67999999999999,
-    "endOffset": 1501
+    "end": 85.67999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 11,
     "start": 86.03,
-    "startOffset": 1504,
-    "end": 86.53999999999999,
-    "endOffset": 1611
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 12,
     "start": 86.53999999999999,
-    "startOffset": 1614,
-    "end": 86.53999999999999,
-    "endOffset": 1673
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 13,
     "start": 86.53999999999999,
-    "startOffset": 1676,
-    "end": 86.53999999999999,
-    "endOffset": 1727
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 14,
     "start": 86.53999999999999,
-    "startOffset": 1730,
-    "end": 86.53999999999999,
-    "endOffset": 1782
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 15,
     "start": 86.53999999999999,
-    "startOffset": 1785,
-    "end": 86.53999999999999,
-    "endOffset": 1836
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 16,
     "start": 86.53999999999999,
-    "startOffset": 1839,
-    "end": 86.53999999999999,
-    "endOffset": 1890
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 17,
     "start": 86.53999999999999,
-    "startOffset": 1893,
-    "end": 86.53999999999999,
-    "endOffset": 1957
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 18,
     "start": 86.53999999999999,
-    "startOffset": 1960,
-    "end": 86.53999999999999,
-    "endOffset": 2018
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 19,
     "start": 86.53999999999999,
-    "startOffset": 2021,
-    "end": 86.53999999999999,
-    "endOffset": 2078
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 20,
     "start": 86.53999999999999,
-    "startOffset": 2081,
-    "end": 86.53999999999999,
-    "endOffset": 2129
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 21,
     "start": 86.53999999999999,
-    "startOffset": 2132,
-    "end": 86.53999999999999,
-    "endOffset": 2182
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 22,
     "start": 86.53999999999999,
-    "startOffset": 2185,
-    "end": 86.53999999999999,
-    "endOffset": 2239
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 23,
     "start": 86.53999999999999,
-    "startOffset": 2242,
-    "end": 86.53999999999999,
-    "endOffset": 2294
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 24,
     "start": 86.53999999999999,
-    "startOffset": 2297,
-    "end": 86.53999999999999,
-    "endOffset": 2342
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 25,
     "start": 86.53999999999999,
-    "startOffset": 2345,
-    "end": 86.53999999999999,
-    "endOffset": 2384
+    "end": 86.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 26,
     "start": 86.53999999999999,
-    "startOffset": 2387,
-    "end": 90.449999,
-    "endOffset": 2452
+    "end": 90.449999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 27,
     "start": 90.449999,
-    "startOffset": 2455,
-    "end": 90.59999900000001,
-    "endOffset": 2503
+    "end": 90.59999900000001
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 28,
     "start": 90.59999900000001,
-    "startOffset": 2506,
-    "end": 90.59999900000001,
-    "endOffset": 2544
+    "end": 90.59999900000001
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 29,
     "start": 90.59999900000001,
-    "startOffset": 2547,
-    "end": 90.59999900000001,
-    "endOffset": 2626
+    "end": 90.59999900000001
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 30,
     "start": 90.59999900000001,
-    "startOffset": 2629,
-    "end": 90.59999900000001,
-    "endOffset": 2682
+    "end": 90.59999900000001
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 31,
     "start": 90.59999900000001,
-    "startOffset": 2685,
-    "end": 90.59999900000001,
-    "endOffset": 2734
+    "end": 90.59999900000001
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 32,
     "start": 90.59999900000001,
-    "startOffset": 2737,
-    "end": 90.59999900000001,
-    "endOffset": 2790
+    "end": 90.59999900000001
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 33,
     "start": 90.59999900000001,
-    "startOffset": 2793,
-    "end": 91.73999900000001,
-    "endOffset": 2833
+    "end": 91.73999900000001
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 34,
     "start": 91.73999900000001,
-    "startOffset": 2836,
-    "end": 94.59,
-    "endOffset": 2905
+    "end": 94.59
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 35,
     "start": 94.84,
-    "startOffset": 2908,
-    "end": 96.01,
-    "endOffset": 2955
+    "end": 96.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 36,
     "start": 96.01,
-    "startOffset": 2958,
-    "end": 96.01,
-    "endOffset": 3011
+    "end": 96.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 37,
     "start": 96.01,
-    "startOffset": 3014,
-    "end": 96.01,
-    "endOffset": 3079
+    "end": 96.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 38,
     "start": 96.01,
-    "startOffset": 3082,
-    "end": 96.01,
-    "endOffset": 3144
+    "end": 96.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 39,
     "start": 96.01,
-    "startOffset": 3147,
-    "end": 96.01,
-    "endOffset": 3239
+    "end": 96.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 40,
     "start": 96.01,
-    "startOffset": 3242,
-    "end": 96.01,
-    "endOffset": 3289
+    "end": 96.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 41,
     "start": 96.01,
-    "startOffset": 3292,
-    "end": 96.01,
-    "endOffset": 3354
+    "end": 96.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 42,
     "start": 96.01,
-    "startOffset": 3357,
-    "end": 96.01,
-    "endOffset": 3404
+    "end": 96.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 43,
     "start": 96.01,
-    "startOffset": 3407,
-    "end": 96.01,
-    "endOffset": 3504
+    "end": 96.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 44,
     "start": 96.01,
-    "startOffset": 3507,
-    "end": 96.25,
-    "endOffset": 3569
+    "end": 96.25
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 45,
     "start": 96.25,
-    "startOffset": 3572,
-    "end": 102.25999900000001,
-    "endOffset": 3754
+    "end": 102.25999900000001
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 46,
     "start": 102.53,
-    "startOffset": 3757,
-    "end": 249.45,
-    "endOffset": 3844
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 47,
     "start": 249.45,
-    "startOffset": 3847,
-    "end": 249.45,
-    "endOffset": 3912
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 48,
     "start": 249.45,
-    "startOffset": 3915,
-    "end": 249.45,
-    "endOffset": 3986
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 49,
     "start": 249.45,
-    "startOffset": 3989,
-    "end": 249.45,
-    "endOffset": 4057
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 50,
     "start": 249.45,
-    "startOffset": 4060,
-    "end": 249.45,
-    "endOffset": 4129
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 51,
     "start": 249.45,
-    "startOffset": 4132,
-    "end": 249.45,
-    "endOffset": 4201
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 52,
     "start": 249.45,
-    "startOffset": 4204,
-    "end": 249.45,
-    "endOffset": 4278
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 53,
     "start": 249.45,
-    "startOffset": 4281,
-    "end": 249.45,
-    "endOffset": 4352
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 54,
     "start": 249.45,
-    "startOffset": 4355,
-    "end": 249.45,
-    "endOffset": 4426
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 55,
     "start": 249.45,
-    "startOffset": 4429,
-    "end": 249.45,
-    "endOffset": 4498
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 56,
     "start": 249.45,
-    "startOffset": 4501,
-    "end": 249.45,
-    "endOffset": 4548
+    "end": 249.45
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 57,
     "start": 249.45,
-    "startOffset": 4551,
-    "end": 254.349999,
-    "endOffset": 4659
+    "end": 254.349999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 58,
     "start": 254.57999900000002,
-    "startOffset": 4662,
-    "end": 257.519999,
-    "endOffset": 4731
+    "end": 257.519999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 59,
     "start": 257.729999,
-    "startOffset": 4734,
-    "end": 263.01,
-    "endOffset": 4843
+    "end": 263.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 60,
     "start": 263.7,
-    "startOffset": 4846,
-    "end": 267.88999900000005,
-    "endOffset": 4938
+    "end": 267.88999900000005
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 61,
     "start": 269.09,
-    "startOffset": 4941,
-    "end": 277.84,
-    "endOffset": 5122
+    "end": 277.84
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 62,
     "start": 278.23,
-    "startOffset": 5125,
-    "end": 283.80999899999995,
-    "endOffset": 5223
+    "end": 283.80999899999995
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 63,
     "start": 284.25999899999994,
-    "startOffset": 5226,
-    "end": 293.1,
-    "endOffset": 5418
+    "end": 293.1
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 64,
     "start": 293.54,
-    "startOffset": 5421,
-    "end": 300.709999,
-    "endOffset": 5573
+    "end": 300.709999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 65,
     "start": 301.37,
-    "startOffset": 5576,
-    "end": 306.85999999999996,
-    "endOffset": 5710
+    "end": 306.85999999999996
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 66,
     "start": 309.01,
-    "startOffset": 5713,
-    "end": 312.92,
-    "endOffset": 5800
+    "end": 312.92
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 67,
     "start": 313.15,
-    "startOffset": 5803,
-    "end": 321.66,
-    "endOffset": 5987
+    "end": 321.66
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 68,
     "start": 322.33,
-    "startOffset": 5990,
-    "end": 326.39000000000004,
-    "endOffset": 6073
+    "end": 326.39000000000004
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 69,
     "start": 326.62,
-    "startOffset": 6076,
-    "end": 331.10999999999996,
-    "endOffset": 6163
+    "end": 331.10999999999996
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 70,
     "start": 332.2,
-    "startOffset": 6166,
-    "end": 341.149999,
-    "endOffset": 6339
+    "end": 341.149999
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 71,
     "start": 341.75,
-    "startOffset": 6342,
-    "end": 348.01,
-    "endOffset": 6491
+    "end": 348.01
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 72,
     "start": 348.85,
-    "startOffset": 6494,
-    "end": 356.43,
-    "endOffset": 6648
+    "end": 356.43
   },
   {
     "book": "Nehemiah",
     "chapter": 7,
     "verse": 73,
     "start": 356.88,
-    "startOffset": 6651,
-    "end": 368.31,
-    "endOffset": 6876
+    "end": 368.31
   }
 ]

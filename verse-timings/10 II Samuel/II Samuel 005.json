@@ -4,224 +4,174 @@
     "chapter": 5,
     "verse": 1,
     "start": 2.04,
-    "startOffset": 2,
-    "end": 7.949999999999999,
-    "endOffset": 115
+    "end": 7.949999999999999
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 2,
     "start": 8.26,
-    "startOffset": 118,
-    "end": 18.42,
-    "endOffset": 321
+    "end": 18.42
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 3,
     "start": 19.23,
-    "startOffset": 324,
-    "end": 27.45,
-    "endOffset": 486
+    "end": 27.45
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 4,
     "start": 28.67,
-    "startOffset": 489,
-    "end": 33.18,
-    "endOffset": 566
+    "end": 33.18
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 5,
     "start": 33.799999,
-    "startOffset": 569,
-    "end": 41.78,
-    "endOffset": 705
+    "end": 41.78
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 6,
     "start": 42.87,
-    "startOffset": 708,
-    "end": 54.980000000000004,
-    "endOffset": 946
+    "end": 54.980000000000004
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 7,
     "start": 55.6,
-    "startOffset": 949,
-    "end": 59.76,
-    "endOffset": 1027
+    "end": 59.76
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 8,
     "start": 60.28,
-    "startOffset": 1030,
-    "end": 72.61999999999999,
-    "endOffset": 1284
+    "end": 72.61999999999999
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 9,
     "start": 73.93,
-    "startOffset": 1287,
-    "end": 81.089999,
-    "endOffset": 1397
+    "end": 81.089999
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 10,
     "start": 81.089999,
-    "startOffset": 1400,
-    "end": 85.53,
-    "endOffset": 1473
+    "end": 85.53
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 11,
     "start": 86.99,
-    "startOffset": 1476,
-    "end": 94.22,
-    "endOffset": 1599
+    "end": 94.22
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 12,
     "start": 94.84,
-    "startOffset": 1602,
-    "end": 100.57000000000001,
-    "endOffset": 1738
+    "end": 100.57000000000001
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 13,
     "start": 101.71000000000001,
-    "startOffset": 1741,
-    "end": 109.14999999999999,
-    "endOffset": 1886
+    "end": 109.14999999999999
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 14,
     "start": 109.78,
-    "startOffset": 1889,
-    "end": 115.8,
-    "endOffset": 2004
+    "end": 115.8
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 15,
     "start": 116.58,
-    "startOffset": 2007,
-    "end": 121.24,
-    "endOffset": 2054
+    "end": 121.24
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 16,
     "start": 121.24,
-    "startOffset": 2057,
-    "end": 123.44,
-    "endOffset": 2096
+    "end": 123.44
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 17,
     "start": 125.25,
-    "startOffset": 2099,
-    "end": 133.05,
-    "endOffset": 2268
+    "end": 133.05
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 18,
     "start": 133.78,
-    "startOffset": 2271,
-    "end": 136.38,
-    "endOffset": 2343
+    "end": 136.38
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 19,
     "start": 136.60999999999999,
-    "startOffset": 2346,
-    "end": 147.65,
-    "endOffset": 2556
+    "end": 147.65
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 20,
     "start": 148.98,
-    "startOffset": 2559,
-    "end": 160.939999,
-    "endOffset": 2763
+    "end": 160.939999
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 21,
     "start": 161.469999,
-    "startOffset": 2766,
-    "end": 166.36,
-    "endOffset": 2833
+    "end": 166.36
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 22,
     "start": 167.87,
-    "startOffset": 2836,
-    "end": 171.02,
-    "endOffset": 2921
+    "end": 171.02
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 23,
     "start": 171.66,
-    "startOffset": 2924,
-    "end": 179.73,
-    "endOffset": 3075
+    "end": 179.73
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 24,
     "start": 180.359999,
-    "startOffset": 3078,
-    "end": 189.99,
-    "endOffset": 3284
+    "end": 189.99
   },
   {
     "book": "2 Samuel",
     "chapter": 5,
     "verse": 25,
     "start": 191.08,
-    "startOffset": 3287,
-    "end": 196.84999900000003,
-    "endOffset": 3396
+    "end": 196.84999900000003
   }
 ]

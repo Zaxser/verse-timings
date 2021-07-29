@@ -4,215 +4,167 @@
     "chapter": 19,
     "verse": 1,
     "start": 2.15,
-    "startOffset": 2,
-    "end": 5.95,
-    "endOffset": 90
+    "end": 5.95
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 2,
     "start": 6.4,
-    "startOffset": 93,
-    "end": 17.659999000000003,
-    "endOffset": 325
+    "end": 17.659999000000003
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 3,
     "start": 18.219999,
-    "startOffset": 328,
-    "end": 26.62,
-    "endOffset": 482
+    "end": 26.62
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 4,
     "start": 27.639999,
-    "startOffset": 485,
-    "end": 38.169999999999995,
-    "endOffset": 706
+    "end": 38.169999999999995
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 5,
     "start": 38.17,
-    "startOffset": 707,
-    "end": 50.379999999999995,
-    "endOffset": 942
+    "end": 50.379999999999995
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 6,
     "start": 50.38,
-    "startOffset": 943,
-    "end": 57.91,
-    "endOffset": 1049
+    "end": 57.91
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 7,
     "start": 57.91,
-    "startOffset": 1050,
-    "end": 67.02,
-    "endOffset": 1202
+    "end": 67.02
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 8,
     "start": 67.02,
-    "startOffset": 1203,
-    "end": 75.03999999999999,
-    "endOffset": 1344
+    "end": 75.03999999999999
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 9,
     "start": 75.04,
-    "startOffset": 1345,
-    "end": 82.35,
-    "endOffset": 1478
+    "end": 82.35
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 10,
     "start": 82.349999,
-    "startOffset": 1479,
-    "end": 93.08999999999999,
-    "endOffset": 1668
+    "end": 93.08999999999999
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 11,
     "start": 93.09,
-    "startOffset": 1669,
-    "end": 102.98,
-    "endOffset": 1870
+    "end": 102.98
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 12,
     "start": 102.98,
-    "startOffset": 1871,
-    "end": 107.67999999999999,
-    "endOffset": 1948
+    "end": 107.67999999999999
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 13,
     "start": 107.68,
-    "startOffset": 1949,
-    "end": 114.42,
-    "endOffset": 2079
+    "end": 114.42
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 14,
     "start": 114.42,
-    "startOffset": 2080,
-    "end": 117.97,
-    "endOffset": 2148
+    "end": 117.97
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 15,
     "start": 117.969999,
-    "startOffset": 2149,
-    "end": 123.65,
-    "endOffset": 2259
+    "end": 123.65
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 16,
     "start": 123.65,
-    "startOffset": 2260,
-    "end": 129.92999999999998,
-    "endOffset": 2379
+    "end": 129.92999999999998
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 17,
     "start": 129.93,
-    "startOffset": 2380,
-    "end": 140.019999,
-    "endOffset": 2564
+    "end": 140.019999
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 18,
     "start": 140.02,
-    "startOffset": 2565,
-    "end": 151.77000000000004,
-    "endOffset": 2708
+    "end": 151.77000000000004
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 19,
     "start": 151.77000000000004,
-    "startOffset": 2709,
-    "end": 155.57,
-    "endOffset": 2777
+    "end": 155.57
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 20,
     "start": 155.57,
-    "startOffset": 2778,
-    "end": 167.46,
-    "endOffset": 2993
+    "end": 167.46
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 21,
     "start": 167.49,
-    "startOffset": 2994,
-    "end": 177.28,
-    "endOffset": 3156
+    "end": 177.28
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 22,
     "start": 177.28,
-    "startOffset": 3157,
-    "end": 188.4,
-    "endOffset": 3328
+    "end": 188.4
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 23,
     "start": 188.4,
-    "startOffset": 3329,
-    "end": 197.769999,
-    "endOffset": 3476
+    "end": 197.769999
   },
   {
     "book": "1 Samuel",
     "chapter": 19,
     "verse": 24,
     "start": 197.769999,
-    "startOffset": 3477,
-    "end": 210.21,
-    "endOffset": 3662
+    "end": 210.21
   }
 ]

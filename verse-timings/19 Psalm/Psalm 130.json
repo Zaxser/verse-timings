@@ -1,0 +1,58 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 130,
+    "verse": 1,
+    "start": 3.74,
+    "end": 6.26
+  },
+  {
+    "book": "Psalms",
+    "chapter": 130,
+    "verse": 2,
+    "start": 7.26,
+    "end": 12.469999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 130,
+    "verse": 3,
+    "start": 13.38,
+    "end": 17.909999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 130,
+    "verse": 4,
+    "start": 19.25,
+    "end": 22.1
+  },
+  {
+    "book": "Psalms",
+    "chapter": 130,
+    "verse": 5,
+    "start": 23.21,
+    "end": 27.779999999999998
+  },
+  {
+    "book": "Psalms",
+    "chapter": 130,
+    "verse": 6,
+    "start": 28.0,
+    "end": 35.889998999999996
+  },
+  {
+    "book": "Psalms",
+    "chapter": 130,
+    "verse": 7,
+    "start": 37.369999,
+    "end": 42.51
+  },
+  {
+    "book": "Psalms",
+    "chapter": 130,
+    "verse": 8,
+    "start": 43.45,
+    "end": 46.329999
+  }
+]

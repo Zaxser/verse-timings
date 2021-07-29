@@ -28,8 +28,16 @@ Dir.foreach("audio-chapters").each do |audio_chapter|
   book_name = audio_chapter.split(" ")[1...-1].join(" ")
   chapter = audio_chapter.split(" ")[-1].split(".")[0].to_i
 
+  # Getting rid of Roman Numerals is always more complicated than you think.
+  words = book_name.split(" ").map do |word|
+    next "1" if word == "I"
+    next "2" if word == "II"
+    next "3" if word == "III"
+    word
+  end
+
+  book_name = words.join(" ")
   book = Kj::Book.from_name_or_number(
-    book_name.gsub("III", "3").gsub("II", "2").gsub("I", "1")
   )
 
   book_id = "#{book.id.to_s.rjust(2, "0")} #{book_name}"

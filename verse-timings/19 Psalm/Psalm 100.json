@@ -4,44 +4,34 @@
     "chapter": 100,
     "verse": 1,
     "start": 2.48,
-    "startOffset": 2,
-    "end": 5.06,
-    "endOffset": 49
+    "end": 5.06
   },
   {
     "book": "Psalms",
     "chapter": 100,
     "verse": 2,
     "start": 5.58,
-    "startOffset": 52,
-    "end": 9.16,
-    "endOffset": 119
+    "end": 9.16
   },
   {
     "book": "Psalms",
     "chapter": 100,
     "verse": 3,
     "start": 9.48,
-    "startOffset": 122,
-    "end": 17.25,
-    "endOffset": 252
+    "end": 17.25
   },
   {
     "book": "Psalms",
     "chapter": 100,
     "verse": 4,
     "start": 17.949999,
-    "startOffset": 255,
-    "end": 24.25,
-    "endOffset": 368
+    "end": 24.25
   },
   {
     "book": "Psalms",
     "chapter": 100,
     "verse": 5,
     "start": 24.759999999999998,
-    "startOffset": 371,
-    "end": 30.72,
-    "endOffset": 460
+    "end": 30.72
   }
 ]

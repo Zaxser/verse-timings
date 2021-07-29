@@ -4,143 +4,111 @@
     "chapter": 91,
     "verse": 1,
     "start": 3.23,
-    "startOffset": 2,
-    "end": 7.99,
-    "endOffset": 100
+    "end": 7.99
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 2,
     "start": 8.88,
-    "startOffset": 103,
-    "end": 14.279999,
-    "endOffset": 187
+    "end": 14.279999
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 3,
     "start": 14.95,
-    "startOffset": 190,
-    "end": 19.03,
-    "endOffset": 280
+    "end": 19.03
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 4,
     "start": 19.6,
-    "startOffset": 283,
-    "end": 25.0,
-    "endOffset": 401
+    "end": 25.0
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 5,
     "start": 26.0,
-    "startOffset": 404,
-    "end": 30.249999,
-    "endOffset": 490
+    "end": 30.249999
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 6,
     "start": 30.719999,
-    "startOffset": 493,
-    "end": 35.89,
-    "endOffset": 589
+    "end": 35.89
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 7,
     "start": 36.84,
-    "startOffset": 592,
-    "end": 43.06,
-    "endOffset": 694
+    "end": 43.06
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 8,
     "start": 43.76,
-    "startOffset": 697,
-    "end": 47.790000000000006,
-    "endOffset": 768
+    "end": 47.790000000000006
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 9,
     "start": 48.92,
-    "startOffset": 771,
-    "end": 53.139999,
-    "endOffset": 858
+    "end": 53.139999
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 10,
     "start": 53.59,
-    "startOffset": 861,
-    "end": 57.51,
-    "endOffset": 941
+    "end": 57.51
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 11,
     "start": 58.15,
-    "startOffset": 944,
-    "end": 61.959999999999994,
-    "endOffset": 1019
+    "end": 61.959999999999994
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 12,
     "start": 62.599999,
-    "startOffset": 1022,
-    "end": 66.50999999999999,
-    "endOffset": 1101
+    "end": 66.50999999999999
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 13,
     "start": 66.78999999999999,
-    "startOffset": 1104,
-    "end": 72.239999,
-    "endOffset": 1205
+    "end": 72.239999
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 14,
     "start": 73.799999,
-    "startOffset": 1208,
-    "end": 80.58000000000001,
-    "endOffset": 1329
+    "end": 80.58000000000001
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 15,
     "start": 81.22,
-    "startOffset": 1332,
-    "end": 87.529999,
-    "endOffset": 1443
+    "end": 87.529999
   },
   {
     "book": "Psalms",
     "chapter": 91,
     "verse": 16,
     "start": 88.09,
-    "startOffset": 1446,
-    "end": 91.72,
-    "endOffset": 1506
+    "end": 91.72
   }
 ]

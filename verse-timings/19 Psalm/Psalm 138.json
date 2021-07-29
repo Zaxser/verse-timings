@@ -1,0 +1,58 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 138,
+    "verse": 1,
+    "start": 3.22,
+    "end": 7.569999999999999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 138,
+    "verse": 2,
+    "start": 8.25,
+    "end": 16.3
+  },
+  {
+    "book": "Psalms",
+    "chapter": 138,
+    "verse": 3,
+    "start": 17.27,
+    "end": 22.490000000000002
+  },
+  {
+    "book": "Psalms",
+    "chapter": 138,
+    "verse": 4,
+    "start": 23.28,
+    "end": 27.24
+  },
+  {
+    "book": "Psalms",
+    "chapter": 138,
+    "verse": 5,
+    "start": 27.41,
+    "end": 31.630000000000003
+  },
+  {
+    "book": "Psalms",
+    "chapter": 138,
+    "verse": 6,
+    "start": 32.42,
+    "end": 39.04
+  },
+  {
+    "book": "Psalms",
+    "chapter": 138,
+    "verse": 7,
+    "start": 40.11,
+    "end": 48.949999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 138,
+    "verse": 8,
+    "start": 49.92,
+    "end": 58.01
+  }
+]

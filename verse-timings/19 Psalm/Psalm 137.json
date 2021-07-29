@@ -1,0 +1,65 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "verse": 1,
+    "start": 4.3,
+    "end": 11.52
+  },
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "verse": 2,
+    "start": 12.65,
+    "end": 15.42
+  },
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "verse": 3,
+    "start": 15.86,
+    "end": 27.3
+  },
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "verse": 4,
+    "start": 29.48,
+    "end": 33.479999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "verse": 5,
+    "start": 34.799999,
+    "end": 39.0
+  },
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "verse": 6,
+    "start": 40.01,
+    "end": 48.050000000000004
+  },
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "verse": 7,
+    "start": 50.19,
+    "end": 56.67
+  },
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "verse": 8,
+    "start": 57.96,
+    "end": 64.09
+  },
+  {
+    "book": "Psalms",
+    "chapter": 137,
+    "verse": 9,
+    "start": 64.66,
+    "end": 69.33
+  }
+]

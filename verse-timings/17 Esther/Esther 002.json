@@ -4,206 +4,160 @@
     "chapter": 2,
     "verse": 1,
     "start": 1.96,
-    "startOffset": 2,
-    "end": 9.5,
-    "endOffset": 146
+    "end": 9.5
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 2,
     "start": 10.34,
-    "startOffset": 149,
-    "end": 15.42,
-    "endOffset": 256
+    "end": 15.42
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 3,
     "start": 15.58,
-    "startOffset": 259,
-    "end": 29.509998999999997,
-    "endOffset": 560
+    "end": 29.509998999999997
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 4,
     "start": 30.0,
-    "startOffset": 563,
-    "end": 37.550000000000004,
-    "endOffset": 679
+    "end": 37.550000000000004
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 5,
     "start": 38.96,
-    "startOffset": 682,
-    "end": 47.58,
-    "endOffset": 822
+    "end": 47.58
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 6,
     "start": 47.58,
-    "startOffset": 825,
-    "end": 55.42,
-    "endOffset": 998
+    "end": 55.42
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 7,
     "start": 56.49,
-    "startOffset": 1001,
-    "end": 67.84,
-    "endOffset": 1222
+    "end": 67.84
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 8,
     "start": 68.599999,
-    "startOffset": 1225,
-    "end": 80.65,
-    "endOffset": 1490
+    "end": 80.65
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 9,
     "start": 81.05000000000001,
-    "startOffset": 1493,
-    "end": 96.92,
-    "endOffset": 1803
+    "end": 96.92
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 10,
     "start": 98.08,
-    "startOffset": 1806,
-    "end": 103.639999,
-    "endOffset": 1912
+    "end": 103.639999
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 11,
     "start": 104.589999,
-    "startOffset": 1915,
-    "end": 110.31,
-    "endOffset": 2037
+    "end": 110.31
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 12,
     "start": 111.75,
-    "startOffset": 2040,
-    "end": 126.96,
-    "endOffset": 2364
+    "end": 126.96
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 13,
     "start": 127.51,
-    "startOffset": 2368,
-    "end": 134.52,
-    "endOffset": 2514
+    "end": 134.52
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 14,
     "start": 135.03,
-    "startOffset": 2517,
-    "end": 148.54,
-    "endOffset": 2790
+    "end": 148.54
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 15,
     "start": 150.24,
-    "startOffset": 2793,
-    "end": 165.95,
-    "endOffset": 3106
+    "end": 165.95
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 16,
     "start": 166.9,
-    "startOffset": 3109,
-    "end": 174.11,
-    "endOffset": 3249
+    "end": 174.11
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 17,
     "start": 175.44,
-    "startOffset": 3252,
-    "end": 186.88000000000002,
-    "endOffset": 3455
+    "end": 186.88000000000002
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 18,
     "start": 187.95,
-    "startOffset": 3458,
-    "end": 196.689999,
-    "endOffset": 3641
+    "end": 196.689999
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 19,
     "start": 197.59,
-    "startOffset": 3644,
-    "end": 201.94000000000003,
-    "endOffset": 3741
+    "end": 201.94000000000003
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 20,
     "start": 202.35,
-    "startOffset": 3744,
-    "end": 209.949999,
-    "endOffset": 3911
+    "end": 209.949999
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 21,
     "start": 211.17,
-    "startOffset": 3914,
-    "end": 221.48999999999998,
-    "endOffset": 4107
+    "end": 221.48999999999998
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 22,
     "start": 222.08999999999997,
-    "startOffset": 4110,
-    "end": 229.57999900000002,
-    "endOffset": 4238
+    "end": 229.57999900000002
   },
   {
     "book": "Esther",
     "chapter": 2,
     "verse": 23,
     "start": 230.34,
-    "startOffset": 4241,
-    "end": 238.53,
-    "endOffset": 4411
+    "end": 238.53
   }
 ]

@@ -4,206 +4,160 @@
     "chapter": 2,
     "verse": 1,
     "start": 2.32,
-    "startOffset": 2,
-    "end": 12.74,
-    "endOffset": 221
+    "end": 12.74
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 2,
     "start": 13.42,
-    "startOffset": 224,
-    "end": 22.240000000000002,
-    "endOffset": 375
+    "end": 22.240000000000002
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 3,
     "start": 23.3,
-    "startOffset": 378,
-    "end": 31.489999,
-    "endOffset": 527
+    "end": 31.489999
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 4,
     "start": 32.92,
-    "startOffset": 530,
-    "end": 38.730000000000004,
-    "endOffset": 676
+    "end": 38.730000000000004
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 5,
     "start": 39.50000000000001,
-    "startOffset": 679,
-    "end": 44.620000000000005,
-    "endOffset": 765
+    "end": 44.620000000000005
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 6,
     "start": 46.15,
-    "startOffset": 768,
-    "end": 51.620000000000005,
-    "endOffset": 885
+    "end": 51.620000000000005
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 7,
     "start": 52.019999999999996,
-    "startOffset": 888,
-    "end": 60.41,
-    "endOffset": 1064
+    "end": 60.41
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 8,
     "start": 61.7,
-    "startOffset": 1067,
-    "end": 66.58,
-    "endOffset": 1159
+    "end": 66.58
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 9,
     "start": 67.03,
-    "startOffset": 1162,
-    "end": 73.91,
-    "endOffset": 1292
+    "end": 73.91
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 10,
     "start": 74.73,
-    "startOffset": 1295,
-    "end": 85.83,
-    "endOffset": 1476
+    "end": 85.83
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 11,
     "start": 87.03999999999999,
-    "startOffset": 1479,
-    "end": 91.02,
-    "endOffset": 1558
+    "end": 91.02
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 12,
     "start": 92.69,
-    "startOffset": 1561,
-    "end": 102.569999,
-    "endOffset": 1795
+    "end": 102.569999
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 13,
     "start": 102.91,
-    "startOffset": 1798,
-    "end": 107.41,
-    "endOffset": 1854
+    "end": 107.41
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 14,
     "start": 110.13,
-    "startOffset": 1857,
-    "end": 122.18,
-    "endOffset": 2097
+    "end": 122.18
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 15,
     "start": 122.65,
-    "startOffset": 2100,
-    "end": 131.67,
-    "endOffset": 2268
+    "end": 131.67
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 16,
     "start": 133.36,
-    "startOffset": 2271,
-    "end": 138.69,
-    "endOffset": 2374
+    "end": 138.69
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 17,
     "start": 139.719999,
-    "startOffset": 2377,
-    "end": 155.72999900000002,
-    "endOffset": 2624
+    "end": 155.72999900000002
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 18,
     "start": 157.139999,
-    "startOffset": 2627,
-    "end": 169.34,
-    "endOffset": 2885
+    "end": 169.34
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 19,
     "start": 170.639999,
-    "startOffset": 2888,
-    "end": 182.98,
-    "endOffset": 3136
+    "end": 182.98
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 20,
     "start": 183.81,
-    "startOffset": 3139,
-    "end": 192.699999,
-    "endOffset": 3326
+    "end": 192.699999
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 21,
     "start": 192.9,
-    "startOffset": 3329,
-    "end": 198.63,
-    "endOffset": 3432
+    "end": 198.63
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 22,
     "start": 199.48,
-    "startOffset": 3435,
-    "end": 207.75,
-    "endOffset": 3569
+    "end": 207.75
   },
   {
     "book": "Judges",
     "chapter": 2,
     "verse": 23,
     "start": 209.15,
-    "startOffset": 3572,
-    "end": 214.98999999999998,
-    "endOffset": 3694
+    "end": 214.98999999999998
   }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 1,
+    "start": 2.5,
+    "end": 6.1
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 2,
+    "start": 6.94,
+    "end": 11.87
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 3,
+    "start": 12.92,
+    "end": 21.909999999999997
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 4,
+    "start": 22.8,
+    "end": 28.46
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 5,
+    "start": 29.45,
+    "end": 38.58
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 6,
+    "start": 39.48,
+    "end": 49.4
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 7,
+    "start": 50.62,
+    "end": 55.60000000000001
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 8,
+    "start": 56.24,
+    "end": 67.66000000000001
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 9,
+    "start": 69.16,
+    "end": 81.47
+  },
+  {
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verse": 10,
+    "start": 82.559999,
+    "end": 89.94999999999999
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 127,
+    "verse": 1,
+    "start": 2.82,
+    "end": 12.639999999999999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 127,
+    "verse": 2,
+    "start": 13.66,
+    "end": 20.97
+  },
+  {
+    "book": "Psalms",
+    "chapter": 127,
+    "verse": 3,
+    "start": 21.990000000000002,
+    "end": 27.11
+  },
+  {
+    "book": "Psalms",
+    "chapter": 127,
+    "verse": 4,
+    "start": 27.689999999999998,
+    "end": 32.1
+  },
+  {
+    "book": "Psalms",
+    "chapter": 127,
+    "verse": 5,
+    "start": 33.44,
+    "end": 40.39
+  }
+]

@@ -4,224 +4,174 @@
     "chapter": 24,
     "verse": 1,
     "start": 2.14,
-    "startOffset": 2,
-    "end": 7.94,
-    "endOffset": 92
+    "end": 7.94
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 2,
     "start": 8.97,
-    "startOffset": 95,
-    "end": 13.879999,
-    "endOffset": 171
+    "end": 13.879999
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 3,
     "start": 14.45,
-    "startOffset": 174,
-    "end": 18.209999999999997,
-    "endOffset": 254
+    "end": 18.209999999999997
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 4,
     "start": 18.5,
-    "startOffset": 257,
-    "end": 22.68,
-    "endOffset": 339
+    "end": 22.68
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 5,
     "start": 23.61,
-    "startOffset": 342,
-    "end": 31.97,
-    "endOffset": 495
+    "end": 31.97
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 6,
     "start": 32.45,
-    "startOffset": 498,
-    "end": 36.02,
-    "endOffset": 582
+    "end": 36.02
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 7,
     "start": 37.12,
-    "startOffset": 585,
-    "end": 41.120000000000005,
-    "endOffset": 671
+    "end": 41.120000000000005
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 8,
     "start": 41.19,
-    "startOffset": 674,
-    "end": 45.099999000000004,
-    "endOffset": 764
+    "end": 45.099999000000004
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 9,
     "start": 46.480000000000004,
-    "startOffset": 767,
-    "end": 50.22,
-    "endOffset": 839
+    "end": 50.22
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 10,
     "start": 50.86,
-    "startOffset": 842,
-    "end": 55.67,
-    "endOffset": 931
+    "end": 55.67
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 11,
     "start": 55.84,
-    "startOffset": 934,
-    "end": 59.86000000000001,
-    "endOffset": 1015
+    "end": 59.86000000000001
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 12,
     "start": 60.730000000000004,
-    "startOffset": 1018,
-    "end": 67.93,
-    "endOffset": 1122
+    "end": 67.93
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 13,
     "start": 69.25,
-    "startOffset": 1125,
-    "end": 74.25999999999999,
-    "endOffset": 1235
+    "end": 74.25999999999999
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 14,
     "start": 74.97,
-    "startOffset": 1238,
-    "end": 81.249999,
-    "endOffset": 1331
+    "end": 81.249999
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 15,
     "start": 82.24,
-    "startOffset": 1334,
-    "end": 88.36,
-    "endOffset": 1442
+    "end": 88.36
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 16,
     "start": 89.32,
-    "startOffset": 1445,
-    "end": 95.39,
-    "endOffset": 1558
+    "end": 95.39
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 17,
     "start": 96.05,
-    "startOffset": 1561,
-    "end": 101.96000000000001,
-    "endOffset": 1681
+    "end": 101.96000000000001
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 18,
     "start": 103.549999,
-    "startOffset": 1684,
-    "end": 110.25999999999999,
-    "endOffset": 1790
+    "end": 110.25999999999999
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 19,
     "start": 111.14,
-    "startOffset": 1793,
-    "end": 116.72999999999999,
-    "endOffset": 1876
+    "end": 116.72999999999999
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 20,
     "start": 118.21000000000001,
-    "startOffset": 1879,
-    "end": 129.65,
-    "endOffset": 2014
+    "end": 129.65
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 21,
     "start": 131.24,
-    "startOffset": 2017,
-    "end": 135.99,
-    "endOffset": 2096
+    "end": 135.99
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 22,
     "start": 137.179999,
-    "startOffset": 2099,
-    "end": 142.82999900000002,
-    "endOffset": 2182
+    "end": 142.82999900000002
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 23,
     "start": 143.0,
-    "startOffset": 2185,
-    "end": 149.22,
-    "endOffset": 2277
+    "end": 149.22
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 24,
     "start": 150.33,
-    "startOffset": 2280,
-    "end": 159.51,
-    "endOffset": 2434
+    "end": 159.51
   },
   {
     "book": "Job",
     "chapter": 24,
     "verse": 25,
     "start": 161.139999,
-    "startOffset": 2437,
-    "end": 168.03,
-    "endOffset": 2519
+    "end": 168.03
   }
 ]

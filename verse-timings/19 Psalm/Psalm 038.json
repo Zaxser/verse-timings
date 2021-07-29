@@ -4,197 +4,153 @@
     "chapter": 38,
     "verse": 1,
     "start": 2.5,
-    "startOffset": 2,
-    "end": 6.93,
-    "endOffset": 79
+    "end": 6.93
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 2,
     "start": 7.56,
-    "startOffset": 82,
-    "end": 11.25,
-    "endOffset": 146
+    "end": 11.25
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 3,
     "start": 11.92,
-    "startOffset": 149,
-    "end": 17.220000000000002,
-    "endOffset": 262
+    "end": 17.220000000000002
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 4,
     "start": 17.67,
-    "startOffset": 265,
-    "end": 21.78,
-    "endOffset": 354
+    "end": 21.78
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 5,
     "start": 22.38,
-    "startOffset": 357,
-    "end": 26.6,
-    "endOffset": 414
+    "end": 26.6
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 6,
     "start": 27.29,
-    "startOffset": 417,
-    "end": 32.04,
-    "endOffset": 487
+    "end": 32.04
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 7,
     "start": 32.5,
-    "startOffset": 490,
-    "end": 37.32,
-    "endOffset": 577
+    "end": 37.32
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 8,
     "start": 38.0,
-    "startOffset": 580,
-    "end": 43.77,
-    "endOffset": 664
+    "end": 43.77
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 9,
     "start": 44.5,
-    "startOffset": 667,
-    "end": 48.720000000000006,
-    "endOffset": 739
+    "end": 48.720000000000006
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 10,
     "start": 48.929999,
-    "startOffset": 742,
-    "end": 54.809999999999995,
-    "endOffset": 838
+    "end": 54.809999999999995
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 11,
     "start": 55.36,
-    "startOffset": 841,
-    "end": 60.300000000000004,
-    "endOffset": 921
+    "end": 60.300000000000004
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 12,
     "start": 60.96,
-    "startOffset": 924,
-    "end": 68.189999,
-    "endOffset": 1066
+    "end": 68.189999
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 13,
     "start": 69.03,
-    "startOffset": 1069,
-    "end": 75.19,
-    "endOffset": 1152
+    "end": 75.19
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 14,
     "start": 76.15,
-    "startOffset": 1155,
-    "end": 79.72,
-    "endOffset": 1227
+    "end": 79.72
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 15,
     "start": 80.55,
-    "startOffset": 1230,
-    "end": 85.07,
-    "endOffset": 1291
+    "end": 85.07
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 16,
     "start": 85.86,
-    "startOffset": 1294,
-    "end": 92.14999999999999,
-    "endOffset": 1416
+    "end": 92.14999999999999
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 17,
     "start": 94.04,
-    "startOffset": 1419,
-    "end": 97.42999999999999,
-    "endOffset": 1481
+    "end": 97.42999999999999
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 18,
     "start": 97.94,
-    "startOffset": 1484,
-    "end": 100.97,
-    "endOffset": 1544
+    "end": 100.97
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 19,
     "start": 101.95,
-    "startOffset": 1547,
-    "end": 107.10000000000001,
-    "endOffset": 1644
+    "end": 107.10000000000001
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 20,
     "start": 107.32,
-    "startOffset": 1647,
-    "end": 113.25,
-    "endOffset": 1744
+    "end": 113.25
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 21,
     "start": 114.46,
-    "startOffset": 1747,
-    "end": 118.36999999999999,
-    "endOffset": 1799
+    "end": 118.36999999999999
   },
   {
     "book": "Psalms",
     "chapter": 38,
     "verse": 22,
     "start": 118.86,
-    "startOffset": 1802,
-    "end": 121.88,
-    "endOffset": 1844
+    "end": 121.88
   }
 ]

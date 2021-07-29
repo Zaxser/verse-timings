@@ -4,98 +4,76 @@
     "chapter": 42,
     "verse": 1,
     "start": 3.13,
-    "startOffset": 2,
-    "end": 7.76,
-    "endOffset": 82
+    "end": 7.76
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 2,
     "start": 8.349999,
-    "startOffset": 85,
-    "end": 13.97,
-    "endOffset": 171
+    "end": 13.97
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 3,
     "start": 14.809999,
-    "startOffset": 174,
-    "end": 20.580000000000002,
-    "endOffset": 268
+    "end": 20.580000000000002
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 4,
     "start": 22.14,
-    "startOffset": 271,
-    "end": 33.21,
-    "endOffset": 468
+    "end": 33.21
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 5,
     "start": 35.209998999999996,
-    "startOffset": 471,
-    "end": 44.99,
-    "endOffset": 617
+    "end": 44.99
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 6,
     "start": 46.12,
-    "startOffset": 620,
-    "end": 54.459998999999996,
-    "endOffset": 760
+    "end": 54.459998999999996
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 7,
     "start": 56.12,
-    "startOffset": 763,
-    "end": 61.949999999999996,
-    "endOffset": 865
+    "end": 61.949999999999996
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 8,
     "start": 63.230000000000004,
-    "startOffset": 868,
-    "end": 70.29,
-    "endOffset": 1011
+    "end": 70.29
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 9,
     "start": 70.43,
-    "startOffset": 1014,
-    "end": 77.41000000000001,
-    "endOffset": 1127
+    "end": 77.41000000000001
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 10,
     "start": 78.68,
-    "startOffset": 1130,
-    "end": 85.18,
-    "endOffset": 1231
+    "end": 85.18
   },
   {
     "book": "Psalms",
     "chapter": 42,
     "verse": 11,
     "start": 86.839999,
-    "startOffset": 1234,
-    "end": 99.87,
-    "endOffset": 1401
+    "end": 99.87
   }
 ]

@@ -1,0 +1,51 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 142,
+    "verse": 1,
+    "start": 3.19,
+    "end": 7.97
+  },
+  {
+    "book": "Psalms",
+    "chapter": 142,
+    "verse": 2,
+    "start": 8.139999,
+    "end": 11.77
+  },
+  {
+    "book": "Psalms",
+    "chapter": 142,
+    "verse": 3,
+    "start": 12.42,
+    "end": 20.76
+  },
+  {
+    "book": "Psalms",
+    "chapter": 142,
+    "verse": 4,
+    "start": 21.4,
+    "end": 28.2
+  },
+  {
+    "book": "Psalms",
+    "chapter": 142,
+    "verse": 5,
+    "start": 28.78,
+    "end": 34.429999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 142,
+    "verse": 6,
+    "start": 34.6,
+    "end": 41.35
+  },
+  {
+    "book": "Psalms",
+    "chapter": 142,
+    "verse": 7,
+    "start": 42.03,
+    "end": 51.649998999999994
+  }
+]

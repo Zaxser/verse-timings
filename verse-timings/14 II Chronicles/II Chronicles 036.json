@@ -4,206 +4,160 @@
     "chapter": 36,
     "verse": 1,
     "start": 2.22,
-    "startOffset": 2,
-    "end": 7.84,
-    "endOffset": 115
+    "end": 7.84
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 2,
     "start": 9.03,
-    "startOffset": 118,
-    "end": 13.74,
-    "endOffset": 222
+    "end": 13.74
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 3,
     "start": 14.29,
-    "startOffset": 225,
-    "end": 20.71,
-    "endOffset": 349
+    "end": 20.71
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 4,
     "start": 21.39,
-    "startOffset": 352,
-    "end": 31.400000000000002,
-    "endOffset": 525
+    "end": 31.400000000000002
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 5,
     "start": 33.19,
-    "startOffset": 528,
-    "end": 40.1,
-    "endOffset": 697
+    "end": 40.1
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 6,
     "start": 40.68,
-    "startOffset": 700,
-    "end": 45.58,
-    "endOffset": 801
+    "end": 45.58
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 7,
     "start": 46.730000000000004,
-    "startOffset": 804,
-    "end": 51.410000000000004,
-    "endOffset": 921
+    "end": 51.410000000000004
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 8,
     "start": 52.299999,
-    "startOffset": 924,
-    "end": 63.96,
-    "endOffset": 1145
+    "end": 63.96
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 9,
     "start": 65.61,
-    "startOffset": 1148,
-    "end": 72.3,
-    "endOffset": 1313
+    "end": 72.3
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 10,
     "start": 72.719999,
-    "startOffset": 1316,
-    "end": 81.91,
-    "endOffset": 1510
+    "end": 81.91
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 11,
     "start": 82.98,
-    "startOffset": 1513,
-    "end": 87.129999,
-    "endOffset": 1612
+    "end": 87.129999
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 12,
     "start": 87.389999,
-    "startOffset": 1615,
-    "end": 93.49000000000001,
-    "endOffset": 1767
+    "end": 93.49000000000001
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 13,
     "start": 93.49000000000001,
-    "startOffset": 1770,
-    "end": 101.62,
-    "endOffset": 1941
+    "end": 101.62
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 14,
     "start": 102.36,
-    "startOffset": 1944,
-    "end": 111.94999999999999,
-    "endOffset": 2134
+    "end": 111.94999999999999
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 15,
     "start": 112.35,
-    "startOffset": 2137,
-    "end": 121.079999,
-    "endOffset": 2301
+    "end": 121.079999
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 16,
     "start": 121.86,
-    "startOffset": 2304,
-    "end": 132.36999999999998,
-    "endOffset": 2471
+    "end": 132.36999999999998
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 17,
     "start": 133.17,
-    "startOffset": 2474,
-    "end": 146.95000000000002,
-    "endOffset": 2720
+    "end": 146.95000000000002
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 18,
     "start": 147.73,
-    "startOffset": 2723,
-    "end": 156.53,
-    "endOffset": 2907
+    "end": 156.53
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 19,
     "start": 157.49,
-    "startOffset": 2910,
-    "end": 169.23999999999998,
-    "endOffset": 3070
+    "end": 169.23999999999998
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 20,
     "start": 170.679999,
-    "startOffset": 3073,
-    "end": 178.349999,
-    "endOffset": 3227
+    "end": 178.349999
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 21,
     "start": 178.68,
-    "startOffset": 3230,
-    "end": 189.129999,
-    "endOffset": 3412
+    "end": 189.129999
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 22,
     "start": 191.53,
-    "startOffset": 3415,
-    "end": 206.15,
-    "endOffset": 3689
+    "end": 206.15
   },
   {
     "book": "2 Chronicles",
     "chapter": 36,
     "verse": 23,
     "start": 206.38,
-    "startOffset": 3692,
-    "end": 225.38000000000002,
-    "endOffset": 3960
+    "end": 225.38000000000002
   }
 ]

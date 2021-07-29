@@ -1,0 +1,58 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 124,
+    "verse": 1,
+    "start": 3.5,
+    "end": 7.55
+  },
+  {
+    "book": "Psalms",
+    "chapter": 124,
+    "verse": 2,
+    "start": 7.56,
+    "end": 12.18
+  },
+  {
+    "book": "Psalms",
+    "chapter": 124,
+    "verse": 3,
+    "start": 12.36,
+    "end": 16.029999999999998
+  },
+  {
+    "book": "Psalms",
+    "chapter": 124,
+    "verse": 4,
+    "start": 16.559999,
+    "end": 20.61
+  },
+  {
+    "book": "Psalms",
+    "chapter": 124,
+    "verse": 5,
+    "start": 20.84,
+    "end": 23.56
+  },
+  {
+    "book": "Psalms",
+    "chapter": 124,
+    "verse": 6,
+    "start": 24.97,
+    "end": 29.009999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 124,
+    "verse": 7,
+    "start": 29.78,
+    "end": 37.78
+  },
+  {
+    "book": "Psalms",
+    "chapter": 124,
+    "verse": 8,
+    "start": 38.550000000000004,
+    "end": 41.89
+  }
+]

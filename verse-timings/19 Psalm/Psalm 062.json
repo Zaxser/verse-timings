@@ -4,107 +4,83 @@
     "chapter": 62,
     "verse": 1,
     "start": 2.87,
-    "startOffset": 2,
-    "end": 6.82,
-    "endOffset": 62
+    "end": 6.82
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 2,
     "start": 7.59,
-    "startOffset": 65,
-    "end": 13.83,
-    "endOffset": 148
+    "end": 13.83
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 3,
     "start": 15.19,
-    "startOffset": 151,
-    "end": 24.72,
-    "endOffset": 284
+    "end": 24.72
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 4,
     "start": 25.58,
-    "startOffset": 287,
-    "end": 33.309999000000005,
-    "endOffset": 424
+    "end": 33.309999000000005
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 5,
     "start": 34.279999000000004,
-    "startOffset": 427,
-    "end": 39.720000000000006,
-    "endOffset": 491
+    "end": 39.720000000000006
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 6,
     "start": 39.98,
-    "startOffset": 494,
-    "end": 44.809999,
-    "endOffset": 569
+    "end": 44.809999
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 7,
     "start": 45.389999,
-    "startOffset": 572,
-    "end": 50.230000000000004,
-    "endOffset": 658
+    "end": 50.230000000000004
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 8,
     "start": 50.53,
-    "startOffset": 661,
-    "end": 58.1,
-    "endOffset": 760
+    "end": 58.1
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 9,
     "start": 58.99,
-    "startOffset": 763,
-    "end": 68.56,
-    "endOffset": 900
+    "end": 68.56
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 10,
     "start": 69.73,
-    "startOffset": 903,
-    "end": 76.65,
-    "endOffset": 1008
+    "end": 76.65
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 11,
     "start": 77.64,
-    "startOffset": 1011,
-    "end": 83.34,
-    "endOffset": 1087
+    "end": 83.34
   },
   {
     "book": "Psalms",
     "chapter": 62,
     "verse": 12,
     "start": 84.599999,
-    "startOffset": 1090,
-    "end": 92.60000000000001,
-    "endOffset": 1184
+    "end": 92.60000000000001
   }
 ]

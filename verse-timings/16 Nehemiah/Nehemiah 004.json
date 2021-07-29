@@ -4,206 +4,160 @@
     "chapter": 4,
     "verse": 1,
     "start": 2.42,
-    "startOffset": 2,
-    "end": 8.92,
-    "endOffset": 136
+    "end": 8.92
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 2,
     "start": 9.44,
-    "startOffset": 139,
-    "end": 24.03,
-    "endOffset": 393
+    "end": 24.03
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 3,
     "start": 25.25,
-    "startOffset": 396,
-    "end": 32.739999999999995,
-    "endOffset": 530
+    "end": 32.739999999999995
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 4,
     "start": 33.99,
-    "startOffset": 533,
-    "end": 42.620000000000005,
-    "endOffset": 665
+    "end": 42.620000000000005
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 5,
     "start": 42.83,
-    "startOffset": 668,
-    "end": 49.56,
-    "endOffset": 809
+    "end": 49.56
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 6,
     "start": 50.79,
-    "startOffset": 812,
-    "end": 58.29,
-    "endOffset": 927
+    "end": 58.29
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 7,
     "start": 59.33,
-    "startOffset": 930,
-    "end": 69.53999999999999,
-    "endOffset": 1157
+    "end": 69.53999999999999
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 8,
     "start": 70.02,
-    "startOffset": 1160,
-    "end": 73.78,
-    "endOffset": 1251
+    "end": 73.78
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 9,
     "start": 74.62,
-    "startOffset": 1254,
-    "end": 80.11,
-    "endOffset": 1359
+    "end": 80.11
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 10,
     "start": 80.77,
-    "startOffset": 1362,
-    "end": 87.36,
-    "endOffset": 1497
+    "end": 87.36
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 11,
     "start": 88.0,
-    "startOffset": 1500,
-    "end": 94.18,
-    "endOffset": 1640
+    "end": 94.18
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 12,
     "start": 95.24,
-    "startOffset": 1643,
-    "end": 103.46000000000001,
-    "endOffset": 1806
+    "end": 103.46000000000001
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 13,
     "start": 104.4,
-    "startOffset": 1809,
-    "end": 112.57000000000001,
-    "endOffset": 1978
+    "end": 112.57000000000001
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 14,
     "start": 113.29,
-    "startOffset": 1981,
-    "end": 125.239999,
-    "endOffset": 2245
+    "end": 125.239999
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 15,
     "start": 126.33,
-    "startOffset": 2248,
-    "end": 135.13,
-    "endOffset": 2427
+    "end": 135.13
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 16,
     "start": 135.65,
-    "startOffset": 2430,
-    "end": 146.57000000000002,
-    "endOffset": 2667
+    "end": 146.57000000000002
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 17,
     "start": 147.54,
-    "startOffset": 2670,
-    "end": 156.76999999999998,
-    "endOffset": 2843
+    "end": 156.76999999999998
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 18,
     "start": 157.429999,
-    "startOffset": 2846,
-    "end": 164.39000000000001,
-    "endOffset": 2965
+    "end": 164.39000000000001
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 19,
     "start": 165.33,
-    "startOffset": 2968,
-    "end": 173.41,
-    "endOffset": 3131
+    "end": 173.41
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 20,
     "start": 173.88,
-    "startOffset": 3134,
-    "end": 179.899999,
-    "endOffset": 3245
+    "end": 179.899999
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 21,
     "start": 180.719999,
-    "startOffset": 3248,
-    "end": 185.79,
-    "endOffset": 3363
+    "end": 185.79
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 22,
     "start": 186.35,
-    "startOffset": 3366,
-    "end": 194.96,
-    "endOffset": 3537
+    "end": 194.96
   },
   {
     "book": "Nehemiah",
     "chapter": 4,
     "verse": 23,
     "start": 195.889999,
-    "startOffset": 3540,
-    "end": 204.28,
-    "endOffset": 3710
+    "end": 204.28
   }
 ]

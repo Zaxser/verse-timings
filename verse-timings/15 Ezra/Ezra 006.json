@@ -4,197 +4,153 @@
     "chapter": 6,
     "verse": 1,
     "start": 2.04,
-    "startOffset": 2,
-    "end": 7.55,
-    "endOffset": 128
+    "end": 7.55
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 2,
     "start": 7.82,
-    "startOffset": 131,
-    "end": 14.189999,
-    "endOffset": 261
+    "end": 14.189999
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 3,
     "start": 14.839999,
-    "startOffset": 264,
-    "end": 27.559998999999998,
-    "endOffset": 576
+    "end": 27.559998999999998
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 4,
     "start": 27.559998999999998,
-    "startOffset": 579,
-    "end": 36.75,
-    "endOffset": 690
+    "end": 36.75
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 5,
     "start": 37.14,
-    "startOffset": 693,
-    "end": 50.84,
-    "endOffset": 984
+    "end": 50.84
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 6,
     "start": 52.059999000000005,
-    "startOffset": 987,
-    "end": 59.980000000000004,
-    "endOffset": 1140
+    "end": 59.980000000000004
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 7,
     "start": 60.19,
-    "startOffset": 1143,
-    "end": 66.45,
-    "endOffset": 1276
+    "end": 66.45
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 8,
     "start": 67.049999,
-    "startOffset": 1279,
-    "end": 79.24000000000001,
-    "endOffset": 1521
+    "end": 79.24000000000001
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 9,
     "start": 79.75,
-    "startOffset": 1524,
-    "end": 92.95,
-    "endOffset": 1786
+    "end": 92.95
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 10,
     "start": 93.28,
-    "startOffset": 1789,
-    "end": 99.12,
-    "endOffset": 1911
+    "end": 99.12
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 11,
     "start": 99.8,
-    "startOffset": 1914,
-    "end": 112.39,
-    "endOffset": 2111
+    "end": 112.39
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 12,
     "start": 113.16,
-    "startOffset": 2114,
-    "end": 126.339999,
-    "endOffset": 2345
+    "end": 126.339999
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 13,
     "start": 128.18,
-    "startOffset": 2348,
-    "end": 134.79999999999998,
-    "endOffset": 2501
+    "end": 134.79999999999998
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 14,
     "start": 135.929999,
-    "startOffset": 2504,
-    "end": 151.46,
-    "endOffset": 2806
+    "end": 151.46
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 15,
     "start": 152.26,
-    "startOffset": 2809,
-    "end": 159.19,
-    "endOffset": 2932
+    "end": 159.19
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 16,
     "start": 159.639999,
-    "startOffset": 2935,
-    "end": 166.51,
-    "endOffset": 3089
+    "end": 166.51
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 17,
     "start": 166.77,
-    "startOffset": 3092,
-    "end": 177.45999999999998,
-    "endOffset": 3305
+    "end": 177.45999999999998
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 18,
     "start": 178.07999999999998,
-    "startOffset": 3308,
-    "end": 185.33,
-    "endOffset": 3471
+    "end": 185.33
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 19,
     "start": 186.15,
-    "startOffset": 3474,
-    "end": 190.48,
-    "endOffset": 3568
+    "end": 190.48
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 20,
     "start": 191.01,
-    "startOffset": 3571,
-    "end": 200.14000000000001,
-    "endOffset": 3767
+    "end": 200.14000000000001
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 21,
     "start": 200.71,
-    "startOffset": 3770,
-    "end": 210.67999899999998,
-    "endOffset": 3976
+    "end": 210.67999899999998
   },
   {
     "book": "Ezra",
     "chapter": 6,
     "verse": 22,
     "start": 210.969999,
-    "startOffset": 3979,
-    "end": 223.63,
-    "endOffset": 4205
+    "end": 223.63
   }
 ]

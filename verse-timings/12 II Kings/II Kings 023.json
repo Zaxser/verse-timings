@@ -4,332 +4,258 @@
     "chapter": 23,
     "verse": 1,
     "start": 2.36,
-    "startOffset": 2,
-    "end": 6.09,
-    "endOffset": 88
+    "end": 6.09
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 2,
     "start": 6.63,
-    "startOffset": 91,
-    "end": 21.25,
-    "endOffset": 397
+    "end": 21.25
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 3,
     "start": 22.33,
-    "startOffset": 400,
-    "end": 38.47,
-    "endOffset": 710
+    "end": 38.47
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 4,
     "start": 39.52,
-    "startOffset": 713,
-    "end": 57.940000000000005,
-    "endOffset": 1067
+    "end": 57.940000000000005
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 5,
     "start": 58.94,
-    "startOffset": 1070,
-    "end": 73.89,
-    "endOffset": 1366
+    "end": 73.89
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 6,
     "start": 74.91,
-    "startOffset": 1369,
-    "end": 87.03,
-    "endOffset": 1608
+    "end": 87.03
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 7,
     "start": 87.889999,
-    "startOffset": 1611,
-    "end": 93.64999999999999,
-    "endOffset": 1737
+    "end": 93.64999999999999
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 8,
     "start": 94.39,
-    "startOffset": 1740,
-    "end": 109.61,
-    "endOffset": 2065
+    "end": 109.61
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 9,
     "start": 110.51,
-    "startOffset": 2068,
-    "end": 117.55000000000001,
-    "endOffset": 2224
+    "end": 117.55000000000001
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 10,
     "start": 118.53999999999999,
-    "startOffset": 2227,
-    "end": 126.659999,
-    "endOffset": 2382
+    "end": 126.659999
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 11,
     "start": 127.71,
-    "startOffset": 2385,
-    "end": 139.209999,
-    "endOffset": 2622
+    "end": 139.209999
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 12,
     "start": 140.12,
-    "startOffset": 2625,
-    "end": 154.03,
-    "endOffset": 2913
+    "end": 154.03
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 13,
     "start": 154.3,
-    "startOffset": 2916,
-    "end": 164.84,
-    "endOffset": 3239
+    "end": 164.84
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 14,
     "start": 170.23,
-    "startOffset": 3242,
-    "end": 176.65,
-    "endOffset": 3347
+    "end": 176.65
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 15,
     "start": 177.839999,
-    "startOffset": 3350,
-    "end": 192.45,
-    "endOffset": 3604
+    "end": 192.45
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 16,
     "start": 193.25,
-    "startOffset": 3607,
-    "end": 207.68,
-    "endOffset": 3885
+    "end": 207.68
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 17,
     "start": 208.62,
-    "startOffset": 3888,
-    "end": 219.19,
-    "endOffset": 4104
+    "end": 219.19
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 18,
     "start": 220.36,
-    "startOffset": 4107,
-    "end": 228.229999,
-    "endOffset": 4245
+    "end": 228.229999
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 19,
     "start": 228.449999,
-    "startOffset": 4248,
-    "end": 240.79999999999998,
-    "endOffset": 4478
+    "end": 240.79999999999998
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 20,
     "start": 241.97,
-    "startOffset": 4481,
-    "end": 249.67999999999998,
-    "endOffset": 4620
+    "end": 249.67999999999998
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 21,
     "start": 249.68999999999997,
-    "startOffset": 4623,
-    "end": 257.51,
-    "endOffset": 4757
+    "end": 257.51
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 22,
     "start": 258.61,
-    "startOffset": 4760,
-    "end": 266.92,
-    "endOffset": 4921
+    "end": 266.92
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 23,
     "start": 267.19,
-    "startOffset": 4924,
-    "end": 272.14000000000004,
-    "endOffset": 5024
+    "end": 272.14000000000004
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 24,
     "start": 273.45,
-    "startOffset": 5027,
-    "end": 289.46,
-    "endOffset": 5348
+    "end": 289.46
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 25,
     "start": 290.34,
-    "startOffset": 5351,
-    "end": 302.47999999999996,
-    "endOffset": 5567
+    "end": 302.47999999999996
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 26,
     "start": 304.33,
-    "startOffset": 5570,
-    "end": 313.72,
-    "endOffset": 5762
+    "end": 313.72
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 27,
     "start": 313.72,
-    "startOffset": 5765,
-    "end": 324.72,
-    "endOffset": 5964
+    "end": 324.72
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 28,
     "start": 324.72,
-    "startOffset": 5967,
-    "end": 331.88,
-    "endOffset": 6096
+    "end": 331.88
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 29,
     "start": 332.88,
-    "startOffset": 6099,
-    "end": 342.18,
-    "endOffset": 6281
+    "end": 342.18
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 30,
     "start": 342.18,
-    "startOffset": 6284,
-    "end": 355.94,
-    "endOffset": 6529
+    "end": 355.94
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 31,
     "start": 357.799999,
-    "startOffset": 6532,
-    "end": 367.22999999999996,
-    "endOffset": 6707
+    "end": 367.22999999999996
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 32,
     "start": 368.16999999999996,
-    "startOffset": 6710,
-    "end": 372.17,
-    "endOffset": 6809
+    "end": 372.17
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 33,
     "start": 372.90000000000003,
-    "startOffset": 6812,
-    "end": 382.16,
-    "endOffset": 7001
+    "end": 382.16
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 34,
     "start": 383.14,
-    "startOffset": 7004,
-    "end": 394.28,
-    "endOffset": 7186
+    "end": 394.28
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 35,
     "start": 395.21,
-    "startOffset": 7189,
-    "end": 407.18,
-    "endOffset": 7456
+    "end": 407.18
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 36,
     "start": 409.57,
-    "startOffset": 7459,
-    "end": 418.55,
-    "endOffset": 7632
+    "end": 418.55
   },
   {
     "book": "2 Kings",
     "chapter": 23,
     "verse": 37,
     "start": 419.16,
-    "startOffset": 7635,
-    "end": 423.62,
-    "endOffset": 7734
+    "end": 423.62
   }
 ]

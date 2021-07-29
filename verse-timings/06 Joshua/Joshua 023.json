@@ -4,143 +4,111 @@
     "chapter": 23,
     "verse": 1,
     "start": 2.37,
-    "startOffset": 2,
-    "end": 10.71,
-    "endOffset": 158
+    "end": 10.71
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 2,
     "start": 11.45,
-    "startOffset": 161,
-    "end": 21.349999999999998,
-    "endOffset": 332
+    "end": 21.349999999999998
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 3,
     "start": 22.1,
-    "startOffset": 335,
-    "end": 28.14,
-    "endOffset": 480
+    "end": 28.14
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 4,
     "start": 28.929999000000002,
-    "startOffset": 483,
-    "end": 39.88,
-    "endOffset": 674
+    "end": 39.88
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 5,
     "start": 40.59,
-    "startOffset": 677,
-    "end": 48.84,
-    "endOffset": 852
+    "end": 48.84
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 6,
     "start": 49.7,
-    "startOffset": 855,
-    "end": 58.16,
-    "endOffset": 1023
+    "end": 58.16
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 7,
     "start": 58.39,
-    "startOffset": 1026,
-    "end": 69.35000000000001,
-    "endOffset": 1217
+    "end": 69.35000000000001
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 8,
     "start": 70.18,
-    "startOffset": 1220,
-    "end": 74.44,
-    "endOffset": 1284
+    "end": 74.44
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 9,
     "start": 75.41,
-    "startOffset": 1287,
-    "end": 82.49000000000001,
-    "endOffset": 1429
+    "end": 82.49000000000001
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 10,
     "start": 83.16,
-    "startOffset": 1432,
-    "end": 89.919999,
-    "endOffset": 1549
+    "end": 89.919999
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 11,
     "start": 90.85,
-    "startOffset": 1552,
-    "end": 94.54,
-    "endOffset": 1624
+    "end": 94.54
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 12,
     "start": 95.39,
-    "startOffset": 1627,
-    "end": 106.69,
-    "endOffset": 1814
+    "end": 106.69
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 13,
     "start": 107.440001,
-    "startOffset": 1817,
-    "end": 122.719999,
-    "endOffset": 2098
+    "end": 122.719999
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 14,
     "start": 123.82,
-    "startOffset": 2101,
-    "end": 142.09,
-    "endOffset": 2382
+    "end": 142.09
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 15,
     "start": 143.609999,
-    "startOffset": 2385,
-    "end": 156.82,
-    "endOffset": 2639
+    "end": 156.82
   },
   {
     "book": "Joshua",
     "chapter": 23,
     "verse": 16,
     "start": 158.099999,
-    "startOffset": 2642,
-    "end": 172.81,
-    "endOffset": 2930
+    "end": 172.81
   }
 ]

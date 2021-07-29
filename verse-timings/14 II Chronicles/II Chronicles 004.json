@@ -4,197 +4,153 @@
     "chapter": 4,
     "verse": 1,
     "start": 1.84,
-    "startOffset": 2,
-    "end": 8.79,
-    "endOffset": 144
+    "end": 8.79
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 2,
     "start": 9.46,
-    "startOffset": 147,
-    "end": 19.48,
-    "endOffset": 314
+    "end": 19.48
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 3,
     "start": 20.33,
-    "startOffset": 317,
-    "end": 30.53,
-    "endOffset": 484
+    "end": 30.53
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 4,
     "start": 31.139999,
-    "startOffset": 487,
-    "end": 43.79,
-    "endOffset": 727
+    "end": 43.79
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 5,
     "start": 44.46,
-    "startOffset": 730,
-    "end": 54.889999,
-    "endOffset": 898
+    "end": 54.889999
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 6,
     "start": 56.06,
-    "startOffset": 901,
-    "end": 67.219999,
-    "endOffset": 1111
+    "end": 67.219999
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 7,
     "start": 67.99,
-    "startOffset": 1114,
-    "end": 74.64,
-    "endOffset": 1248
+    "end": 74.64
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 8,
     "start": 75.07,
-    "startOffset": 1251,
-    "end": 81.68,
-    "endOffset": 1390
+    "end": 81.68
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 9,
     "start": 82.82,
-    "startOffset": 1393,
-    "end": 89.33,
-    "endOffset": 1526
+    "end": 89.33
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 10,
     "start": 89.799999,
-    "startOffset": 1529,
-    "end": 94.16000000000001,
-    "endOffset": 1605
+    "end": 94.16000000000001
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 11,
     "start": 94.97,
-    "startOffset": 1608,
-    "end": 101.98,
-    "endOffset": 1751
+    "end": 101.98
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 12,
     "start": 102.23,
-    "startOffset": 1754,
-    "end": 111.36,
-    "endOffset": 1954
+    "end": 111.36
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 13,
     "start": 111.81,
-    "startOffset": 1957,
-    "end": 118.859999,
-    "endOffset": 2117
+    "end": 118.859999
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 14,
     "start": 119.53999999999999,
-    "startOffset": 2120,
-    "end": 123.4,
-    "endOffset": 2173
+    "end": 123.4
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 15,
     "start": 123.95,
-    "startOffset": 2176,
-    "end": 126.340001,
-    "endOffset": 2209
+    "end": 126.340001
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 16,
     "start": 126.99,
-    "startOffset": 2212,
-    "end": 135.16,
-    "endOffset": 2374
+    "end": 135.16
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 17,
     "start": 136.059999,
-    "startOffset": 2377,
-    "end": 141.47,
-    "endOffset": 2473
+    "end": 141.47
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 18,
     "start": 142.84,
-    "startOffset": 2476,
-    "end": 147.79000000000002,
-    "endOffset": 2582
+    "end": 147.79000000000002
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 19,
     "start": 148.79,
-    "startOffset": 2585,
-    "end": 154.95,
-    "endOffset": 2717
+    "end": 154.95
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 20,
     "start": 155.58,
-    "startOffset": 2720,
-    "end": 161.13,
-    "endOffset": 2834
+    "end": 161.13
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 21,
     "start": 161.609999,
-    "startOffset": 2837,
-    "end": 166.74,
-    "endOffset": 2922
+    "end": 166.74
   },
   {
     "book": "2 Chronicles",
     "chapter": 4,
     "verse": 22,
     "start": 167.17,
-    "startOffset": 2925,
-    "end": 178.629999,
-    "endOffset": 3137
+    "end": 178.629999
   }
 ]

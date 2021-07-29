@@ -4,305 +4,237 @@
     "chapter": 4,
     "verse": 1,
     "start": 2.24,
-    "startOffset": 2,
-    "end": 4.32,
-    "endOffset": 42
+    "end": 4.32
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 2,
     "start": 5.15,
-    "startOffset": 45,
-    "end": 9.36,
-    "endOffset": 121
+    "end": 9.36
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 3,
     "start": 9.37,
-    "startOffset": 124,
-    "end": 15.5,
-    "endOffset": 217
+    "end": 15.5
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 4,
     "start": 16.199999,
-    "startOffset": 220,
-    "end": 20.92,
-    "endOffset": 310
+    "end": 20.92
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 5,
     "start": 21.38,
-    "startOffset": 313,
-    "end": 28.099999000000004,
-    "endOffset": 438
+    "end": 28.099999000000004
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 6,
     "start": 28.740000000000002,
-    "startOffset": 441,
-    "end": 33.45,
-    "endOffset": 526
+    "end": 33.45
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 7,
     "start": 34.529999000000004,
-    "startOffset": 529,
-    "end": 41.75,
-    "endOffset": 677
+    "end": 41.75
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 8,
     "start": 42.07,
-    "startOffset": 680,
-    "end": 45.309999999999995,
-    "endOffset": 739
+    "end": 45.309999999999995
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 9,
     "start": 46.19,
-    "startOffset": 742,
-    "end": 51.48,
-    "endOffset": 821
+    "end": 51.48
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 10,
     "start": 52.019999999999996,
-    "startOffset": 824,
-    "end": 67.52,
-    "endOffset": 905
+    "end": 67.52
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 11,
     "start": 67.52,
-    "startOffset": 908,
-    "end": 67.52,
-    "endOffset": 1004
+    "end": 67.52
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 12,
     "start": 67.52,
-    "startOffset": 1007,
-    "end": 74.58999999999999,
-    "endOffset": 1200
+    "end": 74.58999999999999
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 13,
     "start": 75.57,
-    "startOffset": 1203,
-    "end": 87.39,
-    "endOffset": 1428
+    "end": 87.39
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 14,
     "start": 88.51,
-    "startOffset": 1431,
-    "end": 90.45999900000001,
-    "endOffset": 1468
+    "end": 90.45999900000001
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 15,
     "start": 91.22,
-    "startOffset": 1471,
-    "end": 96.22,
-    "endOffset": 1548
+    "end": 96.22
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 16,
     "start": 96.91,
-    "startOffset": 1551,
-    "end": 100.03999999999999,
-    "endOffset": 1601
+    "end": 100.03999999999999
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 17,
     "start": 100.429999,
-    "startOffset": 1604,
-    "end": 102.85,
-    "endOffset": 1646
+    "end": 102.85
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 18,
     "start": 103.17,
-    "startOffset": 1649,
-    "end": 105.019999,
-    "endOffset": 1684
+    "end": 105.019999
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 19,
     "start": 105.66,
-    "startOffset": 1687,
-    "end": 114.47,
-    "endOffset": 1859
+    "end": 114.47
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 20,
     "start": 115.82,
-    "startOffset": 1862,
-    "end": 122.73,
-    "endOffset": 1973
+    "end": 122.73
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 21,
     "start": 123.429999,
-    "startOffset": 1976,
-    "end": 132.43,
-    "endOffset": 2159
+    "end": 132.43
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 22,
     "start": 133.26,
-    "startOffset": 2162,
-    "end": 139.3,
-    "endOffset": 2264
+    "end": 139.3
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 23,
     "start": 139.67,
-    "startOffset": 2267,
-    "end": 147.78,
-    "endOffset": 2399
+    "end": 147.78
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 24,
     "start": 148.01,
-    "startOffset": 2402,
-    "end": 157.419999,
-    "endOffset": 2582
+    "end": 157.419999
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 25,
     "start": 158.309999,
-    "startOffset": 2585,
-    "end": 167.16,
-    "endOffset": 2720
+    "end": 167.16
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 26,
     "start": 168.52,
-    "startOffset": 2723,
-    "end": 173.67,
-    "endOffset": 2817
+    "end": 173.67
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 27,
     "start": 174.37,
-    "startOffset": 2820,
-    "end": 181.13,
-    "endOffset": 2966
+    "end": 181.13
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 28,
     "start": 181.99,
-    "startOffset": 2969,
-    "end": 188.43,
-    "endOffset": 3108
+    "end": 188.43
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 29,
     "start": 189.349999,
-    "startOffset": 3111,
-    "end": 196.03999900000002,
-    "endOffset": 3238
+    "end": 196.03999900000002
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 30,
     "start": 196.74,
-    "startOffset": 3241,
-    "end": 201.97,
-    "endOffset": 3350
+    "end": 201.97
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 31,
     "start": 202.37,
-    "startOffset": 3353,
-    "end": 213.28999900000002,
-    "endOffset": 3506
+    "end": 213.28999900000002
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 32,
     "start": 214.139999,
-    "startOffset": 3509,
-    "end": 219.09,
-    "endOffset": 3585
+    "end": 219.09
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 33,
     "start": 219.8,
-    "startOffset": 3588,
-    "end": 230.14,
-    "endOffset": 3778
+    "end": 230.14
   },
   {
     "book": "1 Kings",
     "chapter": 4,
     "verse": 34,
     "start": 230.809999,
-    "startOffset": 3781,
-    "end": 237.14,
-    "endOffset": 3899
+    "end": 237.14
   }
 ]

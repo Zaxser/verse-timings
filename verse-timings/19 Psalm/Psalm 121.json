@@ -1,0 +1,58 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 121,
+    "verse": 1,
+    "start": 3.93,
+    "end": 7.04
+  },
+  {
+    "book": "Psalms",
+    "chapter": 121,
+    "verse": 2,
+    "start": 7.95,
+    "end": 10.68
+  },
+  {
+    "book": "Psalms",
+    "chapter": 121,
+    "verse": 3,
+    "start": 11.95,
+    "end": 16.79
+  },
+  {
+    "book": "Psalms",
+    "chapter": 121,
+    "verse": 4,
+    "start": 17.359999,
+    "end": 20.8
+  },
+  {
+    "book": "Psalms",
+    "chapter": 121,
+    "verse": 5,
+    "start": 21.7,
+    "end": 25.51
+  },
+  {
+    "book": "Psalms",
+    "chapter": 121,
+    "verse": 6,
+    "start": 25.97,
+    "end": 29.16
+  },
+  {
+    "book": "Psalms",
+    "chapter": 121,
+    "verse": 7,
+    "start": 29.83,
+    "end": 33.639999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 121,
+    "verse": 8,
+    "start": 34.299999,
+    "end": 39.91
+  }
+]

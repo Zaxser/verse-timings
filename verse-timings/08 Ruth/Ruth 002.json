@@ -4,206 +4,160 @@
     "chapter": 2,
     "verse": 1,
     "start": 1.92,
-    "startOffset": 2,
-    "end": 7.1499999999999995,
-    "endOffset": 117
+    "end": 7.1499999999999995
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 2,
     "start": 8.15,
-    "startOffset": 120,
-    "end": 17.509999999999998,
-    "endOffset": 294
+    "end": 17.509999999999998
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 3,
     "start": 17.959999,
-    "startOffset": 297,
-    "end": 25.88,
-    "endOffset": 469
+    "end": 25.88
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 4,
     "start": 26.48,
-    "startOffset": 472,
-    "end": 32.819998999999996,
-    "endOffset": 602
+    "end": 32.819998999999996
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 5,
     "start": 33.299999,
-    "startOffset": 605,
-    "end": 37.779999999999994,
-    "endOffset": 688
+    "end": 37.779999999999994
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 6,
     "start": 38.37,
-    "startOffset": 691,
-    "end": 44.43,
-    "endOffset": 835
+    "end": 44.43
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 7,
     "start": 44.769999999999996,
-    "startOffset": 838,
-    "end": 53.25,
-    "endOffset": 1028
+    "end": 53.25
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 8,
     "start": 54.43,
-    "startOffset": 1031,
-    "end": 64.55,
-    "endOffset": 1178
+    "end": 64.55
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 9,
     "start": 65.23,
-    "startOffset": 1181,
-    "end": 76.57000000000001,
-    "endOffset": 1416
+    "end": 76.57000000000001
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 10,
     "start": 77.66,
-    "startOffset": 1419,
-    "end": 86.48,
-    "endOffset": 1600
+    "end": 86.48
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 11,
     "start": 87.73,
-    "startOffset": 1603,
-    "end": 100.86,
-    "endOffset": 1891
+    "end": 100.86
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 12,
     "start": 101.7,
-    "startOffset": 1894,
-    "end": 108.48999900000001,
-    "endOffset": 2023
+    "end": 108.48999900000001
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 13,
     "start": 109.73,
-    "startOffset": 2026,
-    "end": 119.969999,
-    "endOffset": 2225
+    "end": 119.969999
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 14,
     "start": 121.299999,
-    "startOffset": 2228,
-    "end": 133.69,
-    "endOffset": 2447
+    "end": 133.69
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 15,
     "start": 135.04,
-    "startOffset": 2450,
-    "end": 142.18,
-    "endOffset": 2582
+    "end": 142.18
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 16,
     "start": 142.93,
-    "startOffset": 2585,
-    "end": 149.43,
-    "endOffset": 2703
+    "end": 149.43
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 17,
     "start": 150.61,
-    "startOffset": 2706,
-    "end": 155.91,
-    "endOffset": 2816
+    "end": 155.91
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 18,
     "start": 156.71,
-    "startOffset": 2819,
-    "end": 165.14999999999998,
-    "endOffset": 2994
+    "end": 165.14999999999998
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 19,
     "start": 166.1,
-    "startOffset": 2997,
-    "end": 178.88,
-    "endOffset": 3259
+    "end": 178.88
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 20,
     "start": 179.16,
-    "startOffset": 3262,
-    "end": 191.77,
-    "endOffset": 3476
+    "end": 191.77
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 21,
     "start": 192.59,
-    "startOffset": 3479,
-    "end": 199.77,
-    "endOffset": 3604
+    "end": 199.77
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 22,
     "start": 200.53,
-    "startOffset": 3607,
-    "end": 207.24,
-    "endOffset": 3755
+    "end": 207.24
   },
   {
     "book": "Ruth",
     "chapter": 2,
     "verse": 23,
     "start": 208.21,
-    "startOffset": 3758,
-    "end": 215.310001,
-    "endOffset": 3892
+    "end": 215.310001
   }
 ]

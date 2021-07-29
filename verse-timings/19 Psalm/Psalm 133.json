@@ -1,0 +1,23 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 133,
+    "verse": 1,
+    "start": 3.5,
+    "end": 8.13
+  },
+  {
+    "book": "Psalms",
+    "chapter": 133,
+    "verse": 2,
+    "start": 9.7,
+    "end": 18.05
+  },
+  {
+    "book": "Psalms",
+    "chapter": 133,
+    "verse": 3,
+    "start": 18.779999,
+    "end": 28.72
+  }
+]

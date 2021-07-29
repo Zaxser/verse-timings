@@ -4,107 +4,83 @@
     "chapter": 5,
     "verse": 1,
     "start": 2.39,
-    "startOffset": 2,
-    "end": 6.19,
-    "endOffset": 83
+    "end": 6.19
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 2,
     "start": 7.12,
-    "startOffset": 86,
-    "end": 11.88,
-    "endOffset": 188
+    "end": 11.88
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 3,
     "start": 12.55,
-    "startOffset": 191,
-    "end": 26.11,
-    "endOffset": 373
+    "end": 26.11
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 4,
     "start": 27.41,
-    "startOffset": 376,
-    "end": 41.74,
-    "endOffset": 632
+    "end": 41.74
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 5,
     "start": 42.91,
-    "startOffset": 635,
-    "end": 48.98,
-    "endOffset": 768
+    "end": 48.98
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 6,
     "start": 50.509999,
-    "startOffset": 771,
-    "end": 57.53,
-    "endOffset": 913
+    "end": 57.53
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 7,
     "start": 58.230000000000004,
-    "startOffset": 916,
-    "end": 66.2,
-    "endOffset": 1080
+    "end": 66.2
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 8,
     "start": 66.889999,
-    "startOffset": 1083,
-    "end": 79.44,
-    "endOffset": 1361
+    "end": 79.44
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 9,
     "start": 79.44,
-    "startOffset": 1364,
-    "end": 92.0,
-    "endOffset": 1589
+    "end": 92.0
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 10,
     "start": 92.91,
-    "startOffset": 1592,
-    "end": 103.77999899999999,
-    "endOffset": 1814
+    "end": 103.77999899999999
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 11,
     "start": 104.52,
-    "startOffset": 1817,
-    "end": 119.53,
-    "endOffset": 2107
+    "end": 119.53
   },
   {
     "book": "1 Samuel",
     "chapter": 5,
     "verse": 12,
     "start": 120.91,
-    "startOffset": 2110,
-    "end": 127.66,
-    "endOffset": 2208
+    "end": 127.66
   }
 ]

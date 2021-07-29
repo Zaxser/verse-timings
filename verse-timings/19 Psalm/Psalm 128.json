@@ -1,0 +1,44 @@
+[
+  {
+    "book": "Psalms",
+    "chapter": 128,
+    "verse": 1,
+    "start": 2.14,
+    "end": 5.71
+  },
+  {
+    "book": "Psalms",
+    "chapter": 128,
+    "verse": 2,
+    "start": 6.42,
+    "end": 11.069999
+  },
+  {
+    "book": "Psalms",
+    "chapter": 128,
+    "verse": 3,
+    "start": 11.73,
+    "end": 18.389999999999997
+  },
+  {
+    "book": "Psalms",
+    "chapter": 128,
+    "verse": 4,
+    "start": 19.119999,
+    "end": 22.98
+  },
+  {
+    "book": "Psalms",
+    "chapter": 128,
+    "verse": 5,
+    "start": 23.72,
+    "end": 28.73
+  },
+  {
+    "book": "Psalms",
+    "chapter": 128,
+    "verse": 6,
+    "start": 29.009999999999998,
+    "end": 33.199999
+  }
+]

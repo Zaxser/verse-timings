@@ -4,107 +4,83 @@
     "chapter": 84,
     "verse": 1,
     "start": 3.3,
-    "startOffset": 2,
-    "end": 6.0,
-    "endOffset": 50
+    "end": 6.0
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 2,
     "start": 6.92,
-    "startOffset": 53,
-    "end": 14.689999,
-    "endOffset": 168
+    "end": 14.689999
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 3,
     "start": 15.65,
-    "startOffset": 171,
-    "end": 26.15,
-    "endOffset": 329
+    "end": 26.15
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 4,
     "start": 27.59,
-    "startOffset": 332,
-    "end": 33.259999,
-    "endOffset": 413
+    "end": 33.259999
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 5,
     "start": 34.299999,
-    "startOffset": 416,
-    "end": 38.22,
-    "endOffset": 497
+    "end": 38.22
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 6,
     "start": 38.88,
-    "startOffset": 500,
-    "end": 44.78,
-    "endOffset": 586
+    "end": 44.78
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 7,
     "start": 45.46,
-    "startOffset": 589,
-    "end": 50.74,
-    "endOffset": 670
+    "end": 50.74
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 8,
     "start": 51.91,
-    "startOffset": 673,
-    "end": 56.93,
-    "endOffset": 741
+    "end": 56.93
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 9,
     "start": 58.08,
-    "startOffset": 744,
-    "end": 61.78,
-    "endOffset": 810
+    "end": 61.78
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 10,
     "start": 62.63,
-    "startOffset": 813,
-    "end": 72.95,
-    "endOffset": 957
+    "end": 72.95
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 11,
     "start": 73.91,
-    "startOffset": 960,
-    "end": 82.42999999999999,
-    "endOffset": 1094
+    "end": 82.42999999999999
   },
   {
     "book": "Psalms",
     "chapter": 84,
     "verse": 12,
     "start": 83.5,
-    "startOffset": 1097,
-    "end": 87.28,
-    "endOffset": 1154
+    "end": 87.28
   }
 ]
