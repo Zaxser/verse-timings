@@ -1,0 +1,334 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.200",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter five"
+   ]
+  },
+  {
+   "begin": "2.200",
+   "children": [],
+   "end": "8.840",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+   ]
+  },
+  {
+   "begin": "8.840",
+   "children": [],
+   "end": "16.160",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created."
+   ]
+  },
+  {
+   "begin": "16.160",
+   "children": [],
+   "end": "22.800",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And Adam lived an hundred and thirty years, and begat a son in his own likeness, and after his image; and called his name Seth:"
+   ]
+  },
+  {
+   "begin": "22.800",
+   "children": [],
+   "end": "27.800",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
+   ]
+  },
+  {
+   "begin": "27.800",
+   "children": [],
+   "end": "32.480",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And all the days that Adam lived were nine hundred and thirty years: and he died."
+   ]
+  },
+  {
+   "begin": "32.480",
+   "children": [],
+   "end": "36.000",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And Seth lived an hundred and five years, and begat Enos:"
+   ]
+  },
+  {
+   "begin": "36.000",
+   "children": [],
+   "end": "41.120",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:"
+   ]
+  },
+  {
+   "begin": "41.120",
+   "children": [],
+   "end": "45.680",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And all the days of Seth were nine hundred and twelve years: and he died."
+   ]
+  },
+  {
+   "begin": "45.680",
+   "children": [],
+   "end": "48.560",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "And Enos lived ninety years, and begat Cainan:"
+   ]
+  },
+  {
+   "begin": "48.560",
+   "children": [],
+   "end": "53.800",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+   ]
+  },
+  {
+   "begin": "53.800",
+   "children": [],
+   "end": "57.960",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And all the days of Enos were nine hundred and five years: and he died."
+   ]
+  },
+  {
+   "begin": "57.960",
+   "children": [],
+   "end": "61.680",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And Cainan lived seventy years and begat Mahalaleel:"
+   ]
+  },
+  {
+   "begin": "61.680",
+   "children": [],
+   "end": "66.480",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
+   ]
+  },
+  {
+   "begin": "66.480",
+   "children": [],
+   "end": "70.920",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And all the days of Cainan were nine hundred and ten years: and he died."
+   ]
+  },
+  {
+   "begin": "70.920",
+   "children": [],
+   "end": "74.440",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And Mahalaleel lived sixty and five years, and begat Jared:"
+   ]
+  },
+  {
+   "begin": "74.440",
+   "children": [],
+   "end": "79.280",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:"
+   ]
+  },
+  {
+   "begin": "79.280",
+   "children": [],
+   "end": "84.560",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+   ]
+  },
+  {
+   "begin": "84.560",
+   "children": [],
+   "end": "88.960",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And Jared lived an hundred sixty and two years, and he begat Enoch:"
+   ]
+  },
+  {
+   "begin": "88.960",
+   "children": [],
+   "end": "93.600",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
+   ]
+  },
+  {
+   "begin": "93.600",
+   "children": [],
+   "end": "98.400",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And all the days of Jared were nine hundred sixty and two years: and he died."
+   ]
+  },
+  {
+   "begin": "98.400",
+   "children": [],
+   "end": "102.680",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And Enoch lived sixty and five years, and begat Methuselah:"
+   ]
+  },
+  {
+   "begin": "102.680",
+   "children": [],
+   "end": "108.080",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+   ]
+  },
+  {
+   "begin": "108.080",
+   "children": [],
+   "end": "112.120",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And all the days of Enoch were three hundred sixty and five years:"
+   ]
+  },
+  {
+   "begin": "112.120",
+   "children": [],
+   "end": "117.160",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And Enoch walked with God: and he was not; for God took him."
+   ]
+  },
+  {
+   "begin": "117.160",
+   "children": [],
+   "end": "121.960",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And Methuselah lived an hundred eighty and seven years, and begat Lamech."
+   ]
+  },
+  {
+   "begin": "121.960",
+   "children": [],
+   "end": "128.520",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:"
+   ]
+  },
+  {
+   "begin": "128.520",
+   "children": [],
+   "end": "134.840",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And all the days of Methuselah were nine hundred sixty and nine years: and he died."
+   ]
+  },
+  {
+   "begin": "134.840",
+   "children": [],
+   "end": "137.800",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And Lamech lived an hundred eighty and two years, and begat a son:"
+   ]
+  },
+  {
+   "begin": "137.800",
+   "children": [],
+   "end": "148.360",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed."
+   ]
+  },
+  {
+   "begin": "148.360",
+   "children": [],
+   "end": "153.760",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:"
+   ]
+  },
+  {
+   "begin": "153.760",
+   "children": [],
+   "end": "159.040",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And all the days of Lamech were seven hundred seventy and seven years: and he died."
+   ]
+  },
+  {
+   "begin": "159.040",
+   "children": [],
+   "end": "167.040",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+   ]
+  }
+ ]
+}

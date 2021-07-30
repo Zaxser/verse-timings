@@ -1,0 +1,354 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.000",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter two"
+   ]
+  },
+  {
+   "begin": "2.000",
+   "children": [],
+   "end": "5.240",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And the LORD spake unto Moses and unto Aaron, saying,"
+   ]
+  },
+  {
+   "begin": "5.240",
+   "children": [],
+   "end": "14.160",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Every man of the children of Israel shall pitch by his own standard, with the ensign of their father's house: far off about the tabernacle of the congregation shall they pitch."
+   ]
+  },
+  {
+   "begin": "14.160",
+   "children": [],
+   "end": "25.560",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab shall be captain of the children of Judah."
+   ]
+  },
+  {
+   "begin": "25.560",
+   "children": [],
+   "end": "31.200",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred."
+   ]
+  },
+  {
+   "begin": "31.200",
+   "children": [],
+   "end": "38.520",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And those that do pitch next unto him shall be the tribe of Issachar: and Nethaneel the son of Zuar shall be captain of the children of Issachar."
+   ]
+  },
+  {
+   "begin": "38.520",
+   "children": [],
+   "end": "43.720",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered thereof, were fifty and four thousand and four hundred."
+   ]
+  },
+  {
+   "begin": "43.720",
+   "children": [],
+   "end": "49.360",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Then the tribe of Zebulun: and Eliab the son of Helon shall be captain of the children of Zebulun."
+   ]
+  },
+  {
+   "begin": "49.360",
+   "children": [],
+   "end": "54.240",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered thereof, were fifty and seven thousand and four hundred."
+   ]
+  },
+  {
+   "begin": "54.240",
+   "children": [],
+   "end": "66.920",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "All that were numbered in the camp of Judah were an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth."
+   ]
+  },
+  {
+   "begin": "66.920",
+   "children": [],
+   "end": "76.320",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "On the south side shall be the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben shall be Elizur the son of Shedeur."
+   ]
+  },
+  {
+   "begin": "76.320",
+   "children": [],
+   "end": "80.280",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered thereof, were forty and six thousand and five hundred."
+   ]
+  },
+  {
+   "begin": "80.280",
+   "children": [],
+   "end": "86.960",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And those which pitch by him shall be the tribe of Simeon: and the captain of the children of Simeon shall be Shelumiel the son of Zurishaddai."
+   ]
+  },
+  {
+   "begin": "86.960",
+   "children": [],
+   "end": "93.040",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered of them, were fifty and nine thousand and three hundred."
+   ]
+  },
+  {
+   "begin": "93.040",
+   "children": [],
+   "end": "97.720",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Then the tribe of Gad: and the captain of the sons of Gad shall be Eliasaph the son of Reuel."
+   ]
+  },
+  {
+   "begin": "97.720",
+   "children": [],
+   "end": "104.000",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered of them, were forty and five thousand and six hundred and fifty."
+   ]
+  },
+  {
+   "begin": "104.000",
+   "children": [],
+   "end": "117.400",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "All that were numbered in the camp of Reuben were an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies. And they shall set forth in the second rank."
+   ]
+  },
+  {
+   "begin": "117.400",
+   "children": [],
+   "end": "129.280",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp: as they encamp, so shall they set forward, every man in his place by their standards."
+   ]
+  },
+  {
+   "begin": "129.280",
+   "children": [],
+   "end": "136.040",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "On the west side shall be the standard of the camp of Ephraim according to their armies: and the captain of the sons of Ephraim shall be Elishama the son of Ammihud."
+   ]
+  },
+  {
+   "begin": "136.040",
+   "children": [],
+   "end": "140.880",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered of them, were forty thousand and five hundred."
+   ]
+  },
+  {
+   "begin": "140.880",
+   "children": [],
+   "end": "146.600",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And by him shall be the tribe of Manasseh: and the captain of the children of Manasseh shall be Gamaliel the son of Pedahzur."
+   ]
+  },
+  {
+   "begin": "146.600",
+   "children": [],
+   "end": "151.680",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered of them, were thirty and two thousand and two hundred."
+   ]
+  },
+  {
+   "begin": "151.680",
+   "children": [],
+   "end": "155.880",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Then the tribe of Benjamin: and the captain of the sons of Benjamin shall be Abidan the son of Gideoni."
+   ]
+  },
+  {
+   "begin": "155.880",
+   "children": [],
+   "end": "160.000",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered of them, were thirty and five thousand and four hundred."
+   ]
+  },
+  {
+   "begin": "160.000",
+   "children": [],
+   "end": "164.840",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "All that were numbered of the camp of Ephraim were an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank."
+   ]
+  },
+  {
+   "begin": "164.840",
+   "children": [],
+   "end": "167.440",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "The standard of the camp of Dan shall be on the north side by their armies: and the captain of the children of Dan shall be Ahiezer the son of Ammishaddai."
+   ]
+  },
+  {
+   "begin": "167.440",
+   "children": [],
+   "end": "174.840",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered of them, were threescore and two thousand and seven hundred."
+   ]
+  },
+  {
+   "begin": "174.840",
+   "children": [],
+   "end": "181.040",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And those that encamp by him shall be the tribe of Asher: and the captain of the children of Asher shall be Pagiel the son of Ocran."
+   ]
+  },
+  {
+   "begin": "181.040",
+   "children": [],
+   "end": "185.720",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered of them, were forty and one thousand and five hundred."
+   ]
+  },
+  {
+   "begin": "185.720",
+   "children": [],
+   "end": "192.280",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Then the tribe of Naphtali: and the captain of the children of Naphtali shall be Ahira the son of Enan."
+   ]
+  },
+  {
+   "begin": "192.280",
+   "children": [],
+   "end": "197.320",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And his host, and those that were numbered of them, were fifty and three thousand and four hundred."
+   ]
+  },
+  {
+   "begin": "197.320",
+   "children": [],
+   "end": "206.480",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "All they that were numbered in the camp of Dan were an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards."
+   ]
+  },
+  {
+   "begin": "206.480",
+   "children": [],
+   "end": "219.920",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "These are those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts were six hundred thousand and three thousand and five hundred and fifty."
+   ]
+  },
+  {
+   "begin": "219.920",
+   "children": [],
+   "end": "224.960",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "But the Levites were not numbered among the children of Israel; as the LORD commanded Moses."
+   ]
+  },
+  {
+   "begin": "224.960",
+   "children": [],
+   "end": "237.760",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "And the children of Israel did according to all that the LORD commanded Moses: so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.360",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter one hundred and seventeen"
+   ]
+  },
+  {
+   "begin": "3.360",
+   "children": [],
+   "end": "8.240",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "O praise the LORD, all ye nations: praise him, all ye people."
+   ]
+  },
+  {
+   "begin": "8.240",
+   "children": [],
+   "end": "16.800",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD."
+   ]
+  }
+ ]
+}

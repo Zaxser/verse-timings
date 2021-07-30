@@ -1,0 +1,584 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.200",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter nine"
+   ]
+  },
+  {
+   "begin": "2.200",
+   "children": [],
+   "end": "9.080",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And Abimelech the son of Jerubbaal went to Shechem unto his mother's brethren, and communed with them, and with all the family of the house of his mother's father, saying,"
+   ]
+  },
+  {
+   "begin": "9.080",
+   "children": [],
+   "end": "24.560",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Speak, I pray you, in the ears of all the men of Shechem, Whether is better for you, either that all the sons of Jerubbaal, which are threescore and ten persons, reign over you, or that one reign over you? remember also that I am your bone and your flesh."
+   ]
+  },
+  {
+   "begin": "24.560",
+   "children": [],
+   "end": "32.560",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And his mother's brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother."
+   ]
+  },
+  {
+   "begin": "32.560",
+   "children": [],
+   "end": "41.080",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And they gave him threescore and ten pieces of silver out of the house of Baalberith, wherewith Abimelech hired vain and light persons, which followed him."
+   ]
+  },
+  {
+   "begin": "41.080",
+   "children": [],
+   "end": "56.120",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And he went unto his father's house at Ophrah, and slew his brethren the sons of Jerubbaal, being threescore and ten persons, upon one stone: notwithstanding yet Jotham the youngest son of Jerubbaal was left; for he hid himself."
+   ]
+  },
+  {
+   "begin": "56.120",
+   "children": [],
+   "end": "64.760",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And all the men of Shechem gathered together, and all the house of Millo, and went, and made Abimelech king, by the plain of the pillar that was in Shechem."
+   ]
+  },
+  {
+   "begin": "64.760",
+   "children": [],
+   "end": "76.560",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And when they told it to Jotham, he went and stood in the top of mount Gerizim, and lifted up his voice, and cried, and said unto them, Hearken unto me, ye men of Shechem, that God may hearken unto you."
+   ]
+  },
+  {
+   "begin": "76.560",
+   "children": [],
+   "end": "83.240",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "The trees went forth on a time to anoint a king over them; and they said unto the olive tree, Reign thou over us."
+   ]
+  },
+  {
+   "begin": "83.240",
+   "children": [],
+   "end": "91.560",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "But the olive tree said unto them, Should I leave my fatness, wherewith by me they honor God and man, and go to be promoted over the trees?"
+   ]
+  },
+  {
+   "begin": "91.560",
+   "children": [],
+   "end": "95.080",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And the trees said to the fig tree, Come thou, and reign over us."
+   ]
+  },
+  {
+   "begin": "95.080",
+   "children": [],
+   "end": "102.040",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "But the fig tree said unto them, Should I forsake my sweetness, and my good fruit, and go to be promoted over the trees?"
+   ]
+  },
+  {
+   "begin": "102.040",
+   "children": [],
+   "end": "105.640",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Then said the trees unto the vine, Come thou, and reign over us."
+   ]
+  },
+  {
+   "begin": "105.640",
+   "children": [],
+   "end": "113.120",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And the vine said unto them, Should I leave my wine, which cheereth God and man, and go to be promoted over the trees?"
+   ]
+  },
+  {
+   "begin": "113.120",
+   "children": [],
+   "end": "118.640",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Then said all the trees unto the bramble, Come thou, and reign over us."
+   ]
+  },
+  {
+   "begin": "118.640",
+   "children": [],
+   "end": "130.840",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And the bramble said unto the trees, If in truth ye anoint me king over you, then come and put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon."
+   ]
+  },
+  {
+   "begin": "130.840",
+   "children": [],
+   "end": "141.120",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Now therefore, if ye have done truly and sincerely, in that ye have made Abimelech king, and if ye have dealt well with Jerubbaal and his house, and have done unto him according to the deserving of his hands;"
+   ]
+  },
+  {
+   "begin": "141.120",
+   "children": [],
+   "end": "147.240",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "(For my father fought for you, and adventured his life far, and delivered you out of the hand of Midian:"
+   ]
+  },
+  {
+   "begin": "147.240",
+   "children": [],
+   "end": "158.840",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And ye are risen up against my father's house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maidservant, king over the men of Shechem, because he is your brother;)"
+   ]
+  },
+  {
+   "begin": "158.840",
+   "children": [],
+   "end": "167.360",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, then rejoice ye in Abimelech, and let him also rejoice in you:"
+   ]
+  },
+  {
+   "begin": "167.360",
+   "children": [],
+   "end": "179.800",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "But if not, let fire come out from Abimelech, and devour the men of Shechem, and the house of Millo; and let fire come out from the men of Shechem, and from the house of Millo, and devour Abimelech."
+   ]
+  },
+  {
+   "begin": "179.800",
+   "children": [],
+   "end": "186.520",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother."
+   ]
+  },
+  {
+   "begin": "186.520",
+   "children": [],
+   "end": "188.960",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "When Abimelech had reigned three years over Israel,"
+   ]
+  },
+  {
+   "begin": "188.960",
+   "children": [],
+   "end": "194.720",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Then God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt treacherously with Abimelech:"
+   ]
+  },
+  {
+   "begin": "194.720",
+   "children": [],
+   "end": "206.720",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "That the cruelty done to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brethren."
+   ]
+  },
+  {
+   "begin": "206.720",
+   "children": [],
+   "end": "215.400",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And the men of Shechem set liers in wait for him in the top of the mountains, and they robbed all that came along that way by them: and it was told Abimelech."
+   ]
+  },
+  {
+   "begin": "215.400",
+   "children": [],
+   "end": "221.920",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him."
+   ]
+  },
+  {
+   "begin": "221.920",
+   "children": [],
+   "end": "231.880",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And they went out into the fields, and gathered their vineyards, and trode the grapes, and made merry, and went into the house of their god, and did eat and drink, and cursed Abimelech."
+   ]
+  },
+  {
+   "begin": "231.880",
+   "children": [],
+   "end": "245.520",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?"
+   ]
+  },
+  {
+   "begin": "245.520",
+   "children": [],
+   "end": "254.560",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And would to God this people were under my hand! then would I remove Abimelech. And he said to Abimelech, Increase thine army, and come out."
+   ]
+  },
+  {
+   "begin": "254.560",
+   "children": [],
+   "end": "259.800",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled."
+   ]
+  },
+  {
+   "begin": "259.800",
+   "children": [],
+   "end": "268.200",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against thee."
+   ]
+  },
+  {
+   "begin": "268.200",
+   "children": [],
+   "end": "272.520",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Now therefore up by night, thou and the people that is with thee, and lie in wait in the field:"
+   ]
+  },
+  {
+   "begin": "272.520",
+   "children": [],
+   "end": "283.520",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And it shall be, that in the morning, as soon as the sun is up, thou shalt rise early, and set upon the city: and, behold, when he and the people that is with him come out against thee, then mayest thou do to them as thou shalt find occasion."
+   ]
+  },
+  {
+   "begin": "283.520",
+   "children": [],
+   "end": "289.040",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies."
+   ]
+  },
+  {
+   "begin": "289.040",
+   "children": [],
+   "end": "296.640",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And Gaal the son of Ebed went out, and stood in the entering of the gate of the city: and Abimelech rose up, and the people that were with him, from lying in wait."
+   ]
+  },
+  {
+   "begin": "296.640",
+   "children": [],
+   "end": "306.920",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said unto him, Thou seest the shadow of the mountains as if they were men."
+   ]
+  },
+  {
+   "begin": "306.920",
+   "children": [],
+   "end": "314.040",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And Gaal spake again, and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim."
+   ]
+  },
+  {
+   "begin": "314.040",
+   "children": [],
+   "end": "326.360",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Then said Zebul unto him, Where is now thy mouth, wherewith thou saidst, Who is Abimelech, that we should serve him? is not this the people that thou hast despised? go out, I pray now, and fight with them."
+   ]
+  },
+  {
+   "begin": "326.360",
+   "children": [],
+   "end": "329.800",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And Gaal went out before the men of Shechem, and fought with Abimelech."
+   ]
+  },
+  {
+   "begin": "329.800",
+   "children": [],
+   "end": "336.760",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And Abimelech chased him, and he fled before him, and many were overthrown and wounded, even unto the entering of the gate."
+   ]
+  },
+  {
+   "begin": "336.760",
+   "children": [],
+   "end": "343.560",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brethren, that they should not dwell in Shechem."
+   ]
+  },
+  {
+   "begin": "343.560",
+   "children": [],
+   "end": "348.120",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "And it came to pass on the morrow, that the people went out into the field; and they told Abimelech."
+   ]
+  },
+  {
+   "begin": "348.120",
+   "children": [],
+   "end": "357.640",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And he took the people, and divided them into three companies, and laid wait in the field, and looked, and, behold, the people were come forth out of the city; and he rose up against them, and smote them."
+   ]
+  },
+  {
+   "begin": "357.640",
+   "children": [],
+   "end": "366.680",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And Abimelech, and the company that was with him, rushed forward, and stood in the entering of the gate of the city: and the two other companies ran upon all the people that were in the fields, and slew them."
+   ]
+  },
+  {
+   "begin": "366.680",
+   "children": [],
+   "end": "375.200",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And Abimelech fought against the city all that day; and he took the city, and slew the people that was therein, and beat down the city, and sowed it with salt."
+   ]
+  },
+  {
+   "begin": "375.200",
+   "children": [],
+   "end": "380.720",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And when all the men of the tower of Shechem heard that, they entered into an hold of the house of the god Berith."
+   ]
+  },
+  {
+   "begin": "380.720",
+   "children": [],
+   "end": "384.680",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And it was told Abimelech, that all the men of the tower of Shechem were gathered together."
+   ]
+  },
+  {
+   "begin": "384.680",
+   "children": [],
+   "end": "400.600",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "And Abimelech gat him up to mount Zalmon, he and all the people that were with him; and Abimelech took an axe in his hand, and cut down a bough from the trees, and took it, and laid it on his shoulder, and said unto the people that were with him, What ye have seen me do, make haste, and do as I have done."
+   ]
+  },
+  {
+   "begin": "400.600",
+   "children": [],
+   "end": "412.080",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And all the people likewise cut down every man his bough, and followed Abimelech, and put them to the hold, and set the hold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women."
+   ]
+  },
+  {
+   "begin": "412.080",
+   "children": [],
+   "end": "417.960",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "Then went Abimelech to Thebez, and encamped against Thebez, and took it."
+   ]
+  },
+  {
+   "begin": "417.960",
+   "children": [],
+   "end": "426.000",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut it to them, and gat them up to the top of the tower."
+   ]
+  },
+  {
+   "begin": "426.000",
+   "children": [],
+   "end": "431.680",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "And Abimelech came unto the tower, and fought against it, and went hard unto the door of the tower to burn it with fire."
+   ]
+  },
+  {
+   "begin": "431.680",
+   "children": [],
+   "end": "438.080",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And a certain woman cast a piece of a millstone upon Abimelech's head, and all to brake his skull."
+   ]
+  },
+  {
+   "begin": "438.080",
+   "children": [],
+   "end": "448.840",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "Then he called hastily unto the young man his armourbearer, and said unto him, Draw thy sword, and slay me, that men say not of me, A women slew him. And his young man thrust him through, and he died."
+   ]
+  },
+  {
+   "begin": "448.840",
+   "children": [],
+   "end": "453.240",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "And when the men of Israel saw that Abimelech was dead, they departed every man unto his place."
+   ]
+  },
+  {
+   "begin": "453.240",
+   "children": [],
+   "end": "461.320",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren:"
+   ]
+  },
+  {
+   "begin": "461.320",
+   "children": [],
+   "end": "470.960",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "And all the evil of the men of Shechem did God render upon their heads: and upon them came the curse of Jotham the son of Jerubbaal."
+   ]
+  }
+ ]
+}

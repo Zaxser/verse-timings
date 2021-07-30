@@ -1,0 +1,584 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.560",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter forty-one"
+   ]
+  },
+  {
+   "begin": "2.560",
+   "children": [],
+   "end": "8.280",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river."
+   ]
+  },
+  {
+   "begin": "8.280",
+   "children": [],
+   "end": "16.800",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And, behold, there came up out of the river seven well favored kine and fatfleshed; and they fed in a meadow."
+   ]
+  },
+  {
+   "begin": "16.800",
+   "children": [],
+   "end": "25.280",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And, behold, seven other kine came up after them out of the river, ill favored and leanfleshed; and stood by the other kine upon the brink of the river."
+   ]
+  },
+  {
+   "begin": "25.280",
+   "children": [],
+   "end": "33.920",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And the ill favored and leanfleshed kine did eat up the seven well favored and fat kine. So Pharaoh awoke."
+   ]
+  },
+  {
+   "begin": "33.920",
+   "children": [],
+   "end": "42.360",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good."
+   ]
+  },
+  {
+   "begin": "42.360",
+   "children": [],
+   "end": "48.240",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And, behold, seven thin ears and blasted with the east wind sprung up after them."
+   ]
+  },
+  {
+   "begin": "48.240",
+   "children": [],
+   "end": "56.440",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, it was a dream."
+   ]
+  },
+  {
+   "begin": "56.440",
+   "children": [],
+   "end": "69.120",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but there was none that could interpret them unto Pharaoh."
+   ]
+  },
+  {
+   "begin": "69.120",
+   "children": [],
+   "end": "74.720",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:"
+   ]
+  },
+  {
+   "begin": "74.720",
+   "children": [],
+   "end": "80.520",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Pharaoh was wroth with his servants, and put me in ward in the captain of the guard's house, both me and the chief baker:"
+   ]
+  },
+  {
+   "begin": "80.520",
+   "children": [],
+   "end": "86.240",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream."
+   ]
+  },
+  {
+   "begin": "86.240",
+   "children": [],
+   "end": "96.720",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And there was there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret."
+   ]
+  },
+  {
+   "begin": "96.720",
+   "children": [],
+   "end": "104.800",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, as he interpreted to us, so it was; me he restored unto mine office, and him he hanged."
+   ]
+  },
+  {
+   "begin": "104.800",
+   "children": [],
+   "end": "113.040",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved himself, and changed his raiment, and came in unto Pharaoh."
+   ]
+  },
+  {
+   "begin": "113.040",
+   "children": [],
+   "end": "124.280",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And Pharaoh said unto Joseph, I have dreamed a dream, and there is none that can interpret it: and I have heard say of thee, that thou canst understand a dream to interpret it."
+   ]
+  },
+  {
+   "begin": "124.280",
+   "children": [],
+   "end": "130.920",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And Joseph answered Pharaoh, saying, It is not in me: God shall give Pharaoh an answer of peace."
+   ]
+  },
+  {
+   "begin": "130.920",
+   "children": [],
+   "end": "135.240",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:"
+   ]
+  },
+  {
+   "begin": "135.240",
+   "children": [],
+   "end": "140.720",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And, behold, there came up out of the river seven kine, fatfleshed and well favored; and they fed in a meadow:"
+   ]
+  },
+  {
+   "begin": "140.720",
+   "children": [],
+   "end": "148.960",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And, behold, seven other kine came up after them, poor and very ill favored and leanfleshed, such as I never saw in all the land of Egypt for badness:"
+   ]
+  },
+  {
+   "begin": "148.960",
+   "children": [],
+   "end": "153.240",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And the lean and the ill favored kine did eat up the first seven fat kine:"
+   ]
+  },
+  {
+   "begin": "153.240",
+   "children": [],
+   "end": "161.760",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And when they had eaten them up, it could not be known that they had eaten them; but they were still ill favored, as at the beginning. So I awoke."
+   ]
+  },
+  {
+   "begin": "161.760",
+   "children": [],
+   "end": "166.880",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:"
+   ]
+  },
+  {
+   "begin": "166.880",
+   "children": [],
+   "end": "171.920",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And, behold, seven ears, withered, thin, and blasted with the east wind, sprung up after them:"
+   ]
+  },
+  {
+   "begin": "171.920",
+   "children": [],
+   "end": "180.160",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And the thin ears devoured the seven good ears: and I told this unto the magicians; but there was none that could declare it to me."
+   ]
+  },
+  {
+   "begin": "180.160",
+   "children": [],
+   "end": "188.680",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And Joseph said unto Pharaoh, The dream of Pharaoh is one: God hath showed Pharaoh what he is about to do."
+   ]
+  },
+  {
+   "begin": "188.680",
+   "children": [],
+   "end": "195.840",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "The seven good kine are seven years; and the seven good ears are seven years: the dream is one."
+   ]
+  },
+  {
+   "begin": "195.840",
+   "children": [],
+   "end": "206.040",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And the seven thin and ill favored kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine."
+   ]
+  },
+  {
+   "begin": "206.040",
+   "children": [],
+   "end": "212.800",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "This is the thing which I have spoken unto Pharaoh: What God is about to do he showeth unto Pharaoh."
+   ]
+  },
+  {
+   "begin": "212.800",
+   "children": [],
+   "end": "218.360",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Behold, there come seven years of great plenty throughout all the land of Egypt:"
+   ]
+  },
+  {
+   "begin": "218.360",
+   "children": [],
+   "end": "227.920",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;"
+   ]
+  },
+  {
+   "begin": "227.920",
+   "children": [],
+   "end": "234.360",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And the plenty shall not be known in the land by reason of that famine following; for it shall be very grievous."
+   ]
+  },
+  {
+   "begin": "234.360",
+   "children": [],
+   "end": "243.320",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And for that the dream was doubled unto Pharaoh twice; it is because the thing is established by God, and God will shortly bring it to pass."
+   ]
+  },
+  {
+   "begin": "243.320",
+   "children": [],
+   "end": "249.040",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt."
+   ]
+  },
+  {
+   "begin": "249.040",
+   "children": [],
+   "end": "257.160",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Let Pharaoh do this, and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years."
+   ]
+  },
+  {
+   "begin": "257.160",
+   "children": [],
+   "end": "264.560",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities."
+   ]
+  },
+  {
+   "begin": "264.560",
+   "children": [],
+   "end": "274.400",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine."
+   ]
+  },
+  {
+   "begin": "274.400",
+   "children": [],
+   "end": "278.120",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants."
+   ]
+  },
+  {
+   "begin": "278.120",
+   "children": [],
+   "end": "285.760",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And Pharaoh said unto his servants, Can we find such a one as this is, a man in whom the Spirit of God is?"
+   ]
+  },
+  {
+   "begin": "285.760",
+   "children": [],
+   "end": "292.240",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And Pharaoh said unto Joseph, Forasmuch as God hath showed thee all this, there is none so discreet and wise as thou art:"
+   ]
+  },
+  {
+   "begin": "292.240",
+   "children": [],
+   "end": "300.760",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou."
+   ]
+  },
+  {
+   "begin": "300.760",
+   "children": [],
+   "end": "305.280",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt."
+   ]
+  },
+  {
+   "begin": "305.280",
+   "children": [],
+   "end": "313.800",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "And Pharaoh took off his ring from his hand, and put it upon Joseph's hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;"
+   ]
+  },
+  {
+   "begin": "313.800",
+   "children": [],
+   "end": "323.480",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him ruler over all the land of Egypt."
+   ]
+  },
+  {
+   "begin": "323.480",
+   "children": [],
+   "end": "332.480",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And Pharaoh said unto Joseph, I am Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt."
+   ]
+  },
+  {
+   "begin": "332.480",
+   "children": [],
+   "end": "346.240",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And Pharaoh called Joseph's name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah priest of On. And Joseph went out over all the land of Egypt."
+   ]
+  },
+  {
+   "begin": "346.240",
+   "children": [],
+   "end": "354.040",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt."
+   ]
+  },
+  {
+   "begin": "354.040",
+   "children": [],
+   "end": "357.680",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And in the seven plenteous years the earth brought forth by handfuls."
+   ]
+  },
+  {
+   "begin": "357.680",
+   "children": [],
+   "end": "368.000",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was round about every city, laid he up in the same."
+   ]
+  },
+  {
+   "begin": "368.000",
+   "children": [],
+   "end": "374.920",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number."
+   ]
+  },
+  {
+   "begin": "374.920",
+   "children": [],
+   "end": "383.000",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him."
+   ]
+  },
+  {
+   "begin": "383.000",
+   "children": [],
+   "end": "393.040",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "And Joseph called the name of the firstborn Manasseh: For God, said he, hath made me forget all my toil, and all my father's house."
+   ]
+  },
+  {
+   "begin": "393.040",
+   "children": [],
+   "end": "401.800",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction."
+   ]
+  },
+  {
+   "begin": "401.800",
+   "children": [],
+   "end": "407.480",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And the seven years of plenteousness, that was in the land of Egypt, were ended."
+   ]
+  },
+  {
+   "begin": "407.480",
+   "children": [],
+   "end": "419.000",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread."
+   ]
+  },
+  {
+   "begin": "419.000",
+   "children": [],
+   "end": "428.880",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do."
+   ]
+  },
+  {
+   "begin": "428.880",
+   "children": [],
+   "end": "440.400",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "And the famine was over all the face of the earth: and Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt."
+   ]
+  },
+  {
+   "begin": "440.400",
+   "children": [],
+   "end": "449.920",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands."
+   ]
+  }
+ ]
+}

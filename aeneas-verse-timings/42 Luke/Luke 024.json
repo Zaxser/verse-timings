@@ -1,0 +1,544 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.880",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-four"
+   ]
+  },
+  {
+   "begin": "3.880",
+   "children": [],
+   "end": "13.280",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them."
+   ]
+  },
+  {
+   "begin": "13.280",
+   "children": [],
+   "end": "16.760",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And they found the stone rolled away from the sepulchre."
+   ]
+  },
+  {
+   "begin": "16.760",
+   "children": [],
+   "end": "20.680",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And they entered in, and found not the body of the Lord Jesus."
+   ]
+  },
+  {
+   "begin": "20.680",
+   "children": [],
+   "end": "29.400",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:"
+   ]
+  },
+  {
+   "begin": "29.400",
+   "children": [],
+   "end": "36.840",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?"
+   ]
+  },
+  {
+   "begin": "36.840",
+   "children": [],
+   "end": "41.880",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,"
+   ]
+  },
+  {
+   "begin": "41.880",
+   "children": [],
+   "end": "50.160",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again."
+   ]
+  },
+  {
+   "begin": "50.160",
+   "children": [],
+   "end": "52.080",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And they remembered his words,"
+   ]
+  },
+  {
+   "begin": "52.080",
+   "children": [],
+   "end": "59.080",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "And returned from the sepulchre, and told all these things unto the eleven, and to all the rest."
+   ]
+  },
+  {
+   "begin": "59.080",
+   "children": [],
+   "end": "66.800",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "It was Mary Magdalene and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles."
+   ]
+  },
+  {
+   "begin": "66.800",
+   "children": [],
+   "end": "71.560",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And their words seemed to them as idle tales, and they believed them not."
+   ]
+  },
+  {
+   "begin": "71.560",
+   "children": [],
+   "end": "84.120",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass."
+   ]
+  },
+  {
+   "begin": "84.120",
+   "children": [],
+   "end": "92.520",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs."
+   ]
+  },
+  {
+   "begin": "92.520",
+   "children": [],
+   "end": "96.400",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And they talked together of all these things which had happened."
+   ]
+  },
+  {
+   "begin": "96.400",
+   "children": [],
+   "end": "104.840",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them."
+   ]
+  },
+  {
+   "begin": "104.840",
+   "children": [],
+   "end": "109.400",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "But their eyes were holden that they should not know him."
+   ]
+  },
+  {
+   "begin": "109.400",
+   "children": [],
+   "end": "115.360",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?"
+   ]
+  },
+  {
+   "begin": "115.360",
+   "children": [],
+   "end": "125.560",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?"
+   ]
+  },
+  {
+   "begin": "125.560",
+   "children": [],
+   "end": "134.800",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:"
+   ]
+  },
+  {
+   "begin": "134.800",
+   "children": [],
+   "end": "140.440",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him."
+   ]
+  },
+  {
+   "begin": "140.440",
+   "children": [],
+   "end": "149.920",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done."
+   ]
+  },
+  {
+   "begin": "149.920",
+   "children": [],
+   "end": "155.200",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Yea, and certain women also of our company made us astonished, which were early at the sepulchre;"
+   ]
+  },
+  {
+   "begin": "155.200",
+   "children": [],
+   "end": "161.680",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive."
+   ]
+  },
+  {
+   "begin": "161.680",
+   "children": [],
+   "end": "169.600",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not."
+   ]
+  },
+  {
+   "begin": "169.600",
+   "children": [],
+   "end": "177.600",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:"
+   ]
+  },
+  {
+   "begin": "177.600",
+   "children": [],
+   "end": "182.920",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Ought not Christ to have suffered these things, and to enter into his glory?"
+   ]
+  },
+  {
+   "begin": "182.920",
+   "children": [],
+   "end": "190.680",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself."
+   ]
+  },
+  {
+   "begin": "190.680",
+   "children": [],
+   "end": "195.880",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And they drew nigh unto the village, whither they went: and he made as though he would have gone further."
+   ]
+  },
+  {
+   "begin": "195.880",
+   "children": [],
+   "end": "205.600",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them."
+   ]
+  },
+  {
+   "begin": "205.600",
+   "children": [],
+   "end": "212.800",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them."
+   ]
+  },
+  {
+   "begin": "212.800",
+   "children": [],
+   "end": "219.280",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And their eyes were opened, and they knew him; and he vanished out of their sight."
+   ]
+  },
+  {
+   "begin": "219.280",
+   "children": [],
+   "end": "231.120",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?"
+   ]
+  },
+  {
+   "begin": "231.120",
+   "children": [],
+   "end": "236.920",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,"
+   ]
+  },
+  {
+   "begin": "236.920",
+   "children": [],
+   "end": "240.960",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Saying, The Lord is risen indeed, and hath appeared to Simon."
+   ]
+  },
+  {
+   "begin": "240.960",
+   "children": [],
+   "end": "247.240",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And they told what things were done in the way, and how he was known of them in breaking of bread."
+   ]
+  },
+  {
+   "begin": "247.240",
+   "children": [],
+   "end": "256.280",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you."
+   ]
+  },
+  {
+   "begin": "256.280",
+   "children": [],
+   "end": "259.920",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "But they were terrified and affrighted, and supposed that they had seen a spirit."
+   ]
+  },
+  {
+   "begin": "259.920",
+   "children": [],
+   "end": "265.200",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?"
+   ]
+  },
+  {
+   "begin": "265.200",
+   "children": [],
+   "end": "276.120",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."
+   ]
+  },
+  {
+   "begin": "276.120",
+   "children": [],
+   "end": "279.880",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And when he had thus spoken, he shewed them his hands and his feet."
+   ]
+  },
+  {
+   "begin": "279.880",
+   "children": [],
+   "end": "285.480",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?"
+   ]
+  },
+  {
+   "begin": "285.480",
+   "children": [],
+   "end": "290.280",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "And they gave him a piece of a broiled fish, and of an honeycomb."
+   ]
+  },
+  {
+   "begin": "290.280",
+   "children": [],
+   "end": "292.880",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And he took it, and did eat before them."
+   ]
+  },
+  {
+   "begin": "292.880",
+   "children": [],
+   "end": "305.840",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me."
+   ]
+  },
+  {
+   "begin": "305.840",
+   "children": [],
+   "end": "310.000",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "Then opened he their understanding, that they might understand the scriptures,"
+   ]
+  },
+  {
+   "begin": "310.000",
+   "children": [],
+   "end": "317.680",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:"
+   ]
+  },
+  {
+   "begin": "317.680",
+   "children": [],
+   "end": "324.400",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem."
+   ]
+  },
+  {
+   "begin": "324.400",
+   "children": [],
+   "end": "327.480",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "And ye are witnesses of these things."
+   ]
+  },
+  {
+   "begin": "327.480",
+   "children": [],
+   "end": "338.480",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high."
+   ]
+  },
+  {
+   "begin": "338.480",
+   "children": [],
+   "end": "343.680",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "And he led them out as far as to Bethany, and he lifted up his hands, and blessed them."
+   ]
+  },
+  {
+   "begin": "343.680",
+   "children": [],
+   "end": "349.960",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, while he blessed them, he was parted from them, and carried up into heaven."
+   ]
+  },
+  {
+   "begin": "349.960",
+   "children": [],
+   "end": "353.840",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "And they worshipped him, and returned to Jerusalem with great joy:"
+   ]
+  },
+  {
+   "begin": "353.840",
+   "children": [],
+   "end": "365.120",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And were continually in the temple, praising and blessing God. Amen."
+   ]
+  }
+ ]
+}

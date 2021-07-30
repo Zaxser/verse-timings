@@ -1,0 +1,414 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.480",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-five"
+   ]
+  },
+  {
+   "begin": "2.480",
+   "children": [],
+   "end": "4.720",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And the LORD spake unto Moses, saying,"
+   ]
+  },
+  {
+   "begin": "4.720",
+   "children": [],
+   "end": "12.440",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering."
+   ]
+  },
+  {
+   "begin": "12.440",
+   "children": [],
+   "end": "17.840",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And this is the offering which ye shall take of them; gold, and silver, and brass,"
+   ]
+  },
+  {
+   "begin": "17.840",
+   "children": [],
+   "end": "22.480",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And blue, and purple, and scarlet, and fine linen, and goats' hair,"
+   ]
+  },
+  {
+   "begin": "22.480",
+   "children": [],
+   "end": "27.280",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And rams' skins dyed red, and badgers' skins, and shittim wood,"
+   ]
+  },
+  {
+   "begin": "27.280",
+   "children": [],
+   "end": "31.520",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Oil for the light, spices for anointing oil, and for sweet incense,"
+   ]
+  },
+  {
+   "begin": "31.520",
+   "children": [],
+   "end": "36.840",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Onyx stones, and stones to be set in the ephod, and in the breastplate."
+   ]
+  },
+  {
+   "begin": "36.840",
+   "children": [],
+   "end": "41.240",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And let them make me a sanctuary; that I may dwell among them."
+   ]
+  },
+  {
+   "begin": "41.240",
+   "children": [],
+   "end": "49.480",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "According to all that I show thee, after the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make it."
+   ]
+  },
+  {
+   "begin": "49.480",
+   "children": [],
+   "end": "59.120",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And they shall make an ark of shittim wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof."
+   ]
+  },
+  {
+   "begin": "59.120",
+   "children": [],
+   "end": "66.800",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about."
+   ]
+  },
+  {
+   "begin": "66.800",
+   "children": [],
+   "end": "76.280",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And thou shalt cast four rings of gold for it, and put them in the four corners thereof; and two rings shall be in the one side of it, and two rings in the other side of it."
+   ]
+  },
+  {
+   "begin": "76.280",
+   "children": [],
+   "end": "80.280",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And thou shalt make staves of shittim wood, and overlay them with gold."
+   ]
+  },
+  {
+   "begin": "80.280",
+   "children": [],
+   "end": "85.920",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them."
+   ]
+  },
+  {
+   "begin": "85.920",
+   "children": [],
+   "end": "91.200",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "The staves shall be in the rings of the ark: they shall not be taken from it."
+   ]
+  },
+  {
+   "begin": "91.200",
+   "children": [],
+   "end": "95.440",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And thou shalt put into the ark the testimony which I shall give thee."
+   ]
+  },
+  {
+   "begin": "95.440",
+   "children": [],
+   "end": "103.040",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And thou shalt make a mercy seat of pure gold: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof."
+   ]
+  },
+  {
+   "begin": "103.040",
+   "children": [],
+   "end": "109.360",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And thou shalt make two cherubim of gold, of beaten work shalt thou make them, in the two ends of the mercy seat."
+   ]
+  },
+  {
+   "begin": "109.360",
+   "children": [],
+   "end": "118.000",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubim on the two ends thereof."
+   ]
+  },
+  {
+   "begin": "118.000",
+   "children": [],
+   "end": "130.160",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And the cherubim shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubim be."
+   ]
+  },
+  {
+   "begin": "130.160",
+   "children": [],
+   "end": "137.840",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee."
+   ]
+  },
+  {
+   "begin": "137.840",
+   "children": [],
+   "end": "151.320",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubim which are upon the ark of the testimony, of all things which I will give thee in commandment unto the children of Israel."
+   ]
+  },
+  {
+   "begin": "151.320",
+   "children": [],
+   "end": "159.720",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Thou shalt also make a table of shittim wood: two cubits shall be the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof."
+   ]
+  },
+  {
+   "begin": "159.720",
+   "children": [],
+   "end": "164.440",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And thou shalt overlay it with pure gold, and make thereto a crown of gold round about."
+   ]
+  },
+  {
+   "begin": "164.440",
+   "children": [],
+   "end": "172.080",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And thou shalt make unto it a border of an hand breadth round about, and thou shalt make a golden crown to the border thereof round about."
+   ]
+  },
+  {
+   "begin": "172.080",
+   "children": [],
+   "end": "179.440",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And thou shalt make for it four rings of gold, and put the rings in the four corners that are on the four feet thereof."
+   ]
+  },
+  {
+   "begin": "179.440",
+   "children": [],
+   "end": "184.640",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Over against the border shall the rings be for places of the staves to bear the table."
+   ]
+  },
+  {
+   "begin": "184.640",
+   "children": [],
+   "end": "191.200",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And thou shalt make the staves of shittim wood, and overlay them with gold, that the table may be borne with them."
+   ]
+  },
+  {
+   "begin": "191.200",
+   "children": [],
+   "end": "199.840",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: of pure gold shalt thou make them."
+   ]
+  },
+  {
+   "begin": "199.840",
+   "children": [],
+   "end": "202.960",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And thou shalt set upon the table showbread before me always."
+   ]
+  },
+  {
+   "begin": "202.960",
+   "children": [],
+   "end": "216.640",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And thou shalt make a candlestick of pure gold: of beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same."
+   ]
+  },
+  {
+   "begin": "216.640",
+   "children": [],
+   "end": "224.760",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And six branches shall come out of the sides of it; three branches of the candlestick out of the one side, and three branches of the candlestick out of the other side:"
+   ]
+  },
+  {
+   "begin": "224.760",
+   "children": [],
+   "end": "237.480",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Three bowls made like unto almonds, with a knop and a flower in one branch; and three bowls made like almonds in the other branch, with a knop and a flower: so in the six branches that come out of the candlestick."
+   ]
+  },
+  {
+   "begin": "237.480",
+   "children": [],
+   "end": "243.760",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "And in the candlesticks shall be four bowls made like unto almonds, with their knops and their flowers."
+   ]
+  },
+  {
+   "begin": "243.760",
+   "children": [],
+   "end": "254.320",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And there shall be a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches that proceed out of the candlestick."
+   ]
+  },
+  {
+   "begin": "254.320",
+   "children": [],
+   "end": "260.960",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Their knops and their branches shall be of the same: all it shall be one beaten work of pure gold."
+   ]
+  },
+  {
+   "begin": "260.960",
+   "children": [],
+   "end": "268.720",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And thou shalt make the seven lamps thereof: and they shall light the lamps thereof, that they may give light over against it."
+   ]
+  },
+  {
+   "begin": "268.720",
+   "children": [],
+   "end": "273.400",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And the tongs thereof, and the snuffdishes thereof, shall be of pure gold."
+   ]
+  },
+  {
+   "begin": "273.400",
+   "children": [],
+   "end": "277.920",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Of a talent of pure gold shall he make it, with all these vessels."
+   ]
+  },
+  {
+   "begin": "277.920",
+   "children": [],
+   "end": "284.480",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And look that thou make them after their pattern, which was showed thee in the mount."
+   ]
+  }
+ ]
+}

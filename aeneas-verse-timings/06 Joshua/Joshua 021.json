@@ -1,0 +1,464 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.200",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-one"
+   ]
+  },
+  {
+   "begin": "2.200",
+   "children": [],
+   "end": "10.520",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;"
+   ]
+  },
+  {
+   "begin": "10.520",
+   "children": [],
+   "end": "19.680",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And they spake unto them at Shiloh in the land of Canaan, saying, The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle."
+   ]
+  },
+  {
+   "begin": "19.680",
+   "children": [],
+   "end": "26.760",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the LORD, these cities and their suburbs."
+   ]
+  },
+  {
+   "begin": "26.760",
+   "children": [],
+   "end": "38.600",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities."
+   ]
+  },
+  {
+   "begin": "38.600",
+   "children": [],
+   "end": "47.400",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities."
+   ]
+  },
+  {
+   "begin": "47.400",
+   "children": [],
+   "end": "59.040",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities."
+   ]
+  },
+  {
+   "begin": "59.040",
+   "children": [],
+   "end": "66.920",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities."
+   ]
+  },
+  {
+   "begin": "66.920",
+   "children": [],
+   "end": "74.600",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the LORD commanded by the hand of Moses."
+   ]
+  },
+  {
+   "begin": "74.600",
+   "children": [],
+   "end": "81.400",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name."
+   ]
+  },
+  {
+   "begin": "81.400",
+   "children": [],
+   "end": "87.960",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot."
+   ]
+  },
+  {
+   "begin": "87.960",
+   "children": [],
+   "end": "95.800",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it."
+   ]
+  },
+  {
+   "begin": "95.800",
+   "children": [],
+   "end": "102.040",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession."
+   ]
+  },
+  {
+   "begin": "102.040",
+   "children": [],
+   "end": "109.720",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,"
+   ]
+  },
+  {
+   "begin": "109.720",
+   "children": [],
+   "end": "113.040",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And Jattir with her suburbs, and Eshtemoa with her suburbs,"
+   ]
+  },
+  {
+   "begin": "113.040",
+   "children": [],
+   "end": "116.120",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And Holon with her suburbs, and Debir with her suburbs,"
+   ]
+  },
+  {
+   "begin": "116.120",
+   "children": [],
+   "end": "122.880",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And Ain with her suburbs, and Juttah with her suburbs, and Bethshemesh with her suburbs; nine cities out of those two tribes."
+   ]
+  },
+  {
+   "begin": "122.880",
+   "children": [],
+   "end": "127.440",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,"
+   ]
+  },
+  {
+   "begin": "127.440",
+   "children": [],
+   "end": "132.000",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "Anathoth with her suburbs, and Almon with her suburbs; four cities."
+   ]
+  },
+  {
+   "begin": "132.000",
+   "children": [],
+   "end": "137.560",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "All the cities of the children of Aaron, the priests, were thirteen cities with their suburbs."
+   ]
+  },
+  {
+   "begin": "137.560",
+   "children": [],
+   "end": "144.800",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim."
+   ]
+  },
+  {
+   "begin": "144.800",
+   "children": [],
+   "end": "152.080",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "For they gave them Shechem with her suburbs in mount Ephraim, to be a city of refuge for the slayer; and Gezer with her suburbs,"
+   ]
+  },
+  {
+   "begin": "152.080",
+   "children": [],
+   "end": "156.280",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And Kibzaim with her suburbs, and Bethhoron with her suburbs; four cities."
+   ]
+  },
+  {
+   "begin": "156.280",
+   "children": [],
+   "end": "161.120",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,"
+   ]
+  },
+  {
+   "begin": "161.120",
+   "children": [],
+   "end": "164.920",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Aijalon with her suburbs, Gathrimmon with her suburbs; four cities."
+   ]
+  },
+  {
+   "begin": "164.920",
+   "children": [],
+   "end": "170.720",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And out of the half tribe of Manasseh, Tanach with her suburbs, and Gathrimmon with her suburbs; two cities."
+   ]
+  },
+  {
+   "begin": "170.720",
+   "children": [],
+   "end": "176.320",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "All the cities were ten with their suburbs for the families of the children of Kohath that remained."
+   ]
+  },
+  {
+   "begin": "176.320",
+   "children": [],
+   "end": "189.040",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And unto the children of Gershon, of the families of the Levites, out of the other half tribe of Manasseh they gave Golan in Bashan with her suburbs, to be a city of refuge for the slayer; and Beeshterah with her suburbs; two cities."
+   ]
+  },
+  {
+   "begin": "189.040",
+   "children": [],
+   "end": "193.280",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,"
+   ]
+  },
+  {
+   "begin": "193.280",
+   "children": [],
+   "end": "196.800",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Jarmuth with her suburbs, Engannim with her suburbs; four cities."
+   ]
+  },
+  {
+   "begin": "196.800",
+   "children": [],
+   "end": "200.800",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,"
+   ]
+  },
+  {
+   "begin": "200.800",
+   "children": [],
+   "end": "204.720",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Helkath with her suburbs, and Rehob with her suburbs; four cities."
+   ]
+  },
+  {
+   "begin": "204.720",
+   "children": [],
+   "end": "215.560",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, to be a city of refuge for the slayer; and Hammothdor with her suburbs, and Kartan with her suburbs; three cities."
+   ]
+  },
+  {
+   "begin": "215.560",
+   "children": [],
+   "end": "221.040",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "All the cities of the Gershonites according to their families were thirteen cities with their suburbs."
+   ]
+  },
+  {
+   "begin": "221.040",
+   "children": [],
+   "end": "229.600",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,"
+   ]
+  },
+  {
+   "begin": "229.600",
+   "children": [],
+   "end": "233.480",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Dimnah with her suburbs, Nahalal with her suburbs; four cities."
+   ]
+  },
+  {
+   "begin": "233.480",
+   "children": [],
+   "end": "237.880",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,"
+   ]
+  },
+  {
+   "begin": "237.880",
+   "children": [],
+   "end": "241.920",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Kedemoth with her suburbs, and Mephaath with her suburbs; four cities."
+   ]
+  },
+  {
+   "begin": "241.920",
+   "children": [],
+   "end": "249.120",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And out of the tribe of Gad, Ramoth in Gilead with her suburbs, to be a city of refuge for the slayer; and Mahanaim with her suburbs,"
+   ]
+  },
+  {
+   "begin": "249.120",
+   "children": [],
+   "end": "254.160",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Heshbon with her suburbs, Jazer with her suburbs; four cities in all."
+   ]
+  },
+  {
+   "begin": "254.160",
+   "children": [],
+   "end": "262.560",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were by their lot twelve cities."
+   ]
+  },
+  {
+   "begin": "262.560",
+   "children": [],
+   "end": "268.440",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "All the cities of the Levites within the possession of the children of Israel were forty and eight cities with their suburbs."
+   ]
+  },
+  {
+   "begin": "268.440",
+   "children": [],
+   "end": "274.440",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "These cities were every one with their suburbs round about them: thus were all these cities."
+   ]
+  },
+  {
+   "begin": "274.440",
+   "children": [],
+   "end": "281.680",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein."
+   ]
+  },
+  {
+   "begin": "281.680",
+   "children": [],
+   "end": "293.640",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And the LORD gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand."
+   ]
+  },
+  {
+   "begin": "293.640",
+   "children": [],
+   "end": "302.000",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass."
+   ]
+  }
+ ]
+}

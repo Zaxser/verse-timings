@@ -1,0 +1,384 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.160",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter nineteen"
+   ]
+  },
+  {
+   "begin": "2.160",
+   "children": [],
+   "end": "4.360",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And the LORD spake unto Moses, saying,"
+   ]
+  },
+  {
+   "begin": "4.360",
+   "children": [],
+   "end": "12.560",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God am holy."
+   ]
+  },
+  {
+   "begin": "12.560",
+   "children": [],
+   "end": "19.200",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the LORD your God."
+   ]
+  },
+  {
+   "begin": "19.200",
+   "children": [],
+   "end": "27.040",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God."
+   ]
+  },
+  {
+   "begin": "27.040",
+   "children": [],
+   "end": "33.280",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will."
+   ]
+  },
+  {
+   "begin": "33.280",
+   "children": [],
+   "end": "41.120",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire."
+   ]
+  },
+  {
+   "begin": "41.120",
+   "children": [],
+   "end": "46.120",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And if it be eaten at all on the third day, it is abominable; it shall not be accepted."
+   ]
+  },
+  {
+   "begin": "46.120",
+   "children": [],
+   "end": "56.120",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people."
+   ]
+  },
+  {
+   "begin": "56.120",
+   "children": [],
+   "end": "65.640",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest."
+   ]
+  },
+  {
+   "begin": "65.640",
+   "children": [],
+   "end": "77.200",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the LORD your God."
+   ]
+  },
+  {
+   "begin": "77.200",
+   "children": [],
+   "end": "83.640",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "Ye shall not steal, neither deal falsely, neither lie one to another."
+   ]
+  },
+  {
+   "begin": "83.640",
+   "children": [],
+   "end": "91.840",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD."
+   ]
+  },
+  {
+   "begin": "91.840",
+   "children": [],
+   "end": "101.520",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not defraud thy neighbor, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning."
+   ]
+  },
+  {
+   "begin": "101.520",
+   "children": [],
+   "end": "111.480",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not curse the deaf, nor put a stumbling-block before the blind, but shalt fear thy God: I am the LORD."
+   ]
+  },
+  {
+   "begin": "111.480",
+   "children": [],
+   "end": "123.040",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honor the person of the mighty: but in righteousness shalt thou judge thy neighbor."
+   ]
+  },
+  {
+   "begin": "123.040",
+   "children": [],
+   "end": "132.120",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbor; I am the LORD."
+   ]
+  },
+  {
+   "begin": "132.120",
+   "children": [],
+   "end": "142.600",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbor, and not suffer sin upon him."
+   ]
+  },
+  {
+   "begin": "142.600",
+   "children": [],
+   "end": "155.920",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbor as thyself: I am the LORD."
+   ]
+  },
+  {
+   "begin": "155.920",
+   "children": [],
+   "end": "169.000",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woolen come upon thee."
+   ]
+  },
+  {
+   "begin": "169.000",
+   "children": [],
+   "end": "181.560",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free."
+   ]
+  },
+  {
+   "begin": "181.560",
+   "children": [],
+   "end": "188.400",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering."
+   ]
+  },
+  {
+   "begin": "188.400",
+   "children": [],
+   "end": "198.240",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him."
+   ]
+  },
+  {
+   "begin": "198.240",
+   "children": [],
+   "end": "211.240",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of."
+   ]
+  },
+  {
+   "begin": "211.240",
+   "children": [],
+   "end": "216.480",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "But in the fourth year all the fruit thereof shall be holy to praise the LORD withal."
+   ]
+  },
+  {
+   "begin": "216.480",
+   "children": [],
+   "end": "225.520",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the LORD your God."
+   ]
+  },
+  {
+   "begin": "225.520",
+   "children": [],
+   "end": "233.520",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Ye shall not eat any thing with the blood: neither shall ye use enchantment, nor observe times."
+   ]
+  },
+  {
+   "begin": "233.520",
+   "children": [],
+   "end": "239.640",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard."
+   ]
+  },
+  {
+   "begin": "239.640",
+   "children": [],
+   "end": "247.480",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the LORD."
+   ]
+  },
+  {
+   "begin": "247.480",
+   "children": [],
+   "end": "255.640",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness."
+   ]
+  },
+  {
+   "begin": "255.640",
+   "children": [],
+   "end": "261.080",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD."
+   ]
+  },
+  {
+   "begin": "261.080",
+   "children": [],
+   "end": "269.560",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the LORD your God."
+   ]
+  },
+  {
+   "begin": "269.560",
+   "children": [],
+   "end": "278.320",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Thou shalt rise up before the hoary head, and honor the face of the old man, and fear thy God: I am the LORD."
+   ]
+  },
+  {
+   "begin": "278.320",
+   "children": [],
+   "end": "282.560",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And if a stranger sojourn with thee in your land, ye shall not vex him."
+   ]
+  },
+  {
+   "begin": "282.560",
+   "children": [],
+   "end": "295.600",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the LORD your God."
+   ]
+  },
+  {
+   "begin": "295.600",
+   "children": [],
+   "end": "302.360",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure."
+   ]
+  },
+  {
+   "begin": "302.360",
+   "children": [],
+   "end": "312.400",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the LORD your God, which brought you out of the land of Egypt."
+   ]
+  },
+  {
+   "begin": "312.400",
+   "children": [],
+   "end": "320.720",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the LORD."
+   ]
+  }
+ ]
+}

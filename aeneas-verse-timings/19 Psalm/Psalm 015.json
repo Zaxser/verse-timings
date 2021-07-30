@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.600",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter fifteen"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "9.720",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
+   ]
+  },
+  {
+   "begin": "9.720",
+   "children": [],
+   "end": "15.120",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart."
+   ]
+  },
+  {
+   "begin": "15.120",
+   "children": [],
+   "end": "21.800",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour."
+   ]
+  },
+  {
+   "begin": "21.800",
+   "children": [],
+   "end": "33.520",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not."
+   ]
+  },
+  {
+   "begin": "33.520",
+   "children": [],
+   "end": "44.360",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved."
+   ]
+  }
+ ]
+}

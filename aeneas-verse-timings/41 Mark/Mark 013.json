@@ -1,0 +1,384 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.000",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter thirteen"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "10.560",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!"
+   ]
+  },
+  {
+   "begin": "10.560",
+   "children": [],
+   "end": "20.760",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down."
+   ]
+  },
+  {
+   "begin": "20.760",
+   "children": [],
+   "end": "27.760",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,"
+   ]
+  },
+  {
+   "begin": "27.760",
+   "children": [],
+   "end": "35.840",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled?"
+   ]
+  },
+  {
+   "begin": "35.840",
+   "children": [],
+   "end": "41.400",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And Jesus answering them began to say, Take heed lest any man deceive you:"
+   ]
+  },
+  {
+   "begin": "41.400",
+   "children": [],
+   "end": "46.920",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "For many shall come in my name, saying, I am Christ; and shall deceive many."
+   ]
+  },
+  {
+   "begin": "46.920",
+   "children": [],
+   "end": "57.520",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And when ye shall hear of wars and rumours of wars, be ye not troubled: for such things must needs be; but the end shall not be yet."
+   ]
+  },
+  {
+   "begin": "57.520",
+   "children": [],
+   "end": "69.920",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these are the beginnings of sorrows."
+   ]
+  },
+  {
+   "begin": "69.920",
+   "children": [],
+   "end": "82.240",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them."
+   ]
+  },
+  {
+   "begin": "82.240",
+   "children": [],
+   "end": "86.400",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And the gospel must first be published among all nations."
+   ]
+  },
+  {
+   "begin": "86.400",
+   "children": [],
+   "end": "101.120",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost."
+   ]
+  },
+  {
+   "begin": "101.120",
+   "children": [],
+   "end": "111.360",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Now the brother shall betray the brother to death, and the father the son; and children shall rise up against their parents, and shall cause them to be put to death."
+   ]
+  },
+  {
+   "begin": "111.360",
+   "children": [],
+   "end": "120.280",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And ye shall be hated of all men for my name's sake: but he that shall endure unto the end, the same shall be saved."
+   ]
+  },
+  {
+   "begin": "120.280",
+   "children": [],
+   "end": "133.600",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judaea flee to the mountains:"
+   ]
+  },
+  {
+   "begin": "133.600",
+   "children": [],
+   "end": "141.320",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And let him that is on the housetop not go down into the house, neither enter therein, to take any thing out of his house:"
+   ]
+  },
+  {
+   "begin": "141.320",
+   "children": [],
+   "end": "146.520",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And let him that is in the field not turn back again for to take up his garment."
+   ]
+  },
+  {
+   "begin": "146.520",
+   "children": [],
+   "end": "151.960",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "But woe to them that are with child, and to them that give suck in those days!"
+   ]
+  },
+  {
+   "begin": "151.960",
+   "children": [],
+   "end": "155.720",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And pray ye that your flight be not in the winter."
+   ]
+  },
+  {
+   "begin": "155.720",
+   "children": [],
+   "end": "164.960",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be."
+   ]
+  },
+  {
+   "begin": "164.960",
+   "children": [],
+   "end": "175.240",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And except that the Lord had shortened those days, no flesh should be saved: but for the elect's sake, whom he hath chosen, he hath shortened the days."
+   ]
+  },
+  {
+   "begin": "175.240",
+   "children": [],
+   "end": "183.240",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And then if any man shall say to you, Lo, here is Christ; or, lo, he is there; believe him not:"
+   ]
+  },
+  {
+   "begin": "183.240",
+   "children": [],
+   "end": "192.680",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if it were possible, even the elect."
+   ]
+  },
+  {
+   "begin": "192.680",
+   "children": [],
+   "end": "198.880",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "But take ye heed: behold, I have foretold you all things."
+   ]
+  },
+  {
+   "begin": "198.880",
+   "children": [],
+   "end": "206.720",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,"
+   ]
+  },
+  {
+   "begin": "206.720",
+   "children": [],
+   "end": "212.160",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And the stars of heaven shall fall, and the powers that are in heaven shall be shaken."
+   ]
+  },
+  {
+   "begin": "212.160",
+   "children": [],
+   "end": "217.920",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And then shall they see the Son of man coming in the clouds with great power and glory."
+   ]
+  },
+  {
+   "begin": "217.920",
+   "children": [],
+   "end": "228.080",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven."
+   ]
+  },
+  {
+   "begin": "228.080",
+   "children": [],
+   "end": "236.960",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:"
+   ]
+  },
+  {
+   "begin": "236.960",
+   "children": [],
+   "end": "244.720",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "So ye in like manner, when ye shall see these things come to pass, know that it is nigh, even at the doors."
+   ]
+  },
+  {
+   "begin": "244.720",
+   "children": [],
+   "end": "250.040",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Verily I say unto you, that this generation shall not pass, till all these things be done."
+   ]
+  },
+  {
+   "begin": "250.040",
+   "children": [],
+   "end": "255.360",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Heaven and earth shall pass away: but my words shall not pass away."
+   ]
+  },
+  {
+   "begin": "255.360",
+   "children": [],
+   "end": "264.200",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father."
+   ]
+  },
+  {
+   "begin": "264.200",
+   "children": [],
+   "end": "273.160",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Take ye heed, watch and pray: for ye know not when the time is."
+   ]
+  },
+  {
+   "begin": "273.160",
+   "children": [],
+   "end": "283.840",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "For the Son of Man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch."
+   ]
+  },
+  {
+   "begin": "283.840",
+   "children": [],
+   "end": "293.760",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:"
+   ]
+  },
+  {
+   "begin": "293.760",
+   "children": [],
+   "end": "299.120",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Lest coming suddenly he find you sleeping."
+   ]
+  },
+  {
+   "begin": "299.120",
+   "children": [],
+   "end": "304.880",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And what I say unto you I say unto all, Watch."
+   ]
+  }
+ ]
+}

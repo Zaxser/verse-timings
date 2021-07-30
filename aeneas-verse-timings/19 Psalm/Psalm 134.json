@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.040",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter one hundred and thirty-four"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "8.920",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD."
+   ]
+  },
+  {
+   "begin": "8.920",
+   "children": [],
+   "end": "12.600",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Lift up your hands in the sanctuary, and bless the LORD."
+   ]
+  },
+  {
+   "begin": "12.600",
+   "children": [],
+   "end": "18.000",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "The LORD that made heaven and earth bless thee out of Zion."
+   ]
+  }
+ ]
+}

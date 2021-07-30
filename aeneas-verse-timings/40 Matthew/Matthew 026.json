@@ -1,0 +1,764 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.040",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-six"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "8.200",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,"
+   ]
+  },
+  {
+   "begin": "8.200",
+   "children": [],
+   "end": "16.600",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified."
+   ]
+  },
+  {
+   "begin": "16.600",
+   "children": [],
+   "end": "23.160",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,"
+   ]
+  },
+  {
+   "begin": "23.160",
+   "children": [],
+   "end": "27.160",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And consulted that they might take Jesus by subtilty, and kill him."
+   ]
+  },
+  {
+   "begin": "27.160",
+   "children": [],
+   "end": "33.080",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "But they said, Not on the feast day, lest there be an uproar among the people."
+   ]
+  },
+  {
+   "begin": "33.080",
+   "children": [],
+   "end": "35.920",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Now when Jesus was in Bethany, in the house of Simon the leper,"
+   ]
+  },
+  {
+   "begin": "35.920",
+   "children": [],
+   "end": "43.520",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat at meat."
+   ]
+  },
+  {
+   "begin": "43.520",
+   "children": [],
+   "end": "48.120",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "But when his disciples saw it, they had indignation, saying, To what purpose is this waste?"
+   ]
+  },
+  {
+   "begin": "48.120",
+   "children": [],
+   "end": "52.640",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "For this ointment might have been sold for much, and given to the poor."
+   ]
+  },
+  {
+   "begin": "52.640",
+   "children": [],
+   "end": "59.320",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "When Jesus understood it, he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me."
+   ]
+  },
+  {
+   "begin": "59.320",
+   "children": [],
+   "end": "63.720",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "For ye have the poor always with you; but me ye have not always."
+   ]
+  },
+  {
+   "begin": "63.720",
+   "children": [],
+   "end": "69.400",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "For in that she hath poured this ointment on my body, she did it for my burial."
+   ]
+  },
+  {
+   "begin": "69.400",
+   "children": [],
+   "end": "80.280",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her."
+   ]
+  },
+  {
+   "begin": "80.280",
+   "children": [],
+   "end": "83.800",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Then one of the twelve, called Judas Iscariot, went unto the chief priests,"
+   ]
+  },
+  {
+   "begin": "83.800",
+   "children": [],
+   "end": "91.760",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver."
+   ]
+  },
+  {
+   "begin": "91.760",
+   "children": [],
+   "end": "96.640",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And from that time he sought opportunity to betray him."
+   ]
+  },
+  {
+   "begin": "96.640",
+   "children": [],
+   "end": "104.600",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?"
+   ]
+  },
+  {
+   "begin": "104.600",
+   "children": [],
+   "end": "114.720",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples."
+   ]
+  },
+  {
+   "begin": "114.720",
+   "children": [],
+   "end": "120.160",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And the disciples did as Jesus had appointed them; and they made ready the passover."
+   ]
+  },
+  {
+   "begin": "120.160",
+   "children": [],
+   "end": "124.280",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Now when the even was come, he sat down with the twelve."
+   ]
+  },
+  {
+   "begin": "124.280",
+   "children": [],
+   "end": "129.040",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And as they did eat, he said, Verily I say unto you, that one of you shall betray me."
+   ]
+  },
+  {
+   "begin": "129.040",
+   "children": [],
+   "end": "136.840",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?"
+   ]
+  },
+  {
+   "begin": "136.840",
+   "children": [],
+   "end": "144.240",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And he answered and said, He that dippeth his hand with me in the dish, the same shall betray me."
+   ]
+  },
+  {
+   "begin": "144.240",
+   "children": [],
+   "end": "154.320",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born."
+   ]
+  },
+  {
+   "begin": "154.320",
+   "children": [],
+   "end": "165.240",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said."
+   ]
+  },
+  {
+   "begin": "165.240",
+   "children": [],
+   "end": "174.320",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body."
+   ]
+  },
+  {
+   "begin": "174.320",
+   "children": [],
+   "end": "180.320",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;"
+   ]
+  },
+  {
+   "begin": "180.320",
+   "children": [],
+   "end": "186.160",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "For this is my blood of the new testament, which is shed for many for the remission of sins."
+   ]
+  },
+  {
+   "begin": "186.160",
+   "children": [],
+   "end": "195.880",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom."
+   ]
+  },
+  {
+   "begin": "195.880",
+   "children": [],
+   "end": "200.360",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And when they had sung an hymn, they went out into the mount of Olives."
+   ]
+  },
+  {
+   "begin": "200.360",
+   "children": [],
+   "end": "212.040",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad."
+   ]
+  },
+  {
+   "begin": "212.040",
+   "children": [],
+   "end": "215.680",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "But after I am risen again, I will go before you into Galilee."
+   ]
+  },
+  {
+   "begin": "215.680",
+   "children": [],
+   "end": "223.000",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended."
+   ]
+  },
+  {
+   "begin": "223.000",
+   "children": [],
+   "end": "233.280",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice."
+   ]
+  },
+  {
+   "begin": "233.280",
+   "children": [],
+   "end": "242.200",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples."
+   ]
+  },
+  {
+   "begin": "242.200",
+   "children": [],
+   "end": "251.400",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder."
+   ]
+  },
+  {
+   "begin": "251.400",
+   "children": [],
+   "end": "257.800",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy."
+   ]
+  },
+  {
+   "begin": "257.800",
+   "children": [],
+   "end": "267.800",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me."
+   ]
+  },
+  {
+   "begin": "267.800",
+   "children": [],
+   "end": "286.280",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt."
+   ]
+  },
+  {
+   "begin": "286.280",
+   "children": [],
+   "end": "295.400",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?"
+   ]
+  },
+  {
+   "begin": "295.400",
+   "children": [],
+   "end": "303.840",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak."
+   ]
+  },
+  {
+   "begin": "303.840",
+   "children": [],
+   "end": "314.000",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done."
+   ]
+  },
+  {
+   "begin": "314.000",
+   "children": [],
+   "end": "318.360",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And he came and found them asleep again: for their eyes were heavy."
+   ]
+  },
+  {
+   "begin": "318.360",
+   "children": [],
+   "end": "324.600",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And he left them, and went away again, and prayed the third time, saying the same words."
+   ]
+  },
+  {
+   "begin": "324.600",
+   "children": [],
+   "end": "337.640",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners."
+   ]
+  },
+  {
+   "begin": "337.640",
+   "children": [],
+   "end": "342.960",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "Rise, let us be going: behold, he is at hand that doth betray me."
+   ]
+  },
+  {
+   "begin": "342.960",
+   "children": [],
+   "end": "352.200",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people."
+   ]
+  },
+  {
+   "begin": "352.200",
+   "children": [],
+   "end": "358.800",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast."
+   ]
+  },
+  {
+   "begin": "358.800",
+   "children": [],
+   "end": "363.480",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And forthwith he came to Jesus, and said, Hail, master; and kissed him."
+   ]
+  },
+  {
+   "begin": "363.480",
+   "children": [],
+   "end": "372.520",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus and took him."
+   ]
+  },
+  {
+   "begin": "372.520",
+   "children": [],
+   "end": "381.320",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest's, and smote off his ear."
+   ]
+  },
+  {
+   "begin": "381.320",
+   "children": [],
+   "end": "389.480",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword."
+   ]
+  },
+  {
+   "begin": "389.480",
+   "children": [],
+   "end": "396.480",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?"
+   ]
+  },
+  {
+   "begin": "396.480",
+   "children": [],
+   "end": "403.200",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "But how then shall the scriptures be fulfilled, that thus it must be?"
+   ]
+  },
+  {
+   "begin": "403.200",
+   "children": [],
+   "end": "417.160",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me."
+   ]
+  },
+  {
+   "begin": "417.160",
+   "children": [],
+   "end": "426.000",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled."
+   ]
+  },
+  {
+   "begin": "426.000",
+   "children": [],
+   "end": "432.360",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled."
+   ]
+  },
+  {
+   "begin": "432.360",
+   "children": [],
+   "end": "440.560",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "But Peter followed him afar off unto the high priest's palace, and went in, and sat with the servants, to see the end."
+   ]
+  },
+  {
+   "begin": "440.560",
+   "children": [],
+   "end": "446.160",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;"
+   ]
+  },
+  {
+   "begin": "446.160",
+   "children": [],
+   "end": "454.560",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "But found none: yea, though many false witnesses came, yet found they none. At the last came two false witnesses,"
+   ]
+  },
+  {
+   "begin": "454.560",
+   "children": [],
+   "end": "461.600",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "And said, This fellow said, I am able to destroy the temple of God, and to build it in three days."
+   ]
+  },
+  {
+   "begin": "461.600",
+   "children": [],
+   "end": "470.720",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "And the high priest arose, and said unto him, Answerest thou nothing? what is it which these witness against thee?"
+   ]
+  },
+  {
+   "begin": "470.720",
+   "children": [],
+   "end": "481.120",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "But Jesus held his peace, And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God."
+   ]
+  },
+  {
+   "begin": "481.120",
+   "children": [],
+   "end": "495.000",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
+   ]
+  },
+  {
+   "begin": "495.000",
+   "children": [],
+   "end": "504.360",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy."
+   ]
+  },
+  {
+   "begin": "504.360",
+   "children": [],
+   "end": "509.800",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "What think ye? They answered and said, He is guilty of death."
+   ]
+  },
+  {
+   "begin": "509.800",
+   "children": [],
+   "end": "514.720",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands,"
+   ]
+  },
+  {
+   "begin": "514.720",
+   "children": [],
+   "end": "520.600",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?"
+   ]
+  },
+  {
+   "begin": "520.600",
+   "children": [],
+   "end": "529.160",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee."
+   ]
+  },
+  {
+   "begin": "529.160",
+   "children": [],
+   "end": "534.480",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "But he denied before them all, saying, I know not what thou sayest."
+   ]
+  },
+  {
+   "begin": "534.480",
+   "children": [],
+   "end": "541.120",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "And when he was gone out into the porch, another maid saw him, and said unto them that were there, This fellow was also with Jesus of Nazareth."
+   ]
+  },
+  {
+   "begin": "541.120",
+   "children": [],
+   "end": "545.320",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "And again he denied with an oath, I do not know the man."
+   ]
+  },
+  {
+   "begin": "545.320",
+   "children": [],
+   "end": "553.520",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "And after a while came unto him they that stood by, and said to Peter, Surely thou also art one of them; for thy speech bewrayeth thee."
+   ]
+  },
+  {
+   "begin": "553.520",
+   "children": [],
+   "end": "563.480",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "Then began he to curse and to swear, saying, I know not the man. And immediately the cock crew."
+   ]
+  },
+  {
+   "begin": "563.480",
+   "children": [],
+   "end": "577.680",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly."
+   ]
+  }
+ ]
+}

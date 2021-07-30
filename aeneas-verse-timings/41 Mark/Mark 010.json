@@ -1,0 +1,534 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.280",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter ten"
+   ]
+  },
+  {
+   "begin": "2.280",
+   "children": [],
+   "end": "11.960",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again."
+   ]
+  },
+  {
+   "begin": "11.960",
+   "children": [],
+   "end": "18.400",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him."
+   ]
+  },
+  {
+   "begin": "18.400",
+   "children": [],
+   "end": "22.560",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And he answered and said unto them, What did Moses command you?"
+   ]
+  },
+  {
+   "begin": "22.560",
+   "children": [],
+   "end": "27.920",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And they said, Moses suffered to write a bill of divorcement, and to put her away."
+   ]
+  },
+  {
+   "begin": "27.920",
+   "children": [],
+   "end": "32.920",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept."
+   ]
+  },
+  {
+   "begin": "32.920",
+   "children": [],
+   "end": "36.720",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "But from the beginning of the creation God made them male and female."
+   ]
+  },
+  {
+   "begin": "36.720",
+   "children": [],
+   "end": "41.520",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "For this cause shall a man leave his father and mother, and cleave to his wife;"
+   ]
+  },
+  {
+   "begin": "41.520",
+   "children": [],
+   "end": "47.880",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And they twain shall be one flesh: so then they are no more twain, but one flesh."
+   ]
+  },
+  {
+   "begin": "47.880",
+   "children": [],
+   "end": "52.680",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "What therefore God hath joined together, let not man put asunder."
+   ]
+  },
+  {
+   "begin": "52.680",
+   "children": [],
+   "end": "55.680",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And in the house his disciples asked him again of the same matter."
+   ]
+  },
+  {
+   "begin": "55.680",
+   "children": [],
+   "end": "61.360",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her."
+   ]
+  },
+  {
+   "begin": "61.360",
+   "children": [],
+   "end": "66.360",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And if a woman shall put away her husband, and be married to another, she committeth adultery."
+   ]
+  },
+  {
+   "begin": "66.360",
+   "children": [],
+   "end": "71.760",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them."
+   ]
+  },
+  {
+   "begin": "71.760",
+   "children": [],
+   "end": "81.480",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God."
+   ]
+  },
+  {
+   "begin": "81.480",
+   "children": [],
+   "end": "88.880",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein."
+   ]
+  },
+  {
+   "begin": "88.880",
+   "children": [],
+   "end": "93.360",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And he took them up in his arms, put his hands upon them, and blessed them."
+   ]
+  },
+  {
+   "begin": "93.360",
+   "children": [],
+   "end": "102.200",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?"
+   ]
+  },
+  {
+   "begin": "102.200",
+   "children": [],
+   "end": "110.560",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And Jesus said unto him, Why callest thou me good? there is none good but one, that is, God."
+   ]
+  },
+  {
+   "begin": "110.560",
+   "children": [],
+   "end": "124.720",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother."
+   ]
+  },
+  {
+   "begin": "124.720",
+   "children": [],
+   "end": "129.520",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And he answered and said unto him, Master, all these have I observed from my youth."
+   ]
+  },
+  {
+   "begin": "129.520",
+   "children": [],
+   "end": "145.560",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me."
+   ]
+  },
+  {
+   "begin": "145.560",
+   "children": [],
+   "end": "151.000",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And he was sad at that saying, and went away grieved: for he had great possessions."
+   ]
+  },
+  {
+   "begin": "151.000",
+   "children": [],
+   "end": "158.440",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!"
+   ]
+  },
+  {
+   "begin": "158.440",
+   "children": [],
+   "end": "169.000",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!"
+   ]
+  },
+  {
+   "begin": "169.000",
+   "children": [],
+   "end": "176.240",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+   ]
+  },
+  {
+   "begin": "176.240",
+   "children": [],
+   "end": "182.200",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And they were astonished out of measure, saying among themselves, Who then can be saved?"
+   ]
+  },
+  {
+   "begin": "182.200",
+   "children": [],
+   "end": "193.320",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible."
+   ]
+  },
+  {
+   "begin": "193.320",
+   "children": [],
+   "end": "197.920",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Then Peter began to say unto him, Lo, we have left all, and have followed thee."
+   ]
+  },
+  {
+   "begin": "197.920",
+   "children": [],
+   "end": "210.880",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's,"
+   ]
+  },
+  {
+   "begin": "210.880",
+   "children": [],
+   "end": "225.800",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life."
+   ]
+  },
+  {
+   "begin": "225.800",
+   "children": [],
+   "end": "231.000",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "But many that are first shall be last; and the last first."
+   ]
+  },
+  {
+   "begin": "231.000",
+   "children": [],
+   "end": "243.120",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,"
+   ]
+  },
+  {
+   "begin": "243.120",
+   "children": [],
+   "end": "254.840",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Saying, Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:"
+   ]
+  },
+  {
+   "begin": "254.840",
+   "children": [],
+   "end": "263.480",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again."
+   ]
+  },
+  {
+   "begin": "263.480",
+   "children": [],
+   "end": "272.000",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire."
+   ]
+  },
+  {
+   "begin": "272.000",
+   "children": [],
+   "end": "275.640",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And he said unto them, What would ye that I should do for you?"
+   ]
+  },
+  {
+   "begin": "275.640",
+   "children": [],
+   "end": "283.520",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory."
+   ]
+  },
+  {
+   "begin": "283.520",
+   "children": [],
+   "end": "295.000",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?"
+   ]
+  },
+  {
+   "begin": "295.000",
+   "children": [],
+   "end": "306.960",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:"
+   ]
+  },
+  {
+   "begin": "306.960",
+   "children": [],
+   "end": "314.120",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared."
+   ]
+  },
+  {
+   "begin": "314.120",
+   "children": [],
+   "end": "318.120",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And when the ten heard it, they began to be much displeased with James and John."
+   ]
+  },
+  {
+   "begin": "318.120",
+   "children": [],
+   "end": "331.200",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them."
+   ]
+  },
+  {
+   "begin": "331.200",
+   "children": [],
+   "end": "337.560",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "But so shall it not be among you: but whosoever will be great among you, shall be your minister:"
+   ]
+  },
+  {
+   "begin": "337.560",
+   "children": [],
+   "end": "341.800",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And whosoever of you will be the chiefest, shall be servant of all."
+   ]
+  },
+  {
+   "begin": "341.800",
+   "children": [],
+   "end": "351.440",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."
+   ]
+  },
+  {
+   "begin": "351.440",
+   "children": [],
+   "end": "361.240",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging."
+   ]
+  },
+  {
+   "begin": "361.240",
+   "children": [],
+   "end": "368.400",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou son of David, have mercy on me."
+   ]
+  },
+  {
+   "begin": "368.400",
+   "children": [],
+   "end": "375.520",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "And many charged him that he should hold his peace: but he cried the more a great deal, Thou son of David, have mercy on me."
+   ]
+  },
+  {
+   "begin": "375.520",
+   "children": [],
+   "end": "384.840",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee."
+   ]
+  },
+  {
+   "begin": "384.840",
+   "children": [],
+   "end": "389.240",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "And he, casting away his garment, rose, and came to Jesus."
+   ]
+  },
+  {
+   "begin": "389.240",
+   "children": [],
+   "end": "400.560",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight."
+   ]
+  },
+  {
+   "begin": "400.560",
+   "children": [],
+   "end": "411.800",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,564 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.880",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter two"
+   ]
+  },
+  {
+   "begin": "1.880",
+   "children": [],
+   "end": "8.520",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,"
+   ]
+  },
+  {
+   "begin": "8.520",
+   "children": [],
+   "end": "14.040",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher."
+   ]
+  },
+  {
+   "begin": "14.040",
+   "children": [],
+   "end": "25.960",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him."
+   ]
+  },
+  {
+   "begin": "25.960",
+   "children": [],
+   "end": "32.800",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And Tamar his daughter in law bore him Pharez and Zerah. All the sons of Judah were five."
+   ]
+  },
+  {
+   "begin": "32.800",
+   "children": [],
+   "end": "35.440",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "The sons of Pharez; Hezron, and Hamul."
+   ]
+  },
+  {
+   "begin": "35.440",
+   "children": [],
+   "end": "41.800",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all."
+   ]
+  },
+  {
+   "begin": "41.800",
+   "children": [],
+   "end": "47.400",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed."
+   ]
+  },
+  {
+   "begin": "47.400",
+   "children": [],
+   "end": "50.120",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And the sons of Ethan; Azariah."
+   ]
+  },
+  {
+   "begin": "50.120",
+   "children": [],
+   "end": "55.480",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai."
+   ]
+  },
+  {
+   "begin": "55.480",
+   "children": [],
+   "end": "60.320",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;"
+   ]
+  },
+  {
+   "begin": "60.320",
+   "children": [],
+   "end": "63.680",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And Nahshon begat Salma, and Salma begat Boaz,"
+   ]
+  },
+  {
+   "begin": "63.680",
+   "children": [],
+   "end": "67.920",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And Boaz begat Obed, and Obed begat Jesse,"
+   ]
+  },
+  {
+   "begin": "67.920",
+   "children": [],
+   "end": "72.880",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,"
+   ]
+  },
+  {
+   "begin": "72.880",
+   "children": [],
+   "end": "75.600",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Nethaneel the fourth, Raddai the fifth,"
+   ]
+  },
+  {
+   "begin": "75.600",
+   "children": [],
+   "end": "78.440",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Ozem the sixth, David the seventh:"
+   ]
+  },
+  {
+   "begin": "78.440",
+   "children": [],
+   "end": "86.160",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three."
+   ]
+  },
+  {
+   "begin": "86.160",
+   "children": [],
+   "end": "92.040",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And Abigail bare Amasa: and the father of Amasa was Jether the Ishmeelite."
+   ]
+  },
+  {
+   "begin": "92.040",
+   "children": [],
+   "end": "101.240",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And Caleb the son of Hezron begat children of Azubah his wife, and of Jerioth: her sons are these; Jesher, and Shobab, and Ardon."
+   ]
+  },
+  {
+   "begin": "101.240",
+   "children": [],
+   "end": "105.920",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur."
+   ]
+  },
+  {
+   "begin": "105.920",
+   "children": [],
+   "end": "110.040",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And Hur begat Uri, and Uri begat Bezaleel."
+   ]
+  },
+  {
+   "begin": "110.040",
+   "children": [],
+   "end": "117.400",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was threescore years old; and she bare him Segub."
+   ]
+  },
+  {
+   "begin": "117.400",
+   "children": [],
+   "end": "122.200",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And Segub begat Jair, who had three and twenty cities in the land of Gilead."
+   ]
+  },
+  {
+   "begin": "122.200",
+   "children": [],
+   "end": "133.160",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even threescore cities. All these belonged to the sons of Machir the father of Gilead."
+   ]
+  },
+  {
+   "begin": "133.160",
+   "children": [],
+   "end": "140.680",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And after that Hezron was dead in Calebephratah, then Abiah Hezron's wife bare him Ashur the father of Tekoa."
+   ]
+  },
+  {
+   "begin": "140.680",
+   "children": [],
+   "end": "147.920",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, and Ahijah."
+   ]
+  },
+  {
+   "begin": "147.920",
+   "children": [],
+   "end": "152.800",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Jerahmeel had also another wife, whose name was Atarah; she was the mother of Onam."
+   ]
+  },
+  {
+   "begin": "152.800",
+   "children": [],
+   "end": "157.640",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker."
+   ]
+  },
+  {
+   "begin": "157.640",
+   "children": [],
+   "end": "163.960",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab and Abishur."
+   ]
+  },
+  {
+   "begin": "163.960",
+   "children": [],
+   "end": "169.640",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And the name of the wife of Abishur was Abihail, and she bare him Ahban, and Molid."
+   ]
+  },
+  {
+   "begin": "169.640",
+   "children": [],
+   "end": "174.360",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And the sons of Nadab; Seled, and Appaim: but Seled died without children."
+   ]
+  },
+  {
+   "begin": "174.360",
+   "children": [],
+   "end": "181.280",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai."
+   ]
+  },
+  {
+   "begin": "181.280",
+   "children": [],
+   "end": "187.120",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children."
+   ]
+  },
+  {
+   "begin": "187.120",
+   "children": [],
+   "end": "192.280",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel."
+   ]
+  },
+  {
+   "begin": "192.280",
+   "children": [],
+   "end": "198.400",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name was Jarha."
+   ]
+  },
+  {
+   "begin": "198.400",
+   "children": [],
+   "end": "203.480",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai."
+   ]
+  },
+  {
+   "begin": "203.480",
+   "children": [],
+   "end": "207.000",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And Attai begat Nathan, and Nathan begat Zabad,"
+   ]
+  },
+  {
+   "begin": "207.000",
+   "children": [],
+   "end": "210.240",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And Zabad begat Ephlal, and Ephlal begat Obed,"
+   ]
+  },
+  {
+   "begin": "210.240",
+   "children": [],
+   "end": "213.520",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And Obed begat Jehu, and Jehu begat Azariah,"
+   ]
+  },
+  {
+   "begin": "213.520",
+   "children": [],
+   "end": "217.200",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And Azariah begat Helez, and Helez begat Eleasah,"
+   ]
+  },
+  {
+   "begin": "217.200",
+   "children": [],
+   "end": "221.320",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And Eleasah begat Sisamai, and Sisamai begat Shallum,"
+   ]
+  },
+  {
+   "begin": "221.320",
+   "children": [],
+   "end": "225.960",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And Shallum begat Jekamiah, and Jekamiah begat Elishama."
+   ]
+  },
+  {
+   "begin": "225.960",
+   "children": [],
+   "end": "234.720",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "Now the sons of Caleb the brother of Jerahmeel were, Mesha his firstborn, which was the father of Ziph; and the sons of Mareshah the father of Hebron."
+   ]
+  },
+  {
+   "begin": "234.720",
+   "children": [],
+   "end": "238.600",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema."
+   ]
+  },
+  {
+   "begin": "238.600",
+   "children": [],
+   "end": "243.240",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai."
+   ]
+  },
+  {
+   "begin": "243.240",
+   "children": [],
+   "end": "247.840",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And the son of Shammai was Maon: and Maon was the father of Bethzur."
+   ]
+  },
+  {
+   "begin": "247.840",
+   "children": [],
+   "end": "252.960",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez."
+   ]
+  },
+  {
+   "begin": "252.960",
+   "children": [],
+   "end": "258.080",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And the sons of Jahdai; Regem, and Jotham, and Gesham, and Pelet, and Ephah, and Shaaph."
+   ]
+  },
+  {
+   "begin": "258.080",
+   "children": [],
+   "end": "261.680",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Maachah, Caleb's concubine, bare Sheber, and Tirhanah."
+   ]
+  },
+  {
+   "begin": "261.680",
+   "children": [],
+   "end": "268.760",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb was Achsa."
+   ]
+  },
+  {
+   "begin": "268.760",
+   "children": [],
+   "end": "276.960",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjathjearim."
+   ]
+  },
+  {
+   "begin": "276.960",
+   "children": [],
+   "end": "281.080",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "Salma the father of Bethlehem, Hareph the father of Bethgader."
+   ]
+  },
+  {
+   "begin": "281.080",
+   "children": [],
+   "end": "286.520",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "And Shobal the father of Kirjathjearim had sons; Haroeh, and half of the Manahethites."
+   ]
+  },
+  {
+   "begin": "286.520",
+   "children": [],
+   "end": "295.320",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And the families of Kirjathjearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites,"
+   ]
+  },
+  {
+   "begin": "295.320",
+   "children": [],
+   "end": "304.680",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "The sons of Salma; Bethlehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites."
+   ]
+  },
+  {
+   "begin": "304.680",
+   "children": [],
+   "end": "316.520",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the Kenites that came of Hemath, the father of the house of Rechab."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,714 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.960",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter two"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "13.920",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;"
+   ]
+  },
+  {
+   "begin": "13.920",
+   "children": [],
+   "end": "25.080",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:"
+   ]
+  },
+  {
+   "begin": "25.080",
+   "children": [],
+   "end": "28.760",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "The children of Parosh, two thousand an hundred seventy and two."
+   ]
+  },
+  {
+   "begin": "28.760",
+   "children": [],
+   "end": "31.160",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "The children of Shephatiah, three hundred seventy and two."
+   ]
+  },
+  {
+   "begin": "31.160",
+   "children": [],
+   "end": "34.000",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "The children of Arah, seven hundred seventy and five."
+   ]
+  },
+  {
+   "begin": "34.000",
+   "children": [],
+   "end": "39.400",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred and twelve."
+   ]
+  },
+  {
+   "begin": "39.400",
+   "children": [],
+   "end": "42.320",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "The children of Elam, a thousand two hundred fifty and four."
+   ]
+  },
+  {
+   "begin": "42.320",
+   "children": [],
+   "end": "45.320",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "The children of Zattu, nine hundred forty and five."
+   ]
+  },
+  {
+   "begin": "45.320",
+   "children": [],
+   "end": "48.160",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "The children of Zaccai, seven hundred and threescore."
+   ]
+  },
+  {
+   "begin": "48.160",
+   "children": [],
+   "end": "50.920",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "The children of Bani, six hundred forty and two."
+   ]
+  },
+  {
+   "begin": "50.920",
+   "children": [],
+   "end": "54.160",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "The children of Bebai, six hundred twenty and three."
+   ]
+  },
+  {
+   "begin": "54.160",
+   "children": [],
+   "end": "57.560",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "The children of Azgad, a thousand two hundred twenty and two."
+   ]
+  },
+  {
+   "begin": "57.560",
+   "children": [],
+   "end": "60.600",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "The children of Adonikam, six hundred sixty and six."
+   ]
+  },
+  {
+   "begin": "60.600",
+   "children": [],
+   "end": "63.720",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "The children of Bigvai, two thousand fifty and six."
+   ]
+  },
+  {
+   "begin": "63.720",
+   "children": [],
+   "end": "66.480",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "The children of Adin, four hundred fifty and four."
+   ]
+  },
+  {
+   "begin": "66.480",
+   "children": [],
+   "end": "69.320",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "The children of Ater of Hezekiah, ninety and eight."
+   ]
+  },
+  {
+   "begin": "69.320",
+   "children": [],
+   "end": "71.880",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "The children of Bezai, three hundred twenty and three."
+   ]
+  },
+  {
+   "begin": "71.880",
+   "children": [],
+   "end": "73.720",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "The children of Jorah, an hundred and twelve."
+   ]
+  },
+  {
+   "begin": "73.720",
+   "children": [],
+   "end": "76.360",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "The children of Hashum, two hundred twenty and three."
+   ]
+  },
+  {
+   "begin": "76.360",
+   "children": [],
+   "end": "78.520",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "The children of Gibbar, ninety and five."
+   ]
+  },
+  {
+   "begin": "78.520",
+   "children": [],
+   "end": "81.200",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "The children of Bethlehem, an hundred twenty and three."
+   ]
+  },
+  {
+   "begin": "81.200",
+   "children": [],
+   "end": "83.360",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "The men of Netophah, fifty and six."
+   ]
+  },
+  {
+   "begin": "83.360",
+   "children": [],
+   "end": "85.840",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "The men of Anathoth, an hundred twenty and eight."
+   ]
+  },
+  {
+   "begin": "85.840",
+   "children": [],
+   "end": "88.000",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "The children of Azmaveth, forty and two."
+   ]
+  },
+  {
+   "begin": "88.000",
+   "children": [],
+   "end": "92.160",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "The children of Kirjatharim, Chephirah, and Beeroth, seven hundred and forty and three."
+   ]
+  },
+  {
+   "begin": "92.160",
+   "children": [],
+   "end": "95.440",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "The children of Ramah and Gaba, six hundred twenty and one."
+   ]
+  },
+  {
+   "begin": "95.440",
+   "children": [],
+   "end": "98.080",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "The men of Michmas, an hundred twenty and two."
+   ]
+  },
+  {
+   "begin": "98.080",
+   "children": [],
+   "end": "101.080",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "The men of Bethel and Ai, two hundred twenty and three."
+   ]
+  },
+  {
+   "begin": "101.080",
+   "children": [],
+   "end": "102.920",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "The children of Nebo, fifty and two."
+   ]
+  },
+  {
+   "begin": "102.920",
+   "children": [],
+   "end": "105.640",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "The children of Magbish, an hundred fifty and six."
+   ]
+  },
+  {
+   "begin": "105.640",
+   "children": [],
+   "end": "109.080",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "The children of the other Elam, a thousand two hundred fifty and four."
+   ]
+  },
+  {
+   "begin": "109.080",
+   "children": [],
+   "end": "111.240",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "The children of Harim, three hundred and twenty."
+   ]
+  },
+  {
+   "begin": "111.240",
+   "children": [],
+   "end": "115.080",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "The children of Lod, Hadid, and Ono, seven hundred twenty and five."
+   ]
+  },
+  {
+   "begin": "115.080",
+   "children": [],
+   "end": "117.440",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "The children of Jericho, three hundred forty and five."
+   ]
+  },
+  {
+   "begin": "117.440",
+   "children": [],
+   "end": "120.520",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "The children of Senaah, three thousand and six hundred and thirty."
+   ]
+  },
+  {
+   "begin": "120.520",
+   "children": [],
+   "end": "126.560",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three."
+   ]
+  },
+  {
+   "begin": "126.560",
+   "children": [],
+   "end": "129.080",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "The children of Immer, a thousand fifty and two."
+   ]
+  },
+  {
+   "begin": "129.080",
+   "children": [],
+   "end": "132.000",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "The children of Pashur, a thousand two hundred forty and seven."
+   ]
+  },
+  {
+   "begin": "132.000",
+   "children": [],
+   "end": "135.040",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "The children of Harim, a thousand and seventeen."
+   ]
+  },
+  {
+   "begin": "135.040",
+   "children": [],
+   "end": "140.600",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four."
+   ]
+  },
+  {
+   "begin": "140.600",
+   "children": [],
+   "end": "144.280",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "The singers: the children of Asaph, an hundred twenty and eight."
+   ]
+  },
+  {
+   "begin": "144.280",
+   "children": [],
+   "end": "155.080",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all an hundred thirty and nine."
+   ]
+  },
+  {
+   "begin": "155.080",
+   "children": [],
+   "end": "159.800",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,"
+   ]
+  },
+  {
+   "begin": "159.800",
+   "children": [],
+   "end": "163.320",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "The children of Keros, the children of Siaha, the children of Padon,"
+   ]
+  },
+  {
+   "begin": "163.320",
+   "children": [],
+   "end": "166.520",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "The children of Lebanah, the children of Hagabah, the children of Akkub,"
+   ]
+  },
+  {
+   "begin": "166.520",
+   "children": [],
+   "end": "169.240",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "The children of Hagab, the children of Shalmai, the children of Hanan,"
+   ]
+  },
+  {
+   "begin": "169.240",
+   "children": [],
+   "end": "172.400",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "The children of Giddel, the children of Gahar, the children of Reaiah,"
+   ]
+  },
+  {
+   "begin": "172.400",
+   "children": [],
+   "end": "175.880",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "The children of Rezin, the children of Nekoda, the children of Gazzam,"
+   ]
+  },
+  {
+   "begin": "175.880",
+   "children": [],
+   "end": "179.280",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "The children of Uzza, the children of Paseah, the children of Besai,"
+   ]
+  },
+  {
+   "begin": "179.280",
+   "children": [],
+   "end": "182.920",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "The children of Asnah, the children of Mehunim, the children of Nephusim,"
+   ]
+  },
+  {
+   "begin": "182.920",
+   "children": [],
+   "end": "186.600",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "The children of Bakbuk, the children of Hakupha, the children of Harhur,"
+   ]
+  },
+  {
+   "begin": "186.600",
+   "children": [],
+   "end": "190.280",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "The children of Bazluth, the children of Mehida, the children of Harsha,"
+   ]
+  },
+  {
+   "begin": "190.280",
+   "children": [],
+   "end": "193.760",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "The children of Barkos, the children of Sisera, the children of Thamah,"
+   ]
+  },
+  {
+   "begin": "193.760",
+   "children": [],
+   "end": "195.880",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "The children of Neziah, the children of Hatipha."
+   ]
+  },
+  {
+   "begin": "195.880",
+   "children": [],
+   "end": "202.000",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Peruda,"
+   ]
+  },
+  {
+   "begin": "202.000",
+   "children": [],
+   "end": "205.040",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "The children of Jaalah, the children of Darkon, the children of Giddel,"
+   ]
+  },
+  {
+   "begin": "205.040",
+   "children": [],
+   "end": "211.120",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami."
+   ]
+  },
+  {
+   "begin": "211.120",
+   "children": [],
+   "end": "216.680",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two."
+   ]
+  },
+  {
+   "begin": "216.680",
+   "children": [],
+   "end": "225.880",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "And these were they which went up from Telmelah, Telharsa, Cherub, Addan, and Immer: but they could not shew their father's house, and their seed, whether they were of Israel:"
+   ]
+  },
+  {
+   "begin": "225.880",
+   "children": [],
+   "end": "231.920",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two."
+   ]
+  },
+  {
+   "begin": "231.920",
+   "children": [],
+   "end": "243.040",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:"
+   ]
+  },
+  {
+   "begin": "243.040",
+   "children": [],
+   "end": "251.680",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "These sought their register among those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood."
+   ]
+  },
+  {
+   "begin": "251.680",
+   "children": [],
+   "end": "260.640",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim."
+   ]
+  },
+  {
+   "begin": "260.640",
+   "children": [],
+   "end": "265.520",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "The whole congregation together was forty and two thousand three hundred and threescore,"
+   ]
+  },
+  {
+   "begin": "265.520",
+   "children": [],
+   "end": "273.240",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "Beside their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women."
+   ]
+  },
+  {
+   "begin": "273.240",
+   "children": [],
+   "end": "278.480",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "Their horses were seven hundred thirty and six; their mules, two hundred forty and five;"
+   ]
+  },
+  {
+   "begin": "278.480",
+   "children": [],
+   "end": "283.600",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "Their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty."
+   ]
+  },
+  {
+   "begin": "283.600",
+   "children": [],
+   "end": "290.840",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "And some of the chief of the fathers, when they came to the house of the LORD which is at Jerusalem, offered freely for the house of God to set it up in his place:"
+   ]
+  },
+  {
+   "begin": "290.840",
+   "children": [],
+   "end": "301.040",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests' garments."
+   ]
+  },
+  {
+   "begin": "301.040",
+   "children": [],
+   "end": "311.760",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities."
+   ]
+  }
+ ]
+}

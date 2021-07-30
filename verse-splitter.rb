@@ -7,7 +7,7 @@ require "fileutils"
 # in the spirit of ffmpeg-python.
 
 def trim(input_file, start_time, end_time, output_file)
-  system "ffmpeg -loglevel error -i \"#{input_file}\" -ss #{start_time - 0.1} -to #{end_time} -c copy -map 0 \"#{output_file}\""
+  system "ffmpeg -loglevel error -i \"#{input_file}\" -ss #{start_time - 0.1} -to #{end_time} -c copy -map 0 \"#{output_file}\" -y"
 end
 
 

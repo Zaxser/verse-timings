@@ -1,0 +1,574 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.120",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter thirty-three"
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "8.120",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron."
+   ]
+  },
+  {
+   "begin": "8.120",
+   "children": [],
+   "end": "16.120",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out."
+   ]
+  },
+  {
+   "begin": "16.120",
+   "children": [],
+   "end": "26.000",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians."
+   ]
+  },
+  {
+   "begin": "26.000",
+   "children": [],
+   "end": "33.280",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "For the Egyptians buried all their firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments."
+   ]
+  },
+  {
+   "begin": "33.280",
+   "children": [],
+   "end": "37.160",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And the children of Israel removed from Rameses, and pitched in Succoth."
+   ]
+  },
+  {
+   "begin": "37.160",
+   "children": [],
+   "end": "41.280",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness."
+   ]
+  },
+  {
+   "begin": "41.280",
+   "children": [],
+   "end": "49.040",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And they removed from Etham, and turned again unto Pihahiroth, which is before Baalzephon: and they pitched before Migdol."
+   ]
+  },
+  {
+   "begin": "49.040",
+   "children": [],
+   "end": "57.560",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days' journey in the wilderness of Etham, and pitched in Marah."
+   ]
+  },
+  {
+   "begin": "57.560",
+   "children": [],
+   "end": "66.400",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there."
+   ]
+  },
+  {
+   "begin": "66.400",
+   "children": [],
+   "end": "69.480",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And they removed from Elim, and encamped by the Red sea."
+   ]
+  },
+  {
+   "begin": "69.480",
+   "children": [],
+   "end": "72.960",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And they removed from the Red sea, and encamped in the wilderness of Sin."
+   ]
+  },
+  {
+   "begin": "72.960",
+   "children": [],
+   "end": "76.320",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And they took their journey out of the wilderness of Sin, and encamped in Dophkah."
+   ]
+  },
+  {
+   "begin": "76.320",
+   "children": [],
+   "end": "80.120",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And they departed from Dophkah, and encamped in Alush."
+   ]
+  },
+  {
+   "begin": "80.120",
+   "children": [],
+   "end": "85.360",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink."
+   ]
+  },
+  {
+   "begin": "85.360",
+   "children": [],
+   "end": "88.720",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And they departed from Rephidim, and pitched in the wilderness of Sinai."
+   ]
+  },
+  {
+   "begin": "88.720",
+   "children": [],
+   "end": "92.640",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And they removed from the desert of Sinai, and pitched at Kibrothhattaavah."
+   ]
+  },
+  {
+   "begin": "92.640",
+   "children": [],
+   "end": "96.160",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And they departed from Kibrothhattaavah, and encamped at Hazeroth."
+   ]
+  },
+  {
+   "begin": "96.160",
+   "children": [],
+   "end": "99.000",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And they departed from Hazeroth, and pitched in Rithmah."
+   ]
+  },
+  {
+   "begin": "99.000",
+   "children": [],
+   "end": "101.960",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And they departed from Rithmah, and pitched at Rimmonparez."
+   ]
+  },
+  {
+   "begin": "101.960",
+   "children": [],
+   "end": "104.880",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And they departed from Rimmonparez, and pitched in Libnah."
+   ]
+  },
+  {
+   "begin": "104.880",
+   "children": [],
+   "end": "107.520",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And they removed from Libnah, and pitched at Rissah."
+   ]
+  },
+  {
+   "begin": "107.520",
+   "children": [],
+   "end": "110.200",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And they journeyed from Rissah, and pitched in Kehelathah."
+   ]
+  },
+  {
+   "begin": "110.200",
+   "children": [],
+   "end": "113.640",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And they went from Kehelathah, and pitched in mount Shapher."
+   ]
+  },
+  {
+   "begin": "113.640",
+   "children": [],
+   "end": "116.680",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And they removed from mount Shapher, and encamped in Haradah."
+   ]
+  },
+  {
+   "begin": "116.680",
+   "children": [],
+   "end": "119.760",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And they removed from Haradah, and pitched in Makheloth."
+   ]
+  },
+  {
+   "begin": "119.760",
+   "children": [],
+   "end": "122.760",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And they removed from Makheloth, and encamped at Tahath."
+   ]
+  },
+  {
+   "begin": "122.760",
+   "children": [],
+   "end": "125.600",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And they departed from Tahath, and pitched at Tarah."
+   ]
+  },
+  {
+   "begin": "125.600",
+   "children": [],
+   "end": "128.360",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And they removed from Tarah, and pitched in Mithcah."
+   ]
+  },
+  {
+   "begin": "128.360",
+   "children": [],
+   "end": "130.920",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And they went from Mithcah, and pitched in Hashmonah."
+   ]
+  },
+  {
+   "begin": "130.920",
+   "children": [],
+   "end": "134.080",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And they departed from Hashmonah, and encamped at Moseroth."
+   ]
+  },
+  {
+   "begin": "134.080",
+   "children": [],
+   "end": "137.360",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And they departed from Moseroth, and pitched in Benejaakan."
+   ]
+  },
+  {
+   "begin": "137.360",
+   "children": [],
+   "end": "140.240",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And they removed from Benejaakan, and encamped at Horhagidgad."
+   ]
+  },
+  {
+   "begin": "140.240",
+   "children": [],
+   "end": "144.000",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And they went from Horhagidgad, and pitched in Jotbathah."
+   ]
+  },
+  {
+   "begin": "144.000",
+   "children": [],
+   "end": "147.200",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "And they removed from Jotbathah, and encamped at Ebronah."
+   ]
+  },
+  {
+   "begin": "147.200",
+   "children": [],
+   "end": "150.680",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And they departed from Ebronah, and encamped at Eziongaber."
+   ]
+  },
+  {
+   "begin": "150.680",
+   "children": [],
+   "end": "155.520",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And they removed from Eziongaber, and pitched in the wilderness of Zin, which is Kadesh."
+   ]
+  },
+  {
+   "begin": "155.520",
+   "children": [],
+   "end": "160.600",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom."
+   ]
+  },
+  {
+   "begin": "160.600",
+   "children": [],
+   "end": "170.840",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month."
+   ]
+  },
+  {
+   "begin": "170.840",
+   "children": [],
+   "end": "175.840",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And Aaron was an hundred and twenty and three years old when he died in mount Hor."
+   ]
+  },
+  {
+   "begin": "175.840",
+   "children": [],
+   "end": "181.560",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel."
+   ]
+  },
+  {
+   "begin": "181.560",
+   "children": [],
+   "end": "184.720",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And they departed from mount Hor, and pitched in Zalmonah."
+   ]
+  },
+  {
+   "begin": "184.720",
+   "children": [],
+   "end": "187.240",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "And they departed from Zalmonah, and pitched in Punon."
+   ]
+  },
+  {
+   "begin": "187.240",
+   "children": [],
+   "end": "190.200",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And they departed from Punon, and pitched in Oboth."
+   ]
+  },
+  {
+   "begin": "190.200",
+   "children": [],
+   "end": "194.400",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And they departed from Oboth, and pitched in Ijeabarim, in the border of Moab."
+   ]
+  },
+  {
+   "begin": "194.400",
+   "children": [],
+   "end": "196.600",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And they departed from Iim, and pitched in Dibongad."
+   ]
+  },
+  {
+   "begin": "196.600",
+   "children": [],
+   "end": "200.720",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And they removed from Dibongad, and encamped in Almondiblathaim."
+   ]
+  },
+  {
+   "begin": "200.720",
+   "children": [],
+   "end": "205.200",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And they removed from Almondiblathaim, and pitched in the mountains of Abarim, before Nebo."
+   ]
+  },
+  {
+   "begin": "205.200",
+   "children": [],
+   "end": "211.160",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho."
+   ]
+  },
+  {
+   "begin": "211.160",
+   "children": [],
+   "end": "215.640",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And they pitched by Jordan, from Bethjesimoth even unto Abelshittim in the plains of Moab."
+   ]
+  },
+  {
+   "begin": "215.640",
+   "children": [],
+   "end": "221.960",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,"
+   ]
+  },
+  {
+   "begin": "221.960",
+   "children": [],
+   "end": "227.640",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;"
+   ]
+  },
+  {
+   "begin": "227.640",
+   "children": [],
+   "end": "237.600",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:"
+   ]
+  },
+  {
+   "begin": "237.600",
+   "children": [],
+   "end": "244.440",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it."
+   ]
+  },
+  {
+   "begin": "244.440",
+   "children": [],
+   "end": "259.360",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man's inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit."
+   ]
+  },
+  {
+   "begin": "259.360",
+   "children": [],
+   "end": "272.400",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell."
+   ]
+  },
+  {
+   "begin": "272.400",
+   "children": [],
+   "end": "279.880",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them."
+   ]
+  }
+ ]
+}

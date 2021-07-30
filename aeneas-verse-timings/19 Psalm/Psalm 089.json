@@ -1,0 +1,534 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.560",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter eighty-nine"
+   ]
+  },
+  {
+   "begin": "2.560",
+   "children": [],
+   "end": "8.240",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations."
+   ]
+  },
+  {
+   "begin": "8.240",
+   "children": [],
+   "end": "15.240",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens."
+   ]
+  },
+  {
+   "begin": "15.240",
+   "children": [],
+   "end": "19.360",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "I have made a covenant with my chosen, I have sworn unto David my servant,"
+   ]
+  },
+  {
+   "begin": "19.360",
+   "children": [],
+   "end": "25.920",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Thy seed will I establish for ever, and build up thy throne to all generations. Selah."
+   ]
+  },
+  {
+   "begin": "25.920",
+   "children": [],
+   "end": "31.440",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints."
+   ]
+  },
+  {
+   "begin": "31.440",
+   "children": [],
+   "end": "37.200",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "For who in the heaven can be compared unto the LORD? who among the sons of the mighty can be likened unto the LORD?"
+   ]
+  },
+  {
+   "begin": "37.200",
+   "children": [],
+   "end": "43.040",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all them that are about him."
+   ]
+  },
+  {
+   "begin": "43.040",
+   "children": [],
+   "end": "49.640",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee?"
+   ]
+  },
+  {
+   "begin": "49.640",
+   "children": [],
+   "end": "55.000",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them."
+   ]
+  },
+  {
+   "begin": "55.000",
+   "children": [],
+   "end": "60.880",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm."
+   ]
+  },
+  {
+   "begin": "60.880",
+   "children": [],
+   "end": "67.200",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "The heavens are thine, the earth also is thine: as for the world and the fulness thereof, thou hast founded them."
+   ]
+  },
+  {
+   "begin": "67.200",
+   "children": [],
+   "end": "72.520",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name."
+   ]
+  },
+  {
+   "begin": "72.520",
+   "children": [],
+   "end": "76.800",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Thou hast a mighty arm: strong is thy hand, and high is thy right hand."
+   ]
+  },
+  {
+   "begin": "76.800",
+   "children": [],
+   "end": "82.600",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face."
+   ]
+  },
+  {
+   "begin": "82.600",
+   "children": [],
+   "end": "88.160",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance."
+   ]
+  },
+  {
+   "begin": "88.160",
+   "children": [],
+   "end": "93.760",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted."
+   ]
+  },
+  {
+   "begin": "93.760",
+   "children": [],
+   "end": "99.160",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "For thou art the glory of their strength: and in thy favour our horn shall be exalted."
+   ]
+  },
+  {
+   "begin": "99.160",
+   "children": [],
+   "end": "104.520",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "For the LORD is our defence; and the Holy One of Israel is our king."
+   ]
+  },
+  {
+   "begin": "104.520",
+   "children": [],
+   "end": "113.000",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon one that is mighty; I have exalted one chosen out of the people."
+   ]
+  },
+  {
+   "begin": "113.000",
+   "children": [],
+   "end": "117.040",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "I have found David my servant; with my holy oil have I anointed him:"
+   ]
+  },
+  {
+   "begin": "117.040",
+   "children": [],
+   "end": "121.280",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "With whom my hand shall be established: mine arm also shall strengthen him."
+   ]
+  },
+  {
+   "begin": "121.280",
+   "children": [],
+   "end": "125.160",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "The enemy shall not exact upon him; nor the son of wickedness afflict him."
+   ]
+  },
+  {
+   "begin": "125.160",
+   "children": [],
+   "end": "129.880",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And I will beat down his foes before his face, and plague them that hate him."
+   ]
+  },
+  {
+   "begin": "129.880",
+   "children": [],
+   "end": "135.880",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted."
+   ]
+  },
+  {
+   "begin": "135.880",
+   "children": [],
+   "end": "139.240",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "I will set his hand also in the sea, and his right hand in the rivers."
+   ]
+  },
+  {
+   "begin": "139.240",
+   "children": [],
+   "end": "145.040",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "He shall cry unto me, Thou art my father, my God, and the rock of my salvation."
+   ]
+  },
+  {
+   "begin": "145.040",
+   "children": [],
+   "end": "150.160",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Also I will make him my firstborn, higher than the kings of the earth."
+   ]
+  },
+  {
+   "begin": "150.160",
+   "children": [],
+   "end": "155.200",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "My mercy will I keep for him for evermore, and my covenant shall stand fast with him."
+   ]
+  },
+  {
+   "begin": "155.200",
+   "children": [],
+   "end": "160.360",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "His seed also will I make to endure for ever, and his throne as the days of heaven."
+   ]
+  },
+  {
+   "begin": "160.360",
+   "children": [],
+   "end": "164.560",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "If his children forsake my law, and walk not in my judgments;"
+   ]
+  },
+  {
+   "begin": "164.560",
+   "children": [],
+   "end": "167.560",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "If they break my statutes, and keep not my commandments;"
+   ]
+  },
+  {
+   "begin": "167.560",
+   "children": [],
+   "end": "173.080",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Then will I visit their transgression with the rod, and their iniquity with stripes."
+   ]
+  },
+  {
+   "begin": "173.080",
+   "children": [],
+   "end": "179.160",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail."
+   ]
+  },
+  {
+   "begin": "179.160",
+   "children": [],
+   "end": "184.480",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "My covenant will I not break, nor alter the thing that is gone out of my lips."
+   ]
+  },
+  {
+   "begin": "184.480",
+   "children": [],
+   "end": "188.080",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Once have I sworn by my holiness that I will not lie unto David."
+   ]
+  },
+  {
+   "begin": "188.080",
+   "children": [],
+   "end": "192.800",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "His seed shall endure for ever, and his throne as the sun before me."
+   ]
+  },
+  {
+   "begin": "192.800",
+   "children": [],
+   "end": "198.240",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "It shall be established for ever as the moon, and as a faithful witness in heaven. Selah."
+   ]
+  },
+  {
+   "begin": "198.240",
+   "children": [],
+   "end": "205.080",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "But thou hast cast off and abhorred, thou hast been wroth with thine anointed."
+   ]
+  },
+  {
+   "begin": "205.080",
+   "children": [],
+   "end": "211.080",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground."
+   ]
+  },
+  {
+   "begin": "211.080",
+   "children": [],
+   "end": "216.120",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin."
+   ]
+  },
+  {
+   "begin": "216.120",
+   "children": [],
+   "end": "220.520",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "All that pass by the way spoil him: he is a reproach to his neighbours."
+   ]
+  },
+  {
+   "begin": "220.520",
+   "children": [],
+   "end": "225.680",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice."
+   ]
+  },
+  {
+   "begin": "225.680",
+   "children": [],
+   "end": "230.560",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle."
+   ]
+  },
+  {
+   "begin": "230.560",
+   "children": [],
+   "end": "235.400",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "Thou hast made his glory to cease, and cast his throne down to the ground."
+   ]
+  },
+  {
+   "begin": "235.400",
+   "children": [],
+   "end": "242.080",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "The days of his youth hast thou shortened: thou hast covered him with shame. Selah."
+   ]
+  },
+  {
+   "begin": "242.080",
+   "children": [],
+   "end": "248.480",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?"
+   ]
+  },
+  {
+   "begin": "248.480",
+   "children": [],
+   "end": "253.880",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Remember how short my time is: wherefore hast thou made all men in vain?"
+   ]
+  },
+  {
+   "begin": "253.880",
+   "children": [],
+   "end": "262.120",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah."
+   ]
+  },
+  {
+   "begin": "262.120",
+   "children": [],
+   "end": "268.840",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?"
+   ]
+  },
+  {
+   "begin": "268.840",
+   "children": [],
+   "end": "275.360",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "Remember, Lord, the reproach of thy servants; how I do bear in my bosom the reproach of all the mighty people;"
+   ]
+  },
+  {
+   "begin": "275.360",
+   "children": [],
+   "end": "282.480",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed."
+   ]
+  },
+  {
+   "begin": "282.480",
+   "children": [],
+   "end": "287.960",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "Blessed be the LORD for evermore. Amen, and Amen."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,404 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.080",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-three"
+   ]
+  },
+  {
+   "begin": "3.080",
+   "children": [],
+   "end": "5.720",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Then spake Jesus to the multitude, and to his disciples,"
+   ]
+  },
+  {
+   "begin": "5.720",
+   "children": [],
+   "end": "10.680",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Saying The scribes and the Pharisees sit in Moses' seat:"
+   ]
+  },
+  {
+   "begin": "10.680",
+   "children": [],
+   "end": "22.840",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not."
+   ]
+  },
+  {
+   "begin": "22.840",
+   "children": [],
+   "end": "31.440",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers."
+   ]
+  },
+  {
+   "begin": "31.440",
+   "children": [],
+   "end": "39.560",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,"
+   ]
+  },
+  {
+   "begin": "39.560",
+   "children": [],
+   "end": "43.520",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And love the uppermost rooms at feasts, and the chief seats in the synagogues,"
+   ]
+  },
+  {
+   "begin": "43.520",
+   "children": [],
+   "end": "49.160",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And greetings in the markets, and to be called of men, Rabbi, Rabbi."
+   ]
+  },
+  {
+   "begin": "49.160",
+   "children": [],
+   "end": "59.000",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren."
+   ]
+  },
+  {
+   "begin": "59.000",
+   "children": [],
+   "end": "64.880",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "And call no man your father upon the earth: for one is your Father, which is in heaven."
+   ]
+  },
+  {
+   "begin": "64.880",
+   "children": [],
+   "end": "70.840",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Neither be ye called masters: for one is your Master, even Christ."
+   ]
+  },
+  {
+   "begin": "70.840",
+   "children": [],
+   "end": "74.880",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "But he that is greatest among you shall be your servant."
+   ]
+  },
+  {
+   "begin": "74.880",
+   "children": [],
+   "end": "82.240",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted."
+   ]
+  },
+  {
+   "begin": "82.240",
+   "children": [],
+   "end": "95.760",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in."
+   ]
+  },
+  {
+   "begin": "95.760",
+   "children": [],
+   "end": "106.600",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation."
+   ]
+  },
+  {
+   "begin": "106.600",
+   "children": [],
+   "end": "117.680",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves."
+   ]
+  },
+  {
+   "begin": "117.680",
+   "children": [],
+   "end": "128.680",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!"
+   ]
+  },
+  {
+   "begin": "128.680",
+   "children": [],
+   "end": "135.840",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Ye fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?"
+   ]
+  },
+  {
+   "begin": "135.840",
+   "children": [],
+   "end": "143.640",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And, Whosoever shall swear by the altar, it is nothing; but whosoever sweareth by the gift that is upon it, he is guilty."
+   ]
+  },
+  {
+   "begin": "143.640",
+   "children": [],
+   "end": "151.320",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Ye fools and blind: for whether is greater, the gift, or the altar that sanctifieth the gift?"
+   ]
+  },
+  {
+   "begin": "151.320",
+   "children": [],
+   "end": "156.040",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon."
+   ]
+  },
+  {
+   "begin": "156.040",
+   "children": [],
+   "end": "161.640",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein."
+   ]
+  },
+  {
+   "begin": "161.640",
+   "children": [],
+   "end": "168.360",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon."
+   ]
+  },
+  {
+   "begin": "168.360",
+   "children": [],
+   "end": "186.160",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone."
+   ]
+  },
+  {
+   "begin": "186.160",
+   "children": [],
+   "end": "193.120",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Ye blind guides, which strain at a gnat, and swallow a camel."
+   ]
+  },
+  {
+   "begin": "193.120",
+   "children": [],
+   "end": "206.720",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess."
+   ]
+  },
+  {
+   "begin": "206.720",
+   "children": [],
+   "end": "213.440",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also."
+   ]
+  },
+  {
+   "begin": "213.440",
+   "children": [],
+   "end": "227.360",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness."
+   ]
+  },
+  {
+   "begin": "227.360",
+   "children": [],
+   "end": "236.600",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity."
+   ]
+  },
+  {
+   "begin": "236.600",
+   "children": [],
+   "end": "246.520",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,"
+   ]
+  },
+  {
+   "begin": "246.520",
+   "children": [],
+   "end": "255.560",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets."
+   ]
+  },
+  {
+   "begin": "255.560",
+   "children": [],
+   "end": "261.200",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets."
+   ]
+  },
+  {
+   "begin": "261.200",
+   "children": [],
+   "end": "264.680",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Fill ye up then the measure of your fathers."
+   ]
+  },
+  {
+   "begin": "264.680",
+   "children": [],
+   "end": "272.280",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?"
+   ]
+  },
+  {
+   "begin": "272.280",
+   "children": [],
+   "end": "283.920",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:"
+   ]
+  },
+  {
+   "begin": "283.920",
+   "children": [],
+   "end": "295.880",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar."
+   ]
+  },
+  {
+   "begin": "295.880",
+   "children": [],
+   "end": "301.760",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Verily I say unto you, All these things shall come upon this generation."
+   ]
+  },
+  {
+   "begin": "301.760",
+   "children": [],
+   "end": "323.160",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!"
+   ]
+  },
+  {
+   "begin": "323.160",
+   "children": [],
+   "end": "327.800",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Behold, your house is left unto you desolate."
+   ]
+  },
+  {
+   "begin": "327.800",
+   "children": [],
+   "end": "339.000",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord."
+   ]
+  }
+ ]
+}

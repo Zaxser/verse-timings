@@ -1,0 +1,424 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.280",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter thirty-eight"
+   ]
+  },
+  {
+   "begin": "2.280",
+   "children": [],
+   "end": "5.680",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Then the LORD answered Job out of the whirlwind, and said,"
+   ]
+  },
+  {
+   "begin": "5.680",
+   "children": [],
+   "end": "10.560",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Who is this that darkeneth counsel by words without knowledge?"
+   ]
+  },
+  {
+   "begin": "10.560",
+   "children": [],
+   "end": "17.960",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Gird up now thy loins like a man; for I will demand of thee, and answer thou me."
+   ]
+  },
+  {
+   "begin": "17.960",
+   "children": [],
+   "end": "25.080",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding."
+   ]
+  },
+  {
+   "begin": "25.080",
+   "children": [],
+   "end": "32.520",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?"
+   ]
+  },
+  {
+   "begin": "32.520",
+   "children": [],
+   "end": "37.600",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;"
+   ]
+  },
+  {
+   "begin": "37.600",
+   "children": [],
+   "end": "44.760",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "When the morning stars sang together, and all the sons of God shouted for joy?"
+   ]
+  },
+  {
+   "begin": "44.760",
+   "children": [],
+   "end": "49.960",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?"
+   ]
+  },
+  {
+   "begin": "49.960",
+   "children": [],
+   "end": "54.760",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,"
+   ]
+  },
+  {
+   "begin": "54.760",
+   "children": [],
+   "end": "58.720",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And brake up for it my decreed place, and set bars and doors,"
+   ]
+  },
+  {
+   "begin": "58.720",
+   "children": [],
+   "end": "67.240",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?"
+   ]
+  },
+  {
+   "begin": "67.240",
+   "children": [],
+   "end": "73.200",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Hast thou commanded the morning since thy days; and caused the dayspring to know his place;"
+   ]
+  },
+  {
+   "begin": "73.200",
+   "children": [],
+   "end": "78.240",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "That it might take hold of the ends of the earth, that the wicked might be shaken out of it?"
+   ]
+  },
+  {
+   "begin": "78.240",
+   "children": [],
+   "end": "83.240",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "It is turned as clay to the seal; and they stand as a garment."
+   ]
+  },
+  {
+   "begin": "83.240",
+   "children": [],
+   "end": "89.240",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And from the wicked their light is withholden, and the high arm shall be broken."
+   ]
+  },
+  {
+   "begin": "89.240",
+   "children": [],
+   "end": "96.240",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?"
+   ]
+  },
+  {
+   "begin": "96.240",
+   "children": [],
+   "end": "102.520",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?"
+   ]
+  },
+  {
+   "begin": "102.520",
+   "children": [],
+   "end": "107.880",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "Hast thou perceived the breadth of the earth? declare if thou knowest it all."
+   ]
+  },
+  {
+   "begin": "107.880",
+   "children": [],
+   "end": "113.920",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Where is the way where light dwelleth? and as for darkness, where is the place thereof,"
+   ]
+  },
+  {
+   "begin": "113.920",
+   "children": [],
+   "end": "120.600",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?"
+   ]
+  },
+  {
+   "begin": "120.600",
+   "children": [],
+   "end": "128.560",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Knowest thou it, because thou wast then born? or because the number of thy days is great?"
+   ]
+  },
+  {
+   "begin": "128.560",
+   "children": [],
+   "end": "133.720",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,"
+   ]
+  },
+  {
+   "begin": "133.720",
+   "children": [],
+   "end": "139.360",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Which I have reserved against the time of trouble, against the day of battle and war?"
+   ]
+  },
+  {
+   "begin": "139.360",
+   "children": [],
+   "end": "144.400",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "By what way is the light parted, which scattereth the east wind upon the earth?"
+   ]
+  },
+  {
+   "begin": "144.400",
+   "children": [],
+   "end": "149.800",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;"
+   ]
+  },
+  {
+   "begin": "149.800",
+   "children": [],
+   "end": "155.640",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;"
+   ]
+  },
+  {
+   "begin": "155.640",
+   "children": [],
+   "end": "164.200",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?"
+   ]
+  },
+  {
+   "begin": "164.200",
+   "children": [],
+   "end": "170.200",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Hath the rain a father? or who hath begotten the drops of dew?"
+   ]
+  },
+  {
+   "begin": "170.200",
+   "children": [],
+   "end": "177.360",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?"
+   ]
+  },
+  {
+   "begin": "177.360",
+   "children": [],
+   "end": "181.080",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "The waters are hid as with a stone, and the face of the deep is frozen."
+   ]
+  },
+  {
+   "begin": "181.080",
+   "children": [],
+   "end": "189.080",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?"
+   ]
+  },
+  {
+   "begin": "189.080",
+   "children": [],
+   "end": "194.160",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?"
+   ]
+  },
+  {
+   "begin": "194.160",
+   "children": [],
+   "end": "199.160",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?"
+   ]
+  },
+  {
+   "begin": "199.160",
+   "children": [],
+   "end": "204.680",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?"
+   ]
+  },
+  {
+   "begin": "204.680",
+   "children": [],
+   "end": "212.680",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Canst thou send lightnings, that they may go and say unto thee, Here we are?"
+   ]
+  },
+  {
+   "begin": "212.680",
+   "children": [],
+   "end": "218.360",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?"
+   ]
+  },
+  {
+   "begin": "218.360",
+   "children": [],
+   "end": "222.960",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Who can number the clouds in wisdom? or who can stay the bottles of heaven,"
+   ]
+  },
+  {
+   "begin": "222.960",
+   "children": [],
+   "end": "228.400",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "When the dust groweth into hardness, and the clods cleave fast together?"
+   ]
+  },
+  {
+   "begin": "228.400",
+   "children": [],
+   "end": "232.800",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,"
+   ]
+  },
+  {
+   "begin": "232.800",
+   "children": [],
+   "end": "237.360",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "When they couch in their dens, and abide in the covert to lie in wait?"
+   ]
+  },
+  {
+   "begin": "237.360",
+   "children": [],
+   "end": "244.680",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,424 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.680",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter nine"
+   ]
+  },
+  {
+   "begin": "2.680",
+   "children": [],
+   "end": "6.560",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And as Jesus passed by, he saw a man which was blind from his birth."
+   ]
+  },
+  {
+   "begin": "6.560",
+   "children": [],
+   "end": "14.600",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?"
+   ]
+  },
+  {
+   "begin": "14.600",
+   "children": [],
+   "end": "22.920",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him."
+   ]
+  },
+  {
+   "begin": "22.920",
+   "children": [],
+   "end": "29.640",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "I must work the works of him that sent me, while it is day: the night cometh, when no man can work."
+   ]
+  },
+  {
+   "begin": "29.640",
+   "children": [],
+   "end": "33.960",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "As long as I am in the world, I am the light of the world."
+   ]
+  },
+  {
+   "begin": "33.960",
+   "children": [],
+   "end": "41.040",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,"
+   ]
+  },
+  {
+   "begin": "41.040",
+   "children": [],
+   "end": "52.000",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing."
+   ]
+  },
+  {
+   "begin": "52.000",
+   "children": [],
+   "end": "58.720",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?"
+   ]
+  },
+  {
+   "begin": "58.720",
+   "children": [],
+   "end": "66.480",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Some said, This is he: others said, He is like him: but he said, I am he."
+   ]
+  },
+  {
+   "begin": "66.480",
+   "children": [],
+   "end": "69.640",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Therefore said they unto him, How were thine eyes opened?"
+   ]
+  },
+  {
+   "begin": "69.640",
+   "children": [],
+   "end": "80.920",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight."
+   ]
+  },
+  {
+   "begin": "80.920",
+   "children": [],
+   "end": "86.280",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Then said they unto him, Where is he? He said, I know not."
+   ]
+  },
+  {
+   "begin": "86.280",
+   "children": [],
+   "end": "89.960",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "They brought to the Pharisees him that aforetime was blind."
+   ]
+  },
+  {
+   "begin": "89.960",
+   "children": [],
+   "end": "93.560",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And it was the sabbath day when Jesus made the clay, and opened his eyes."
+   ]
+  },
+  {
+   "begin": "93.560",
+   "children": [],
+   "end": "102.000",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see."
+   ]
+  },
+  {
+   "begin": "102.000",
+   "children": [],
+   "end": "113.960",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them."
+   ]
+  },
+  {
+   "begin": "113.960",
+   "children": [],
+   "end": "122.800",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet."
+   ]
+  },
+  {
+   "begin": "122.800",
+   "children": [],
+   "end": "129.480",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight."
+   ]
+  },
+  {
+   "begin": "129.480",
+   "children": [],
+   "end": "137.080",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?"
+   ]
+  },
+  {
+   "begin": "137.080",
+   "children": [],
+   "end": "143.720",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "His parents answered them and said, We know that this is our son, and that he was born blind:"
+   ]
+  },
+  {
+   "begin": "143.720",
+   "children": [],
+   "end": "154.080",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself."
+   ]
+  },
+  {
+   "begin": "154.080",
+   "children": [],
+   "end": "163.760",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue."
+   ]
+  },
+  {
+   "begin": "163.760",
+   "children": [],
+   "end": "167.920",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Therefore said his parents, He is of age; ask him."
+   ]
+  },
+  {
+   "begin": "167.920",
+   "children": [],
+   "end": "176.840",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner."
+   ]
+  },
+  {
+   "begin": "176.840",
+   "children": [],
+   "end": "185.720",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see."
+   ]
+  },
+  {
+   "begin": "185.720",
+   "children": [],
+   "end": "191.400",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Then said they to him again, What did he to thee? how opened he thine eyes?"
+   ]
+  },
+  {
+   "begin": "191.400",
+   "children": [],
+   "end": "199.080",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "He answered them, I have told you already, and ye did not hear: wherefore would ye hear it again? will ye also be his disciples?"
+   ]
+  },
+  {
+   "begin": "199.080",
+   "children": [],
+   "end": "203.680",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Then they reviled him, and said, Thou art his disciple; but we are Moses' disciples."
+   ]
+  },
+  {
+   "begin": "203.680",
+   "children": [],
+   "end": "209.160",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "We know that God spake unto Moses: as for this fellow, we know not from whence he is."
+   ]
+  },
+  {
+   "begin": "209.160",
+   "children": [],
+   "end": "220.560",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and yet he hath opened mine eyes."
+   ]
+  },
+  {
+   "begin": "220.560",
+   "children": [],
+   "end": "229.080",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth."
+   ]
+  },
+  {
+   "begin": "229.080",
+   "children": [],
+   "end": "235.120",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Since the world began was it not heard that any man opened the eyes of one that was born blind."
+   ]
+  },
+  {
+   "begin": "235.120",
+   "children": [],
+   "end": "238.760",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "If this man were not of God, he could do nothing."
+   ]
+  },
+  {
+   "begin": "238.760",
+   "children": [],
+   "end": "247.200",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out."
+   ]
+  },
+  {
+   "begin": "247.200",
+   "children": [],
+   "end": "255.880",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?"
+   ]
+  },
+  {
+   "begin": "255.880",
+   "children": [],
+   "end": "260.160",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "He answered and said, Who is he, Lord, that I might believe on him?"
+   ]
+  },
+  {
+   "begin": "260.160",
+   "children": [],
+   "end": "267.320",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee."
+   ]
+  },
+  {
+   "begin": "267.320",
+   "children": [],
+   "end": "273.040",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And he said, Lord, I believe. And he worshipped him."
+   ]
+  },
+  {
+   "begin": "273.040",
+   "children": [],
+   "end": "283.960",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind."
+   ]
+  },
+  {
+   "begin": "283.960",
+   "children": [],
+   "end": "290.320",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And some of the Pharisees which were with him heard these words, and said unto him, Are we blind also?"
+   ]
+  },
+  {
+   "begin": "290.320",
+   "children": [],
+   "end": "302.360",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth."
+   ]
+  }
+ ]
+}

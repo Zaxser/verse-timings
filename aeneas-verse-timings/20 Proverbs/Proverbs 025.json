@@ -1,0 +1,294 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.200",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-five"
+   ]
+  },
+  {
+   "begin": "3.200",
+   "children": [],
+   "end": "8.280",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out."
+   ]
+  },
+  {
+   "begin": "8.280",
+   "children": [],
+   "end": "15.360",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "It is the glory of God to conceal a thing: but the honour of kings is to search out a matter."
+   ]
+  },
+  {
+   "begin": "15.360",
+   "children": [],
+   "end": "21.080",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "The heaven for height, and the earth for depth, and the heart of kings is unsearchable."
+   ]
+  },
+  {
+   "begin": "21.080",
+   "children": [],
+   "end": "28.080",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Take away the dross from the silver, and there shall come forth a vessel for the finer."
+   ]
+  },
+  {
+   "begin": "28.080",
+   "children": [],
+   "end": "33.920",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Take away the wicked from before the king, and his throne shall be established in righteousness."
+   ]
+  },
+  {
+   "begin": "33.920",
+   "children": [],
+   "end": "39.240",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Put not forth thyself in the presence of the king, and stand not in the place of great men:"
+   ]
+  },
+  {
+   "begin": "39.240",
+   "children": [],
+   "end": "49.000",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "For better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
+   ]
+  },
+  {
+   "begin": "49.000",
+   "children": [],
+   "end": "57.200",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame."
+   ]
+  },
+  {
+   "begin": "57.200",
+   "children": [],
+   "end": "62.400",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Debate thy cause with thy neighbour himself; and discover not a secret to another:"
+   ]
+  },
+  {
+   "begin": "62.400",
+   "children": [],
+   "end": "67.560",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Lest he that heareth it put thee to shame, and thine infamy turn not away."
+   ]
+  },
+  {
+   "begin": "67.560",
+   "children": [],
+   "end": "73.760",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "A word fitly spoken is like apples of gold in pictures of silver."
+   ]
+  },
+  {
+   "begin": "73.760",
+   "children": [],
+   "end": "80.800",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear."
+   ]
+  },
+  {
+   "begin": "80.800",
+   "children": [],
+   "end": "90.080",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refresheth the soul of his masters."
+   ]
+  },
+  {
+   "begin": "90.080",
+   "children": [],
+   "end": "97.040",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Whoso boasteth himself of a false gift is like clouds and wind without rain."
+   ]
+  },
+  {
+   "begin": "97.040",
+   "children": [],
+   "end": "104.360",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone."
+   ]
+  },
+  {
+   "begin": "104.360",
+   "children": [],
+   "end": "112.160",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it."
+   ]
+  },
+  {
+   "begin": "112.160",
+   "children": [],
+   "end": "117.400",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and so hate thee."
+   ]
+  },
+  {
+   "begin": "117.400",
+   "children": [],
+   "end": "124.200",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "A man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow."
+   ]
+  },
+  {
+   "begin": "124.200",
+   "children": [],
+   "end": "131.080",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint."
+   ]
+  },
+  {
+   "begin": "131.080",
+   "children": [],
+   "end": "141.760",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart."
+   ]
+  },
+  {
+   "begin": "141.760",
+   "children": [],
+   "end": "148.400",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:"
+   ]
+  },
+  {
+   "begin": "148.400",
+   "children": [],
+   "end": "154.440",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee."
+   ]
+  },
+  {
+   "begin": "154.440",
+   "children": [],
+   "end": "162.040",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "The north wind driveth away rain: so doth an angry countenance a backbiting tongue."
+   ]
+  },
+  {
+   "begin": "162.040",
+   "children": [],
+   "end": "168.520",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house."
+   ]
+  },
+  {
+   "begin": "168.520",
+   "children": [],
+   "end": "174.000",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "As cold waters to a thirsty soul, so is good news from a far country."
+   ]
+  },
+  {
+   "begin": "174.000",
+   "children": [],
+   "end": "181.320",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring."
+   ]
+  },
+  {
+   "begin": "181.320",
+   "children": [],
+   "end": "189.640",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "It is not good to eat much honey: so for men to search their own glory is not glory."
+   ]
+  },
+  {
+   "begin": "189.640",
+   "children": [],
+   "end": "197.000",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "He that hath no rule over his own spirit is like a city that is broken down, and without walls."
+   ]
+  }
+ ]
+}

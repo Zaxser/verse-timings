@@ -1,0 +1,364 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.400",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter six"
+   ]
+  },
+  {
+   "begin": "2.400",
+   "children": [],
+   "end": "8.120",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,"
+   ]
+  },
+  {
+   "begin": "8.120",
+   "children": [],
+   "end": "12.440",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth."
+   ]
+  },
+  {
+   "begin": "12.440",
+   "children": [],
+   "end": "20.040",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend."
+   ]
+  },
+  {
+   "begin": "20.040",
+   "children": [],
+   "end": "23.640",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Give not sleep to thine eyes, nor slumber to thine eyelids."
+   ]
+  },
+  {
+   "begin": "23.640",
+   "children": [],
+   "end": "30.920",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler."
+   ]
+  },
+  {
+   "begin": "30.920",
+   "children": [],
+   "end": "36.720",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Go to the ant, thou sluggard; consider her ways, and be wise:"
+   ]
+  },
+  {
+   "begin": "36.720",
+   "children": [],
+   "end": "39.520",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Which having no guide, overseer, or ruler,"
+   ]
+  },
+  {
+   "begin": "39.520",
+   "children": [],
+   "end": "44.160",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Provideth her meat in the summer, and gathereth her food in the harvest."
+   ]
+  },
+  {
+   "begin": "44.160",
+   "children": [],
+   "end": "49.240",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
+   ]
+  },
+  {
+   "begin": "49.240",
+   "children": [],
+   "end": "55.560",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Yet a little sleep, a little slumber, a little folding of the hands to sleep:"
+   ]
+  },
+  {
+   "begin": "55.560",
+   "children": [],
+   "end": "63.720",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "So shall thy poverty come as one that travelleth, and thy want as an armed man."
+   ]
+  },
+  {
+   "begin": "63.720",
+   "children": [],
+   "end": "67.240",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "A naughty person, a wicked man, walketh with a froward mouth."
+   ]
+  },
+  {
+   "begin": "67.240",
+   "children": [],
+   "end": "71.600",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;"
+   ]
+  },
+  {
+   "begin": "71.600",
+   "children": [],
+   "end": "77.120",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Frowardness is in his heart, he deviseth mischief continually; he soweth discord."
+   ]
+  },
+  {
+   "begin": "77.120",
+   "children": [],
+   "end": "83.960",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy."
+   ]
+  },
+  {
+   "begin": "83.960",
+   "children": [],
+   "end": "89.400",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "These six things doth the LORD hate: yea, seven are an abomination unto him:"
+   ]
+  },
+  {
+   "begin": "89.400",
+   "children": [],
+   "end": "95.200",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "A proud look, a lying tongue, and hands that shed innocent blood,"
+   ]
+  },
+  {
+   "begin": "95.200",
+   "children": [],
+   "end": "101.320",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,"
+   ]
+  },
+  {
+   "begin": "101.320",
+   "children": [],
+   "end": "109.400",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "A false witness that speaketh lies, and he that soweth discord among brethren."
+   ]
+  },
+  {
+   "begin": "109.400",
+   "children": [],
+   "end": "113.840",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "My son, keep thy father's commandment, and forsake not the law of thy mother:"
+   ]
+  },
+  {
+   "begin": "113.840",
+   "children": [],
+   "end": "117.480",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Bind them continually upon thine heart, and tie them about thy neck."
+   ]
+  },
+  {
+   "begin": "117.480",
+   "children": [],
+   "end": "124.200",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee."
+   ]
+  },
+  {
+   "begin": "124.200",
+   "children": [],
+   "end": "129.640",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:"
+   ]
+  },
+  {
+   "begin": "129.640",
+   "children": [],
+   "end": "135.600",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "To keep thee from the evil woman, from the flattery of the tongue of a strange woman."
+   ]
+  },
+  {
+   "begin": "135.600",
+   "children": [],
+   "end": "140.560",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Lust not after her beauty in thine heart; neither let her take thee with her eyelids."
+   ]
+  },
+  {
+   "begin": "140.560",
+   "children": [],
+   "end": "148.320",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "For by means of a whorish woman a man is brought to a piece of bread: and the adultress will hunt for the precious life."
+   ]
+  },
+  {
+   "begin": "148.320",
+   "children": [],
+   "end": "153.600",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Can a man take fire in his bosom, and his clothes not be burned?"
+   ]
+  },
+  {
+   "begin": "153.600",
+   "children": [],
+   "end": "158.240",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Can one go upon hot coals, and his feet not be burned?"
+   ]
+  },
+  {
+   "begin": "158.240",
+   "children": [],
+   "end": "164.560",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent."
+   ]
+  },
+  {
+   "begin": "164.560",
+   "children": [],
+   "end": "170.200",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Men do not despise a thief, if he steal to satisfy his soul when he is hungry;"
+   ]
+  },
+  {
+   "begin": "170.200",
+   "children": [],
+   "end": "176.800",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "But if he be found, he shall restore sevenfold; he shall give all the substance of his house."
+   ]
+  },
+  {
+   "begin": "176.800",
+   "children": [],
+   "end": "184.960",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul."
+   ]
+  },
+  {
+   "begin": "184.960",
+   "children": [],
+   "end": "190.240",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "A wound and dishonour shall he get; and his reproach shall not be wiped away."
+   ]
+  },
+  {
+   "begin": "190.240",
+   "children": [],
+   "end": "196.400",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "For jealousy is the rage of a man: therefore he will not spare in the day of vengeance."
+   ]
+  },
+  {
+   "begin": "196.400",
+   "children": [],
+   "end": "203.120",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "He will not regard any ransom; neither will he rest content, though thou givest many gifts."
+   ]
+  }
+ ]
+}

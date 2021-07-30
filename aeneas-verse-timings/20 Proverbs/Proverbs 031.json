@@ -1,0 +1,324 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.440",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter thirty-one"
+   ]
+  },
+  {
+   "begin": "2.440",
+   "children": [],
+   "end": "7.320",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "The words of king Lemuel, the prophecy that his mother taught him."
+   ]
+  },
+  {
+   "begin": "7.320",
+   "children": [],
+   "end": "12.960",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "What, my son? and what, the son of my womb? and what, the son of my vows?"
+   ]
+  },
+  {
+   "begin": "12.960",
+   "children": [],
+   "end": "18.840",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Give not thy strength unto women, nor thy ways to that which destroyeth kings."
+   ]
+  },
+  {
+   "begin": "18.840",
+   "children": [],
+   "end": "24.720",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink:"
+   ]
+  },
+  {
+   "begin": "24.720",
+   "children": [],
+   "end": "30.040",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted."
+   ]
+  },
+  {
+   "begin": "30.040",
+   "children": [],
+   "end": "36.120",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts."
+   ]
+  },
+  {
+   "begin": "36.120",
+   "children": [],
+   "end": "41.880",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Let him drink, and forget his poverty, and remember his misery no more."
+   ]
+  },
+  {
+   "begin": "41.880",
+   "children": [],
+   "end": "48.160",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Open thy mouth for the dumb in the cause of all such as are appointed to destruction."
+   ]
+  },
+  {
+   "begin": "48.160",
+   "children": [],
+   "end": "54.840",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Open thy mouth, judge righteously, and plead the cause of the poor and needy."
+   ]
+  },
+  {
+   "begin": "54.840",
+   "children": [],
+   "end": "60.480",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Who can find a virtuous woman? for her price is far above rubies."
+   ]
+  },
+  {
+   "begin": "60.480",
+   "children": [],
+   "end": "65.840",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "The heart of her husband doth safely trust in her, so that he shall have no need of spoil."
+   ]
+  },
+  {
+   "begin": "65.840",
+   "children": [],
+   "end": "69.400",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "She will do him good and not evil all the days of her life."
+   ]
+  },
+  {
+   "begin": "69.400",
+   "children": [],
+   "end": "73.480",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "She seeketh wool, and flax, and worketh willingly with her hands."
+   ]
+  },
+  {
+   "begin": "73.480",
+   "children": [],
+   "end": "77.880",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "She is like the merchants' ships; she bringeth her food from afar."
+   ]
+  },
+  {
+   "begin": "77.880",
+   "children": [],
+   "end": "84.000",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens."
+   ]
+  },
+  {
+   "begin": "84.000",
+   "children": [],
+   "end": "89.640",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard."
+   ]
+  },
+  {
+   "begin": "89.640",
+   "children": [],
+   "end": "93.360",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "She girdeth her loins with strength, and strengtheneth her arms."
+   ]
+  },
+  {
+   "begin": "93.360",
+   "children": [],
+   "end": "98.280",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "She perceiveth that her merchandise is good: her candle goeth not out by night."
+   ]
+  },
+  {
+   "begin": "98.280",
+   "children": [],
+   "end": "102.400",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "She layeth her hands to the spindle, and her hands hold the distaff."
+   ]
+  },
+  {
+   "begin": "102.400",
+   "children": [],
+   "end": "107.240",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy."
+   ]
+  },
+  {
+   "begin": "107.240",
+   "children": [],
+   "end": "113.800",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "She is not afraid of the snow for her household: for all her household are clothed with scarlet."
+   ]
+  },
+  {
+   "begin": "113.800",
+   "children": [],
+   "end": "118.600",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "She maketh herself coverings of tapestry; her clothing is silk and purple."
+   ]
+  },
+  {
+   "begin": "118.600",
+   "children": [],
+   "end": "123.120",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Her husband is known in the gates, when he sitteth among the elders of the land."
+   ]
+  },
+  {
+   "begin": "123.120",
+   "children": [],
+   "end": "127.960",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "She maketh fine linen, and selleth it; and delivereth girdles unto the merchant."
+   ]
+  },
+  {
+   "begin": "127.960",
+   "children": [],
+   "end": "133.000",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Strength and honour are her clothing; and she shall rejoice in time to come."
+   ]
+  },
+  {
+   "begin": "133.000",
+   "children": [],
+   "end": "138.240",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "She openeth her mouth with wisdom; and in her tongue is the law of kindness."
+   ]
+  },
+  {
+   "begin": "138.240",
+   "children": [],
+   "end": "142.920",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "She looketh well to the ways of her household, and eateth not the bread of idleness."
+   ]
+  },
+  {
+   "begin": "142.920",
+   "children": [],
+   "end": "149.880",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Her children arise up, and call her blessed; her husband also, and he praiseth her."
+   ]
+  },
+  {
+   "begin": "149.880",
+   "children": [],
+   "end": "155.880",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Many daughters have done virtuously, but thou excellest them all."
+   ]
+  },
+  {
+   "begin": "155.880",
+   "children": [],
+   "end": "165.080",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised."
+   ]
+  },
+  {
+   "begin": "165.080",
+   "children": [],
+   "end": "177.360",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Give her of the fruit of her hands; and let her own works praise her in the gates."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,574 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.960",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-three"
+   ]
+  },
+  {
+   "begin": "2.960",
+   "children": [],
+   "end": "6.240",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And the whole multitude of them arose, and led him unto Pilate."
+   ]
+  },
+  {
+   "begin": "6.240",
+   "children": [],
+   "end": "16.280",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And they began to accuse him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King."
+   ]
+  },
+  {
+   "begin": "16.280",
+   "children": [],
+   "end": "24.400",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest it."
+   ]
+  },
+  {
+   "begin": "24.400",
+   "children": [],
+   "end": "30.040",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Then said Pilate to the chief priests and to the people, I find no fault in this man."
+   ]
+  },
+  {
+   "begin": "30.040",
+   "children": [],
+   "end": "38.640",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place."
+   ]
+  },
+  {
+   "begin": "38.640",
+   "children": [],
+   "end": "42.840",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "When Pilate heard of Galilee, he asked whether the man were a Galilaean."
+   ]
+  },
+  {
+   "begin": "42.840",
+   "children": [],
+   "end": "50.560",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And as soon as he knew that he belonged unto Herod's jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time."
+   ]
+  },
+  {
+   "begin": "50.560",
+   "children": [],
+   "end": "61.480",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him."
+   ]
+  },
+  {
+   "begin": "61.480",
+   "children": [],
+   "end": "66.800",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Then he questioned with him in many words; but he answered him nothing."
+   ]
+  },
+  {
+   "begin": "66.800",
+   "children": [],
+   "end": "71.000",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And the chief priests and scribes stood and vehemently accused him."
+   ]
+  },
+  {
+   "begin": "71.000",
+   "children": [],
+   "end": "80.200",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And Herod with his men of war set him at nought, and mocked him, and arrayed him in a gorgeous robe, and sent him again to Pilate."
+   ]
+  },
+  {
+   "begin": "80.200",
+   "children": [],
+   "end": "87.480",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves."
+   ]
+  },
+  {
+   "begin": "87.480",
+   "children": [],
+   "end": "91.480",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And Pilate, when he had called together the chief priests and the rulers and the people,"
+   ]
+  },
+  {
+   "begin": "91.480",
+   "children": [],
+   "end": "103.640",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined him before you, have found no fault in this man touching those things whereof ye accuse him:"
+   ]
+  },
+  {
+   "begin": "103.640",
+   "children": [],
+   "end": "111.000",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him."
+   ]
+  },
+  {
+   "begin": "111.000",
+   "children": [],
+   "end": "113.760",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "I will therefore chastise him, and release him."
+   ]
+  },
+  {
+   "begin": "113.760",
+   "children": [],
+   "end": "118.080",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "(For of necessity he must release one unto them at the feast.)"
+   ]
+  },
+  {
+   "begin": "118.080",
+   "children": [],
+   "end": "122.600",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And they cried out all at once, saying, Away with this man, and release unto us Barabbas:"
+   ]
+  },
+  {
+   "begin": "122.600",
+   "children": [],
+   "end": "127.000",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "(Who for a certain sedition made in the city, and for murder, was cast into prison.)"
+   ]
+  },
+  {
+   "begin": "127.000",
+   "children": [],
+   "end": "132.240",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Pilate therefore, willing to release Jesus, spake again to them."
+   ]
+  },
+  {
+   "begin": "132.240",
+   "children": [],
+   "end": "135.680",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "But they cried, saying, Crucify him, crucify him."
+   ]
+  },
+  {
+   "begin": "135.680",
+   "children": [],
+   "end": "144.680",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And he said unto them the third time, Why, what evil hath he done? I have found no cause of death in him: I will therefore chastise him, and let him go."
+   ]
+  },
+  {
+   "begin": "144.680",
+   "children": [],
+   "end": "152.400",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed."
+   ]
+  },
+  {
+   "begin": "152.400",
+   "children": [],
+   "end": "156.600",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And Pilate gave sentence that it should be as they required."
+   ]
+  },
+  {
+   "begin": "156.600",
+   "children": [],
+   "end": "165.480",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will."
+   ]
+  },
+  {
+   "begin": "165.480",
+   "children": [],
+   "end": "176.560",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus."
+   ]
+  },
+  {
+   "begin": "176.560",
+   "children": [],
+   "end": "182.480",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And there followed him a great company of people, and of women, which also bewailed and lamented him."
+   ]
+  },
+  {
+   "begin": "182.480",
+   "children": [],
+   "end": "190.840",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children."
+   ]
+  },
+  {
+   "begin": "190.840",
+   "children": [],
+   "end": "199.840",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the wombs that never bare, and the paps which never gave suck."
+   ]
+  },
+  {
+   "begin": "199.840",
+   "children": [],
+   "end": "206.240",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us."
+   ]
+  },
+  {
+   "begin": "206.240",
+   "children": [],
+   "end": "214.440",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "For if they do these things in a green tree, what shall be done in the dry?"
+   ]
+  },
+  {
+   "begin": "214.440",
+   "children": [],
+   "end": "219.560",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And there were also two other, malefactors, led with him to be put to death."
+   ]
+  },
+  {
+   "begin": "219.560",
+   "children": [],
+   "end": "229.280",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left."
+   ]
+  },
+  {
+   "begin": "229.280",
+   "children": [],
+   "end": "237.800",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots."
+   ]
+  },
+  {
+   "begin": "237.800",
+   "children": [],
+   "end": "246.880",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God."
+   ]
+  },
+  {
+   "begin": "246.880",
+   "children": [],
+   "end": "250.000",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And the soldiers also mocked him, coming to him, and offering him vinegar,"
+   ]
+  },
+  {
+   "begin": "250.000",
+   "children": [],
+   "end": "254.080",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And saying, If thou be the king of the Jews, save thyself."
+   ]
+  },
+  {
+   "begin": "254.080",
+   "children": [],
+   "end": "262.520",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS."
+   ]
+  },
+  {
+   "begin": "262.520",
+   "children": [],
+   "end": "269.360",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us."
+   ]
+  },
+  {
+   "begin": "269.360",
+   "children": [],
+   "end": "275.680",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?"
+   ]
+  },
+  {
+   "begin": "275.680",
+   "children": [],
+   "end": "283.240",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss."
+   ]
+  },
+  {
+   "begin": "283.240",
+   "children": [],
+   "end": "288.840",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "And he said unto Jesus, Lord, remember me when thou comest into thy kingdom."
+   ]
+  },
+  {
+   "begin": "288.840",
+   "children": [],
+   "end": "295.920",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise."
+   ]
+  },
+  {
+   "begin": "295.920",
+   "children": [],
+   "end": "302.200",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour."
+   ]
+  },
+  {
+   "begin": "302.200",
+   "children": [],
+   "end": "308.920",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And the sun was darkened, and the veil of the temple was rent in the midst."
+   ]
+  },
+  {
+   "begin": "308.920",
+   "children": [],
+   "end": "320.280",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost."
+   ]
+  },
+  {
+   "begin": "320.280",
+   "children": [],
+   "end": "328.200",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man."
+   ]
+  },
+  {
+   "begin": "328.200",
+   "children": [],
+   "end": "335.200",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned."
+   ]
+  },
+  {
+   "begin": "335.200",
+   "children": [],
+   "end": "342.640",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things."
+   ]
+  },
+  {
+   "begin": "342.640",
+   "children": [],
+   "end": "348.080",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "And, behold, there was a man named Joseph, a counsellor; and he was a good man, and a just:"
+   ]
+  },
+  {
+   "begin": "348.080",
+   "children": [],
+   "end": "358.320",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "(The same had not consented to the counsel and deed of them;) he was of Arimathaea, a city of the Jews: who also himself waited for the kingdom of God."
+   ]
+  },
+  {
+   "begin": "358.320",
+   "children": [],
+   "end": "362.280",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "This man went unto Pilate, and begged the body of Jesus."
+   ]
+  },
+  {
+   "begin": "362.280",
+   "children": [],
+   "end": "370.640",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, wherein never man before was laid."
+   ]
+  },
+  {
+   "begin": "370.640",
+   "children": [],
+   "end": "375.400",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "And that day was the preparation, and the sabbath drew on."
+   ]
+  },
+  {
+   "begin": "375.400",
+   "children": [],
+   "end": "382.600",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid."
+   ]
+  },
+  {
+   "begin": "382.600",
+   "children": [],
+   "end": "389.120",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment."
+   ]
+  }
+ ]
+}

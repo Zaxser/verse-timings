@@ -1,0 +1,494 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.920",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter one hundred and six"
+   ]
+  },
+  {
+   "begin": "2.920",
+   "children": [],
+   "end": "10.760",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Praise ye the LORD. O give thanks unto the LORD; for he is good: for his mercy endureth for ever."
+   ]
+  },
+  {
+   "begin": "10.760",
+   "children": [],
+   "end": "15.440",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Who can utter the mighty acts of the LORD? who can shew forth all his praise?"
+   ]
+  },
+  {
+   "begin": "15.440",
+   "children": [],
+   "end": "20.240",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Blessed are they that keep judgment, and he that doeth righteousness at all times."
+   ]
+  },
+  {
+   "begin": "20.240",
+   "children": [],
+   "end": "25.560",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Remember me, O LORD, with the favour that thou bearest unto thy people: O visit me with thy salvation;"
+   ]
+  },
+  {
+   "begin": "25.560",
+   "children": [],
+   "end": "33.560",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance."
+   ]
+  },
+  {
+   "begin": "33.560",
+   "children": [],
+   "end": "39.800",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "We have sinned with our fathers, we have committed iniquity, we have done wickedly."
+   ]
+  },
+  {
+   "begin": "39.800",
+   "children": [],
+   "end": "48.880",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked him at the sea, even at the Red sea."
+   ]
+  },
+  {
+   "begin": "48.880",
+   "children": [],
+   "end": "54.240",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Nevertheless he saved them for his name's sake, that he might make his mighty power to be known."
+   ]
+  },
+  {
+   "begin": "54.240",
+   "children": [],
+   "end": "61.040",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness."
+   ]
+  },
+  {
+   "begin": "61.040",
+   "children": [],
+   "end": "66.560",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And he saved them from the hand of him that hated them, and redeemed them from the hand of the enemy."
+   ]
+  },
+  {
+   "begin": "66.560",
+   "children": [],
+   "end": "70.600",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And the waters covered their enemies: there was not one of them left."
+   ]
+  },
+  {
+   "begin": "70.600",
+   "children": [],
+   "end": "75.960",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Then believed they his words; they sang his praise."
+   ]
+  },
+  {
+   "begin": "75.960",
+   "children": [],
+   "end": "79.440",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "They soon forgat his works; they waited not for his counsel:"
+   ]
+  },
+  {
+   "begin": "79.440",
+   "children": [],
+   "end": "83.600",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "But lusted exceedingly in the wilderness, and tempted God in the desert."
+   ]
+  },
+  {
+   "begin": "83.600",
+   "children": [],
+   "end": "88.320",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And he gave them their request; but sent leanness into their soul."
+   ]
+  },
+  {
+   "begin": "88.320",
+   "children": [],
+   "end": "92.640",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "They envied Moses also in the camp, and Aaron the saint of the LORD."
+   ]
+  },
+  {
+   "begin": "92.640",
+   "children": [],
+   "end": "97.240",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "The earth opened and swallowed up Dathan and covered the company of Abiram."
+   ]
+  },
+  {
+   "begin": "97.240",
+   "children": [],
+   "end": "102.400",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And a fire was kindled in their company; the flame burned up the wicked."
+   ]
+  },
+  {
+   "begin": "102.400",
+   "children": [],
+   "end": "106.320",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "They made a calf in Horeb, and worshipped the molten image."
+   ]
+  },
+  {
+   "begin": "106.320",
+   "children": [],
+   "end": "112.080",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Thus they changed their glory into the similitude of an ox that eateth grass."
+   ]
+  },
+  {
+   "begin": "112.080",
+   "children": [],
+   "end": "115.400",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "They forgat God their saviour, which had done great things in Egypt;"
+   ]
+  },
+  {
+   "begin": "115.400",
+   "children": [],
+   "end": "120.720",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Wondrous works in the land of Ham, and terrible things by the Red sea."
+   ]
+  },
+  {
+   "begin": "120.720",
+   "children": [],
+   "end": "129.440",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy them."
+   ]
+  },
+  {
+   "begin": "129.440",
+   "children": [],
+   "end": "134.560",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Yea, they despised the pleasant land, they believed not his word:"
+   ]
+  },
+  {
+   "begin": "134.560",
+   "children": [],
+   "end": "138.680",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "But murmured in their tents, and hearkened not unto the voice of the LORD."
+   ]
+  },
+  {
+   "begin": "138.680",
+   "children": [],
+   "end": "141.960",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Therefore he lifted up his hand against them, to overthrow them in the wilderness:"
+   ]
+  },
+  {
+   "begin": "141.960",
+   "children": [],
+   "end": "147.280",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "To overthrow their seed also among the nations, and to scatter them in the lands."
+   ]
+  },
+  {
+   "begin": "147.280",
+   "children": [],
+   "end": "152.920",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "They joined themselves also unto Baalpeor, and ate the sacrifices of the dead."
+   ]
+  },
+  {
+   "begin": "152.920",
+   "children": [],
+   "end": "158.840",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Thus they provoked him to anger with their inventions: and the plague brake in upon them."
+   ]
+  },
+  {
+   "begin": "158.840",
+   "children": [],
+   "end": "163.760",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Then stood up Phinehas, and executed judgment: and so the plague was stayed."
+   ]
+  },
+  {
+   "begin": "163.760",
+   "children": [],
+   "end": "169.480",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And that was counted unto him for righteousness unto all generations for evermore."
+   ]
+  },
+  {
+   "begin": "169.480",
+   "children": [],
+   "end": "174.240",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "They angered him also at the waters of strife, so that it went ill with Moses for their sakes:"
+   ]
+  },
+  {
+   "begin": "174.240",
+   "children": [],
+   "end": "179.440",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Because they provoked his spirit, so that he spake unadvisedly with his lips."
+   ]
+  },
+  {
+   "begin": "179.440",
+   "children": [],
+   "end": "183.640",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "They did not destroy the nations, concerning whom the LORD commanded them:"
+   ]
+  },
+  {
+   "begin": "183.640",
+   "children": [],
+   "end": "187.040",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "But were mingled among the heathen, and learned their works."
+   ]
+  },
+  {
+   "begin": "187.040",
+   "children": [],
+   "end": "189.960",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And they served their idols: which were a snare unto them."
+   ]
+  },
+  {
+   "begin": "189.960",
+   "children": [],
+   "end": "193.160",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Yea, they sacrificed their sons and their daughters unto devils,"
+   ]
+  },
+  {
+   "begin": "193.160",
+   "children": [],
+   "end": "204.320",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood."
+   ]
+  },
+  {
+   "begin": "204.320",
+   "children": [],
+   "end": "209.880",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Thus were they defiled with their own works, and went a whoring with their own inventions."
+   ]
+  },
+  {
+   "begin": "209.880",
+   "children": [],
+   "end": "215.480",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance."
+   ]
+  },
+  {
+   "begin": "215.480",
+   "children": [],
+   "end": "219.840",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And he gave them into the hand of the heathen; and they that hated them ruled over them."
+   ]
+  },
+  {
+   "begin": "219.840",
+   "children": [],
+   "end": "224.840",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "Their enemies also oppressed them, and they were brought into subjection under their hand."
+   ]
+  },
+  {
+   "begin": "224.840",
+   "children": [],
+   "end": "231.880",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "Many times did he deliver them; but they provoked him with their counsel, and were brought low for their iniquity."
+   ]
+  },
+  {
+   "begin": "231.880",
+   "children": [],
+   "end": "236.640",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "Nevertheless he regarded their affliction, when he heard their cry:"
+   ]
+  },
+  {
+   "begin": "236.640",
+   "children": [],
+   "end": "243.360",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And he remembered for them his covenant, and repented according to the multitude of his mercies."
+   ]
+  },
+  {
+   "begin": "243.360",
+   "children": [],
+   "end": "249.120",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "He made them also to be pitied of all those that carried them captives."
+   ]
+  },
+  {
+   "begin": "249.120",
+   "children": [],
+   "end": "257.480",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise."
+   ]
+  },
+  {
+   "begin": "257.480",
+   "children": [],
+   "end": "269.960",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD."
+   ]
+  }
+ ]
+}

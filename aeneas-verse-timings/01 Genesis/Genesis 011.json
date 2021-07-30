@@ -1,0 +1,334 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.040",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter eleven"
+   ]
+  },
+  {
+   "begin": "2.040",
+   "children": [],
+   "end": "5.240",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And the whole earth was of one language, and of one speech."
+   ]
+  },
+  {
+   "begin": "5.240",
+   "children": [],
+   "end": "12.440",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there."
+   ]
+  },
+  {
+   "begin": "12.440",
+   "children": [],
+   "end": "21.920",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for mortar."
+   ]
+  },
+  {
+   "begin": "21.920",
+   "children": [],
+   "end": "33.400",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth."
+   ]
+  },
+  {
+   "begin": "33.400",
+   "children": [],
+   "end": "38.040",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And the LORD came down to see the city and the tower, which the children of men builded."
+   ]
+  },
+  {
+   "begin": "38.040",
+   "children": [],
+   "end": "50.360",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And the LORD said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
+   ]
+  },
+  {
+   "begin": "50.360",
+   "children": [],
+   "end": "56.840",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
+   ]
+  },
+  {
+   "begin": "56.840",
+   "children": [],
+   "end": "62.760",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city."
+   ]
+  },
+  {
+   "begin": "62.760",
+   "children": [],
+   "end": "75.320",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth."
+   ]
+  },
+  {
+   "begin": "75.320",
+   "children": [],
+   "end": "81.800",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:"
+   ]
+  },
+  {
+   "begin": "81.800",
+   "children": [],
+   "end": "86.640",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters."
+   ]
+  },
+  {
+   "begin": "86.640",
+   "children": [],
+   "end": "89.680",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And Arphaxad lived five and thirty years, and begat Salah:"
+   ]
+  },
+  {
+   "begin": "89.680",
+   "children": [],
+   "end": "94.720",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters."
+   ]
+  },
+  {
+   "begin": "94.720",
+   "children": [],
+   "end": "97.280",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And Salah lived thirty years, and begat Eber:"
+   ]
+  },
+  {
+   "begin": "97.280",
+   "children": [],
+   "end": "101.760",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters."
+   ]
+  },
+  {
+   "begin": "101.760",
+   "children": [],
+   "end": "104.920",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And Eber lived four and thirty years, and begat Peleg:"
+   ]
+  },
+  {
+   "begin": "104.920",
+   "children": [],
+   "end": "109.840",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters."
+   ]
+  },
+  {
+   "begin": "109.840",
+   "children": [],
+   "end": "112.600",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And Peleg lived thirty years, and begat Reu:"
+   ]
+  },
+  {
+   "begin": "112.600",
+   "children": [],
+   "end": "117.400",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters."
+   ]
+  },
+  {
+   "begin": "117.400",
+   "children": [],
+   "end": "120.200",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And Reu lived two and thirty years, and begat Serug:"
+   ]
+  },
+  {
+   "begin": "120.200",
+   "children": [],
+   "end": "124.600",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters."
+   ]
+  },
+  {
+   "begin": "124.600",
+   "children": [],
+   "end": "126.320",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And Serug lived thirty years, and begat Nahor:"
+   ]
+  },
+  {
+   "begin": "126.320",
+   "children": [],
+   "end": "131.600",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And Serug lived after he begat Nahor two hundred years, and begat sons and daughters."
+   ]
+  },
+  {
+   "begin": "131.600",
+   "children": [],
+   "end": "135.080",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And Nahor lived nine and twenty years, and begat Terah:"
+   ]
+  },
+  {
+   "begin": "135.080",
+   "children": [],
+   "end": "139.960",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters."
+   ]
+  },
+  {
+   "begin": "139.960",
+   "children": [],
+   "end": "147.120",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+   ]
+  },
+  {
+   "begin": "147.120",
+   "children": [],
+   "end": "155.400",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot."
+   ]
+  },
+  {
+   "begin": "155.400",
+   "children": [],
+   "end": "161.200",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees."
+   ]
+  },
+  {
+   "begin": "161.200",
+   "children": [],
+   "end": "174.280",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah."
+   ]
+  },
+  {
+   "begin": "174.280",
+   "children": [],
+   "end": "178.200",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "But Sarai was barren; she had no child."
+   ]
+  },
+  {
+   "begin": "178.200",
+   "children": [],
+   "end": "194.720",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there."
+   ]
+  },
+  {
+   "begin": "194.720",
+   "children": [],
+   "end": "202.080",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And the days of Terah were two hundred and five years: and Terah died in Haran."
+   ]
+  }
+ ]
+}

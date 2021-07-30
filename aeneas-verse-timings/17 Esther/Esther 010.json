@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.960",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter ten"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "6.880",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea."
+   ]
+  },
+  {
+   "begin": "6.880",
+   "children": [],
+   "end": "17.840",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?"
+   ]
+  },
+  {
+   "begin": "17.840",
+   "children": [],
+   "end": "36.440",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed."
+   ]
+  }
+ ]
+}

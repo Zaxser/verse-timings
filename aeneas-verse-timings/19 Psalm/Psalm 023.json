@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.760",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-three"
+   ]
+  },
+  {
+   "begin": "2.760",
+   "children": [],
+   "end": "5.640",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "The LORD is my shepherd; I shall not want."
+   ]
+  },
+  {
+   "begin": "5.640",
+   "children": [],
+   "end": "10.040",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
+   ]
+  },
+  {
+   "begin": "10.040",
+   "children": [],
+   "end": "15.360",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake."
+   ]
+  },
+  {
+   "begin": "15.360",
+   "children": [],
+   "end": "23.920",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
+   ]
+  },
+  {
+   "begin": "23.920",
+   "children": [],
+   "end": "32.320",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+   ]
+  },
+  {
+   "begin": "32.320",
+   "children": [],
+   "end": "40.320",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
+   ]
+  }
+ ]
+}

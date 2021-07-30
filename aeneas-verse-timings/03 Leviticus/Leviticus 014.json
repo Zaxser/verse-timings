@@ -1,0 +1,584 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.640",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter fourteen"
+   ]
+  },
+  {
+   "begin": "1.640",
+   "children": [],
+   "end": "4.480",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And the LORD spake unto Moses, saying,"
+   ]
+  },
+  {
+   "begin": "4.480",
+   "children": [],
+   "end": "9.200",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest:"
+   ]
+  },
+  {
+   "begin": "9.200",
+   "children": [],
+   "end": "16.600",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And the priest shall go forth out of the camp; and the priest shall look, and, behold, if the plague of leprosy be healed in the leper;"
+   ]
+  },
+  {
+   "begin": "16.600",
+   "children": [],
+   "end": "24.080",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Then shall the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:"
+   ]
+  },
+  {
+   "begin": "24.080",
+   "children": [],
+   "end": "29.920",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And the priest shall command that one of the birds be killed in an earthen vessel over running water:"
+   ]
+  },
+  {
+   "begin": "29.920",
+   "children": [],
+   "end": "39.560",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water:"
+   ]
+  },
+  {
+   "begin": "39.560",
+   "children": [],
+   "end": "49.280",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird loose into the open field."
+   ]
+  },
+  {
+   "begin": "49.280",
+   "children": [],
+   "end": "62.760",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days."
+   ]
+  },
+  {
+   "begin": "62.760",
+   "children": [],
+   "end": "76.480",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "But it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean."
+   ]
+  },
+  {
+   "begin": "76.480",
+   "children": [],
+   "end": "89.240",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And on the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour for a meat offering, mingled with oil, and one log of oil."
+   ]
+  },
+  {
+   "begin": "89.240",
+   "children": [],
+   "end": "96.880",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And the priest that maketh him clean shall present the man that is to be made clean, and those things, before the LORD, at the door of the tabernacle of the congregation:"
+   ]
+  },
+  {
+   "begin": "96.880",
+   "children": [],
+   "end": "105.480",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And the priest shall take one he lamb, and offer him for a trespass offering, and the log of oil, and wave them for a wave offering before the LORD:"
+   ]
+  },
+  {
+   "begin": "105.480",
+   "children": [],
+   "end": "116.880",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering is the priest's, so is the trespass offering: it is most holy:"
+   ]
+  },
+  {
+   "begin": "116.880",
+   "children": [],
+   "end": "127.840",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And the priest shall take some of the blood of the trespass offering, and the priest shall put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:"
+   ]
+  },
+  {
+   "begin": "127.840",
+   "children": [],
+   "end": "132.560",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And the priest shall take some of the log of oil, and pour it into the palm of his own left hand:"
+   ]
+  },
+  {
+   "begin": "132.560",
+   "children": [],
+   "end": "139.840",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And the priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:"
+   ]
+  },
+  {
+   "begin": "139.840",
+   "children": [],
+   "end": "151.640",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And of the rest of the oil that is in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:"
+   ]
+  },
+  {
+   "begin": "151.640",
+   "children": [],
+   "end": "160.320",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And the remnant of the oil that is in the priest's hand he shall pour upon the head of him that is to be cleansed: and the priest shall make an atonement for him before the LORD."
+   ]
+  },
+  {
+   "begin": "160.320",
+   "children": [],
+   "end": "169.000",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And the priest shall offer the sin offering, and make an atonement for him that is to be cleansed from his uncleanness; and afterward he shall kill the burnt offering:"
+   ]
+  },
+  {
+   "begin": "169.000",
+   "children": [],
+   "end": "177.080",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And the priest shall offer the burnt offering and the meat offering upon the altar: and the priest shall make an atonement for him, and he shall be clean."
+   ]
+  },
+  {
+   "begin": "177.080",
+   "children": [],
+   "end": "191.840",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And if he be poor, and cannot get so much; then he shall take one lamb for a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;"
+   ]
+  },
+  {
+   "begin": "191.840",
+   "children": [],
+   "end": "199.520",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And two turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering."
+   ]
+  },
+  {
+   "begin": "199.520",
+   "children": [],
+   "end": "206.720",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And he shall bring them on the eighth day for his cleansing unto the priest, unto the door of the tabernacle of the congregation, before the LORD."
+   ]
+  },
+  {
+   "begin": "206.720",
+   "children": [],
+   "end": "213.720",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And the priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them for a wave offering before the LORD:"
+   ]
+  },
+  {
+   "begin": "213.720",
+   "children": [],
+   "end": "225.760",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And he shall kill the lamb of the trespass offering, and the priest shall take some of the blood of the trespass offering, and put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:"
+   ]
+  },
+  {
+   "begin": "225.760",
+   "children": [],
+   "end": "229.960",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And the priest shall pour of the oil into the palm of his own left hand:"
+   ]
+  },
+  {
+   "begin": "229.960",
+   "children": [],
+   "end": "236.880",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before the LORD:"
+   ]
+  },
+  {
+   "begin": "236.880",
+   "children": [],
+   "end": "248.640",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And the priest shall put of the oil that is in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass offering:"
+   ]
+  },
+  {
+   "begin": "248.640",
+   "children": [],
+   "end": "256.040",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And the rest of the oil that is in the priest's hand he shall put upon the head of him that is to be cleansed, to make an atonement for him before the LORD."
+   ]
+  },
+  {
+   "begin": "256.040",
+   "children": [],
+   "end": "260.880",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And he shall offer the one of the turtledoves, or of the young pigeons, such as he can get;"
+   ]
+  },
+  {
+   "begin": "260.880",
+   "children": [],
+   "end": "271.960",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Even such as he is able to get, the one for a sin offering, and the other for a burnt offering, with the meat offering: and the priest shall make an atonement for him that is to be cleansed before the LORD."
+   ]
+  },
+  {
+   "begin": "271.960",
+   "children": [],
+   "end": "280.720",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "This is the law of him in whom is the plague of leprosy, whose hand is not able to get that which pertaineth to his cleansing."
+   ]
+  },
+  {
+   "begin": "280.720",
+   "children": [],
+   "end": "284.360",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And the LORD spake unto Moses and unto Aaron, saying,"
+   ]
+  },
+  {
+   "begin": "284.360",
+   "children": [],
+   "end": "292.640",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "When ye be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;"
+   ]
+  },
+  {
+   "begin": "292.640",
+   "children": [],
+   "end": "299.400",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And he that owneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:"
+   ]
+  },
+  {
+   "begin": "299.400",
+   "children": [],
+   "end": "310.600",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Then the priest shall command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house:"
+   ]
+  },
+  {
+   "begin": "310.600",
+   "children": [],
+   "end": "319.680",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And he shall look on the plague, and, behold, if the plague be in the walls of the house with hollow streaks, greenish or reddish, which in sight are lower than the wall;"
+   ]
+  },
+  {
+   "begin": "319.680",
+   "children": [],
+   "end": "324.600",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Then the priest shall go out of the house to the door of the house, and shut up the house seven days:"
+   ]
+  },
+  {
+   "begin": "324.600",
+   "children": [],
+   "end": "330.520",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And the priest shall come again the seventh day, and shall look: and, behold, if the plague be spread in the walls of the house;"
+   ]
+  },
+  {
+   "begin": "330.520",
+   "children": [],
+   "end": "338.440",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Then the priest shall command that they take away the stones in which the plague is, and they shall cast them into an unclean place without the city:"
+   ]
+  },
+  {
+   "begin": "338.440",
+   "children": [],
+   "end": "346.840",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:"
+   ]
+  },
+  {
+   "begin": "346.840",
+   "children": [],
+   "end": "354.240",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "And they shall take other stones, and put them in the place of those stones; and he shall take other mortar, and shall plaster the house."
+   ]
+  },
+  {
+   "begin": "354.240",
+   "children": [],
+   "end": "362.440",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plastered;"
+   ]
+  },
+  {
+   "begin": "362.440",
+   "children": [],
+   "end": "371.120",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "Then the priest shall come and look, and, behold, if the plague be spread in the house, it is a fretting leprosy in the house; it is unclean."
+   ]
+  },
+  {
+   "begin": "371.120",
+   "children": [],
+   "end": "380.520",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And he shall break down the house, the stones of it, and the timber thereof, and all the mortar of the house; and he shall carry them forth out of the city into an unclean place."
+   ]
+  },
+  {
+   "begin": "380.520",
+   "children": [],
+   "end": "386.600",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "Moreover he that goeth into the house all the while that it is shut up shall be unclean until the even."
+   ]
+  },
+  {
+   "begin": "386.600",
+   "children": [],
+   "end": "392.520",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And he that lieth in the house shall wash his clothes; and he that eateth in the house shall wash his clothes."
+   ]
+  },
+  {
+   "begin": "392.520",
+   "children": [],
+   "end": "402.600",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "And if the priest shall come in, and look upon it, and, behold, the plague hath not spread in the house, after the house was plastered: then the priest shall pronounce the house clean, because the plague is healed."
+   ]
+  },
+  {
+   "begin": "402.600",
+   "children": [],
+   "end": "407.800",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:"
+   ]
+  },
+  {
+   "begin": "407.800",
+   "children": [],
+   "end": "411.920",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "And he shall kill the one of the birds in an earthen vessel over running water:"
+   ]
+  },
+  {
+   "begin": "411.920",
+   "children": [],
+   "end": "422.960",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:"
+   ]
+  },
+  {
+   "begin": "422.960",
+   "children": [],
+   "end": "431.520",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "And he shall cleanse the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the scarlet:"
+   ]
+  },
+  {
+   "begin": "431.520",
+   "children": [],
+   "end": "440.080",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "But he shall let go the living bird out of the city into the open fields, and make an atonement for the house: and it shall be clean."
+   ]
+  },
+  {
+   "begin": "440.080",
+   "children": [],
+   "end": "444.720",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "This is the law for all manner of plague of leprosy, and scall,"
+   ]
+  },
+  {
+   "begin": "444.720",
+   "children": [],
+   "end": "447.800",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "And for the leprosy of a garment, and of a house,"
+   ]
+  },
+  {
+   "begin": "447.800",
+   "children": [],
+   "end": "451.400",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "And for a rising, and for a scab, and for a bright spot:"
+   ]
+  },
+  {
+   "begin": "451.400",
+   "children": [],
+   "end": "460.320",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "To teach when it is unclean, and when it is clean: this is the law of leprosy."
+   ]
+  }
+ ]
+}

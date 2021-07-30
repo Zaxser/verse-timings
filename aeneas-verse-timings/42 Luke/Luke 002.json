@@ -1,0 +1,534 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.480",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter two"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "9.200",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And it came to pass in those days, that there went out a decree from Caesar Augustus that all the world should be taxed."
+   ]
+  },
+  {
+   "begin": "9.200",
+   "children": [],
+   "end": "14.120",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "(And this taxing was first made when Cyrenius was governor of Syria.)"
+   ]
+  },
+  {
+   "begin": "14.120",
+   "children": [],
+   "end": "17.480",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And all went to be taxed, every one into his own city."
+   ]
+  },
+  {
+   "begin": "17.480",
+   "children": [],
+   "end": "27.640",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)"
+   ]
+  },
+  {
+   "begin": "27.640",
+   "children": [],
+   "end": "32.200",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "To be taxed with Mary his espoused wife, being great with child."
+   ]
+  },
+  {
+   "begin": "32.200",
+   "children": [],
+   "end": "37.960",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And so it was, that, while they were there, the days were accomplished that she should be delivered."
+   ]
+  },
+  {
+   "begin": "37.960",
+   "children": [],
+   "end": "47.960",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn."
+   ]
+  },
+  {
+   "begin": "47.960",
+   "children": [],
+   "end": "54.080",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And there were in the same country shepherds abiding in the field, keeping watch over their flock by night."
+   ]
+  },
+  {
+   "begin": "54.080",
+   "children": [],
+   "end": "61.480",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid."
+   ]
+  },
+  {
+   "begin": "61.480",
+   "children": [],
+   "end": "69.240",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people."
+   ]
+  },
+  {
+   "begin": "69.240",
+   "children": [],
+   "end": "75.240",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "For unto you is born this day in the city of David a Saviour, which is Christ the Lord."
+   ]
+  },
+  {
+   "begin": "75.240",
+   "children": [],
+   "end": "82.920",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger."
+   ]
+  },
+  {
+   "begin": "82.920",
+   "children": [],
+   "end": "87.640",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,"
+   ]
+  },
+  {
+   "begin": "87.640",
+   "children": [],
+   "end": "95.040",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Glory to God in the highest, and on earth peace, good will toward men."
+   ]
+  },
+  {
+   "begin": "95.040",
+   "children": [],
+   "end": "107.240",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us."
+   ]
+  },
+  {
+   "begin": "107.240",
+   "children": [],
+   "end": "113.960",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And they came with haste, and found Mary, and Joseph, and the babe lying in a manger."
+   ]
+  },
+  {
+   "begin": "113.960",
+   "children": [],
+   "end": "119.200",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And when they had seen it, they made known abroad the saying which was told them concerning this child."
+   ]
+  },
+  {
+   "begin": "119.200",
+   "children": [],
+   "end": "124.400",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And all they that heard it wondered at those things which were told them by the shepherds."
+   ]
+  },
+  {
+   "begin": "124.400",
+   "children": [],
+   "end": "130.440",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "But Mary kept all these things, and pondered them in her heart."
+   ]
+  },
+  {
+   "begin": "130.440",
+   "children": [],
+   "end": "138.920",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them."
+   ]
+  },
+  {
+   "begin": "138.920",
+   "children": [],
+   "end": "148.280",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb."
+   ]
+  },
+  {
+   "begin": "148.280",
+   "children": [],
+   "end": "154.560",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;"
+   ]
+  },
+  {
+   "begin": "154.560",
+   "children": [],
+   "end": "160.800",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "(As it is written in the law of the LORD, Every male that openeth the womb shall be called holy to the Lord;)"
+   ]
+  },
+  {
+   "begin": "160.800",
+   "children": [],
+   "end": "169.120",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons."
+   ]
+  },
+  {
+   "begin": "169.120",
+   "children": [],
+   "end": "180.520",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him."
+   ]
+  },
+  {
+   "begin": "180.520",
+   "children": [],
+   "end": "188.120",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord's Christ."
+   ]
+  },
+  {
+   "begin": "188.120",
+   "children": [],
+   "end": "196.560",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,"
+   ]
+  },
+  {
+   "begin": "196.560",
+   "children": [],
+   "end": "202.320",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Then took he him up in his arms, and blessed God, and said,"
+   ]
+  },
+  {
+   "begin": "202.320",
+   "children": [],
+   "end": "209.080",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Lord, now lettest thou thy servant depart in peace, according to thy word:"
+   ]
+  },
+  {
+   "begin": "209.080",
+   "children": [],
+   "end": "211.840",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "For mine eyes have seen thy salvation,"
+   ]
+  },
+  {
+   "begin": "211.840",
+   "children": [],
+   "end": "215.880",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Which thou hast prepared before the face of all people;"
+   ]
+  },
+  {
+   "begin": "215.880",
+   "children": [],
+   "end": "222.480",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "A light to lighten the Gentiles, and the glory of thy people Israel."
+   ]
+  },
+  {
+   "begin": "222.480",
+   "children": [],
+   "end": "228.040",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And Joseph and his mother marvelled at those things which were spoken of him."
+   ]
+  },
+  {
+   "begin": "228.040",
+   "children": [],
+   "end": "239.800",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;"
+   ]
+  },
+  {
+   "begin": "239.800",
+   "children": [],
+   "end": "249.560",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed."
+   ]
+  },
+  {
+   "begin": "249.560",
+   "children": [],
+   "end": "258.560",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;"
+   ]
+  },
+  {
+   "begin": "258.560",
+   "children": [],
+   "end": "267.400",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day."
+   ]
+  },
+  {
+   "begin": "267.400",
+   "children": [],
+   "end": "275.560",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem."
+   ]
+  },
+  {
+   "begin": "275.560",
+   "children": [],
+   "end": "281.840",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth."
+   ]
+  },
+  {
+   "begin": "281.840",
+   "children": [],
+   "end": "290.240",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him."
+   ]
+  },
+  {
+   "begin": "290.240",
+   "children": [],
+   "end": "294.040",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Now his parents went to Jerusalem every year at the feast of the passover."
+   ]
+  },
+  {
+   "begin": "294.040",
+   "children": [],
+   "end": "299.000",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "And when he was twelve years old, they went up to Jerusalem after the custom of the feast."
+   ]
+  },
+  {
+   "begin": "299.000",
+   "children": [],
+   "end": "306.600",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it."
+   ]
+  },
+  {
+   "begin": "306.600",
+   "children": [],
+   "end": "313.680",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "But they, supposing him to have been in the company, went a day's journey; and they sought him among their kinsfolk and acquaintance."
+   ]
+  },
+  {
+   "begin": "313.680",
+   "children": [],
+   "end": "317.680",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And when they found him not, they turned back again to Jerusalem, seeking him."
+   ]
+  },
+  {
+   "begin": "317.680",
+   "children": [],
+   "end": "326.760",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions."
+   ]
+  },
+  {
+   "begin": "326.760",
+   "children": [],
+   "end": "331.400",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And all that heard him were astonished at his understanding and answers."
+   ]
+  },
+  {
+   "begin": "331.400",
+   "children": [],
+   "end": "342.080",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing."
+   ]
+  },
+  {
+   "begin": "342.080",
+   "children": [],
+   "end": "349.280",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business?"
+   ]
+  },
+  {
+   "begin": "349.280",
+   "children": [],
+   "end": "353.640",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "And they understood not the saying which he spake unto them."
+   ]
+  },
+  {
+   "begin": "353.640",
+   "children": [],
+   "end": "362.640",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart."
+   ]
+  },
+  {
+   "begin": "362.640",
+   "children": [],
+   "end": "368.440",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "And Jesus increased in wisdom and stature, and in favour with God and man."
+   ]
+  }
+ ]
+}

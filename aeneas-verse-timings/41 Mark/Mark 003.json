@@ -1,0 +1,364 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.800",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter three"
+   ]
+  },
+  {
+   "begin": "1.800",
+   "children": [],
+   "end": "7.400",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And he entered again into the synagogue; and there was a man there which had a withered hand."
+   ]
+  },
+  {
+   "begin": "7.400",
+   "children": [],
+   "end": "12.720",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And they watched him, whether he would heal him on the sabbath day; that they might accuse him."
+   ]
+  },
+  {
+   "begin": "12.720",
+   "children": [],
+   "end": "16.960",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And he saith unto the man which had the withered hand, Stand forth."
+   ]
+  },
+  {
+   "begin": "16.960",
+   "children": [],
+   "end": "27.480",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace."
+   ]
+  },
+  {
+   "begin": "27.480",
+   "children": [],
+   "end": "42.000",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other."
+   ]
+  },
+  {
+   "begin": "42.000",
+   "children": [],
+   "end": "48.560",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him."
+   ]
+  },
+  {
+   "begin": "48.560",
+   "children": [],
+   "end": "54.800",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,"
+   ]
+  },
+  {
+   "begin": "54.800",
+   "children": [],
+   "end": "65.680",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him."
+   ]
+  },
+  {
+   "begin": "65.680",
+   "children": [],
+   "end": "71.720",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him."
+   ]
+  },
+  {
+   "begin": "71.720",
+   "children": [],
+   "end": "76.800",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues."
+   ]
+  },
+  {
+   "begin": "76.800",
+   "children": [],
+   "end": "83.480",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God."
+   ]
+  },
+  {
+   "begin": "83.480",
+   "children": [],
+   "end": "87.920",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And he straitly charged them that they should not make him known."
+   ]
+  },
+  {
+   "begin": "87.920",
+   "children": [],
+   "end": "93.520",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him."
+   ]
+  },
+  {
+   "begin": "93.520",
+   "children": [],
+   "end": "98.160",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And he ordained twelve, that they should be with him, and that he might send them forth to preach,"
+   ]
+  },
+  {
+   "begin": "98.160",
+   "children": [],
+   "end": "101.960",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And to have power to heal sicknesses, and to cast out devils:"
+   ]
+  },
+  {
+   "begin": "101.960",
+   "children": [],
+   "end": "104.560",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And Simon he surnamed Peter;"
+   ]
+  },
+  {
+   "begin": "104.560",
+   "children": [],
+   "end": "112.680",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:"
+   ]
+  },
+  {
+   "begin": "112.680",
+   "children": [],
+   "end": "123.080",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Canaanite,"
+   ]
+  },
+  {
+   "begin": "123.080",
+   "children": [],
+   "end": "128.240",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And Judas Iscariot, which also betrayed him: and they went into an house."
+   ]
+  },
+  {
+   "begin": "128.240",
+   "children": [],
+   "end": "132.960",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And the multitude cometh together again, so that they could not so much as eat bread."
+   ]
+  },
+  {
+   "begin": "132.960",
+   "children": [],
+   "end": "139.400",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And when his friends heard of it, they went out to lay hold on him: for they said, He is beside himself."
+   ]
+  },
+  {
+   "begin": "139.400",
+   "children": [],
+   "end": "147.760",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils."
+   ]
+  },
+  {
+   "begin": "147.760",
+   "children": [],
+   "end": "154.200",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And he called them unto him, and said unto them in parables, How can Satan cast out Satan?"
+   ]
+  },
+  {
+   "begin": "154.200",
+   "children": [],
+   "end": "159.400",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And if a kingdom be divided against itself, that kingdom cannot stand."
+   ]
+  },
+  {
+   "begin": "159.400",
+   "children": [],
+   "end": "163.480",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And if a house be divided against itself, that house cannot stand."
+   ]
+  },
+  {
+   "begin": "163.480",
+   "children": [],
+   "end": "169.240",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end."
+   ]
+  },
+  {
+   "begin": "169.240",
+   "children": [],
+   "end": "177.600",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "No man can enter into a strong man's house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house."
+   ]
+  },
+  {
+   "begin": "177.600",
+   "children": [],
+   "end": "184.600",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:"
+   ]
+  },
+  {
+   "begin": "184.600",
+   "children": [],
+   "end": "190.960",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation."
+   ]
+  },
+  {
+   "begin": "190.960",
+   "children": [],
+   "end": "195.200",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Because they said, He hath an unclean spirit."
+   ]
+  },
+  {
+   "begin": "195.200",
+   "children": [],
+   "end": "201.120",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "There came then his brethren and his mother, and, standing without, sent unto him, calling him."
+   ]
+  },
+  {
+   "begin": "201.120",
+   "children": [],
+   "end": "207.360",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee."
+   ]
+  },
+  {
+   "begin": "207.360",
+   "children": [],
+   "end": "212.640",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And he answered them, saying, Who is my mother, or my brethren?"
+   ]
+  },
+  {
+   "begin": "212.640",
+   "children": [],
+   "end": "218.800",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "And he looked round about on them which sat about him, and said, Behold my mother and my brethren!"
+   ]
+  },
+  {
+   "begin": "218.800",
+   "children": [],
+   "end": "225.160",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "For whosoever shall do the will of God, the same is my brother, and my sister, and mother."
+   ]
+  }
+ ]
+}

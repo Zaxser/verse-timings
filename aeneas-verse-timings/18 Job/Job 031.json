@@ -1,0 +1,414 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.120",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter thirty-one"
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "6.080",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "I made a covenant with mine eyes; why then should I think upon a maid?"
+   ]
+  },
+  {
+   "begin": "6.080",
+   "children": [],
+   "end": "10.680",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "For what portion of God is there from above? and what inheritance of the Almighty from on high?"
+   ]
+  },
+  {
+   "begin": "10.680",
+   "children": [],
+   "end": "15.920",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Is not destruction to the wicked? and a strange punishment to the workers of iniquity?"
+   ]
+  },
+  {
+   "begin": "15.920",
+   "children": [],
+   "end": "19.880",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Doth not he see my ways, and count all my steps?"
+   ]
+  },
+  {
+   "begin": "19.880",
+   "children": [],
+   "end": "24.040",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "If I have walked with vanity, or if my foot hath hasted to deceit;"
+   ]
+  },
+  {
+   "begin": "24.040",
+   "children": [],
+   "end": "28.720",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Let me be weighed in an even balance that God may know mine integrity."
+   ]
+  },
+  {
+   "begin": "28.720",
+   "children": [],
+   "end": "34.880",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;"
+   ]
+  },
+  {
+   "begin": "34.880",
+   "children": [],
+   "end": "40.160",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Then let me sow, and let another eat; yea, let my offspring be rooted out."
+   ]
+  },
+  {
+   "begin": "40.160",
+   "children": [],
+   "end": "44.400",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "If mine heart have been deceived by a woman, or if I have laid wait at my neighbour's door;"
+   ]
+  },
+  {
+   "begin": "44.400",
+   "children": [],
+   "end": "49.880",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Then let my wife grind unto another, and let others bow down upon her."
+   ]
+  },
+  {
+   "begin": "49.880",
+   "children": [],
+   "end": "55.800",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "For this is an heinous crime; yea, it is an iniquity to be punished by the judges."
+   ]
+  },
+  {
+   "begin": "55.800",
+   "children": [],
+   "end": "61.120",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "For it is a fire that consumeth to destruction, and would root out all mine increase."
+   ]
+  },
+  {
+   "begin": "61.120",
+   "children": [],
+   "end": "66.720",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "If I did despise the cause of my manservant or of my maidservant, when they contended with me;"
+   ]
+  },
+  {
+   "begin": "66.720",
+   "children": [],
+   "end": "72.880",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "What then shall I do when God riseth up? and when he visiteth, what shall I answer him?"
+   ]
+  },
+  {
+   "begin": "72.880",
+   "children": [],
+   "end": "78.440",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Did not he that made me in the womb make him? and did not one fashion us in the womb?"
+   ]
+  },
+  {
+   "begin": "78.440",
+   "children": [],
+   "end": "82.600",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "If I have withheld the poor from their desire, or have caused the eyes of the widow to fail;"
+   ]
+  },
+  {
+   "begin": "82.600",
+   "children": [],
+   "end": "86.880",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;"
+   ]
+  },
+  {
+   "begin": "86.880",
+   "children": [],
+   "end": "92.120",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "(For from my youth he was brought up with me, as with a father, and I have guided her from my mother's womb;)"
+   ]
+  },
+  {
+   "begin": "92.120",
+   "children": [],
+   "end": "96.680",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "If I have seen any perish for want of clothing, or any poor without covering;"
+   ]
+  },
+  {
+   "begin": "96.680",
+   "children": [],
+   "end": "101.640",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "If his loins have not blessed me, and if he were not warmed with the fleece of my sheep;"
+   ]
+  },
+  {
+   "begin": "101.640",
+   "children": [],
+   "end": "105.640",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "If I have lifted up my hand against the fatherless, when I saw my help in the gate:"
+   ]
+  },
+  {
+   "begin": "105.640",
+   "children": [],
+   "end": "111.760",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone."
+   ]
+  },
+  {
+   "begin": "111.760",
+   "children": [],
+   "end": "116.880",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "For destruction from God was a terror to me, and by reason of his highness I could not endure."
+   ]
+  },
+  {
+   "begin": "116.880",
+   "children": [],
+   "end": "123.320",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "If I have made gold my hope, or have said to the fine gold, Thou art my confidence;"
+   ]
+  },
+  {
+   "begin": "123.320",
+   "children": [],
+   "end": "127.440",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "If I rejoice because my wealth was great, and because mine hand had gotten much;"
+   ]
+  },
+  {
+   "begin": "127.440",
+   "children": [],
+   "end": "130.960",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "If I beheld the sun when it shined, or the moon walking in brightness;"
+   ]
+  },
+  {
+   "begin": "130.960",
+   "children": [],
+   "end": "134.960",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And my heart hath been secretly enticed, or my mouth hath kissed my hand:"
+   ]
+  },
+  {
+   "begin": "134.960",
+   "children": [],
+   "end": "141.080",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "This also were an iniquity to be punished by the judge: for I should have denied the God that is above."
+   ]
+  },
+  {
+   "begin": "141.080",
+   "children": [],
+   "end": "146.880",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "If I rejoice at the destruction of him that hated me, or lifted up myself when evil found him:"
+   ]
+  },
+  {
+   "begin": "146.880",
+   "children": [],
+   "end": "151.400",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Neither have I suffered my mouth to sin by wishing a curse to his soul."
+   ]
+  },
+  {
+   "begin": "151.400",
+   "children": [],
+   "end": "157.280",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied."
+   ]
+  },
+  {
+   "begin": "157.280",
+   "children": [],
+   "end": "161.760",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "The stranger did not lodge in the street: but I opened my doors to the traveller."
+   ]
+  },
+  {
+   "begin": "161.760",
+   "children": [],
+   "end": "165.880",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:"
+   ]
+  },
+  {
+   "begin": "165.880",
+   "children": [],
+   "end": "173.240",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?"
+   ]
+  },
+  {
+   "begin": "173.240",
+   "children": [],
+   "end": "182.360",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book."
+   ]
+  },
+  {
+   "begin": "182.360",
+   "children": [],
+   "end": "185.960",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Surely I would take it upon my shoulder, and bind it as a crown to me."
+   ]
+  },
+  {
+   "begin": "185.960",
+   "children": [],
+   "end": "191.000",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "I would declare unto him the number of my steps; as a prince would I go near unto him."
+   ]
+  },
+  {
+   "begin": "191.000",
+   "children": [],
+   "end": "196.320",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "If my land cry against me, or that the furrows likewise thereof complain;"
+   ]
+  },
+  {
+   "begin": "196.320",
+   "children": [],
+   "end": "201.280",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:"
+   ]
+  },
+  {
+   "begin": "201.280",
+   "children": [],
+   "end": "212.760",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended."
+   ]
+  }
+ ]
+}

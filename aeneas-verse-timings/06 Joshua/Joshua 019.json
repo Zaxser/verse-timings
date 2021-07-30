@@ -1,0 +1,524 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.760",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter nineteen"
+   ]
+  },
+  {
+   "begin": "2.760",
+   "children": [],
+   "end": "11.880",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And the second lot came forth to Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah."
+   ]
+  },
+  {
+   "begin": "11.880",
+   "children": [],
+   "end": "16.640",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And they had in their inheritance Beersheba, and Sheba, and Moladah,"
+   ]
+  },
+  {
+   "begin": "16.640",
+   "children": [],
+   "end": "19.400",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And Hazarshual, and Balah, and Azem,"
+   ]
+  },
+  {
+   "begin": "19.400",
+   "children": [],
+   "end": "22.280",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And Eltolad, and Bethul, and Hormah,"
+   ]
+  },
+  {
+   "begin": "22.280",
+   "children": [],
+   "end": "25.920",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And Ziklag, and Bethmarcaboth, and Hazarsusah,"
+   ]
+  },
+  {
+   "begin": "25.920",
+   "children": [],
+   "end": "29.840",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And Bethlebaoth, and Sharuhen; thirteen cities and their villages:"
+   ]
+  },
+  {
+   "begin": "29.840",
+   "children": [],
+   "end": "34.640",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Ain, Remmon, and Ether, and Ashan; four cities and their villages:"
+   ]
+  },
+  {
+   "begin": "34.640",
+   "children": [],
+   "end": "44.680",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And all the villages that were round about these cities to Baalathbeer, Ramath of the south. This is the inheritance of the tribe of the children of Simeon according to their families."
+   ]
+  },
+  {
+   "begin": "44.680",
+   "children": [],
+   "end": "56.240",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Out of the portion of the children of Judah was the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them."
+   ]
+  },
+  {
+   "begin": "56.240",
+   "children": [],
+   "end": "63.560",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:"
+   ]
+  },
+  {
+   "begin": "63.560",
+   "children": [],
+   "end": "70.920",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that is before Jokneam;"
+   ]
+  },
+  {
+   "begin": "70.920",
+   "children": [],
+   "end": "79.560",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And turned from Sarid eastward toward the sunrising unto the border of Chislothtabor, and then goeth out to Daberath, and goeth up to Japhia,"
+   ]
+  },
+  {
+   "begin": "79.560",
+   "children": [],
+   "end": "88.360",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And from thence passeth on along on the east to Gittahhepher, to Ittahkazin, and goeth out to Remmonmethoar to Neah;"
+   ]
+  },
+  {
+   "begin": "88.360",
+   "children": [],
+   "end": "96.080",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthahel:"
+   ]
+  },
+  {
+   "begin": "96.080",
+   "children": [],
+   "end": "102.280",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages."
+   ]
+  },
+  {
+   "begin": "102.280",
+   "children": [],
+   "end": "109.960",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "This is the inheritance of the children of Zebulun according to their families, these cities with their villages."
+   ]
+  },
+  {
+   "begin": "109.960",
+   "children": [],
+   "end": "114.600",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And the fourth lot came out to Issachar, for the children of Issachar according to their families."
+   ]
+  },
+  {
+   "begin": "114.600",
+   "children": [],
+   "end": "118.960",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And their border was toward Jezreel, and Chesulloth, and Shunem,"
+   ]
+  },
+  {
+   "begin": "118.960",
+   "children": [],
+   "end": "121.840",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And Haphraim, and Shihon, and Anaharath,"
+   ]
+  },
+  {
+   "begin": "121.840",
+   "children": [],
+   "end": "124.200",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And Rabbith, and Kishion, and Abez,"
+   ]
+  },
+  {
+   "begin": "124.200",
+   "children": [],
+   "end": "127.920",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And Remeth, and Engannim, and Enhaddah, and Bethpazzez;"
+   ]
+  },
+  {
+   "begin": "127.920",
+   "children": [],
+   "end": "136.720",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And the coast reacheth to Tabor, and Shahazimah, and Bethshemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages."
+   ]
+  },
+  {
+   "begin": "136.720",
+   "children": [],
+   "end": "143.520",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "This is the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages."
+   ]
+  },
+  {
+   "begin": "143.520",
+   "children": [],
+   "end": "147.280",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And the fifth lot came out for the tribe of the children of Asher according to their families."
+   ]
+  },
+  {
+   "begin": "147.280",
+   "children": [],
+   "end": "151.360",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And their border was Helkath, and Hali, and Beten, and Achshaph,"
+   ]
+  },
+  {
+   "begin": "151.360",
+   "children": [],
+   "end": "158.040",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath;"
+   ]
+  },
+  {
+   "begin": "158.040",
+   "children": [],
+   "end": "170.720",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to the valley of Jiphthahel toward the north side of Bethemek, and Neiel, and goeth out to Cabul on the left hand,"
+   ]
+  },
+  {
+   "begin": "170.720",
+   "children": [],
+   "end": "175.680",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And Hebron, and Rehob, and Hammon, and Kanah, even unto great Zidon;"
+   ]
+  },
+  {
+   "begin": "175.680",
+   "children": [],
+   "end": "186.480",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And then the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:"
+   ]
+  },
+  {
+   "begin": "186.480",
+   "children": [],
+   "end": "191.400",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Ummah also, and Aphek, and Rehob: twenty and two cities with their villages."
+   ]
+  },
+  {
+   "begin": "191.400",
+   "children": [],
+   "end": "199.040",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "This is the inheritance of the tribe of the children of Asher according to their families, these cities with their villages."
+   ]
+  },
+  {
+   "begin": "199.040",
+   "children": [],
+   "end": "204.800",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "The sixth lot came out to the children of Naphtali, even for the children of Naphtali according to their families."
+   ]
+  },
+  {
+   "begin": "204.800",
+   "children": [],
+   "end": "214.480",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:"
+   ]
+  },
+  {
+   "begin": "214.480",
+   "children": [],
+   "end": "228.040",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "And then the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising."
+   ]
+  },
+  {
+   "begin": "228.040",
+   "children": [],
+   "end": "232.960",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,"
+   ]
+  },
+  {
+   "begin": "232.960",
+   "children": [],
+   "end": "235.320",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And Adamah, and Ramah, and Hazor,"
+   ]
+  },
+  {
+   "begin": "235.320",
+   "children": [],
+   "end": "238.520",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And Kedesh, and Edrei, and Enhazor,"
+   ]
+  },
+  {
+   "begin": "238.520",
+   "children": [],
+   "end": "245.880",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages."
+   ]
+  },
+  {
+   "begin": "245.880",
+   "children": [],
+   "end": "252.440",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "This is the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages."
+   ]
+  },
+  {
+   "begin": "252.440",
+   "children": [],
+   "end": "256.040",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And the seventh lot came out for the tribe of the children of Dan according to their families."
+   ]
+  },
+  {
+   "begin": "256.040",
+   "children": [],
+   "end": "260.920",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And the coast of their inheritance was Zorah, and Eshtaol, and Irshemesh,"
+   ]
+  },
+  {
+   "begin": "260.920",
+   "children": [],
+   "end": "263.440",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "And Shaalabbin, and Ajalon, and Jethlah,"
+   ]
+  },
+  {
+   "begin": "263.440",
+   "children": [],
+   "end": "266.040",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And Elon, and Thimnathah, and Ekron,"
+   ]
+  },
+  {
+   "begin": "266.040",
+   "children": [],
+   "end": "268.480",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And Eltekeh, and Gibbethon, and Baalath,"
+   ]
+  },
+  {
+   "begin": "268.480",
+   "children": [],
+   "end": "271.280",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And Jehud, and Beneberak, and Gathrimmon,"
+   ]
+  },
+  {
+   "begin": "271.280",
+   "children": [],
+   "end": "275.480",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And Mejarkon, and Rakkon, with the border before Japho."
+   ]
+  },
+  {
+   "begin": "275.480",
+   "children": [],
+   "end": "289.680",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "And the coast of the children of Dan went out too little for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father."
+   ]
+  },
+  {
+   "begin": "289.680",
+   "children": [],
+   "end": "296.480",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "This is the inheritance of the tribe of the children of Dan according to their families, these cities with their villages."
+   ]
+  },
+  {
+   "begin": "296.480",
+   "children": [],
+   "end": "304.440",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:"
+   ]
+  },
+  {
+   "begin": "304.440",
+   "children": [],
+   "end": "314.080",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "According to the word of the LORD they gave him the city which he asked, even Timnathserah in mount Ephraim: and he built the city, and dwelt therein."
+   ]
+  },
+  {
+   "begin": "314.080",
+   "children": [],
+   "end": "332.080",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country."
+   ]
+  }
+ ]
+}

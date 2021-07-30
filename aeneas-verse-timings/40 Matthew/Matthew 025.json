@@ -1,0 +1,474 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.600",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-five"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "9.080",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
+   ]
+  },
+  {
+   "begin": "9.080",
+   "children": [],
+   "end": "12.600",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And five of them were wise, and five were foolish."
+   ]
+  },
+  {
+   "begin": "12.600",
+   "children": [],
+   "end": "15.800",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "They that were foolish took their lamps, and took no oil with them:"
+   ]
+  },
+  {
+   "begin": "15.800",
+   "children": [],
+   "end": "19.440",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "But the wise took oil in their vessels with their lamps."
+   ]
+  },
+  {
+   "begin": "19.440",
+   "children": [],
+   "end": "23.720",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "While the bridegroom tarried, they all slumbered and slept."
+   ]
+  },
+  {
+   "begin": "23.720",
+   "children": [],
+   "end": "29.920",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
+   ]
+  },
+  {
+   "begin": "29.920",
+   "children": [],
+   "end": "32.800",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Then all those virgins arose, and trimmed their lamps."
+   ]
+  },
+  {
+   "begin": "32.800",
+   "children": [],
+   "end": "37.840",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
+   ]
+  },
+  {
+   "begin": "37.840",
+   "children": [],
+   "end": "46.440",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
+   ]
+  },
+  {
+   "begin": "46.440",
+   "children": [],
+   "end": "53.160",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
+   ]
+  },
+  {
+   "begin": "53.160",
+   "children": [],
+   "end": "57.200",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "Afterward came also the other virgins, saying, Lord, Lord, open to us."
+   ]
+  },
+  {
+   "begin": "57.200",
+   "children": [],
+   "end": "63.400",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "But he answered and said, Verily I say unto you, I know you not."
+   ]
+  },
+  {
+   "begin": "63.400",
+   "children": [],
+   "end": "71.760",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
+   ]
+  },
+  {
+   "begin": "71.760",
+   "children": [],
+   "end": "78.960",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods."
+   ]
+  },
+  {
+   "begin": "78.960",
+   "children": [],
+   "end": "88.160",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
+   ]
+  },
+  {
+   "begin": "88.160",
+   "children": [],
+   "end": "94.600",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Then he that had received the five talents went and traded with the same, and made them other five talents."
+   ]
+  },
+  {
+   "begin": "94.600",
+   "children": [],
+   "end": "98.800",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And likewise he that had received two, he also gained other two."
+   ]
+  },
+  {
+   "begin": "98.800",
+   "children": [],
+   "end": "106.280",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "But he that had received one went and digged in the earth, and hid his lord's money."
+   ]
+  },
+  {
+   "begin": "106.280",
+   "children": [],
+   "end": "110.120",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "After a long time the lord of those servants cometh, and reckoneth with them."
+   ]
+  },
+  {
+   "begin": "110.120",
+   "children": [],
+   "end": "120.040",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
+   ]
+  },
+  {
+   "begin": "120.040",
+   "children": [],
+   "end": "131.120",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+   ]
+  },
+  {
+   "begin": "131.120",
+   "children": [],
+   "end": "138.560",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them."
+   ]
+  },
+  {
+   "begin": "138.560",
+   "children": [],
+   "end": "148.480",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+   ]
+  },
+  {
+   "begin": "148.480",
+   "children": [],
+   "end": "163.080",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:"
+   ]
+  },
+  {
+   "begin": "163.080",
+   "children": [],
+   "end": "170.880",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine."
+   ]
+  },
+  {
+   "begin": "170.880",
+   "children": [],
+   "end": "182.560",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
+   ]
+  },
+  {
+   "begin": "182.560",
+   "children": [],
+   "end": "188.760",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury."
+   ]
+  },
+  {
+   "begin": "188.760",
+   "children": [],
+   "end": "195.000",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Take therefore the talent from him, and give it unto him which hath ten talents."
+   ]
+  },
+  {
+   "begin": "195.000",
+   "children": [],
+   "end": "204.280",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath."
+   ]
+  },
+  {
+   "begin": "204.280",
+   "children": [],
+   "end": "213.520",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
+   ]
+  },
+  {
+   "begin": "213.520",
+   "children": [],
+   "end": "220.200",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
+   ]
+  },
+  {
+   "begin": "220.200",
+   "children": [],
+   "end": "228.640",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:"
+   ]
+  },
+  {
+   "begin": "228.640",
+   "children": [],
+   "end": "233.080",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And he shall set the sheep on his right hand, but the goats on the left."
+   ]
+  },
+  {
+   "begin": "233.080",
+   "children": [],
+   "end": "241.680",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:"
+   ]
+  },
+  {
+   "begin": "241.680",
+   "children": [],
+   "end": "250.960",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
+   ]
+  },
+  {
+   "begin": "250.960",
+   "children": [],
+   "end": "259.360",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
+   ]
+  },
+  {
+   "begin": "259.360",
+   "children": [],
+   "end": "267.440",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?"
+   ]
+  },
+  {
+   "begin": "267.440",
+   "children": [],
+   "end": "271.920",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "When saw we thee a stranger, and took thee in? or naked, and clothed thee?"
+   ]
+  },
+  {
+   "begin": "271.920",
+   "children": [],
+   "end": "276.200",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Or when saw we thee sick, or in prison, and came unto thee?"
+   ]
+  },
+  {
+   "begin": "276.200",
+   "children": [],
+   "end": "288.200",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+   ]
+  },
+  {
+   "begin": "288.200",
+   "children": [],
+   "end": "296.800",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
+   ]
+  },
+  {
+   "begin": "296.800",
+   "children": [],
+   "end": "301.960",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
+   ]
+  },
+  {
+   "begin": "301.960",
+   "children": [],
+   "end": "308.240",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
+   ]
+  },
+  {
+   "begin": "308.240",
+   "children": [],
+   "end": "318.640",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+   ]
+  },
+  {
+   "begin": "318.640",
+   "children": [],
+   "end": "329.400",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
+   ]
+  },
+  {
+   "begin": "329.400",
+   "children": [],
+   "end": "337.320",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And these shall go away into everlasting punishment: but the righteous into life eternal."
+   ]
+  }
+ ]
+}

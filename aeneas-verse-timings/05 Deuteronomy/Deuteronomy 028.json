@@ -1,0 +1,694 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.360",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-eight"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "14.080",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:"
+   ]
+  },
+  {
+   "begin": "14.080",
+   "children": [],
+   "end": "21.160",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And all these blessings shall come on thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God."
+   ]
+  },
+  {
+   "begin": "21.160",
+   "children": [],
+   "end": "26.080",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Blessed shalt thou be in the city, and blessed shalt thou be in the field."
+   ]
+  },
+  {
+   "begin": "26.080",
+   "children": [],
+   "end": "34.720",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep."
+   ]
+  },
+  {
+   "begin": "34.720",
+   "children": [],
+   "end": "37.640",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Blessed shall be thy basket and thy store."
+   ]
+  },
+  {
+   "begin": "37.640",
+   "children": [],
+   "end": "43.320",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out."
+   ]
+  },
+  {
+   "begin": "43.320",
+   "children": [],
+   "end": "52.880",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "The LORD shall cause thine enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways."
+   ]
+  },
+  {
+   "begin": "52.880",
+   "children": [],
+   "end": "62.000",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "The LORD shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto; and he shall bless thee in the land which the LORD thy God giveth thee."
+   ]
+  },
+  {
+   "begin": "62.000",
+   "children": [],
+   "end": "71.440",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "The LORD shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways."
+   ]
+  },
+  {
+   "begin": "71.440",
+   "children": [],
+   "end": "77.240",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And all people of the earth shall see that thou art called by the name of the LORD; and they shall be afraid of thee."
+   ]
+  },
+  {
+   "begin": "77.240",
+   "children": [],
+   "end": "88.560",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And the LORD shall make thee plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the LORD sware unto thy fathers to give thee."
+   ]
+  },
+  {
+   "begin": "88.560",
+   "children": [],
+   "end": "101.560",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow."
+   ]
+  },
+  {
+   "begin": "101.560",
+   "children": [],
+   "end": "115.880",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do them:"
+   ]
+  },
+  {
+   "begin": "115.880",
+   "children": [],
+   "end": "125.080",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And thou shalt not go aside from any of the words which I command thee this day, to the right hand, or to the left, to go after other gods to serve them."
+   ]
+  },
+  {
+   "begin": "125.080",
+   "children": [],
+   "end": "135.920",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:"
+   ]
+  },
+  {
+   "begin": "135.920",
+   "children": [],
+   "end": "141.640",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Cursed shalt thou be in the city, and cursed shalt thou be in the field."
+   ]
+  },
+  {
+   "begin": "141.640",
+   "children": [],
+   "end": "144.040",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Cursed shall be thy basket and thy store."
+   ]
+  },
+  {
+   "begin": "144.040",
+   "children": [],
+   "end": "150.920",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "Cursed shall be the fruit of thy body, and the fruit of thy land, the increase of thy kine, and the flocks of thy sheep."
+   ]
+  },
+  {
+   "begin": "150.920",
+   "children": [],
+   "end": "155.160",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out."
+   ]
+  },
+  {
+   "begin": "155.160",
+   "children": [],
+   "end": "170.280",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me."
+   ]
+  },
+  {
+   "begin": "170.280",
+   "children": [],
+   "end": "177.480",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "The LORD shall make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest to possess it."
+   ]
+  },
+  {
+   "begin": "177.480",
+   "children": [],
+   "end": "191.680",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "The LORD shall smite thee with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish."
+   ]
+  },
+  {
+   "begin": "191.680",
+   "children": [],
+   "end": "197.480",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron."
+   ]
+  },
+  {
+   "begin": "197.480",
+   "children": [],
+   "end": "205.760",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed."
+   ]
+  },
+  {
+   "begin": "205.760",
+   "children": [],
+   "end": "216.280",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "The LORD shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth."
+   ]
+  },
+  {
+   "begin": "216.280",
+   "children": [],
+   "end": "226.240",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And thy carcass shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray them away."
+   ]
+  },
+  {
+   "begin": "226.240",
+   "children": [],
+   "end": "235.440",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "The LORD will smite thee with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed."
+   ]
+  },
+  {
+   "begin": "235.440",
+   "children": [],
+   "end": "241.440",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "The LORD shall smite thee with madness, and blindness, and astonishment of heart:"
+   ]
+  },
+  {
+   "begin": "241.440",
+   "children": [],
+   "end": "257.120",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee."
+   ]
+  },
+  {
+   "begin": "257.120",
+   "children": [],
+   "end": "269.000",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof."
+   ]
+  },
+  {
+   "begin": "269.000",
+   "children": [],
+   "end": "283.120",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them."
+   ]
+  },
+  {
+   "begin": "283.120",
+   "children": [],
+   "end": "294.480",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long; and there shall be no might in thine hand."
+   ]
+  },
+  {
+   "begin": "294.480",
+   "children": [],
+   "end": "306.280",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "The fruit of thy land, and all thy labors, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:"
+   ]
+  },
+  {
+   "begin": "306.280",
+   "children": [],
+   "end": "310.800",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "So that thou shalt be mad for the sight of thine eyes which thou shalt see."
+   ]
+  },
+  {
+   "begin": "310.800",
+   "children": [],
+   "end": "319.000",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "The LORD shall smite thee in the knees, and in the legs, with a sore botch that cannot be healed, from the sole of thy foot unto the top of thy head."
+   ]
+  },
+  {
+   "begin": "319.000",
+   "children": [],
+   "end": "329.360",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "The LORD shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone."
+   ]
+  },
+  {
+   "begin": "329.360",
+   "children": [],
+   "end": "336.520",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee."
+   ]
+  },
+  {
+   "begin": "336.520",
+   "children": [],
+   "end": "343.640",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Thou shalt carry much seed out into the field, and shalt gather but little in; for the locust shall consume it."
+   ]
+  },
+  {
+   "begin": "343.640",
+   "children": [],
+   "end": "351.280",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Thou shalt plant vineyards, and dress them, but shalt neither drink of the wine, nor gather the grapes; for the worms shall eat them."
+   ]
+  },
+  {
+   "begin": "351.280",
+   "children": [],
+   "end": "359.200",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint thyself with the oil; for thine olive shall cast his fruit."
+   ]
+  },
+  {
+   "begin": "359.200",
+   "children": [],
+   "end": "367.960",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity."
+   ]
+  },
+  {
+   "begin": "367.960",
+   "children": [],
+   "end": "373.880",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "All thy trees and fruit of thy land shall the locust consume."
+   ]
+  },
+  {
+   "begin": "373.880",
+   "children": [],
+   "end": "379.360",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "The stranger that is within thee shall get up above thee very high; and thou shalt come down very low."
+   ]
+  },
+  {
+   "begin": "379.360",
+   "children": [],
+   "end": "386.760",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail."
+   ]
+  },
+  {
+   "begin": "386.760",
+   "children": [],
+   "end": "397.760",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:"
+   ]
+  },
+  {
+   "begin": "397.760",
+   "children": [],
+   "end": "403.560",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever."
+   ]
+  },
+  {
+   "begin": "403.560",
+   "children": [],
+   "end": "409.920",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Because thou servedst not the LORD thy God with joyfulness, and with gladness of heart, for the abundance of all things;"
+   ]
+  },
+  {
+   "begin": "409.920",
+   "children": [],
+   "end": "426.640",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee."
+   ]
+  },
+  {
+   "begin": "426.640",
+   "children": [],
+   "end": "434.080",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "The LORD shall bring a nation against thee from far, from the end of the earth, as swift as the eagle flieth; a nation whose tongue thou shalt not understand;"
+   ]
+  },
+  {
+   "begin": "434.080",
+   "children": [],
+   "end": "440.680",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "A nation of fierce countenance, which shall not regard the person of the old, nor show favor to the young:"
+   ]
+  },
+  {
+   "begin": "440.680",
+   "children": [],
+   "end": "456.840",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which also shall not leave thee either corn, wine, or oil, or the increase of thy kine, or flocks of thy sheep, until he have destroyed thee."
+   ]
+  },
+  {
+   "begin": "456.840",
+   "children": [],
+   "end": "471.680",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the LORD thy God hath given thee."
+   ]
+  },
+  {
+   "begin": "471.680",
+   "children": [],
+   "end": "486.240",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the LORD thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:"
+   ]
+  },
+  {
+   "begin": "486.240",
+   "children": [],
+   "end": "496.160",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:"
+   ]
+  },
+  {
+   "begin": "496.160",
+   "children": [],
+   "end": "507.280",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates."
+   ]
+  },
+  {
+   "begin": "507.280",
+   "children": [],
+   "end": "519.560",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,"
+   ]
+  },
+  {
+   "begin": "519.560",
+   "children": [],
+   "end": "534.520",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all things secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates."
+   ]
+  },
+  {
+   "begin": "534.520",
+   "children": [],
+   "end": "544.200",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;"
+   ]
+  },
+  {
+   "begin": "544.200",
+   "children": [],
+   "end": "557.240",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "Then the LORD will make thy plagues wonderful, and the plagues of thy seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance."
+   ]
+  },
+  {
+   "begin": "557.240",
+   "children": [],
+   "end": "563.280",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "Moreover he will bring upon thee all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee."
+   ]
+  },
+  {
+   "begin": "563.280",
+   "children": [],
+   "end": "569.920",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "Also every sickness, and every plague, which is not written in the book of this law, them will the LORD bring upon thee, until thou be destroyed."
+   ]
+  },
+  {
+   "begin": "569.920",
+   "children": [],
+   "end": "580.360",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou wouldest not obey the voice of the LORD thy God."
+   ]
+  },
+  {
+   "begin": "580.360",
+   "children": [],
+   "end": "593.360",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "And it shall come to pass, that as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to destroy you, and to bring you to nought; and ye shall be plucked from off the land whither thou goest to possess it."
+   ]
+  },
+  {
+   "begin": "593.360",
+   "children": [],
+   "end": "603.920",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone."
+   ]
+  },
+  {
+   "begin": "603.920",
+   "children": [],
+   "end": "617.000",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the LORD shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:"
+   ]
+  },
+  {
+   "begin": "617.000",
+   "children": [],
+   "end": "626.880",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:"
+   ]
+  },
+  {
+   "begin": "626.880",
+   "children": [],
+   "end": "640.120",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see."
+   ]
+  },
+  {
+   "begin": "640.120",
+   "children": [],
+   "end": "656.000",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you."
+   ]
+  }
+ ]
+}

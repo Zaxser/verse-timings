@@ -1,0 +1,354 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.360",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-seven"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "4.560",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And the LORD spake unto Moses, saying,"
+   ]
+  },
+  {
+   "begin": "4.560",
+   "children": [],
+   "end": "13.360",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation."
+   ]
+  },
+  {
+   "begin": "13.360",
+   "children": [],
+   "end": "23.600",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary."
+   ]
+  },
+  {
+   "begin": "23.600",
+   "children": [],
+   "end": "27.760",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And if it be a female, then thy estimation shall be thirty shekels."
+   ]
+  },
+  {
+   "begin": "27.760",
+   "children": [],
+   "end": "36.320",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels."
+   ]
+  },
+  {
+   "begin": "36.320",
+   "children": [],
+   "end": "47.320",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And if it be from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation shall be three shekels of silver."
+   ]
+  },
+  {
+   "begin": "47.320",
+   "children": [],
+   "end": "56.840",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And if it be from sixty years old and above; if it be a male, then thy estimation shall be fifteen shekels, and for the female ten shekels."
+   ]
+  },
+  {
+   "begin": "56.840",
+   "children": [],
+   "end": "67.400",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him."
+   ]
+  },
+  {
+   "begin": "67.400",
+   "children": [],
+   "end": "74.120",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy."
+   ]
+  },
+  {
+   "begin": "74.120",
+   "children": [],
+   "end": "84.040",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy."
+   ]
+  },
+  {
+   "begin": "84.040",
+   "children": [],
+   "end": "91.160",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:"
+   ]
+  },
+  {
+   "begin": "91.160",
+   "children": [],
+   "end": "98.320",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be."
+   ]
+  },
+  {
+   "begin": "98.320",
+   "children": [],
+   "end": "105.160",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation."
+   ]
+  },
+  {
+   "begin": "105.160",
+   "children": [],
+   "end": "114.480",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And when a man shall sanctify his house to be holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand."
+   ]
+  },
+  {
+   "begin": "114.480",
+   "children": [],
+   "end": "122.560",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his."
+   ]
+  },
+  {
+   "begin": "122.560",
+   "children": [],
+   "end": "134.560",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And if a man shall sanctify unto the LORD some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver."
+   ]
+  },
+  {
+   "begin": "134.560",
+   "children": [],
+   "end": "139.960",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "If he sanctify his field from the year of jubilee, according to thy estimation it shall stand."
+   ]
+  },
+  {
+   "begin": "139.960",
+   "children": [],
+   "end": "151.240",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "But if he sanctify his field after the jubilee, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubilee, and it shall be abated from thy estimation."
+   ]
+  },
+  {
+   "begin": "151.240",
+   "children": [],
+   "end": "159.400",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him."
+   ]
+  },
+  {
+   "begin": "159.400",
+   "children": [],
+   "end": "165.600",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more."
+   ]
+  },
+  {
+   "begin": "165.600",
+   "children": [],
+   "end": "174.200",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "But the field, when it goeth out in the jubilee, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest's."
+   ]
+  },
+  {
+   "begin": "174.200",
+   "children": [],
+   "end": "179.280",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And if a man sanctify unto the LORD a field which he hath bought, which is not of the fields of his possession;"
+   ]
+  },
+  {
+   "begin": "179.280",
+   "children": [],
+   "end": "188.720",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubilee: and he shall give thine estimation in that day, as a holy thing unto the LORD."
+   ]
+  },
+  {
+   "begin": "188.720",
+   "children": [],
+   "end": "195.360",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "In the year of the jubilee the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong."
+   ]
+  },
+  {
+   "begin": "195.360",
+   "children": [],
+   "end": "202.840",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel."
+   ]
+  },
+  {
+   "begin": "202.840",
+   "children": [],
+   "end": "211.640",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Only the firstling of the beasts, which should be the LORD's firstling, no man shall sanctify it; whether it be ox, or sheep: it is the LORD's."
+   ]
+  },
+  {
+   "begin": "211.640",
+   "children": [],
+   "end": "222.960",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation."
+   ]
+  },
+  {
+   "begin": "222.960",
+   "children": [],
+   "end": "235.720",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the LORD."
+   ]
+  },
+  {
+   "begin": "235.720",
+   "children": [],
+   "end": "242.000",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death."
+   ]
+  },
+  {
+   "begin": "242.000",
+   "children": [],
+   "end": "249.160",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD's: it is holy unto the LORD."
+   ]
+  },
+  {
+   "begin": "249.160",
+   "children": [],
+   "end": "255.240",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof."
+   ]
+  },
+  {
+   "begin": "255.240",
+   "children": [],
+   "end": "262.920",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD."
+   ]
+  },
+  {
+   "begin": "262.920",
+   "children": [],
+   "end": "272.720",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed."
+   ]
+  },
+  {
+   "begin": "272.720",
+   "children": [],
+   "end": "287.720",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai."
+   ]
+  }
+ ]
+}

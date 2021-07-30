@@ -1,0 +1,304 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.480",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter fourteen"
+   ]
+  },
+  {
+   "begin": "2.480",
+   "children": [],
+   "end": "11.080",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead."
+   ]
+  },
+  {
+   "begin": "11.080",
+   "children": [],
+   "end": "20.120",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "For thou art an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth."
+   ]
+  },
+  {
+   "begin": "20.120",
+   "children": [],
+   "end": "23.160",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not eat any abominable thing."
+   ]
+  },
+  {
+   "begin": "23.160",
+   "children": [],
+   "end": "27.400",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "These are the beasts which ye shall eat: the ox, the sheep, and the goat,"
+   ]
+  },
+  {
+   "begin": "27.400",
+   "children": [],
+   "end": "35.320",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois."
+   ]
+  },
+  {
+   "begin": "35.320",
+   "children": [],
+   "end": "43.720",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And every beast that parteth the hoof, and cleaveth the cleft into two claws, and cheweth the cud among the beasts, that ye shall eat."
+   ]
+  },
+  {
+   "begin": "43.720",
+   "children": [],
+   "end": "56.720",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you."
+   ]
+  },
+  {
+   "begin": "56.720",
+   "children": [],
+   "end": "66.040",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And the swine, because it divideth the hoof, yet cheweth not the cud, it is unclean unto you: ye shall not eat of their flesh, nor touch their dead carcass."
+   ]
+  },
+  {
+   "begin": "66.040",
+   "children": [],
+   "end": "72.120",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "These ye shall eat of all that are in the waters: all that have fins and scales shall ye eat:"
+   ]
+  },
+  {
+   "begin": "72.120",
+   "children": [],
+   "end": "77.880",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And whatsoever hath not fins and scales ye may not eat; it is unclean unto you."
+   ]
+  },
+  {
+   "begin": "77.880",
+   "children": [],
+   "end": "80.120",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "Of all clean birds ye shall eat."
+   ]
+  },
+  {
+   "begin": "80.120",
+   "children": [],
+   "end": "84.800",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "But these are they of which ye shall not eat: the eagle, and the ossifrage, and the ospray,"
+   ]
+  },
+  {
+   "begin": "84.800",
+   "children": [],
+   "end": "87.600",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And the glede, and the kite, and the vulture after his kind,"
+   ]
+  },
+  {
+   "begin": "87.600",
+   "children": [],
+   "end": "89.440",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And every raven after his kind,"
+   ]
+  },
+  {
+   "begin": "89.440",
+   "children": [],
+   "end": "94.000",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And the owl, and the night hawk, and the cuckoo, and the hawk after his kind,"
+   ]
+  },
+  {
+   "begin": "94.000",
+   "children": [],
+   "end": "96.640",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "The little owl, and the great owl, and the swan,"
+   ]
+  },
+  {
+   "begin": "96.640",
+   "children": [],
+   "end": "99.400",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And the pelican, and the gier eagle, and the cormorant,"
+   ]
+  },
+  {
+   "begin": "99.400",
+   "children": [],
+   "end": "105.000",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And the stork, and the heron after her kind, and the lapwing, and the bat."
+   ]
+  },
+  {
+   "begin": "105.000",
+   "children": [],
+   "end": "110.680",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And every creeping thing that flieth is unclean unto you: they shall not be eaten."
+   ]
+  },
+  {
+   "begin": "110.680",
+   "children": [],
+   "end": "113.920",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "But of all clean fowls ye may eat."
+   ]
+  },
+  {
+   "begin": "113.920",
+   "children": [],
+   "end": "129.520",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Ye shall not eat of anything that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother's milk."
+   ]
+  },
+  {
+   "begin": "129.520",
+   "children": [],
+   "end": "134.560",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year."
+   ]
+  },
+  {
+   "begin": "134.560",
+   "children": [],
+   "end": "149.920",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always."
+   ]
+  },
+  {
+   "begin": "149.920",
+   "children": [],
+   "end": "159.640",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And if the way be too long for thee, so that thou art not able to carry it; or if the place be too far from thee, which the LORD thy God shall choose to set his name there, when the LORD thy God hath blessed thee:"
+   ]
+  },
+  {
+   "begin": "159.640",
+   "children": [],
+   "end": "166.480",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Then shalt thou turn it into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:"
+   ]
+  },
+  {
+   "begin": "166.480",
+   "children": [],
+   "end": "181.240",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household,"
+   ]
+  },
+  {
+   "begin": "181.240",
+   "children": [],
+   "end": "188.280",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And the Levite that is within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee."
+   ]
+  },
+  {
+   "begin": "188.280",
+   "children": [],
+   "end": "195.640",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay it up within thy gates:"
+   ]
+  },
+  {
+   "begin": "195.640",
+   "children": [],
+   "end": "211.400",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,674 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.400",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-seven"
+   ]
+  },
+  {
+   "begin": "2.400",
+   "children": [],
+   "end": "8.040",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:"
+   ]
+  },
+  {
+   "begin": "8.040",
+   "children": [],
+   "end": "11.360",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor."
+   ]
+  },
+  {
+   "begin": "11.360",
+   "children": [],
+   "end": "21.800",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,"
+   ]
+  },
+  {
+   "begin": "21.800",
+   "children": [],
+   "end": "31.760",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that."
+   ]
+  },
+  {
+   "begin": "31.760",
+   "children": [],
+   "end": "38.200",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself."
+   ]
+  },
+  {
+   "begin": "38.200",
+   "children": [],
+   "end": "45.840",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood."
+   ]
+  },
+  {
+   "begin": "45.840",
+   "children": [],
+   "end": "51.440",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And they took counsel, and bought with them the potter's field, to bury strangers in."
+   ]
+  },
+  {
+   "begin": "51.440",
+   "children": [],
+   "end": "57.040",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Wherefore that field was called, The field of blood, unto this day."
+   ]
+  },
+  {
+   "begin": "57.040",
+   "children": [],
+   "end": "66.680",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;"
+   ]
+  },
+  {
+   "begin": "66.680",
+   "children": [],
+   "end": "72.680",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And gave them for the potter's field, as the Lord appointed me."
+   ]
+  },
+  {
+   "begin": "72.680",
+   "children": [],
+   "end": "83.160",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest."
+   ]
+  },
+  {
+   "begin": "83.160",
+   "children": [],
+   "end": "87.640",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And when he was accused of the chief priests and elders, he answered nothing."
+   ]
+  },
+  {
+   "begin": "87.640",
+   "children": [],
+   "end": "93.480",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Then said Pilate unto him, Hearest thou not how many things they witness against thee?"
+   ]
+  },
+  {
+   "begin": "93.480",
+   "children": [],
+   "end": "100.280",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And he answered him to never a word; insomuch that the governor marvelled greatly."
+   ]
+  },
+  {
+   "begin": "100.280",
+   "children": [],
+   "end": "105.960",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Now at that feast the governor was wont to release unto the people a prisoner, whom they would."
+   ]
+  },
+  {
+   "begin": "105.960",
+   "children": [],
+   "end": "109.240",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "And they had then a notable prisoner, called Barabbas."
+   ]
+  },
+  {
+   "begin": "109.240",
+   "children": [],
+   "end": "117.800",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?"
+   ]
+  },
+  {
+   "begin": "117.800",
+   "children": [],
+   "end": "121.600",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "For he knew that for envy they had delivered him."
+   ]
+  },
+  {
+   "begin": "121.600",
+   "children": [],
+   "end": "132.440",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him."
+   ]
+  },
+  {
+   "begin": "132.440",
+   "children": [],
+   "end": "138.920",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus."
+   ]
+  },
+  {
+   "begin": "138.920",
+   "children": [],
+   "end": "146.320",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas."
+   ]
+  },
+  {
+   "begin": "146.320",
+   "children": [],
+   "end": "155.040",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified."
+   ]
+  },
+  {
+   "begin": "155.040",
+   "children": [],
+   "end": "161.600",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified."
+   ]
+  },
+  {
+   "begin": "161.600",
+   "children": [],
+   "end": "176.480",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it."
+   ]
+  },
+  {
+   "begin": "176.480",
+   "children": [],
+   "end": "182.000",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Then answered all the people, and said, His blood be on us, and on our children."
+   ]
+  },
+  {
+   "begin": "182.000",
+   "children": [],
+   "end": "189.920",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified."
+   ]
+  },
+  {
+   "begin": "189.920",
+   "children": [],
+   "end": "194.920",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers."
+   ]
+  },
+  {
+   "begin": "194.920",
+   "children": [],
+   "end": "198.760",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And they stripped him, and put on him a scarlet robe."
+   ]
+  },
+  {
+   "begin": "198.760",
+   "children": [],
+   "end": "210.360",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!"
+   ]
+  },
+  {
+   "begin": "210.360",
+   "children": [],
+   "end": "215.280",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And they spit upon him, and took the reed, and smote him on the head."
+   ]
+  },
+  {
+   "begin": "215.280",
+   "children": [],
+   "end": "223.120",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him."
+   ]
+  },
+  {
+   "begin": "223.120",
+   "children": [],
+   "end": "231.040",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross."
+   ]
+  },
+  {
+   "begin": "231.040",
+   "children": [],
+   "end": "236.600",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And when they were come unto a place called Golgotha, that is to say, a place of a skull,"
+   ]
+  },
+  {
+   "begin": "236.600",
+   "children": [],
+   "end": "243.240",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink."
+   ]
+  },
+  {
+   "begin": "243.240",
+   "children": [],
+   "end": "255.280",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots."
+   ]
+  },
+  {
+   "begin": "255.280",
+   "children": [],
+   "end": "257.640",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And sitting down they watched him there;"
+   ]
+  },
+  {
+   "begin": "257.640",
+   "children": [],
+   "end": "264.040",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS."
+   ]
+  },
+  {
+   "begin": "264.040",
+   "children": [],
+   "end": "270.160",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Then were there two thieves crucified with him, one on the right hand, and another on the left."
+   ]
+  },
+  {
+   "begin": "270.160",
+   "children": [],
+   "end": "273.280",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And they that passed by reviled him, wagging their heads,"
+   ]
+  },
+  {
+   "begin": "273.280",
+   "children": [],
+   "end": "283.240",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross."
+   ]
+  },
+  {
+   "begin": "283.240",
+   "children": [],
+   "end": "287.800",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Likewise also the chief priests mocking him, with the scribes and elders, said,"
+   ]
+  },
+  {
+   "begin": "287.800",
+   "children": [],
+   "end": "296.120",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him."
+   ]
+  },
+  {
+   "begin": "296.120",
+   "children": [],
+   "end": "304.200",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God."
+   ]
+  },
+  {
+   "begin": "304.200",
+   "children": [],
+   "end": "310.360",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "The thieves also, which were crucified with him, cast the same in his teeth."
+   ]
+  },
+  {
+   "begin": "310.360",
+   "children": [],
+   "end": "316.920",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "Now from the sixth hour there was darkness over all the land unto the ninth hour."
+   ]
+  },
+  {
+   "begin": "316.920",
+   "children": [],
+   "end": "330.280",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?"
+   ]
+  },
+  {
+   "begin": "330.280",
+   "children": [],
+   "end": "336.760",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Some of them that stood there, when they heard that, said, This man calleth for Elias."
+   ]
+  },
+  {
+   "begin": "336.760",
+   "children": [],
+   "end": "343.240",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink."
+   ]
+  },
+  {
+   "begin": "343.240",
+   "children": [],
+   "end": "349.040",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "The rest said, Let be, let us see whether Elias will come to save him."
+   ]
+  },
+  {
+   "begin": "349.040",
+   "children": [],
+   "end": "355.000",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "Jesus, when he had cried again with a loud voice, yielded up the ghost."
+   ]
+  },
+  {
+   "begin": "355.000",
+   "children": [],
+   "end": "362.400",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;"
+   ]
+  },
+  {
+   "begin": "362.400",
+   "children": [],
+   "end": "365.960",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "And the graves were opened; and many bodies of the saints which slept arose,"
+   ]
+  },
+  {
+   "begin": "365.960",
+   "children": [],
+   "end": "373.080",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many."
+   ]
+  },
+  {
+   "begin": "373.080",
+   "children": [],
+   "end": "383.400",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God."
+   ]
+  },
+  {
+   "begin": "383.400",
+   "children": [],
+   "end": "389.520",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:"
+   ]
+  },
+  {
+   "begin": "389.520",
+   "children": [],
+   "end": "397.080",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedees children."
+   ]
+  },
+  {
+   "begin": "397.080",
+   "children": [],
+   "end": "403.720",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus' disciple:"
+   ]
+  },
+  {
+   "begin": "403.720",
+   "children": [],
+   "end": "409.400",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered."
+   ]
+  },
+  {
+   "begin": "409.400",
+   "children": [],
+   "end": "413.240",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "And when Joseph had taken the body, he wrapped it in a clean linen cloth,"
+   ]
+  },
+  {
+   "begin": "413.240",
+   "children": [],
+   "end": "421.880",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed."
+   ]
+  },
+  {
+   "begin": "421.880",
+   "children": [],
+   "end": "428.080",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre."
+   ]
+  },
+  {
+   "begin": "428.080",
+   "children": [],
+   "end": "434.560",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,"
+   ]
+  },
+  {
+   "begin": "434.560",
+   "children": [],
+   "end": "442.120",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again."
+   ]
+  },
+  {
+   "begin": "442.120",
+   "children": [],
+   "end": "453.920",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first."
+   ]
+  },
+  {
+   "begin": "453.920",
+   "children": [],
+   "end": "460.880",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can."
+   ]
+  },
+  {
+   "begin": "460.880",
+   "children": [],
+   "end": "468.000",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "So they went, and made the sepulchre sure, sealing the stone, and setting a watch."
+   ]
+  }
+ ]
+}

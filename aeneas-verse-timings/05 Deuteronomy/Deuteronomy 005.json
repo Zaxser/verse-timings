@@ -1,0 +1,344 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.480",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter five"
+   ]
+  },
+  {
+   "begin": "2.480",
+   "children": [],
+   "end": "12.560",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them."
+   ]
+  },
+  {
+   "begin": "12.560",
+   "children": [],
+   "end": "15.720",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "The LORD our God made a covenant with us in Horeb."
+   ]
+  },
+  {
+   "begin": "15.720",
+   "children": [],
+   "end": "22.640",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "The LORD made not this covenant with our fathers, but with us, even us, who are all of us here alive this day."
+   ]
+  },
+  {
+   "begin": "22.640",
+   "children": [],
+   "end": "26.200",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "The LORD talked with you face to face in the mount out of the midst of the fire,"
+   ]
+  },
+  {
+   "begin": "26.200",
+   "children": [],
+   "end": "35.720",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "(I stood between the LORD and you at that time, to show you the word of the LORD: for ye were afraid by reason of the fire, and went not up into the mount;) saying,"
+   ]
+  },
+  {
+   "begin": "35.720",
+   "children": [],
+   "end": "40.680",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "I am the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage."
+   ]
+  },
+  {
+   "begin": "40.680",
+   "children": [],
+   "end": "43.680",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Thou shalt have none other gods before me."
+   ]
+  },
+  {
+   "begin": "43.680",
+   "children": [],
+   "end": "52.360",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not make thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the waters beneath the earth:"
+   ]
+  },
+  {
+   "begin": "52.360",
+   "children": [],
+   "end": "64.160",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me,"
+   ]
+  },
+  {
+   "begin": "64.160",
+   "children": [],
+   "end": "69.680",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And showing mercy unto thousands of them that love me and keep my commandments."
+   ]
+  },
+  {
+   "begin": "69.680",
+   "children": [],
+   "end": "75.840",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not take the name of the LORD thy God in vain: for the LORD will not hold him guiltless that taketh his name in vain."
+   ]
+  },
+  {
+   "begin": "75.840",
+   "children": [],
+   "end": "81.600",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee."
+   ]
+  },
+  {
+   "begin": "81.600",
+   "children": [],
+   "end": "84.200",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Six days thou shalt labor, and do all thy work:"
+   ]
+  },
+  {
+   "begin": "84.200",
+   "children": [],
+   "end": "103.280",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy manservant and thy maidservant may rest as well as thou."
+   ]
+  },
+  {
+   "begin": "103.280",
+   "children": [],
+   "end": "117.120",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And remember that thou wast a servant in the land of Egypt, and that the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day."
+   ]
+  },
+  {
+   "begin": "117.120",
+   "children": [],
+   "end": "127.080",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Honor thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee."
+   ]
+  },
+  {
+   "begin": "127.080",
+   "children": [],
+   "end": "129.480",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Thou shalt not kill."
+   ]
+  },
+  {
+   "begin": "129.480",
+   "children": [],
+   "end": "132.040",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "Neither shalt thou commit adultery."
+   ]
+  },
+  {
+   "begin": "132.040",
+   "children": [],
+   "end": "134.160",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Neither shalt thou steal."
+   ]
+  },
+  {
+   "begin": "134.160",
+   "children": [],
+   "end": "137.520",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Neither shalt thou bear false witness against thy neighbor."
+   ]
+  },
+  {
+   "begin": "137.520",
+   "children": [],
+   "end": "149.600",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Neither shalt thou desire thy neighbor's wife, neither shalt thou covet thy neighbor's house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is thy neighbor's."
+   ]
+  },
+  {
+   "begin": "149.600",
+   "children": [],
+   "end": "165.720",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me."
+   ]
+  },
+  {
+   "begin": "165.720",
+   "children": [],
+   "end": "174.960",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, even all the heads of your tribes, and your elders;"
+   ]
+  },
+  {
+   "begin": "174.960",
+   "children": [],
+   "end": "186.000",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And ye said, Behold, the LORD our God hath showed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth."
+   ]
+  },
+  {
+   "begin": "186.000",
+   "children": [],
+   "end": "193.960",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die."
+   ]
+  },
+  {
+   "begin": "193.960",
+   "children": [],
+   "end": "200.800",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?"
+   ]
+  },
+  {
+   "begin": "200.800",
+   "children": [],
+   "end": "211.200",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear it, and do it."
+   ]
+  },
+  {
+   "begin": "211.200",
+   "children": [],
+   "end": "221.560",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And the LORD heard the voice of your words, when ye spake unto me; and the LORD said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken."
+   ]
+  },
+  {
+   "begin": "221.560",
+   "children": [],
+   "end": "230.360",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!"
+   ]
+  },
+  {
+   "begin": "230.360",
+   "children": [],
+   "end": "233.680",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Go say to them, Get you into your tents again."
+   ]
+  },
+  {
+   "begin": "233.680",
+   "children": [],
+   "end": "246.440",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do them in the land which I give them to possess it."
+   ]
+  },
+  {
+   "begin": "246.440",
+   "children": [],
+   "end": "253.440",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Ye shall observe to do therefore as the LORD your God hath commanded you: ye shall not turn aside to the right hand or to the left."
+   ]
+  },
+  {
+   "begin": "253.440",
+   "children": [],
+   "end": "265.400",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess."
+   ]
+  }
+ ]
+}

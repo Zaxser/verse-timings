@@ -1,0 +1,434 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.240",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter ten"
+   ]
+  },
+  {
+   "begin": "2.240",
+   "children": [],
+   "end": "12.480",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease."
+   ]
+  },
+  {
+   "begin": "12.480",
+   "children": [],
+   "end": "23.120",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;"
+   ]
+  },
+  {
+   "begin": "23.120",
+   "children": [],
+   "end": "33.360",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;"
+   ]
+  },
+  {
+   "begin": "33.360",
+   "children": [],
+   "end": "39.240",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Simon the Canaanite, and Judas Iscariot, who also betrayed him."
+   ]
+  },
+  {
+   "begin": "39.240",
+   "children": [],
+   "end": "48.480",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:"
+   ]
+  },
+  {
+   "begin": "48.480",
+   "children": [],
+   "end": "52.560",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "But go rather to the lost sheep of the house of Israel."
+   ]
+  },
+  {
+   "begin": "52.560",
+   "children": [],
+   "end": "57.600",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And as ye go, preach, saying, The kingdom of heaven is at hand."
+   ]
+  },
+  {
+   "begin": "57.600",
+   "children": [],
+   "end": "66.400",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give."
+   ]
+  },
+  {
+   "begin": "66.400",
+   "children": [],
+   "end": "69.800",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Provide neither gold, nor silver, nor brass in your purses,"
+   ]
+  },
+  {
+   "begin": "69.800",
+   "children": [],
+   "end": "77.800",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat."
+   ]
+  },
+  {
+   "begin": "77.800",
+   "children": [],
+   "end": "84.560",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence."
+   ]
+  },
+  {
+   "begin": "84.560",
+   "children": [],
+   "end": "87.080",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And when ye come into an house, salute it."
+   ]
+  },
+  {
+   "begin": "87.080",
+   "children": [],
+   "end": "94.200",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you."
+   ]
+  },
+  {
+   "begin": "94.200",
+   "children": [],
+   "end": "101.680",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet."
+   ]
+  },
+  {
+   "begin": "101.680",
+   "children": [],
+   "end": "109.880",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city."
+   ]
+  },
+  {
+   "begin": "109.880",
+   "children": [],
+   "end": "123.840",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves."
+   ]
+  },
+  {
+   "begin": "123.840",
+   "children": [],
+   "end": "130.920",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;"
+   ]
+  },
+  {
+   "begin": "130.920",
+   "children": [],
+   "end": "137.720",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles."
+   ]
+  },
+  {
+   "begin": "137.720",
+   "children": [],
+   "end": "147.240",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak."
+   ]
+  },
+  {
+   "begin": "147.240",
+   "children": [],
+   "end": "152.840",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "For it is not ye that speak, but the Spirit of your Father which speaketh in you."
+   ]
+  },
+  {
+   "begin": "152.840",
+   "children": [],
+   "end": "163.640",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death."
+   ]
+  },
+  {
+   "begin": "163.640",
+   "children": [],
+   "end": "172.080",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved."
+   ]
+  },
+  {
+   "begin": "172.080",
+   "children": [],
+   "end": "183.720",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come."
+   ]
+  },
+  {
+   "begin": "183.720",
+   "children": [],
+   "end": "188.680",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "The disciple is not above his master, nor the servant above his lord."
+   ]
+  },
+  {
+   "begin": "188.680",
+   "children": [],
+   "end": "200.640",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?"
+   ]
+  },
+  {
+   "begin": "200.640",
+   "children": [],
+   "end": "207.440",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known."
+   ]
+  },
+  {
+   "begin": "207.440",
+   "children": [],
+   "end": "216.520",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops."
+   ]
+  },
+  {
+   "begin": "216.520",
+   "children": [],
+   "end": "226.280",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
+   ]
+  },
+  {
+   "begin": "226.280",
+   "children": [],
+   "end": "233.480",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father."
+   ]
+  },
+  {
+   "begin": "233.480",
+   "children": [],
+   "end": "237.120",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "But the very hairs of your head are all numbered."
+   ]
+  },
+  {
+   "begin": "237.120",
+   "children": [],
+   "end": "243.000",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Fear ye not therefore, ye are of more value than many sparrows."
+   ]
+  },
+  {
+   "begin": "243.000",
+   "children": [],
+   "end": "248.360",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven."
+   ]
+  },
+  {
+   "begin": "248.360",
+   "children": [],
+   "end": "255.400",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven."
+   ]
+  },
+  {
+   "begin": "255.400",
+   "children": [],
+   "end": "264.560",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Think not that I am come to send peace on earth: I came not to send peace, but a sword."
+   ]
+  },
+  {
+   "begin": "264.560",
+   "children": [],
+   "end": "272.040",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law."
+   ]
+  },
+  {
+   "begin": "272.040",
+   "children": [],
+   "end": "276.200",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And a man's foes shall be they of his own household."
+   ]
+  },
+  {
+   "begin": "276.200",
+   "children": [],
+   "end": "284.720",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me."
+   ]
+  },
+  {
+   "begin": "284.720",
+   "children": [],
+   "end": "290.600",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And he that taketh not his cross, and followeth after me, is not worthy of me."
+   ]
+  },
+  {
+   "begin": "290.600",
+   "children": [],
+   "end": "301.320",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it."
+   ]
+  },
+  {
+   "begin": "301.320",
+   "children": [],
+   "end": "309.040",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me."
+   ]
+  },
+  {
+   "begin": "309.040",
+   "children": [],
+   "end": "319.880",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward."
+   ]
+  },
+  {
+   "begin": "319.880",
+   "children": [],
+   "end": "332.720",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward."
+   ]
+  }
+ ]
+}

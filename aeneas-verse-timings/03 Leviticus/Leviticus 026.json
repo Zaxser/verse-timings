@@ -1,0 +1,474 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.800",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-six"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "15.760",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the LORD your God."
+   ]
+  },
+  {
+   "begin": "15.760",
+   "children": [],
+   "end": "21.040",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD."
+   ]
+  },
+  {
+   "begin": "21.040",
+   "children": [],
+   "end": "24.000",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "If ye walk in my statutes, and keep my commandments, and do them;"
+   ]
+  },
+  {
+   "begin": "24.000",
+   "children": [],
+   "end": "30.280",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit."
+   ]
+  },
+  {
+   "begin": "30.280",
+   "children": [],
+   "end": "40.600",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "And your threshing shall reach unto the vintage, and the vintage shall reach unto the sowing time: and ye shall eat your bread to the full, and dwell in your land safely."
+   ]
+  },
+  {
+   "begin": "40.600",
+   "children": [],
+   "end": "52.800",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And I will give peace in the land, and ye shall lie down, and none shall make you afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land."
+   ]
+  },
+  {
+   "begin": "52.800",
+   "children": [],
+   "end": "57.200",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And ye shall chase your enemies, and they shall fall before you by the sword."
+   ]
+  },
+  {
+   "begin": "57.200",
+   "children": [],
+   "end": "65.280",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And five of you shall chase an hundred, and an hundred of you shall put ten thousand to flight: and your enemies shall fall before you by the sword."
+   ]
+  },
+  {
+   "begin": "65.280",
+   "children": [],
+   "end": "72.840",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "For I will have respect unto you, and make you fruitful, and multiply you, and establish my covenant with you."
+   ]
+  },
+  {
+   "begin": "72.840",
+   "children": [],
+   "end": "78.360",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And ye shall eat old store, and bring forth the old because of the new."
+   ]
+  },
+  {
+   "begin": "78.360",
+   "children": [],
+   "end": "83.560",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And I set my tabernacle among you: and my soul shall not abhor you."
+   ]
+  },
+  {
+   "begin": "83.560",
+   "children": [],
+   "end": "90.000",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And I will walk among you, and will be your God, and ye shall be my people."
+   ]
+  },
+  {
+   "begin": "90.000",
+   "children": [],
+   "end": "100.240",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "I am the LORD your God, which brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you go upright."
+   ]
+  },
+  {
+   "begin": "100.240",
+   "children": [],
+   "end": "106.840",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "But if ye will not hearken unto me, and will not do all these commandments;"
+   ]
+  },
+  {
+   "begin": "106.840",
+   "children": [],
+   "end": "116.240",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, but that ye break my covenant:"
+   ]
+  },
+  {
+   "begin": "116.240",
+   "children": [],
+   "end": "133.880",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it."
+   ]
+  },
+  {
+   "begin": "133.880",
+   "children": [],
+   "end": "145.200",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you."
+   ]
+  },
+  {
+   "begin": "145.200",
+   "children": [],
+   "end": "151.320",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "And if ye will not yet for all this hearken unto me, then I will punish you seven times more for your sins."
+   ]
+  },
+  {
+   "begin": "151.320",
+   "children": [],
+   "end": "159.600",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And I will break the pride of your power; and I will make your heaven as iron, and your earth as brass:"
+   ]
+  },
+  {
+   "begin": "159.600",
+   "children": [],
+   "end": "168.360",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits."
+   ]
+  },
+  {
+   "begin": "168.360",
+   "children": [],
+   "end": "175.600",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins."
+   ]
+  },
+  {
+   "begin": "175.600",
+   "children": [],
+   "end": "186.680",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "I will also send wild beasts among you, which shall rob you of your children, and destroy your cattle, and make you few in number; and your high ways shall be desolate."
+   ]
+  },
+  {
+   "begin": "186.680",
+   "children": [],
+   "end": "193.680",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "And if ye will not be reformed by me by these things, but will walk contrary unto me;"
+   ]
+  },
+  {
+   "begin": "193.680",
+   "children": [],
+   "end": "200.200",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Then will I also walk contrary unto you, and will punish you yet seven times for your sins."
+   ]
+  },
+  {
+   "begin": "200.200",
+   "children": [],
+   "end": "212.040",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "And I will bring a sword upon you, that shall avenge the quarrel of my covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy."
+   ]
+  },
+  {
+   "begin": "212.040",
+   "children": [],
+   "end": "227.000",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "And when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver you your bread again by weight: and ye shall eat, and not be satisfied."
+   ]
+  },
+  {
+   "begin": "227.000",
+   "children": [],
+   "end": "230.320",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "And if ye will not for all this hearken unto me, but walk contrary unto me;"
+   ]
+  },
+  {
+   "begin": "230.320",
+   "children": [],
+   "end": "239.240",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Then I will walk contrary unto you also in fury; and I, even I, will chastise you seven times for your sins."
+   ]
+  },
+  {
+   "begin": "239.240",
+   "children": [],
+   "end": "245.200",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "And ye shall eat the flesh of your sons, and the flesh of your daughters shall ye eat."
+   ]
+  },
+  {
+   "begin": "245.200",
+   "children": [],
+   "end": "255.560",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And I will destroy your high places, and cut down your images, and cast your carcasses upon the carcasses of your idols, and my soul shall abhor you."
+   ]
+  },
+  {
+   "begin": "255.560",
+   "children": [],
+   "end": "263.800",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And I will make your cities waste, and bring your sanctuaries unto desolation, and I will not smell the savor of your sweet odors."
+   ]
+  },
+  {
+   "begin": "263.800",
+   "children": [],
+   "end": "270.360",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "And I will bring the land into desolation: and your enemies which dwell therein shall be astonished at it."
+   ]
+  },
+  {
+   "begin": "270.360",
+   "children": [],
+   "end": "278.880",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste."
+   ]
+  },
+  {
+   "begin": "278.880",
+   "children": [],
+   "end": "292.400",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye be in your enemies' land; even then shall the land rest, and enjoy her sabbaths."
+   ]
+  },
+  {
+   "begin": "292.400",
+   "children": [],
+   "end": "301.400",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "As long as it lieth desolate it shall rest; because it did not rest in your sabbaths, when ye dwelt upon it."
+   ]
+  },
+  {
+   "begin": "301.400",
+   "children": [],
+   "end": "319.680",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth."
+   ]
+  },
+  {
+   "begin": "319.680",
+   "children": [],
+   "end": "327.520",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies."
+   ]
+  },
+  {
+   "begin": "327.520",
+   "children": [],
+   "end": "332.800",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "And ye shall perish among the heathen, and the land of your enemies shall eat you up."
+   ]
+  },
+  {
+   "begin": "332.800",
+   "children": [],
+   "end": "343.200",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And they that are left of you shall pine away in their iniquity in your enemies' lands; and also in the iniquities of their fathers shall they pine away with them."
+   ]
+  },
+  {
+   "begin": "343.200",
+   "children": [],
+   "end": "353.720",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "If they shall confess their iniquity, and the iniquity of their fathers, with their trespass which they trespassed against me, and that also they have walked contrary unto me;"
+   ]
+  },
+  {
+   "begin": "353.720",
+   "children": [],
+   "end": "367.880",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And that I also have walked contrary unto them, and have brought them into the land of their enemies; if then their uncircumcised hearts be humbled, and they then accept of the punishment of their iniquity:"
+   ]
+  },
+  {
+   "begin": "367.880",
+   "children": [],
+   "end": "380.400",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land."
+   ]
+  },
+  {
+   "begin": "380.400",
+   "children": [],
+   "end": "397.920",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "The land also shall be left of them, and shall enjoy her sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul abhorred my statutes."
+   ]
+  },
+  {
+   "begin": "397.920",
+   "children": [],
+   "end": "417.360",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I am the LORD their God."
+   ]
+  },
+  {
+   "begin": "417.360",
+   "children": [],
+   "end": "426.960",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the LORD."
+   ]
+  },
+  {
+   "begin": "426.960",
+   "children": [],
+   "end": "443.040",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "These are the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses."
+   ]
+  }
+ ]
+}

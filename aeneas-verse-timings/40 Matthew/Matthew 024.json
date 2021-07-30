@@ -1,0 +1,524 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.760",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Chapter twenty-four"
+   ]
+  },
+  {
+   "begin": "2.760",
+   "children": [],
+   "end": "9.760",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple."
+   ]
+  },
+  {
+   "begin": "9.760",
+   "children": [],
+   "end": "20.520",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down."
+   ]
+  },
+  {
+   "begin": "20.520",
+   "children": [],
+   "end": "31.280",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?"
+   ]
+  },
+  {
+   "begin": "31.280",
+   "children": [],
+   "end": "35.520",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "And Jesus answered and said unto them, Take heed that no man deceive you."
+   ]
+  },
+  {
+   "begin": "35.520",
+   "children": [],
+   "end": "40.800",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "For many shall come in my name, saying, I am Christ; and shall deceive many."
+   ]
+  },
+  {
+   "begin": "40.800",
+   "children": [],
+   "end": "51.400",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet."
+   ]
+  },
+  {
+   "begin": "51.400",
+   "children": [],
+   "end": "60.120",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places."
+   ]
+  },
+  {
+   "begin": "60.120",
+   "children": [],
+   "end": "63.680",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "All these are the beginning of sorrows."
+   ]
+  },
+  {
+   "begin": "63.680",
+   "children": [],
+   "end": "71.360",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake."
+   ]
+  },
+  {
+   "begin": "71.360",
+   "children": [],
+   "end": "76.640",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "And then shall many be offended, and shall betray one another, and shall hate one another."
+   ]
+  },
+  {
+   "begin": "76.640",
+   "children": [],
+   "end": "80.560",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "And many false prophets shall rise, and shall deceive many."
+   ]
+  },
+  {
+   "begin": "80.560",
+   "children": [],
+   "end": "85.640",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "And because iniquity shall abound, the love of many shall wax cold."
+   ]
+  },
+  {
+   "begin": "85.640",
+   "children": [],
+   "end": "89.920",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "But he that shall endure unto the end, the same shall be saved."
+   ]
+  },
+  {
+   "begin": "89.920",
+   "children": [],
+   "end": "98.560",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
+   ]
+  },
+  {
+   "begin": "98.560",
+   "children": [],
+   "end": "109.360",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)"
+   ]
+  },
+  {
+   "begin": "109.360",
+   "children": [],
+   "end": "113.560",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Then let them which be in Judaea flee into the mountains:"
+   ]
+  },
+  {
+   "begin": "113.560",
+   "children": [],
+   "end": "117.800",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Let him which is on the housetop not come down to take any thing out of his house:"
+   ]
+  },
+  {
+   "begin": "117.800",
+   "children": [],
+   "end": "122.200",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "Neither let him which is in the field return back to take his clothes."
+   ]
+  },
+  {
+   "begin": "122.200",
+   "children": [],
+   "end": "128.560",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And woe unto them that are with child, and to them that give suck in those days!"
+   ]
+  },
+  {
+   "begin": "128.560",
+   "children": [],
+   "end": "133.800",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "But pray ye that your flight be not in the winter, neither on the sabbath day:"
+   ]
+  },
+  {
+   "begin": "133.800",
+   "children": [],
+   "end": "142.120",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be."
+   ]
+  },
+  {
+   "begin": "142.120",
+   "children": [],
+   "end": "151.640",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened."
+   ]
+  },
+  {
+   "begin": "151.640",
+   "children": [],
+   "end": "158.640",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Then if any man shall say unto you, Lo, here is Christ, or there; believe it not."
+   ]
+  },
+  {
+   "begin": "158.640",
+   "children": [],
+   "end": "169.840",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect."
+   ]
+  },
+  {
+   "begin": "169.840",
+   "children": [],
+   "end": "173.600",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Behold, I have told you before."
+   ]
+  },
+  {
+   "begin": "173.600",
+   "children": [],
+   "end": "183.360",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not."
+   ]
+  },
+  {
+   "begin": "183.360",
+   "children": [],
+   "end": "190.720",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be."
+   ]
+  },
+  {
+   "begin": "190.720",
+   "children": [],
+   "end": "197.120",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "For wheresoever the carcase is, there will the eagles be gathered together."
+   ]
+  },
+  {
+   "begin": "197.120",
+   "children": [],
+   "end": "208.120",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
+   ]
+  },
+  {
+   "begin": "208.120",
+   "children": [],
+   "end": "219.440",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory."
+   ]
+  },
+  {
+   "begin": "219.440",
+   "children": [],
+   "end": "229.360",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other."
+   ]
+  },
+  {
+   "begin": "229.360",
+   "children": [],
+   "end": "239.280",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:"
+   ]
+  },
+  {
+   "begin": "239.280",
+   "children": [],
+   "end": "247.800",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "So likewise ye, when ye shall see all these things, know that it is near, even at the doors."
+   ]
+  },
+  {
+   "begin": "247.800",
+   "children": [],
+   "end": "254.600",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Verily I say unto you, This generation shall not pass, till all these things be fulfilled."
+   ]
+  },
+  {
+   "begin": "254.600",
+   "children": [],
+   "end": "260.080",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Heaven and earth shall pass away, but my words shall not pass away."
+   ]
+  },
+  {
+   "begin": "260.080",
+   "children": [],
+   "end": "268.040",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only."
+   ]
+  },
+  {
+   "begin": "268.040",
+   "children": [],
+   "end": "272.640",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "But as the days of Noe were, so shall also the coming of the Son of man be."
+   ]
+  },
+  {
+   "begin": "272.640",
+   "children": [],
+   "end": "281.240",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,"
+   ]
+  },
+  {
+   "begin": "281.240",
+   "children": [],
+   "end": "287.960",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
+   ]
+  },
+  {
+   "begin": "287.960",
+   "children": [],
+   "end": "292.200",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Then shall two be in the field; the one shall be taken, and the other left."
+   ]
+  },
+  {
+   "begin": "292.200",
+   "children": [],
+   "end": "299.160",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Two women shall be grinding at the mill; the one shall be taken, and the other left."
+   ]
+  },
+  {
+   "begin": "299.160",
+   "children": [],
+   "end": "306.360",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "Watch therefore: for ye know not what hour your Lord doth come."
+   ]
+  },
+  {
+   "begin": "306.360",
+   "children": [],
+   "end": "315.800",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up."
+   ]
+  },
+  {
+   "begin": "315.800",
+   "children": [],
+   "end": "322.320",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh."
+   ]
+  },
+  {
+   "begin": "322.320",
+   "children": [],
+   "end": "332.840",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?"
+   ]
+  },
+  {
+   "begin": "332.840",
+   "children": [],
+   "end": "338.080",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "Blessed is that servant, whom his lord when he cometh shall find so doing."
+   ]
+  },
+  {
+   "begin": "338.080",
+   "children": [],
+   "end": "343.400",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "Verily I say unto you, That he shall make him ruler over all his goods."
+   ]
+  },
+  {
+   "begin": "343.400",
+   "children": [],
+   "end": "348.680",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "But and if that evil servant shall say in his heart, My lord delayeth his coming;"
+   ]
+  },
+  {
+   "begin": "348.680",
+   "children": [],
+   "end": "353.040",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And shall begin to smite his fellowservants, and to eat and drink with the drunken;"
+   ]
+  },
+  {
+   "begin": "353.040",
+   "children": [],
+   "end": "359.240",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,"
+   ]
+  },
+  {
+   "begin": "359.240",
+   "children": [],
+   "end": "367.560",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth."
+   ]
+  }
+ ]
+}
