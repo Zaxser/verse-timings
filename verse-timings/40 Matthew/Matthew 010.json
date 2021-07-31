@@ -1,0 +1,296 @@
+[
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 1,
+    "start": 2.21,
+    "end": 11.48
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 2,
+    "start": 12.63,
+    "end": 22.549999999999997
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 3,
+    "start": 23.12,
+    "end": 31.88
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 4,
+    "start": 33.349999,
+    "end": 37.92
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 5,
+    "start": 39.23,
+    "end": 47.699999999999996
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 6,
+    "start": 48.44,
+    "end": 51.44
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 7,
+    "start": 52.539999,
+    "end": 56.379999999999995
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 8,
+    "start": 57.55,
+    "end": 65.45
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 9,
+    "start": 66.63,
+    "end": 69.619999
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 10,
+    "start": 69.759999,
+    "end": 77.19
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 11,
+    "start": 77.88,
+    "end": 83.97
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 12,
+    "start": 84.559999,
+    "end": 86.72
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 13,
+    "start": 87.059999,
+    "end": 93.32
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 14,
+    "start": 94.27999999999999,
+    "end": 100.92
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 15,
+    "start": 101.66,
+    "end": 107.72000000000001
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 16,
+    "start": 109.84,
+    "end": 122.579999
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 17,
+    "start": 123.74,
+    "end": 130.23999999999998
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 18,
+    "start": 130.89,
+    "end": 136.51
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 19,
+    "start": 137.67,
+    "end": 146.82999999999998
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 20,
+    "start": 147.28,
+    "end": 151.15
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 21,
+    "start": 151.15,
+    "end": 162.42000000000002
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 22,
+    "start": 163.62,
+    "end": 170.55
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 23,
+    "start": 172.21,
+    "end": 182.38
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 24,
+    "start": 183.71,
+    "end": 187.76
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 25,
+    "start": 188.67,
+    "end": 199.46
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 26,
+    "start": 200.66,
+    "end": 206.56
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 27,
+    "start": 207.38,
+    "end": 214.969999
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 28,
+    "start": 216.5,
+    "end": 225.20000000000002
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 29,
+    "start": 226.26,
+    "end": 232.19
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 30,
+    "start": 233.459999,
+    "end": 236.16
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 31,
+    "start": 237.12,
+    "end": 241.54999999999998
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 32,
+    "start": 243.13,
+    "end": 248.32
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 33,
+    "start": 248.77,
+    "end": 253.68
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 34,
+    "start": 255.43,
+    "end": 263.41
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 35,
+    "start": 264.54,
+    "end": 271.22999999999996
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 36,
+    "start": 272.05,
+    "end": 275.01000000000005
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 37,
+    "start": 276.17,
+    "end": 283.39999900000004
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 38,
+    "start": 284.719999,
+    "end": 288.90999999999997
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 39,
+    "start": 290.6,
+    "end": 292.1
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 40,
+    "start": 292.1,
+    "end": 301.27999900000003
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 41,
+    "start": 301.27999900000003,
+    "end": 318.54999999999995
+  },
+  {
+    "book": "Matthew",
+    "chapter": 10,
+    "verse": 42,
+    "start": 319.88,
+    "end": 331.72
+  }
+]

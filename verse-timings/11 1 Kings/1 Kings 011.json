@@ -1,0 +1,303 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 1,
+    "start": 2.36,
+    "end": 10.68
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 2,
+    "start": 11.19,
+    "end": 24.900000000000002
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 3,
+    "start": 25.93,
+    "end": 33.62
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 4,
+    "start": 34.469999,
+    "end": 43.669999999999995
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 5,
+    "start": 44.38,
+    "end": 50.58
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 6,
+    "start": 51.299999,
+    "end": 56.03
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 7,
+    "start": 56.83,
+    "end": 65.19
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 8,
+    "start": 66.34,
+    "end": 72.18
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 9,
+    "start": 73.73,
+    "end": 79.9
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 10,
+    "start": 80.09,
+    "end": 87.34
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 11,
+    "start": 88.109999,
+    "end": 100.33
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 12,
+    "start": 101.25,
+    "end": 107.999999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 13,
+    "start": 109.469999,
+    "end": 118.82
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 14,
+    "start": 120.44,
+    "end": 126.109999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 15,
+    "start": 126.809999,
+    "end": 134.89
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 16,
+    "start": 134.889999,
+    "end": 139.71
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 17,
+    "start": 141.24,
+    "end": 148.0
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 18,
+    "start": 148.98,
+    "end": 159.35
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 19,
+    "start": 160.309999,
+    "end": 167.70000000000002
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 20,
+    "start": 168.48,
+    "end": 178.66
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 21,
+    "start": 179.93,
+    "end": 189.029999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 22,
+    "start": 189.69,
+    "end": 199.79
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 23,
+    "start": 201.8,
+    "end": 208.24
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 24,
+    "start": 208.85000000000002,
+    "end": 217.94000000000003
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 25,
+    "start": 218.77,
+    "end": 226.60999999999999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 26,
+    "start": 228.15,
+    "end": 237.65
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 27,
+    "start": 238.28,
+    "end": 245.29999999999998
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 28,
+    "start": 245.62,
+    "end": 253.85999999999999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 29,
+    "start": 254.55,
+    "end": 265.46999999999997
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 30,
+    "start": 265.98,
+    "end": 270.309999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 31,
+    "start": 270.549999,
+    "end": 281.78999899999997
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 32,
+    "start": 282.53,
+    "end": 289.12
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 33,
+    "start": 289.94,
+    "end": 305.77
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 34,
+    "start": 305.779999,
+    "end": 316.65999999999997
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 35,
+    "start": 317.55,
+    "end": 322.78
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 36,
+    "start": 323.289999,
+    "end": 331.73
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 37,
+    "start": 332.69,
+    "end": 338.52999900000003
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 38,
+    "start": 339.289999,
+    "end": 356.82
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 39,
+    "start": 357.599999,
+    "end": 362.08
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 40,
+    "start": 364.33,
+    "end": 373.34999999999997
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 41,
+    "start": 375.24,
+    "end": 381.2
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 42,
+    "start": 381.95,
+    "end": 385.98
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 43,
+    "start": 386.65,
+    "end": 393.60999899999996
+  }
+]

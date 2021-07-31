@@ -1,0 +1,72 @@
+[
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 1,
+    "start": 13.679999,
+    "end": 24.32
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 2,
+    "start": 25.22,
+    "end": 33.8
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 3,
+    "start": 34.559999000000005,
+    "end": 45.339999999999996
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 4,
+    "start": 46.12,
+    "end": 49.599999000000004
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 5,
+    "start": 51.099999,
+    "end": 59.77
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 6,
+    "start": 61.1,
+    "end": 67.88
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 7,
+    "start": 69.03,
+    "end": 76.85000000000001
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 8,
+    "start": 77.98,
+    "end": 83.74000000000001
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 9,
+    "start": 84.469999,
+    "end": 90.94999999999999
+  },
+  {
+    "book": "1 John",
+    "chapter": 1,
+    "verse": 10,
+    "start": 92.14,
+    "end": 97.57
+  }
+]

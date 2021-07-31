@@ -1,0 +1,72 @@
+[
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 1,
+    "start": 0.94,
+    "end": 4.41
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 2,
+    "start": 4.57,
+    "end": 10.06
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 3,
+    "start": 11.08,
+    "end": 18.98
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 4,
+    "start": 19.44,
+    "end": 26.7
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 5,
+    "start": 27.759999999999998,
+    "end": 34.6
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 6,
+    "start": 35.199999,
+    "end": 42.26
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 7,
+    "start": 42.7,
+    "end": 54.56
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 8,
+    "start": 55.109999,
+    "end": 64.22999999999999
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 9,
+    "start": 64.26,
+    "end": 69.749999
+  },
+  {
+    "book": "Jonah",
+    "chapter": 3,
+    "verse": 10,
+    "start": 71.48,
+    "end": 79.59
+  }
+]

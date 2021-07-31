@@ -1,0 +1,44 @@
+[
+  {
+    "book": "Malachi",
+    "chapter": 4,
+    "verse": 1,
+    "start": 1.84,
+    "end": 15.51
+  },
+  {
+    "book": "Malachi",
+    "chapter": 4,
+    "verse": 2,
+    "start": 16.389999,
+    "end": 26.040000000000003
+  },
+  {
+    "book": "Malachi",
+    "chapter": 4,
+    "verse": 3,
+    "start": 26.91,
+    "end": 34.12
+  },
+  {
+    "book": "Malachi",
+    "chapter": 4,
+    "verse": 4,
+    "start": 35.129999,
+    "end": 41.99
+  },
+  {
+    "book": "Malachi",
+    "chapter": 4,
+    "verse": 5,
+    "start": 43.2,
+    "end": 49.59
+  },
+  {
+    "book": "Malachi",
+    "chapter": 4,
+    "verse": 6,
+    "start": 50.589999,
+    "end": 59.33
+  }
+]

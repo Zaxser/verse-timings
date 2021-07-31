@@ -1,0 +1,366 @@
+[
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 1,
+    "start": 2.25,
+    "end": 10.93
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 2,
+    "start": 12.08,
+    "end": 18.429999
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 3,
+    "start": 18.43,
+    "end": 21.689999999999998
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 4,
+    "start": 22.52,
+    "end": 26.98
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 5,
+    "start": 27.86,
+    "end": 32.46
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 6,
+    "start": 32.86,
+    "end": 36.220000000000006
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 7,
+    "start": 36.719999,
+    "end": 41.17
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 8,
+    "start": 41.47,
+    "end": 46.96
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 9,
+    "start": 47.849999,
+    "end": 51.410000000000004
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 10,
+    "start": 52.619999,
+    "end": 55.41
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 11,
+    "start": 55.59,
+    "end": 60.699999999999996
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 12,
+    "start": 61.34,
+    "end": 65.39999999999999
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 13,
+    "start": 66.42,
+    "end": 71.16000000000001
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 14,
+    "start": 71.709999,
+    "end": 80.31
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 15,
+    "start": 81.469999,
+    "end": 87.42
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 16,
+    "start": 88.93,
+    "end": 92.3
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 17,
+    "start": 93.35,
+    "end": 101.27999999999999
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 18,
+    "start": 102.219999,
+    "end": 109.24000000000001
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 19,
+    "start": 109.25000000000001,
+    "end": 123.07000000000001
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 20,
+    "start": 125.049999,
+    "end": 128.4
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 21,
+    "start": 129.55,
+    "end": 144.079999
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 22,
+    "start": 145.509999,
+    "end": 150.17000000000002
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 23,
+    "start": 151.01,
+    "end": 157.42999999999998
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 24,
+    "start": 158.4,
+    "end": 168.3
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 25,
+    "start": 169.12,
+    "end": 174.91
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 26,
+    "start": 176.24,
+    "end": 181.46
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 27,
+    "start": 182.6,
+    "end": 191.66
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 28,
+    "start": 193.32,
+    "end": 197.399999
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 29,
+    "start": 197.91,
+    "end": 210.71
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 30,
+    "start": 211.059999,
+    "end": 224.79000000000002
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 31,
+    "start": 225.77,
+    "end": 229.48
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 32,
+    "start": 231.0,
+    "end": 243.07999999999998
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 33,
+    "start": 243.309999,
+    "end": 254.0
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 34,
+    "start": 254.79,
+    "end": 262.40000000000003
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 35,
+    "start": 263.54,
+    "end": 270.91
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 36,
+    "start": 271.96,
+    "end": 275.01000000000005
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 37,
+    "start": 275.81,
+    "end": 282.24
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 38,
+    "start": 283.53,
+    "end": 293.84000000000003
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 39,
+    "start": 294.98,
+    "end": 306.17
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 40,
+    "start": 306.939999,
+    "end": 313.08
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 41,
+    "start": 314.12,
+    "end": 318.09999999999997
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 42,
+    "start": 318.38,
+    "end": 330.04
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 43,
+    "start": 331.15,
+    "end": 336.94
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 44,
+    "start": 337.53,
+    "end": 340.78999899999997
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 45,
+    "start": 341.85,
+    "end": 349.73
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 46,
+    "start": 351.44,
+    "end": 360.91
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 47,
+    "start": 361.4,
+    "end": 367.69
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 48,
+    "start": 368.38,
+    "end": 374.46
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 49,
+    "start": 375.46,
+    "end": 383.90999999999997
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 50,
+    "start": 384.95,
+    "end": 388.63
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 51,
+    "start": 389.36,
+    "end": 399.49
+  },
+  {
+    "book": "Mark",
+    "chapter": 10,
+    "verse": 52,
+    "start": 400.55,
+    "end": 411.15
+  }
+]

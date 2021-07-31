@@ -1,0 +1,37 @@
+[
+  {
+    "book": "Hosea",
+    "chapter": 3,
+    "verse": 1,
+    "start": 2.04,
+    "end": 12.94
+  },
+  {
+    "book": "Hosea",
+    "chapter": 3,
+    "verse": 2,
+    "start": 14.17,
+    "end": 19.94
+  },
+  {
+    "book": "Hosea",
+    "chapter": 3,
+    "verse": 3,
+    "start": 20.509999999999998,
+    "end": 29.23
+  },
+  {
+    "book": "Hosea",
+    "chapter": 3,
+    "verse": 4,
+    "start": 30.34,
+    "end": 38.35
+  },
+  {
+    "book": "Hosea",
+    "chapter": 3,
+    "verse": 5,
+    "start": 39.08,
+    "end": 46.68
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 1,
+    "start": 3.01,
+    "end": 9.48
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 2,
+    "start": 10.27,
+    "end": 17.450000000000003
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 3,
+    "start": 18.34,
+    "end": 23.56
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 4,
+    "start": 24.44,
+    "end": 31.45
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 5,
+    "start": 32.480000000000004,
+    "end": 37.39
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 6,
+    "start": 39.16,
+    "end": 47.599999000000004
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 7,
+    "start": 48.62,
+    "end": 58.39
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 8,
+    "start": 59.230000000000004,
+    "end": 65.119999
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 9,
+    "start": 65.52,
+    "end": 70.01
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 10,
+    "start": 71.82,
+    "end": 74.16
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 11,
+    "start": 75.1,
+    "end": 82.87
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 12,
+    "start": 83.53999999999999,
+    "end": 90.689999
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 13,
+    "start": 91.629999,
+    "end": 97.19999999999999
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 14,
+    "start": 98.46999999999998,
+    "end": 110.46000000000001
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 15,
+    "start": 111.39,
+    "end": 119.67999999999999
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 16,
+    "start": 120.46000000000001,
+    "end": 128.34
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 17,
+    "start": 129.87,
+    "end": 138.36999899999998
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 18,
+    "start": 139.73,
+    "end": 145.44
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 19,
+    "start": 146.14,
+    "end": 157.89000000000001
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 20,
+    "start": 159.36,
+    "end": 163.32999999999998
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 21,
+    "start": 164.69,
+    "end": 170.76
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 22,
+    "start": 170.76,
+    "end": 176.98
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 23,
+    "start": 178.190001,
+    "end": 183.9
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 24,
+    "start": 184.61,
+    "end": 191.539999
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 25,
+    "start": 192.639999,
+    "end": 205.38
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 26,
+    "start": 206.91,
+    "end": 212.54
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 27,
+    "start": 213.27,
+    "end": 219.57000000000002
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 28,
+    "start": 221.37,
+    "end": 231.67
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 29,
+    "start": 232.809999,
+    "end": 239.29
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 30,
+    "start": 240.68,
+    "end": 247.209999
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 31,
+    "start": 249.5,
+    "end": 255.23
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 32,
+    "start": 256.15,
+    "end": 267.11999899999995
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 33,
+    "start": 268.17,
+    "end": 276.53000000000003
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 34,
+    "start": 277.97,
+    "end": 293.29999999999995
+  },
+  {
+    "book": "Luke",
+    "chapter": 13,
+    "verse": 35,
+    "start": 294.71,
+    "end": 306.84999999999997
+  }
+]

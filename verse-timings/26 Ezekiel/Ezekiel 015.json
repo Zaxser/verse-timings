@@ -1,0 +1,58 @@
+[
+  {
+    "book": "Ezekiel",
+    "chapter": 15,
+    "verse": 1,
+    "start": 1.12,
+    "end": 3.79
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 15,
+    "verse": 2,
+    "start": 4.01,
+    "end": 10.91
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 15,
+    "verse": 3,
+    "start": 11.759999,
+    "end": 17.380000000000003
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 15,
+    "verse": 4,
+    "start": 18.07,
+    "end": 26.54
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 15,
+    "verse": 5,
+    "start": 27.28,
+    "end": 35.08
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 15,
+    "verse": 6,
+    "start": 36.219999,
+    "end": 44.480000000000004
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 15,
+    "verse": 7,
+    "start": 45.03,
+    "end": 54.620000000000005
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 15,
+    "verse": 8,
+    "start": 55.21,
+    "end": 59.89
+  }
+]

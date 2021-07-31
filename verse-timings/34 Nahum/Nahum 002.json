@@ -1,0 +1,93 @@
+[
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 1,
+    "start": 1.98,
+    "end": 10.35
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 2,
+    "start": 10.95,
+    "end": 19.04
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 3,
+    "start": 19.78,
+    "end": 30.04
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 4,
+    "start": 30.309998999999998,
+    "end": 38.98
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 5,
+    "start": 39.76,
+    "end": 47.229999
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 6,
+    "start": 47.94,
+    "end": 51.1
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 7,
+    "start": 51.679999,
+    "end": 58.949999999999996
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 8,
+    "start": 60.17,
+    "end": 69.67999999999999
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 9,
+    "start": 70.59,
+    "end": 77.19000000000001
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 10,
+    "start": 77.9,
+    "end": 86.63
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 11,
+    "start": 87.5,
+    "end": 95.99
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 12,
+    "start": 96.99,
+    "end": 104.71
+  },
+  {
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 13,
+    "start": 106.32,
+    "end": 119.24
+  }
+]

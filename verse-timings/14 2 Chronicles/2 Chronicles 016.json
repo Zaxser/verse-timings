@@ -1,0 +1,100 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 1,
+    "start": 1.94,
+    "end": 10.99
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 2,
+    "start": 11.65,
+    "end": 20.0
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 3,
+    "start": 20.36,
+    "end": 31.729999
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 4,
+    "start": 32.519999999999996,
+    "end": 41.57
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 5,
+    "start": 41.79,
+    "end": 47.3
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 6,
+    "start": 48.349999,
+    "end": 57.48
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 7,
+    "start": 58.98,
+    "end": 72.749999
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 8,
+    "start": 73.699999,
+    "end": 82.97
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 9,
+    "start": 83.61,
+    "end": 97.37
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 10,
+    "start": 98.36,
+    "end": 107.33
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 11,
+    "start": 108.59,
+    "end": 114.11
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 12,
+    "start": 114.76,
+    "end": 126.52
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 13,
+    "start": 128.1,
+    "end": 132.48
+  },
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 14,
+    "start": 132.98,
+    "end": 146.81
+  }
+]

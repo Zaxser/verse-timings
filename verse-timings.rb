@@ -8,14 +8,16 @@
 # Which works fantastically. All I have to do is adjust it into a faraday
 # request.
 
-require "Kj"
+require "kj"
 require "faraday"
 require "json"
 require "fileutils"
 require "mp3info"
+require "humanize"
 
 # Gentle's readme says the localhost is on 8765; it lied.
-url = "http://localhost:49154"
+url = "http://localhost:49153"
+
 
 conn = Faraday.new(url: url) do |faraday|
   faraday.request :multipart #make sure this is set before url_encoded
@@ -29,7 +31,7 @@ Dir.foreach("audio-chapters").each do |audio_chapter|
   chapter = audio_chapter.split(" ")[-1].split(".")[0].to_i
 
   # Getting rid of Roman Numerals is always more complicated than you think.
-  words = book_name.split(" ").map do |word|
+  chapter = audio_chapter.split(" ").map do |word|
     next "1" if word == "I"
     next "2" if word == "II"
     next "3" if word == "III"
@@ -37,8 +39,7 @@ Dir.foreach("audio-chapters").each do |audio_chapter|
   end
 
   book_name = words.join(" ")
-  book = Kj::Book.from_name_or_number(
-  )
+  book = Kj::Book.from_name_or_number(book_name)
 
   book_id = "#{book.id.to_s.rjust(2, "0")} #{book_name}"
   FileUtils.mkdir_p "text-chapters/#{book_id}"
@@ -51,11 +52,11 @@ Dir.foreach("audio-chapters").each do |audio_chapter|
   text_filepath = "text-chapters/#{path}.txt"
   verse_timings_filepath = "verse-timings/#{path}.json"
 
-
-   chapter = book.chapter(chapter)
+  chapter_number = chapter
+  chapter = book.chapter(chapter)
   # Write the chapter to a text file so it can be used by Gentle
   file = open(text_filepath, "w") do |f|
-    text = chapter.verses.inject("") {|t, v| t + "\n" + v.text}
+    text = chapter.verses.inject("") {|t, v| t + v.text + "\n"}
     f.write(text)
   end
   

@@ -1,0 +1,107 @@
+[
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 1,
+    "start": 1.0,
+    "end": 8.97
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 2,
+    "start": 9.46,
+    "end": 15.889999999999999
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 3,
+    "start": 16.609999,
+    "end": 19.73
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 4,
+    "start": 20.31,
+    "end": 24.110000000000003
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 5,
+    "start": 25.07,
+    "end": 31.01
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 6,
+    "start": 31.52,
+    "end": 35.339999
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 7,
+    "start": 36.480000000000004,
+    "end": 45.629999999999995
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 8,
+    "start": 46.67,
+    "end": 52.62
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 9,
+    "start": 53.68,
+    "end": 64.07
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 10,
+    "start": 64.36,
+    "end": 68.849999
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 11,
+    "start": 70.109999,
+    "end": 73.34
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 12,
+    "start": 74.4,
+    "end": 79.93
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 13,
+    "start": 80.599999,
+    "end": 83.12
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 14,
+    "start": 83.96000000000001,
+    "end": 88.249999
+  },
+  {
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verse": 15,
+    "start": 89.24,
+    "end": 96.33
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 1,
+    "start": 3.56,
+    "end": 14.24
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 2,
+    "start": 14.86,
+    "end": 19.55
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 3,
+    "start": 19.55,
+    "end": 27.089999000000002
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 4,
+    "start": 27.91,
+    "end": 34.17
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 5,
+    "start": 35.139999,
+    "end": 39.2
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 6,
+    "start": 40.86,
+    "end": 47.089999999999996
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 7,
+    "start": 47.639999,
+    "end": 52.589999000000006
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 8,
+    "start": 53.279999000000004,
+    "end": 56.13
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 9,
+    "start": 57.96,
+    "end": 66.6
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 10,
+    "start": 67.66,
+    "end": 75.27
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 11,
+    "start": 76.63,
+    "end": 82.74
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 12,
+    "start": 83.44,
+    "end": 91.169999
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 13,
+    "start": 92.24,
+    "end": 101.16
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 14,
+    "start": 102.24,
+    "end": 113.58
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 15,
+    "start": 114.6,
+    "end": 124.429999
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 16,
+    "start": 125.43,
+    "end": 133.41
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 17,
+    "start": 134.69,
+    "end": 142.04
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 18,
+    "start": 142.99,
+    "end": 153.9
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 19,
+    "start": 154.88,
+    "end": 162.18
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 20,
+    "start": 162.369999,
+    "end": 167.29
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 21,
+    "start": 167.48,
+    "end": 172.51
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 22,
+    "start": 173.719999,
+    "end": 179.249999
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 23,
+    "start": 179.93,
+    "end": 185.18
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 24,
+    "start": 185.76,
+    "end": 191.36
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 25,
+    "start": 192.639999,
+    "end": 198.98999999999998
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 26,
+    "start": 200.38,
+    "end": 209.37
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 27,
+    "start": 210.23,
+    "end": 218.36999999999998
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 28,
+    "start": 219.05,
+    "end": 223.64
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 29,
+    "start": 224.9,
+    "end": 229.01999899999998
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 30,
+    "start": 229.77,
+    "end": 233.01000000000002
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 31,
+    "start": 233.43,
+    "end": 237.85
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 32,
+    "start": 238.4,
+    "end": 241.8
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 33,
+    "start": 242.42,
+    "end": 248.73999999999998
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 34,
+    "start": 249.57,
+    "end": 255.44
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 35,
+    "start": 256.67,
+    "end": 261.72999999999996
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 36,
+    "start": 261.72999999999996,
+    "end": 269.33999900000003
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 37,
+    "start": 270.039999,
+    "end": 283.12
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 38,
+    "start": 284.17,
+    "end": 289.38
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 39,
+    "start": 289.87,
+    "end": 294.56
+  },
+  {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 40,
+    "start": 295.72,
+    "end": 301.90999999999997
+  }
+]

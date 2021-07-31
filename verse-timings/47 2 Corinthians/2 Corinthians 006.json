@@ -1,0 +1,128 @@
+[
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 1,
+    "start": 3.36,
+    "end": 9.03
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 2,
+    "start": 9.91,
+    "end": 20.12
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 3,
+    "start": 21.740000000000002,
+    "end": 26.03
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 4,
+    "start": 26.809998999999998,
+    "end": 34.939999
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 5,
+    "start": 35.549999,
+    "end": 43.24
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 6,
+    "start": 43.24,
+    "end": 52.150000000000006
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 7,
+    "start": 53.59,
+    "end": 59.75
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 8,
+    "start": 60.57,
+    "end": 67.74999999999999
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 9,
+    "start": 68.52,
+    "end": 76.38
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 10,
+    "start": 77.69,
+    "end": 90.57
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 11,
+    "start": 92.17999999999999,
+    "end": 97.77
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 12,
+    "start": 98.24,
+    "end": 102.73
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 13,
+    "start": 104.21000000000001,
+    "end": 110.06
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 14,
+    "start": 112.3,
+    "end": 121.0
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 15,
+    "start": 121.4,
+    "end": 127.3
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 16,
+    "start": 127.71,
+    "end": 139.71
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 17,
+    "start": 142.59,
+    "end": 149.55
+  },
+  {
+    "book": "2 Corinthians",
+    "chapter": 6,
+    "verse": 18,
+    "start": 149.55,
+    "end": 154.89
+  }
+]

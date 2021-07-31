@@ -1,0 +1,58 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verse": 1,
+    "start": 1.75,
+    "end": 15.699999
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verse": 2,
+    "start": 16.139999,
+    "end": 26.04
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verse": 3,
+    "start": 26.599999,
+    "end": 37.27
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verse": 4,
+    "start": 39.6,
+    "end": 49.139999
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verse": 5,
+    "start": 49.86,
+    "end": 58.050000000000004
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verse": 6,
+    "start": 59.019999999999996,
+    "end": 68.4
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verse": 7,
+    "start": 69.0,
+    "end": 73.049999
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verse": 8,
+    "start": 73.85,
+    "end": 78.83000000000001
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 1,
+    "start": 3.43,
+    "end": 8.66
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 2,
+    "start": 9.36,
+    "end": 13.81
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 3,
+    "start": 14.429999,
+    "end": 22.08
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 4,
+    "start": 23.2,
+    "end": 26.62
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 5,
+    "start": 28.059998999999998,
+    "end": 35.869999
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 6,
+    "start": 37.209998999999996,
+    "end": 47.25
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 7,
+    "start": 47.95,
+    "end": 52.549999
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 8,
+    "start": 53.469999,
+    "end": 63.660000000000004
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 9,
+    "start": 64.66,
+    "end": 72.89
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 10,
+    "start": 73.9,
+    "end": 80.25
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 11,
+    "start": 81.87,
+    "end": 86.27999899999999
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 12,
+    "start": 87.559999,
+    "end": 94.77
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 13,
+    "start": 95.97,
+    "end": 98.8
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 14,
+    "start": 100.26,
+    "end": 111.21000000000001
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 15,
+    "start": 112.52,
+    "end": 122.939999
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 16,
+    "start": 124.59,
+    "end": 130.26
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 17,
+    "start": 132.12,
+    "end": 136.32999999999998
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 18,
+    "start": 137.59,
+    "end": 145.61
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 19,
+    "start": 146.92,
+    "end": 157.60000000000002
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 20,
+    "start": 158.96,
+    "end": 167.88000000000002
+  },
+  {
+    "book": "Romans",
+    "chapter": 10,
+    "verse": 21,
+    "start": 168.72,
+    "end": 175.98
+  }
+]

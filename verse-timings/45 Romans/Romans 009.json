@@ -1,0 +1,233 @@
+[
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 1,
+    "start": 4.24,
+    "end": 11.28
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 2,
+    "start": 12.809999,
+    "end": 16.54
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 3,
+    "start": 18.6,
+    "end": 23.97
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 4,
+    "start": 24.490000000000002,
+    "end": 32.339999999999996
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 5,
+    "start": 33.019999999999996,
+    "end": 42.0
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 6,
+    "start": 44.13,
+    "end": 50.21
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 7,
+    "start": 51.0,
+    "end": 57.57
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 8,
+    "start": 58.19,
+    "end": 65.93
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 9,
+    "start": 67.179999,
+    "end": 73.389999
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 10,
+    "start": 74.74,
+    "end": 79.76
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 11,
+    "start": 80.19,
+    "end": 88.42
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 12,
+    "start": 89.51,
+    "end": 92.62
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 13,
+    "start": 93.7,
+    "end": 97.79
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 14,
+    "start": 100.36,
+    "end": 105.55999999999999
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 15,
+    "start": 106.26,
+    "end": 112.45
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 16,
+    "start": 114.14,
+    "end": 119.65
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 17,
+    "start": 120.469999,
+    "end": 131.06
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 18,
+    "start": 132.85,
+    "end": 137.51
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 19,
+    "start": 139.49,
+    "end": 145.94
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 20,
+    "start": 147.78,
+    "end": 157.45
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 21,
+    "start": 157.45,
+    "end": 165.67999999999998
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 22,
+    "start": 167.0,
+    "end": 174.55
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 23,
+    "start": 175.389999,
+    "end": 180.63
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 24,
+    "start": 180.92000000000002,
+    "end": 185.57
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 25,
+    "start": 186.39,
+    "end": 196.39
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 26,
+    "start": 197.609999,
+    "end": 205.4
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 27,
+    "start": 205.41,
+    "end": 214.31
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 28,
+    "start": 215.15,
+    "end": 221.65
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 29,
+    "start": 223.5,
+    "end": 232.76000000000002
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 30,
+    "start": 234.889999,
+    "end": 243.73000000000002
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 31,
+    "start": 244.71,
+    "end": 249.57999999999998
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 32,
+    "start": 250.76,
+    "end": 259.79
+  },
+  {
+    "book": "Romans",
+    "chapter": 9,
+    "verse": 33,
+    "start": 260.65,
+    "end": 268.71000000000004
+  }
+]

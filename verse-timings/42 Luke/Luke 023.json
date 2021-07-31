@@ -1,0 +1,394 @@
+[
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 1,
+    "start": 3.38,
+    "end": 5.93
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 2,
+    "start": 6.51,
+    "end": 14.840000000000002
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 3,
+    "start": 16.289999,
+    "end": 23.46
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 4,
+    "start": 24.62,
+    "end": 29.110000000000003
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 5,
+    "start": 30.02,
+    "end": 37.300000000000004
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 6,
+    "start": 38.43,
+    "end": 42.03
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 7,
+    "start": 42.81,
+    "end": 49.579999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 8,
+    "start": 50.469999,
+    "end": 60.27
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 9,
+    "start": 61.480000000000004,
+    "end": 65.87
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 10,
+    "start": 66.55000000000001,
+    "end": 70.01999900000001
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 11,
+    "start": 71.0,
+    "end": 78.52
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 12,
+    "start": 80.11,
+    "end": 85.80999899999999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 13,
+    "start": 87.2,
+    "end": 91.19
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 14,
+    "start": 91.46,
+    "end": 102.829999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 15,
+    "start": 103.61,
+    "end": 109.47000000000001
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 16,
+    "start": 110.96,
+    "end": 113.78
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 17,
+    "start": 114.79,
+    "end": 118.02
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 18,
+    "start": 118.46000000000001,
+    "end": 122.579999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 19,
+    "start": 123.2,
+    "end": 126.96
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 20,
+    "start": 128.21,
+    "end": 131.60999999999999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 21,
+    "start": 132.19,
+    "end": 135.14999899999998
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 22,
+    "start": 135.67,
+    "end": 143.979999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 23,
+    "start": 144.67000000000002,
+    "end": 151.81
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 24,
+    "start": 152.63,
+    "end": 155.689999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 25,
+    "start": 156.54,
+    "end": 164.01999999999998
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 26,
+    "start": 165.41,
+    "end": 175.07000000000002
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 27,
+    "start": 176.599999,
+    "end": 181.61
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 28,
+    "start": 182.47,
+    "end": 189.71
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 29,
+    "start": 190.849999,
+    "end": 198.96
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 30,
+    "start": 199.82,
+    "end": 204.84
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 31,
+    "start": 206.26,
+    "end": 212.25
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 32,
+    "start": 214.609999,
+    "end": 218.84
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 33,
+    "start": 219.74,
+    "end": 227.89
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 34,
+    "start": 229.34,
+    "end": 236.78
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 35,
+    "start": 237.72,
+    "end": 246.3
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 36,
+    "start": 246.799999,
+    "end": 250.10999999999999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 37,
+    "start": 250.15,
+    "end": 252.98000000000002
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 38,
+    "start": 254.04000000000002,
+    "end": 260.97
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 39,
+    "start": 262.48,
+    "end": 268.489999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 40,
+    "start": 269.32,
+    "end": 275.02
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 41,
+    "start": 275.66,
+    "end": 281.48999999999995
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 42,
+    "start": 283.28,
+    "end": 287.499999
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 43,
+    "start": 288.789999,
+    "end": 294.34000000000003
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 44,
+    "start": 295.93,
+    "end": 301.10999999999996
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 45,
+    "start": 302.21,
+    "end": 307.46999999999997
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 46,
+    "start": 308.92,
+    "end": 318.89
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 47,
+    "start": 320.54,
+    "end": 326.89
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 48,
+    "start": 328.21,
+    "end": 334.14999900000004
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 49,
+    "start": 334.15,
+    "end": 341.23
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 50,
+    "start": 342.959999,
+    "end": 348.19
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 51,
+    "start": 348.94,
+    "end": 356.94
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 52,
+    "start": 358.32,
+    "end": 361.45000000000005
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 53,
+    "start": 361.87000000000006,
+    "end": 369.53000000000003
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 54,
+    "start": 370.639999,
+    "end": 374.23
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 55,
+    "start": 374.37,
+    "end": 381.62
+  },
+  {
+    "book": "Luke",
+    "chapter": 23,
+    "verse": 56,
+    "start": 382.63,
+    "end": 388.539999
+  }
+]

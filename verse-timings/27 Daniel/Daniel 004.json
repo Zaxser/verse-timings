@@ -1,0 +1,261 @@
+[
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 1,
+    "start": 0.37,
+    "end": 9.180000000000001
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 2,
+    "start": 10.38,
+    "end": 14.269999
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 3,
+    "start": 15.13,
+    "end": 23.4
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 4,
+    "start": 24.88,
+    "end": 29.159999999999997
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 5,
+    "start": 29.96,
+    "end": 35.22
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 6,
+    "start": 36.0,
+    "end": 42.46
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 7,
+    "start": 43.6,
+    "end": 52.46
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 8,
+    "start": 53.58,
+    "end": 64.799999
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 9,
+    "start": 65.2,
+    "end": 75.66
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 10,
+    "start": 76.42,
+    "end": 84.73
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 11,
+    "start": 85.61,
+    "end": 92.2
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 12,
+    "start": 92.98,
+    "end": 105.2
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 13,
+    "start": 106.379999,
+    "end": 112.22999999999999
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 14,
+    "start": 112.4,
+    "end": 123.69
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 15,
+    "start": 124.369999,
+    "end": 137.24
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 16,
+    "start": 138.03,
+    "end": 145.38
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 17,
+    "start": 146.37,
+    "end": 161.26000000000002
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 18,
+    "start": 163.32999999999998,
+    "end": 179.269999
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 19,
+    "start": 181.38,
+    "end": 202.79999999999998
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 20,
+    "start": 204.26,
+    "end": 210.11
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 21,
+    "start": 210.32,
+    "end": 219.04
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 22,
+    "start": 220.85,
+    "end": 230.47
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 23,
+    "start": 231.679999,
+    "end": 252.03
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 24,
+    "start": 253.48,
+    "end": 260.09999999999997
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 25,
+    "start": 261.45,
+    "end": 280.09999999999997
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 26,
+    "start": 281.2,
+    "end": 289.8
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 27,
+    "start": 290.67,
+    "end": 302.229999
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 28,
+    "start": 304.459999,
+    "end": 306.59999899999997
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 29,
+    "start": 307.38,
+    "end": 310.93
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 30,
+    "start": 311.64,
+    "end": 320.25
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 31,
+    "start": 321.03,
+    "end": 330.0
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 32,
+    "start": 330.46,
+    "end": 345.27000000000004
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 33,
+    "start": 346.61,
+    "end": 361.309999
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 34,
+    "start": 363.639999,
+    "end": 380.65000000000003
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 35,
+    "start": 381.53,
+    "end": 393.74
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 36,
+    "start": 393.74,
+    "end": 409.63
+  },
+  {
+    "book": "Daniel",
+    "chapter": 4,
+    "verse": 37,
+    "start": 410.78,
+    "end": 423.849999
+  }
+]

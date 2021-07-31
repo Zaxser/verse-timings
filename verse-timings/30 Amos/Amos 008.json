@@ -1,0 +1,100 @@
+[
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 1,
+    "start": 0,
+    "end": 5.61
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 2,
+    "start": 6.01,
+    "end": 15.889999
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 3,
+    "start": 16.57,
+    "end": 25.099999999999998
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 4,
+    "start": 26.389999,
+    "end": 31.849999
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 5,
+    "start": 31.849999,
+    "end": 42.14
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 6,
+    "start": 42.63,
+    "end": 49.11
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 7,
+    "start": 50.219999,
+    "end": 55.88
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 8,
+    "start": 56.87,
+    "end": 66.85000000000001
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 9,
+    "start": 68.45,
+    "end": 75.28
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 10,
+    "start": 75.52,
+    "end": 89.529999
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 11,
+    "start": 90.69999899999999,
+    "end": 99.7
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 12,
+    "start": 100.599999,
+    "end": 108.81999900000001
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 13,
+    "start": 109.78,
+    "end": 113.94999999999999
+  },
+  {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 14,
+    "start": 115.09,
+    "end": 126.47
+  }
+]

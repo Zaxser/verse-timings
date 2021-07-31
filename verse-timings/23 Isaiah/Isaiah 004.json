@@ -1,0 +1,44 @@
+[
+  {
+    "book": "Isaiah",
+    "chapter": 4,
+    "verse": 1,
+    "start": 2.35,
+    "end": 11.94
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 4,
+    "verse": 2,
+    "start": 12.77,
+    "end": 21.34
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 4,
+    "verse": 3,
+    "start": 22.57,
+    "end": 32.39
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 4,
+    "verse": 4,
+    "start": 33.28,
+    "end": 43.919999999999995
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 4,
+    "verse": 5,
+    "start": 43.92999999999999,
+    "end": 56.9
+  },
+  {
+    "book": "Isaiah",
+    "chapter": 4,
+    "verse": 6,
+    "start": 57.81,
+    "end": 65.07000000000001
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 1,
+    "start": 3.23,
+    "end": 6.92
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 2,
+    "start": 7.16,
+    "end": 15.12
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 3,
+    "start": 15.41,
+    "end": 21.05
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 4,
+    "start": 21.34,
+    "end": 29.54
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 5,
+    "start": 30.59,
+    "end": 38.95
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 6,
+    "start": 39.79,
+    "end": 50.080000000000005
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 7,
+    "start": 50.58,
+    "end": 55.150000000000006
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 8,
+    "start": 55.95,
+    "end": 59.32
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 9,
+    "start": 60.29,
+    "end": 66.21000000000001
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 10,
+    "start": 66.53999999999999,
+    "end": 72.19
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 11,
+    "start": 73.389999,
+    "end": 77.80999999999999
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 12,
+    "start": 78.4,
+    "end": 85.69
+  },
+  {
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verse": 13,
+    "start": 86.09,
+    "end": 95.24
+  }
+]

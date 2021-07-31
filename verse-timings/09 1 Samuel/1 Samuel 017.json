@@ -1,0 +1,408 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 1,
+    "start": 2.51,
+    "end": 11.319999
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 2,
+    "start": 12.069999,
+    "end": 17.629999
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 3,
+    "start": 17.629999,
+    "end": 24.14
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 4,
+    "start": 24.95,
+    "end": 31.7
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 5,
+    "start": 32.29,
+    "end": 39.34
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 6,
+    "start": 39.82,
+    "end": 44.019999999999996
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 7,
+    "start": 44.51,
+    "end": 54.69
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 8,
+    "start": 54.69,
+    "end": 69.62
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 9,
+    "start": 70.26,
+    "end": 79.04
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 10,
+    "start": 79.61,
+    "end": 85.939999
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 11,
+    "start": 87.16,
+    "end": 92.05
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 12,
+    "start": 92.95,
+    "end": 101.12
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 13,
+    "start": 101.65,
+    "end": 111.39
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 14,
+    "start": 112.55,
+    "end": 115.43
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 15,
+    "start": 115.78,
+    "end": 119.28999999999999
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 16,
+    "start": 119.889999,
+    "end": 123.55000000000001
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 17,
+    "start": 124.34,
+    "end": 131.45
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 18,
+    "start": 131.96,
+    "end": 138.41999900000002
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 19,
+    "start": 139.36,
+    "end": 143.780001
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 20,
+    "start": 144.799999,
+    "end": 154.24
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 21,
+    "start": 154.71,
+    "end": 158.149999
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 22,
+    "start": 158.92,
+    "end": 164.41
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 23,
+    "start": 164.83,
+    "end": 174.94
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 24,
+    "start": 175.67,
+    "end": 179.4
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 25,
+    "start": 179.73,
+    "end": 192.13
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 26,
+    "start": 193.099999,
+    "end": 206.43
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 27,
+    "start": 206.59,
+    "end": 212.32999999999998
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 28,
+    "start": 213.45,
+    "end": 229.439999
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 29,
+    "start": 230.36,
+    "end": 234.31
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 30,
+    "start": 235.42000000000002,
+    "end": 240.91
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 31,
+    "start": 241.6,
+    "end": 246.259999
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 32,
+    "start": 246.84,
+    "end": 252.76
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 33,
+    "start": 254.27,
+    "end": 261.16
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 34,
+    "start": 262.12,
+    "end": 269.53999999999996
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 35,
+    "start": 270.18,
+    "end": 277.53999999999996
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 36,
+    "start": 278.309999,
+    "end": 287.14999900000004
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 37,
+    "start": 288.32,
+    "end": 300.38
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 38,
+    "start": 301.58,
+    "end": 307.21
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 39,
+    "start": 307.73,
+    "end": 319.52
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 40,
+    "start": 320.219999,
+    "end": 330.59999999999997
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 41,
+    "start": 331.54999999999995,
+    "end": 336.09999899999997
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 42,
+    "start": 337.099999,
+    "end": 344.03
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 43,
+    "start": 344.03,
+    "end": 348.46
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 44,
+    "start": 348.46,
+    "end": 360.11
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 45,
+    "start": 360.92,
+    "end": 371.79
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 46,
+    "start": 372.34,
+    "end": 386.61
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 47,
+    "start": 387.12,
+    "end": 396.28999899999997
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 48,
+    "start": 397.59,
+    "end": 403.2
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 49,
+    "start": 403.93,
+    "end": 413.56
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 50,
+    "start": 415.26,
+    "end": 423.64
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 51,
+    "start": 424.08,
+    "end": 434.53000000000003
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 52,
+    "start": 434.7,
+    "end": 446.71999999999997
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 53,
+    "start": 446.71999999999997,
+    "end": 453.3
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 54,
+    "start": 454.39,
+    "end": 460.21
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 55,
+    "start": 461.91,
+    "end": 472.70000000000005
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 56,
+    "start": 473.44,
+    "end": 476.59
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 57,
+    "start": 477.679999,
+    "end": 483.709999
+  },
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 58,
+    "start": 484.039999,
+    "end": 491.58000000000004
+  }
+]

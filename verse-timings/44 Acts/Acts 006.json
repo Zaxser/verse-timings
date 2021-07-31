@@ -1,0 +1,107 @@
+[
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 1,
+    "start": 3.31,
+    "end": 13.149999999999999
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 2,
+    "start": 14.23,
+    "end": 21.6
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 3,
+    "start": 22.16,
+    "end": 30.74
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 4,
+    "start": 31.23,
+    "end": 35.2
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 5,
+    "start": 36.15,
+    "end": 50.690000000000005
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 6,
+    "start": 51.219999,
+    "end": 55.970000000000006
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 7,
+    "start": 57.72,
+    "end": 66.27
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 8,
+    "start": 67.42,
+    "end": 72.29999999999998
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 9,
+    "start": 74.04,
+    "end": 83.939999
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 10,
+    "start": 84.67,
+    "end": 87.959999
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 11,
+    "start": 88.959999,
+    "end": 95.4
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 12,
+    "start": 96.18,
+    "end": 102.00999999999999
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 13,
+    "start": 102.259999,
+    "end": 109.15
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 14,
+    "start": 109.28,
+    "end": 116.03999999999999
+  },
+  {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 15,
+    "start": 117.0,
+    "end": 123.58
+  }
+]

@@ -12,19 +12,30 @@ end
 
 
 book_name = "01 Genesis"
-Dir.foreach("verse-timings/#{book_name}").map {|fn| fn.split(".")[0]}.each do |chapter|
-  next unless chapter
+Dir.foreach("verse-timings") do |book_name|
+  next if book_name == ".." or book_name == "."
+  Dir.foreach("verse-timings/#{book_name}").map {|fn| fn.split(".")[0]}.each do |chapter|
+    next unless chapter
+    p chapter
+    timings = JSON.parse(open("verse-timings/#{book_name}/#{chapter}.json", "r").read())
 
-  timings = JSON.parse(open("verse-timings/01 Genesis/#{chapter}.json", "r").read())
-  input_file = "audio-chapters/#{book_name} #{chapter.split(" ")[-1]}.mp3"
+    words = book_name.split(" ").map do |word|
+      next "I" if word == "1"
+      next "II" if word == "2"
+      next "III" if word == "3"
+      word
+    end
 
-  path = "audio-verses/#{book_name}/#{chapter}"
-  FileUtils.mkdir_p path
 
-  timings.each do |timing|
-    verse = "#{chapter} #{timing["verse"].to_s.rjust(3, "0")}"
-    output_file = "audio-verses/#{book_name}/#{chapter}/#{verse}.mp3"
-    trim(input_file, timing["start"], timing["end"], output_file)
+    input_file = "audio-chapters/#{words.join(" ")} #{chapter.split(" ")[-1]}.mp3"
+
+    path = "audio-verses/#{book_name}/#{chapter}"
+    FileUtils.mkdir_p path
+
+    timings.each do |timing|
+      verse = "#{chapter} #{timing["verse"].to_s.rjust(3, "0")}"
+      output_file = "audio-verses/#{book_name}/#{chapter}/#{verse}.mp3"
+      trim(input_file, timing["start"], timing["end"], output_file)
+    end
   end
 end
-

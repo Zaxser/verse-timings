@@ -1,0 +1,93 @@
+[
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 1,
+    "start": 12.83,
+    "end": 20.15
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 2,
+    "start": 20.83,
+    "end": 23.97
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 3,
+    "start": 24.490000000000002,
+    "end": 31.18
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 4,
+    "start": 32.45,
+    "end": 38.190000000000005
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 5,
+    "start": 39.27,
+    "end": 47.120000000000005
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 6,
+    "start": 48.019999999999996,
+    "end": 56.67
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 7,
+    "start": 57.14,
+    "end": 66.02
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 8,
+    "start": 66.02,
+    "end": 71.88
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 9,
+    "start": 71.88,
+    "end": 81.96000000000001
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 10,
+    "start": 83.08,
+    "end": 89.38
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 11,
+    "start": 90.02,
+    "end": 94.45
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 12,
+    "start": 95.76,
+    "end": 103.639999
+  },
+  {
+    "book": "2 John",
+    "chapter": 1,
+    "verse": 13,
+    "start": 104.69,
+    "end": 107.53999999999999
+  }
+]

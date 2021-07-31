@@ -1,0 +1,149 @@
+[
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 1,
+    "start": 2.12,
+    "end": 6.97
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 2,
+    "start": 7.72,
+    "end": 19.71
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 3,
+    "start": 19.71,
+    "end": 27.8
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 4,
+    "start": 28.71,
+    "end": 42.81
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 5,
+    "start": 43.58,
+    "end": 49.25
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 6,
+    "start": 49.99,
+    "end": 56.08
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 7,
+    "start": 56.98,
+    "end": 62.910000000000004
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 8,
+    "start": 63.84,
+    "end": 73.11
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 9,
+    "start": 74.88,
+    "end": 83.98
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 10,
+    "start": 84.69,
+    "end": 92.31
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 11,
+    "start": 93.1,
+    "end": 102.569999
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 12,
+    "start": 103.599999,
+    "end": 109.96000000000001
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 13,
+    "start": 110.83,
+    "end": 119.78999999999999
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 14,
+    "start": 120.599999,
+    "end": 128.31
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 15,
+    "start": 129.2,
+    "end": 133.48
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 16,
+    "start": 134.309999,
+    "end": 145.56
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 17,
+    "start": 146.52,
+    "end": 157.44
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 18,
+    "start": 159.559999,
+    "end": 176.16
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 19,
+    "start": 177.599999,
+    "end": 187.13
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 20,
+    "start": 188.79,
+    "end": 194.29999999999998
+  },
+  {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 21,
+    "start": 195.549999,
+    "end": 201.99
+  }
+]

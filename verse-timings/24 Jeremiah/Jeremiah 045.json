@@ -1,0 +1,37 @@
+[
+  {
+    "book": "Jeremiah",
+    "chapter": 45,
+    "verse": 1,
+    "start": 2.4,
+    "end": 12.309999999999999
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 45,
+    "verse": 2,
+    "start": 12.91,
+    "end": 15.45
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 45,
+    "verse": 3,
+    "start": 16.15,
+    "end": 23.810000000000002
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 45,
+    "verse": 4,
+    "start": 24.86,
+    "end": 35.189999
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 45,
+    "verse": 5,
+    "start": 36.209998999999996,
+    "end": 48.57
+  }
+]

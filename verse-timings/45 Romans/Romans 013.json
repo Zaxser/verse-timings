@@ -1,0 +1,100 @@
+[
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 1,
+    "start": 4.58,
+    "end": 11.509998999999999
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 2,
+    "start": 11.509998999999999,
+    "end": 19.47
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 3,
+    "start": 20.09,
+    "end": 31.53
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 4,
+    "start": 31.91,
+    "end": 46.49
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 5,
+    "start": 48.59,
+    "end": 54.15
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 6,
+    "start": 55.119999,
+    "end": 62.5
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 7,
+    "start": 63.83,
+    "end": 72.79
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 8,
+    "start": 74.5,
+    "end": 81.32000000000001
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 9,
+    "start": 82.349999,
+    "end": 100.57
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 10,
+    "start": 102.15,
+    "end": 107.83999899999999
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 11,
+    "start": 109.959999,
+    "end": 119.35
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 12,
+    "start": 120.4,
+    "end": 128.85000000000002
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 13,
+    "start": 130.14,
+    "end": 139.47999900000002
+  },
+  {
+    "book": "Romans",
+    "chapter": 13,
+    "verse": 14,
+    "start": 140.759999,
+    "end": 146.75
+  }
+]

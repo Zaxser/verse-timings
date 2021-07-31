@@ -1,0 +1,149 @@
+[
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 1,
+    "start": 15.509999,
+    "end": 23.89
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 2,
+    "start": 24.57,
+    "end": 29.49
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 3,
+    "start": 29.91,
+    "end": 38.75
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 4,
+    "start": 39.4,
+    "end": 51.21
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 5,
+    "start": 52.309999000000005,
+    "end": 59.43
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 6,
+    "start": 59.85,
+    "end": 66.25999999999999
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 7,
+    "start": 67.10999999999999,
+    "end": 72.46000000000001
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 8,
+    "start": 73.77,
+    "end": 82.39999900000001
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 9,
+    "start": 83.49,
+    "end": 91.2
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 10,
+    "start": 92.17,
+    "end": 100.83999899999999
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 11,
+    "start": 101.69,
+    "end": 107.97999899999999
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 12,
+    "start": 109.02,
+    "end": 117.239999
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 13,
+    "start": 117.95,
+    "end": 123.71
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 14,
+    "start": 124.459999,
+    "end": 130.92000000000002
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 15,
+    "start": 132.11,
+    "end": 138.22
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 16,
+    "start": 139.04,
+    "end": 148.16000000000003
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 17,
+    "start": 148.91,
+    "end": 158.47
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 18,
+    "start": 159.17,
+    "end": 163.81
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 19,
+    "start": 165.47,
+    "end": 177.49
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 20,
+    "start": 178.0,
+    "end": 184.19
+  },
+  {
+    "book": "2 Peter",
+    "chapter": 1,
+    "verse": 21,
+    "start": 185.22,
+    "end": 193.94
+  }
+]

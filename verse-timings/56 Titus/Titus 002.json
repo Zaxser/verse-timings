@@ -1,0 +1,107 @@
+[
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 1,
+    "start": 1.56,
+    "end": 4.41
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 2,
+    "start": 5.24,
+    "end": 11.78
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 3,
+    "start": 12.58,
+    "end": 21.86
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 4,
+    "start": 22.28,
+    "end": 27.24
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 5,
+    "start": 27.78,
+    "end": 36.069998999999996
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 6,
+    "start": 37.669999,
+    "end": 40.22
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 7,
+    "start": 40.45,
+    "end": 47.87
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 8,
+    "start": 47.889999,
+    "end": 55.84
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 9,
+    "start": 57.48,
+    "end": 63.81999999999999
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 10,
+    "start": 64.55,
+    "end": 71.1
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 11,
+    "start": 71.93,
+    "end": 75.53
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 12,
+    "start": 76.16,
+    "end": 84.06
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 13,
+    "start": 84.799999,
+    "end": 90.37
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 14,
+    "start": 90.389999,
+    "end": 98.39
+  },
+  {
+    "book": "Titus",
+    "chapter": 2,
+    "verse": 15,
+    "start": 99.36,
+    "end": 105.78
+  }
+]

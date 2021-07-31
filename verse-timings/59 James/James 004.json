@@ -1,0 +1,121 @@
+[
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 1,
+    "start": 2.45,
+    "end": 11.11
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 2,
+    "start": 12.13,
+    "end": 22.63
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 3,
+    "start": 23.96,
+    "end": 29.53
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 4,
+    "start": 31.03,
+    "end": 42.37
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 5,
+    "start": 43.480000000000004,
+    "end": 48.98
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 6,
+    "start": 50.44,
+    "end": 56.92
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 7,
+    "start": 57.56,
+    "end": 61.85
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 8,
+    "start": 62.639999,
+    "end": 70.83999899999999
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 9,
+    "start": 71.629999,
+    "end": 78.06
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 10,
+    "start": 78.06,
+    "end": 81.49999899999999
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 11,
+    "start": 83.21000000000001,
+    "end": 96.66
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 12,
+    "start": 97.67,
+    "end": 103.45
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 13,
+    "start": 105.23,
+    "end": 112.58
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 14,
+    "start": 113.52,
+    "end": 124.49000000000001
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 15,
+    "start": 125.94999899999999,
+    "end": 131.27
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 16,
+    "start": 132.39,
+    "end": 136.72
+  },
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 17,
+    "start": 137.44,
+    "end": 141.99
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 1,
+    "start": 4.98,
+    "end": 21.97
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 2,
+    "start": 22.44,
+    "end": 33.34
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 3,
+    "start": 34.16,
+    "end": 40.730000000000004
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 4,
+    "start": 40.980000000000004,
+    "end": 47.32
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 5,
+    "start": 48.469999,
+    "end": 56.31
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 6,
+    "start": 56.89,
+    "end": 65.23
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 7,
+    "start": 66.11,
+    "end": 72.209999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 8,
+    "start": 72.969999,
+    "end": 81.72000000000001
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 9,
+    "start": 83.32000000000001,
+    "end": 93.31
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 10,
+    "start": 93.78,
+    "end": 98.17999999999999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 11,
+    "start": 98.9,
+    "end": 107.75
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 12,
+    "start": 108.4,
+    "end": 114.43
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 13,
+    "start": 114.8,
+    "end": 127.78
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 14,
+    "start": 128.5,
+    "end": 134.24
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 15,
+    "start": 135.23,
+    "end": 141.64
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 16,
+    "start": 141.64,
+    "end": 146.45
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 17,
+    "start": 147.01,
+    "end": 155.989999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 18,
+    "start": 156.389999,
+    "end": 161.09
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 19,
+    "start": 161.629999,
+    "end": 171.38
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 20,
+    "start": 172.15,
+    "end": 178.52999899999998
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 21,
+    "start": 179.199999,
+    "end": 185.19
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 22,
+    "start": 187.2,
+    "end": 190.25
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 23,
+    "start": 190.25,
+    "end": 198.22
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 24,
+    "start": 198.92000000000002,
+    "end": 205.22
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 25,
+    "start": 205.93,
+    "end": 218.37
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 26,
+    "start": 219.47,
+    "end": 226.13
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 27,
+    "start": 227.139999,
+    "end": 235.03
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 28,
+    "start": 236.48,
+    "end": 242.5
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 29,
+    "start": 243.83,
+    "end": 248.17000000000002
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 30,
+    "start": 248.74,
+    "end": 259.53
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 31,
+    "start": 260.98,
+    "end": 267.38
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 32,
+    "start": 268.379999,
+    "end": 276.41
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 33,
+    "start": 277.35,
+    "end": 284.49
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 34,
+    "start": 285.32,
+    "end": 294.78000000000003
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 35,
+    "start": 296.03,
+    "end": 305.71000000000004
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 36,
+    "start": 305.71000000000004,
+    "end": 314.16
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 37,
+    "start": 315.17,
+    "end": 321.369999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 38,
+    "start": 322.76,
+    "end": 332.44
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 39,
+    "start": 333.37,
+    "end": 342.8
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 40,
+    "start": 343.61,
+    "end": 352.249999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 41,
+    "start": 352.249999,
+    "end": 362.7
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 42,
+    "start": 363.12,
+    "end": 370.9
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 43,
+    "start": 371.41,
+    "end": 375.85
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 44,
+    "start": 375.85,
+    "end": 384.52000000000004
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 45,
+    "start": 384.77,
+    "end": 393.35
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 46,
+    "start": 393.78,
+    "end": 396.32
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 47,
+    "start": 396.77,
+    "end": 407.66999999999996
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 48,
+    "start": 408.46,
+    "end": 417.08
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 49,
+    "start": 419.3,
+    "end": 425.05999899999995
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 50,
+    "start": 426.219999,
+    "end": 430.609999
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 51,
+    "start": 431.359999,
+    "end": 442.16
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 52,
+    "start": 443.17,
+    "end": 452.36
+  },
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 53,
+    "start": 453.65,
+    "end": 462.15
+  }
+]

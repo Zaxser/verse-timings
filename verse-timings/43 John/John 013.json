@@ -1,0 +1,268 @@
+[
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 1,
+    "start": 3.24,
+    "end": 14.469999999999999
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 2,
+    "start": 15.309999,
+    "end": 21.080000000000002
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 3,
+    "start": 21.72,
+    "end": 27.64
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 4,
+    "start": 28.42,
+    "end": 34.259999
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 5,
+    "start": 35.17,
+    "end": 43.24
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 6,
+    "start": 44.45,
+    "end": 49.5
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 7,
+    "start": 50.299999,
+    "end": 56.7
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 8,
+    "start": 57.66,
+    "end": 65.06
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 9,
+    "start": 66.13,
+    "end": 70.55
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 10,
+    "start": 71.5,
+    "end": 82.439999
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 11,
+    "start": 83.809999,
+    "end": 87.53999999999999
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 12,
+    "start": 88.859999,
+    "end": 96.06
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 13,
+    "start": 97.15,
+    "end": 102.03999999999999
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 14,
+    "start": 103.16,
+    "end": 110.03
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 15,
+    "start": 110.92,
+    "end": 114.45
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 16,
+    "start": 114.45,
+    "end": 122.499999
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 17,
+    "start": 123.71000000000001,
+    "end": 127.21
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 18,
+    "start": 129.06,
+    "end": 141.179999
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 19,
+    "start": 142.92000000000002,
+    "end": 148.01
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 20,
+    "start": 148.01,
+    "end": 157.48999999999998
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 21,
+    "start": 159.49,
+    "end": 169.48000000000002
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 22,
+    "start": 170.96,
+    "end": 174.27
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 23,
+    "start": 175.16,
+    "end": 179.32
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 24,
+    "start": 180.17,
+    "end": 184.73999999999998
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 25,
+    "start": 185.45,
+    "end": 189.60999999999999
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 26,
+    "start": 191.28,
+    "end": 201.57
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 27,
+    "start": 203.01,
+    "end": 211.75
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 28,
+    "start": 213.63,
+    "end": 217.05
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 29,
+    "start": 217.469999,
+    "end": 226.34
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 30,
+    "start": 227.19,
+    "end": 232.719999
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 31,
+    "start": 234.52,
+    "end": 241.29
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 32,
+    "start": 242.46,
+    "end": 248.5
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 33,
+    "start": 250.809999,
+    "end": 263.88
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 34,
+    "start": 265.99,
+    "end": 274.82
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 35,
+    "start": 276.32,
+    "end": 280.96
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 36,
+    "start": 282.849999,
+    "end": 292.22999999999996
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 37,
+    "start": 293.35,
+    "end": 297.81
+  },
+  {
+    "book": "John",
+    "chapter": 13,
+    "verse": 38,
+    "start": 299.139999,
+    "end": 311.62
+  }
+]

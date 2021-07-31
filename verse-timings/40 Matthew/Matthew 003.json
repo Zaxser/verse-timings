@@ -1,0 +1,121 @@
+[
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 1,
+    "start": 1.97,
+    "end": 5.12
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 2,
+    "start": 5.12,
+    "end": 8.859999
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 3,
+    "start": 9.55,
+    "end": 18.760001
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 4,
+    "start": 19.330001,
+    "end": 27.029999999999998
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 5,
+    "start": 28.130000000000003,
+    "end": 32.379999999999995
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 6,
+    "start": 32.61,
+    "end": 35.63
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 7,
+    "start": 36.619999,
+    "end": 46.419999999999995
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 8,
+    "start": 47.19,
+    "end": 49.86
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 9,
+    "start": 50.309999,
+    "end": 60.49
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 10,
+    "start": 61.31,
+    "end": 70.44
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 11,
+    "start": 71.84,
+    "end": 85.63
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 12,
+    "start": 86.53,
+    "end": 95.86
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 13,
+    "start": 98.08,
+    "end": 102.16999899999999
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 14,
+    "start": 102.44,
+    "end": 108.78
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 15,
+    "start": 109.79,
+    "end": 118.769999
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 16,
+    "start": 119.88,
+    "end": 131.23
+  },
+  {
+    "book": "Matthew",
+    "chapter": 3,
+    "verse": 17,
+    "start": 132.01,
+    "end": 138.49
+  }
+]

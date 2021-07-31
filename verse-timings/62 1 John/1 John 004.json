@@ -1,0 +1,149 @@
+[
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 1,
+    "start": 2.65,
+    "end": 11.110000000000001
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 2,
+    "start": 12.09,
+    "end": 18.87
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 3,
+    "start": 19.34,
+    "end": 31.26
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 4,
+    "start": 33.07,
+    "end": 40.709999999999994
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 5,
+    "start": 41.37,
+    "end": 46.1
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 6,
+    "start": 47.46,
+    "end": 58.31
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 7,
+    "start": 59.980000000000004,
+    "end": 67.52
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 8,
+    "start": 68.25,
+    "end": 72.28999999999999
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 9,
+    "start": 74.22,
+    "end": 81.92
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 10,
+    "start": 83.44,
+    "end": 92.09
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 11,
+    "start": 93.41,
+    "end": 99.33
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 12,
+    "start": 101.24,
+    "end": 108.69
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 13,
+    "start": 110.75,
+    "end": 116.23
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 14,
+    "start": 117.19,
+    "end": 122.00999999999999
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 15,
+    "start": 123.099999,
+    "end": 127.8
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 16,
+    "start": 128.6,
+    "end": 137.969999
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 17,
+    "start": 139.609999,
+    "end": 147.06
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 18,
+    "start": 148.77,
+    "end": 159.91000000000003
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 19,
+    "start": 161.59,
+    "end": 164.38
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 20,
+    "start": 166.35,
+    "end": 178.73999899999998
+  },
+  {
+    "book": "1 John",
+    "chapter": 4,
+    "verse": 21,
+    "start": 180.35,
+    "end": 186.32999999999998
+  }
+]

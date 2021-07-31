@@ -1,0 +1,100 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 1,
+    "start": 2.01,
+    "end": 8.33
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 2,
+    "start": 8.61,
+    "end": 16.94
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 3,
+    "start": 17.6,
+    "end": 22.67
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 4,
+    "start": 23.35,
+    "end": 36.259999
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 5,
+    "start": 37.16,
+    "end": 42.169999999999995
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 6,
+    "start": 43.03,
+    "end": 48.48
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 7,
+    "start": 50.07,
+    "end": 59.849999999999994
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 8,
+    "start": 60.93,
+    "end": 67.18
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 9,
+    "start": 68.34,
+    "end": 76.21000000000001
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 10,
+    "start": 76.67,
+    "end": 81.00999999999999
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 11,
+    "start": 82.58,
+    "end": 85.55000000000001
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 12,
+    "start": 85.75,
+    "end": 95.85
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 13,
+    "start": 97.12,
+    "end": 108.43
+  },
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 14,
+    "start": 108.87,
+    "end": 115.17999999999999
+  }
+]

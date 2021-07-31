@@ -1,0 +1,58 @@
+[
+  {
+    "book": "Revelation",
+    "chapter": 15,
+    "verse": 1,
+    "start": 3.2,
+    "end": 11.949999
+  },
+  {
+    "book": "Revelation",
+    "chapter": 15,
+    "verse": 2,
+    "start": 12.809999,
+    "end": 25.32
+  },
+  {
+    "book": "Revelation",
+    "chapter": 15,
+    "verse": 3,
+    "start": 26.04,
+    "end": 39.11
+  },
+  {
+    "book": "Revelation",
+    "chapter": 15,
+    "verse": 4,
+    "start": 39.58,
+    "end": 50.73
+  },
+  {
+    "book": "Revelation",
+    "chapter": 15,
+    "verse": 5,
+    "start": 51.94,
+    "end": 57.550000000000004
+  },
+  {
+    "book": "Revelation",
+    "chapter": 15,
+    "verse": 6,
+    "start": 58.0,
+    "end": 66.719999
+  },
+  {
+    "book": "Revelation",
+    "chapter": 15,
+    "verse": 7,
+    "start": 67.429999,
+    "end": 75.24000000000001
+  },
+  {
+    "book": "Revelation",
+    "chapter": 15,
+    "verse": 8,
+    "start": 75.99,
+    "end": 87.249999
+  }
+]

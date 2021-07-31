@@ -1,0 +1,233 @@
+[
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 1,
+    "start": 2.28,
+    "end": 4.390000000000001
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 2,
+    "start": 4.62,
+    "end": 14.43
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 3,
+    "start": 14.86,
+    "end": 18.9
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 4,
+    "start": 19.48,
+    "end": 27.27
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 5,
+    "start": 27.639999,
+    "end": 35.330000999999996
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 6,
+    "start": 36.379999,
+    "end": 48.38
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 7,
+    "start": 49.299999,
+    "end": 59.16
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 8,
+    "start": 60.019999999999996,
+    "end": 73.14999999999999
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 9,
+    "start": 73.96,
+    "end": 81.92999999999999
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 10,
+    "start": 82.969999,
+    "end": 94.60000000000001
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 11,
+    "start": 95.46,
+    "end": 108.9
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 12,
+    "start": 110.3,
+    "end": 129.22000000000003
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 13,
+    "start": 130.46,
+    "end": 143.67000000000002
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 14,
+    "start": 144.6,
+    "end": 151.83
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 15,
+    "start": 152.179999,
+    "end": 160.62
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 16,
+    "start": 161.17000000000002,
+    "end": 168.06
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 17,
+    "start": 169.49,
+    "end": 177.9
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 18,
+    "start": 178.779999,
+    "end": 182.88000000000002
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 19,
+    "start": 183.23,
+    "end": 187.23000000000002
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 20,
+    "start": 188.05,
+    "end": 197.42999999999998
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 21,
+    "start": 199.58999999999997,
+    "end": 209.16
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 22,
+    "start": 210.49,
+    "end": 220.55
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 23,
+    "start": 221.45,
+    "end": 223.21
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 24,
+    "start": 223.25,
+    "end": 234.13
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 25,
+    "start": 234.859999,
+    "end": 244.73000000000002
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 26,
+    "start": 245.63,
+    "end": 253.67000000000002
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 27,
+    "start": 254.92,
+    "end": 268.639999
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 28,
+    "start": 269.35,
+    "end": 277.94
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 29,
+    "start": 278.78,
+    "end": 285.22999999999996
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 30,
+    "start": 286.46999900000003,
+    "end": 300.16999999999996
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 31,
+    "start": 301.03,
+    "end": 313.28000000000003
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 32,
+    "start": 314.21,
+    "end": 326.2
+  },
+  {
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verse": 33,
+    "start": 327.27,
+    "end": 334.569999
+  }
+]
